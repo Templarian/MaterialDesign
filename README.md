@@ -1,4 +1,4 @@
-# MaterialDesign
+# Material Design
 
 This repo contains helpful design resources for Google's Material Design.
 
