@@ -2,7 +2,11 @@
 
 This repo contains helpful design resources for Google's Material Design.
 
+## Icons
+
 ![Icons](http://templarian.com/files/material-design-icons-preview.png)
+
+Above is just a subset, there are many more icons included
 
 ## Expression Design (.design) and SVG
 
