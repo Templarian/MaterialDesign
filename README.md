@@ -6,7 +6,7 @@ This repo contains helpful design resources for Google's Material Design.
 
 ## Expression Design (.design) and SVG
 
-[Expression Design](http://www.microsoft.com/en-us/download/details.aspx?id=36180) is a free software for designing rastered or vector assets.
+[Expression Design](http://www.microsoft.com/en-us/download/details.aspx?id=36180) is a free software for designing vector assets.
 
 For those designing outside of Expression Design please use the SVG assets.
 
