@@ -18,4 +18,6 @@ For those designing outside of Expression Design please use the SVG assets.
 
 # License
 
-None. Do anything you want with these resources.
+MIT License
+
+2014 Modern UI Icons
