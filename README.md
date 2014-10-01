@@ -20,4 +20,4 @@ For those designing outside of Expression Design please use the SVG assets.
 
 MIT License
 
-2014 Modern UI Icons
+2014 Material Design Icons
