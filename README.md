@@ -10,11 +10,11 @@ View at [Material Design Icons](http://materialdesignicons.com/).
 
 Above is just a subset, there are many more icons included
 
-## Icon Suggestions
+### Icon Suggestions
 
 Submit icon suggestions through the issue tab.
 
-## Expression Design (.design) and SVG
+### Expression Design (.design) and SVG
 
 [Expression Design](http://www.microsoft.com/en-us/download/details.aspx?id=36180) is a free software for designing vector assets.
 
