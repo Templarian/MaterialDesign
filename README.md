@@ -22,6 +22,6 @@ For those designing outside of Expression Design please use the SVG assets.
 
 # License
 
-MIT License
+Templates - Free
 
-2014 Material Design Icons
+Icons - SIL Open Font License 1.1
