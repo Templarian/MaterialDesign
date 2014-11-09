@@ -4,7 +4,7 @@ This repo contains helpful design resources for Google's Material Design.
 
 ## Icons
 
-View at [Material Design Icons](http://materialdesignicons.com/).
+View at [Material Design Icons](http://materialdesignicons.com/). This repo also contains converted icons from [Google's official icon set](https://github.com/google/material-design-icons).
 
 ![Icons](http://templarian.com/files/material-design-icons-preview.png)
 
