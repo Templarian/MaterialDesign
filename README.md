@@ -24,4 +24,5 @@ For those designing outside of Expression Design please use the SVG assets.
 
 Templates - Free
 
-Icons - SIL Open Font License 1.1
+Community Icons - SIL Open Font License 1.1
+Google Material Design Icons - [Attribution-ShareAlike 4.0 International](https://github.com/google/material-design-icons/blob/master/LICENSE)
