@@ -35,6 +35,8 @@ The web font is not the only way to use the icons. They can also be included inl
 </svg>
 ```
 
+SVGs like the web font can be overlayed and combined.
+
 ```html Overlay Example
 <svg style="width:24px;height:24px" viewBox="0 0 24 24">
     <path fill="#000000" d="M ... Z" />
