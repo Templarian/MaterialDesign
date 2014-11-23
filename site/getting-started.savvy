@@ -21,7 +21,7 @@ For those targetting the web your best option is to use the Web Font.
 
 ## Inline SVG
 
-The web font is not the only way to use the icons. They can also be included inline with the `svg` tag. Right click any icon on the site and click the `View SVG` item in the context menu for example code.
+The web font is not the only way to use the icons. They can also be included inline with the `svg` tag. Right click any icon on the site and click the 'View SVG' item in the context menu for example code.
 
 ```html SVG Inline Exmaple
 <svg style="width:24px;height:24px" viewBox="0 0 24 24">
