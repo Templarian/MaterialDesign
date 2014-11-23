@@ -17,7 +17,7 @@ There are many different ways you can consume the Material Design Icons in your 
 
 ## Web Font (coming soon)
 
-For those targetting the web your best option is to use the Web Font. Place all the font files provided in the same directory as the `MaterialDesignIcons.css`.
+For those targetting the web your best option is to use the web font. Place all the font files provided in the same directory as the `MaterialDesignIcons.css`.
 
 ```html Reference the CSS
 <link href="styles/MaterialDesignIcons.css" media="all" rel="stylesheet" type="text/css" />
@@ -51,6 +51,15 @@ SVGs like the web font can be overlayed and combined.
 ```
 
 @previewOverlay()
+
+SVGs can also be styled with CSS similar to HTML elements and assigned classes.
+
+```css Examples
+svg.example:hover path {
+    fill: #900;
+    fill-opacity: 0.5;
+}
+```
 
 ## WPF / Windows / Windows Phone
 
