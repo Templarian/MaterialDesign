@@ -14,7 +14,11 @@ For those targetting the web your best option is to use the Web Font.
 
 ## Inline SVG
 
-Content
+If you only need a few icons or lack the ability to include fonts, you can inline insert icons.
+
+```html SVG Inline Exmaple
+Example here...
+```
 
 ## AngularJS
 
