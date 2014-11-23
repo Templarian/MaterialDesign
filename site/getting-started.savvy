@@ -1,0 +1,25 @@
+@title Getting Started
+
+# @title
+
+There are many different ways you can consume the Material Design Icons in your projects or sites. Below are examples for various platforms.
+
+## Web Font
+
+For those targetting the web your best option is to use the Web Font.
+
+```html Web Font Example
+<i class="mdi mdi-bell"></i>
+```
+
+## Inline SVG
+
+Content
+
+## AngularJS
+
+Content
+
+## Polymer
+
+Content
