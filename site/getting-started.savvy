@@ -17,7 +17,13 @@ There are many different ways you can consume the Material Design Icons in your 
 
 ## Web Font (coming soon)
 
-For those targetting the web your best option is to use the Web Font.
+For those targetting the web your best option is to use the Web Font. Place all the font files provided in the same directory as the `MaterialDesignIcons.css`.
+
+```html Reference the CSS
+<link href="styles/MaterialDesignIcons.css" media="all" rel="stylesheet" type="text/css" />
+```
+
+To use the icons inline use the syntax below.
 
 ```html Web Font Example
 <i class="mdi mdi-bell"></i>
