@@ -20,6 +20,10 @@ If you only need a few icons or lack the ability to include fonts, you can inlin
 Example here...
 ```
 
+## WPF / Windows / Windows Phone
+
+Windows uses the vector XAML format. Right click any icon on the site and click the "View XAML" item in the context menu.
+
 ## AngularJS
 
 Content
