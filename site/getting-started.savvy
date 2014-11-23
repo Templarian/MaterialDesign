@@ -26,7 +26,7 @@ For those targetting the web your best option is to use the web font. Place all 
 To use the icons inline use the syntax below.
 
 ```html Web Font Example
-<i class="mdi mdi-bell"></i>
+<i class="mdi mdi-bell"></i>  <!-- bell -->
 ```
 
 @previewBell()
@@ -37,7 +37,7 @@ The web font is not the only way to use the icons. They can also be included inl
 
 ```html SVG Inline Exmaple
 <svg style="width:24px;height:24px" viewBox="0 0 24 24">
-    <path fill="#000000" d="M ... Z" />
+    <path fill="#000000" d="M ... Z" /> <!-- account -->
 </svg>
 ```
 
@@ -45,8 +45,8 @@ SVGs like the web font can be overlayed and combined.
 
 ```html Overlay Example
 <svg style="width:24px;height:24px" viewBox="0 0 24 24">
-    <path fill="#000000" d="M ... Z" />
-    <path fill="#990000" d="M ... Z" /> <!-- Overlay -->
+    <path fill="#000000" d="M ... Z" /> <!-- account -->
+    <path fill="#990000" d="M ... Z" /> <!-- block-helper -->
 </svg>
 ```
 
