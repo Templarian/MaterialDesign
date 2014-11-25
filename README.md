@@ -6,9 +6,13 @@ This repo contains helpful design resources for Google's Material Design.
 
 View at [Material Design Icons](http://materialdesignicons.com/). This repo also contains converted icons from [Google's official icon set](https://github.com/google/material-design-icons).
 
-![Icons](http://templarian.com/files/material-design-icons-preview.png)
+[![Icons](http://templarian.com/files/material-design-icons-preview.png)](http://materialdesignicons.com/)
 
 **Note:** _SVG icons are not compressed in GitHub. Please use the icons from [Material Design Icons](http://materialdesignicons.com/) if you need inline SVG._
+
+## Contribute
+
+Please do not make pull requests against this repositiory. All icons are managed through the Material Design Icons site by the various contributors. If you want to become a contributor [read more](http://materialdesignicons.com/contribute).
 
 ### Icon Suggestions
 
