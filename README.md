@@ -8,7 +8,7 @@ View at [Material Design Icons](http://materialdesignicons.com/). This repo also
 
 ![Icons](http://templarian.com/files/material-design-icons-preview.png)
 
-**Note:** SVG icons are not compressed in GitHub. Please use icons from [Material Design Icons](http://materialdesignicons.com/) if you need inline SVG.
+**Note:** _SVG icons are not compressed in GitHub. Please use the icons from [Material Design Icons](http://materialdesignicons.com/) if you need inline SVG._
 
 ### Icon Suggestions
 
