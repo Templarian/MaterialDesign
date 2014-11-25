@@ -17,13 +17,13 @@
 
 # @title (Work in Progress)
 
-@example2(grid-240-box, grid-240-circle) While Google does an excellent job [explaining](http://www.google.com/design/spec/style/icons.html#icons-system-icons) Material Design icons it can be helpful to go into more detail.
+@example2(grid-240-circle, grid-240-box) While Google does an excellent job [explaining](http://www.google.com/design/spec/style/icons.html#icons-system-icons) Material Design icons it can be helpful to go into more detail.
 
 - Grid
 - Proportion
 - Size
 
-@example2(grid-240-box-outline, grid-240-circle-outline) Icons fall into a few unique groups for example `circle`, `box`, `outline`, and `off`. Each has a unique size that is kept consistent. All circle icons for instance are `20dp` while all boxes are `18dp`.
+@example2(grid-240-circle-outline, grid-240-box-outline) Icons fall into a few unique groups for example `circle`, `box`, `outline`, and `off`. Each has a unique size that is kept consistent. All circle icons for instance are `20dp` while all boxes are `18dp`.
 
 @example2(grid-240-account, grid-240-account-box-outline) Some more text here explaining how this applies to icons.
 
