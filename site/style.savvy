@@ -19,6 +19,10 @@
 
 @example(grid-240-lines)A single square 24 pixels in size.
 
+- Grid
+- Proportion
+- Size
+
 @example(grid-240-box-outline)Testing this syntax.
 
 
