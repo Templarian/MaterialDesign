@@ -17,7 +17,7 @@
 
 # @title
 
-@example2(grid-240-lines, grid-240-cicle) While Google does an excellent job [explaining](http://www.google.com/design/spec/style/icons.html#icons-system-icons) Material Design icons it can be helpful to go into more detail.
+@example2(grid-240-box, grid-240-circle) While Google does an excellent job [explaining](http://www.google.com/design/spec/style/icons.html#icons-system-icons) Material Design icons it can be helpful to go into more detail.
 
 - Grid
 - Proportion
