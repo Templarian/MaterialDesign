@@ -1,6 +1,6 @@
 @title Style
 @example(icon){
-  <div style="position:relative;width:240px;height:240px;border:1px solid #CCC;">
+  <div style="position:relative;width:242px;height:242px;border:1px solid #DDD;">
     <img src="/images/grid-240.svg" style="position:absolute;top:0;bottom:0;" />
     <img src="/images/{@icon}.svg" />
   </div>
