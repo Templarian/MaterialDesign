@@ -17,7 +17,8 @@
 
 # @title
 
-@example(grid-240-lines)A single square 24 pixels in size.
+@example(grid-240-lines)
+While Google does an excelent job [explaining](http://www.google.com/design/spec/style/icons.html#icons-system-icons) Material Design icons it can be helpful to go into more detail.
 
 - Grid
 - Proportion
