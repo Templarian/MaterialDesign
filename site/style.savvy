@@ -2,11 +2,11 @@
 @example2(icon1, icon2){
   <div style="clear:both">
     <div style="position:relative;width:242px;height:242px;border:1px solid #DDD;float:right;margin:0 0 20px 20px;">
-      <img src="/images/{@icon1}.svg" style="position:absolute;top:0;bottom:0;" />
+      <img src="/images/{@icon2}.svg" style="position:absolute;top:0;bottom:0;" />
       <img src="/images/grid-240.svg" />
     </div>
     <div style="position:relative;width:242px;height:242px;border:1px solid #DDD;float:right;margin:0 0 20px 20px;">
-      <img src="/images/{@icon2}.svg" style="position:absolute;top:0;bottom:0;" />
+      <img src="/images/{@icon1}.svg" style="position:absolute;top:0;bottom:0;" />
       <img src="/images/grid-240.svg" />
     </div>
   </div>
