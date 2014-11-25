@@ -1,8 +1,13 @@
 @title Style
+@grid(icon){
+  <div style="position:relative;width:242px;height:242px;border:1px solid #DDD;float:right;">
+    <img src="/images/grid-240.svg" />
+  </div>
+}
 @example(icon){
   <div style="position:relative;width:242px;height:242px;border:1px solid #DDD;float:right;">
-    <img src="/images/{@icon}.svg" />
-    <img src="/images/grid-240.svg" style="position:absolute;top:0;bottom:0;" />
+    <img src="/images/{@icon}.svg" style="position:absolute;top:0;bottom:0;" />
+    <img src="/images/grid-240.svg" />
   </div>
 }
 @clear(){
@@ -11,6 +16,10 @@
 
 # @title
 
-@example(box)A single square 24 pixels in size.
+@grid()A single square 24 pixels in size.
+
+@example(box)Testing this syntax.
+
+
 
 @clear()
