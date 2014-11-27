@@ -27,7 +27,7 @@ Google does an excellent job [explaining](http://www.google.com/design/spec/styl
 - Proportion
 - Size
 
-@example2(grid-240-octagon, grid-240-box)
+@example2(grid-240-octagon, grid-240-off)
 
 @example2(grid-240-circle-outline, grid-240-box-outline) Icons fall into a few unique groups for example `circle`, `box`, `outline`, and `off`. Each has a unique size that is kept consistent. All circle icons for instance are `20dp` while all boxes are `18dp`.
 
