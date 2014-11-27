@@ -17,7 +17,7 @@
 
 # @title (Work in Progress)
 
-Google does an excellent job [explaining](http://www.google.com/design/spec/style/icons.html#icons-system-icons) the correct way to style their icons. This document is aimed to go a little further in that explanation detailing all the subtle ways the Google has made the icons consistent.
+Google does an excellent job [explaining](http://www.google.com/design/spec/style/icons.html#icons-system-icons) the correct way to style icons to fit the Material Design ecosystem. This document is aimed at diving into these core concepts a little further. It also dives into ways to make new icons.
 
 ## Grid, Proportion, and Sizing
 
