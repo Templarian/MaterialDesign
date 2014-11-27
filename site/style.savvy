@@ -17,7 +17,11 @@
 
 # @title (Work in Progress)
 
-@example2(grid-240-circle, grid-240-box) While Google does an excellent job [explaining](http://www.google.com/design/spec/style/icons.html#icons-system-icons) Material Design icons it can be helpful to go into more detail.
+Google does an excellent job [explaining](http://www.google.com/design/spec/style/icons.html#icons-system-icons) the correct  it can be helpful to go into more detail.
+
+## Grid, Proportion, and Sizing
+
+@example2(grid-240-circle, grid-240-box) Geometry goes a long to way to ensure that icons are consistent.
 
 - Grid
 - Proportion
@@ -27,8 +31,12 @@
 
 @example2(grid-240-account, grid-240-account-box-outline) Some more text here explaining how this applies to icons.
 
+## Rounded Corners
+
+Content.
+
 ## Help Edit this on GitHub
 
-Examples will be added if you type in use cases. Just put comments in the description area.
+If you want to help edit this document simply click the edit on GitHub button at the top right. Illustrations will be added next to sections.
 
 @clear()
