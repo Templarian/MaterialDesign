@@ -1,0 +1,3 @@
+[submodule "icons/webfont"]
+	path = icons/webfont
+	url = git://github.com/Templarian/MaterialDesign-Webfont
