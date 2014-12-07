@@ -17,7 +17,7 @@ There are many different ways you can consume the Material Design Icons in your 
 
 ## Web Font
 
-For those targetting the web your best option is to use the web font (if you are bower user simply use `bower install mdi`). Place all the font files provided in the same directory as the `materialdesignicons.css`.
+For those targetting the web your best option is to use the web font (if you are bower user simply use `bower install mdi`). Place all the font files provided in a `/fonts` below the directory of the `materialdesignicons.css`.
 
 ```html Reference the CSS
 <link href="styles/MaterialDesignIcons.css" media="all" rel="stylesheet" type="text/css" />
