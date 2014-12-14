@@ -25,7 +25,7 @@ There are many different ways you can consume the Material Design Icons in your 
 
 ## Web Font @download(Download the Web Font, https://github.com/Templarian/MaterialDesign-Webfont/archive/master.zip)
 
-For those targetting the web your best option is to use the web font (if you are a bower user simply use `bower install mdi`). Place all the font files provided in a `/fonts` below the directory of the `materialdesignicons.css`.
+For those targetting the web your best option is to use the web font (if you are a bower user simply use `bower install mdi`). Place all the font files provided in `/fonts` below `materialdesignicons.css`.
 
 ```html Reference the CSS
 <link href="styles/MaterialDesignIcons.css" media="all" rel="stylesheet" type="text/css" />
