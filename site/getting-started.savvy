@@ -10,12 +10,20 @@
     <path fill="#D74933" d="M12 0C18.6274 0 24 5.37259 24 12C24 18.6274 18.6274 24 12 24C5.37258 24 0 18.6274 0 12C0 5.37259 5.37258 0 12 0ZM12 2C6.47715 2 2 6.47716 2 12C2 14.4013 2.84636 16.6049 4.25705 18.3287L18.3287 4.25706C16.6049 2.84637 14.4013 2 12 2ZM12 22C17.5228 22 22 17.5228 22 12C22 9.59873 21.1536 7.39514 19.7429 5.67127L5.67127 19.7429C7.39514 21.1536 9.59873 22 12 22Z"></path>
   </svg>
 }
+@download(text, url){
+  <button class="btn btn-blue" onclick="window.location = '@url'">
+    <svg>
+      <path d="M 5,3L 19,3L 20.7359,6L 20.7304,6C 20.9018,6.29149 21,6.63428 21,7L 21,19C 21,20.1046 20.1046,21 19,21L 5,21C 3.89543,21 3,20.1046 3,19L 3,7C 3,6.638 3.09618,6.29846 3.26437,6L 3.26135,6L 5,3 Z M 5.57294,4L 5,5L 5,5L 19,5L 18.4303,4L 5.57294,4 Z M 7,12L 12,17L 17,12L 14,12L 14,10L 10,10L 10,12L 7,12 Z "></path>
+    </svg>
+    @text
+  </button>
+}
 
 # @title
 
 There are many different ways you can consume the Material Design Icons in your projects or sites. Below are examples for various platforms.
 
-## Web Font
+## Web Font @download('Download the Web Font', https://github.com/Templarian/MaterialDesign-Webfont/archive/master.zip)
 
 For those targetting the web your best option is to use the web font (if you are bower user simply use `bower install mdi`). Place all the font files provided in a `/fonts` below the directory of the `materialdesignicons.css`.
 
