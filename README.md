@@ -30,4 +30,4 @@ Templates - Free
 
 Community Icons - SIL Open Font License 1.1
 
-Google Material Design Icons - [Attribution-ShareAlike 4.0 International](https://github.com/google/material-design-icons/blob/master/LICENSE)
+Google Material Design Icons - [Attribution 4.0 International](https://github.com/google/material-design-icons/blob/master/LICENSE)
