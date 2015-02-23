@@ -40,11 +40,13 @@ css
 preview.html                              - Preview the font files
 ```
 
+To reference the icons add the line below into the `head` tag.
+
 ```html Reference the CSS
-<link href="styles/materialdesignicons.css" media="all" rel="stylesheet" type="text/css" />
+<link href="css/materialdesignicons.min.css" media="all" rel="stylesheet" type="text/css" />
 ```
 
-To use the icons inline use the syntax below.
+To use the icons inline use the syntax below. Preview these in the `preview.html` provided.
 
 ```html Web Font Example
 <i class="mdi mdi-bell"></i>  <!-- bell -->
