@@ -25,7 +25,7 @@ There are many different ways you can consume the Material Design Icons in your 
 
 ## Web Font @download(Download the Web Font, https://github.com/Templarian/MaterialDesign-Webfont/archive/master.zip)
 
-For those targetting the web your best option is to use the web font (if you are a bower user simply use `bower install mdi`). Files should match the file structure below.
+For those targetting the web your best option is to use the web font (bower `bower install mdi` or npm `npm install mdi`). Files should match the file structure below.
 
 ```text File Structure
 fonts
