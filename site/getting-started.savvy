@@ -103,3 +103,7 @@ Learn more about custom icons in the [polymer documentation](https://www.polymer
 Creating subsets of the font can be done with the [grunt-webfont](https://github.com/sapegin/grunt-webfont) package.
 
 ... explain step by step here...
+
+## License
+
+These fonts and designs are covered by the [SIL Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
