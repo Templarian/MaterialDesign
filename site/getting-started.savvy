@@ -21,7 +21,7 @@
 @boostrapInfo(){
   <div class="boostrap-specific">
     <a href="/boostrap">
-      <span>Boostrap</span>
+      <span>Bootstrap</span>
       <small>Getting Started</small>
     </a>
   </div>
