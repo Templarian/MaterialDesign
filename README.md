@@ -2,6 +2,8 @@
 
 This repo contains helpful design resources for Google's Material Design.
 
+[Getting Started for Boostrap](http://materialdesignicons.com/bootstrap) - [Getting Started for Other Platforms](http://materialdesignicons.com/getting-started)
+
 ## Icons
 
 View at [Material Design Icons](http://materialdesignicons.com/). This repo also contains converted icons from [Google's official icon set](https://github.com/google/material-design-icons).
