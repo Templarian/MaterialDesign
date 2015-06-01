@@ -23,7 +23,7 @@ Please do not make pull requests against this repositiory. All icons are managed
 
 ### Icon Suggestions
 
-Submit icon suggestions through the issue tab.
+Submit icon suggestions through the issue tab. Please include examples.
 
 ### Expression Design (.design) and SVG
 
