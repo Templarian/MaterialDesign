@@ -110,6 +110,10 @@ The `mdi.html` contains all the icons provided on the site. Use inline with the 
 
 Learn more about custom icons in the [polymer documentation](https://www.polymer-project.org/docs/elements/icons.html#roll-your-own)
 
+## Symbols for Adobe Illustrator
+
+[Download Symbols for Adobe Illustrator](https://github.com/danielhickman/MaterialDesign/tree/master/Symbols/Templarian) by Daniel Hickman. This GitHub repo also includes the steps to keep the symbol library updated with the latest.
+
 ## Grunt `grunt-webfont`
 
 Creating subsets of the font can be done with the [grunt-webfont](https://github.com/sapegin/grunt-webfont) package.
