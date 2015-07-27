@@ -92,6 +92,20 @@ svg.example:hover path {
 }
 ```
 
+## SASS
+
+Use the characters in custom SASS use the method below.
+
+```
+@function mdi($name) {
+    @return content: char(nth($hexes, index($names, $name)));
+}
+.custom:before {
+    font: normal normal normal 24px/1 MaterialDesignIcons;
+    mdi('account');
+}
+```
+
 ## Android (Vector Drawable)
 
 Android uses the Vector Drawable format that is similar to SVG. Right click any icon to download or view the vector drawable syntax.
