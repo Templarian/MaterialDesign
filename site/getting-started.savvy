@@ -98,11 +98,11 @@ Use the characters in custom SASS use the method below.
 
 ```
 @function mdi($name) {
-    @return content: char(nth($hexes, index($names, $name)));
+    @return char(nth($hexes, index($names, $name)));
 }
 .custom:before {
     font: normal normal normal 24px/1 MaterialDesignIcons;
-    mdi('account');
+    content: mdi('account');
 }
 ```
 
