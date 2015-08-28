@@ -31,6 +31,10 @@ Submit icon suggestions through the issue tab. Please include examples.
 
 For those designing new icons please use the templates provided as a starting point.
 
+### Donations
+
+This project does not directly take donations. If you would like to support the project and get some more icons at the same time purchase [Material Design Icons Light](https://creativemarket.com/templarian/348441-Material-Design-Icons-Light).
+
 # License
 
 Templates - Free
