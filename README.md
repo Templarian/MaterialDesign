@@ -37,8 +37,8 @@ This project does not directly take donations. If you would like to support the 
 
 # License
 
-Templates - Free
+Templates - [WTFPL](http://www.wtfpl.net/)
 
-Community Icons - SIL Open Font License 1.1
+Community Icons - [SIL Open Font License 1.1](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web)
 
 Google Material Design Icons - [Attribution 4.0 International](https://github.com/google/material-design-icons/blob/master/LICENSE)
