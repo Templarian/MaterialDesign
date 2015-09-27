@@ -114,7 +114,7 @@ Android uses the Vector Drawable format that is similar to SVG. Right click any 
 
 Windows uses the vector XAML format. Right click any icon on the site and click the "View XAML" item in the context menu.
 
-## Polymer @download(Download 'mdi.html', /api/download/polymer/38EF63D0-4744-11E4-B3CF-842B2B6CFE1B)
+## Polymer @download(Download for Polymer v0.5 'mdi.html', /api/download/polymer/38EF63D0-4744-11E4-B3CF-842B2B6CFE1B) @download(Download for Polymer v1.0 'mdi.html', /api/download/polymer/v1/38EF63D0-4744-11E4-B3CF-842B2B6CFE1B)
 
 The `mdi.html` contains all the icons provided on the site. Use inline with the following code.
 
