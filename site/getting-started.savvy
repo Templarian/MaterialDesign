@@ -122,7 +122,7 @@ The `mdi.html` contains all the icons provided on the site. Use inline with the 
 <core-icon icon="mdi:account"></core-icon>
 ```
 
-Learn more about custom icons in the [polymer documentation](https://www.polymer-project.org/docs/elements/icons.html#roll-your-own)
+Learn more about custom icons in the [polymer documentation for v0.5](https://www.polymer-project.org/docs/elements/icons.html#roll-your-own) and for Polymer v1.0 [iron-iconset-svg](https://elements.polymer-project.org/elements/iron-iconset-svg).
 
 ## Symbols for Adobe Illustrator
 
