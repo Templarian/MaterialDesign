@@ -128,7 +128,10 @@ app.config(function($mdIconProvider) {
 Usage:
 
 ```html Example Usage
-<md-icon>android</md-icon>
+<md-icon md-svg-icon="android"></md-icon>
+<md-button aria-label="Android" class="md-icon-button">
+    <md-icon md-svg-icon="android"></md-icon>
+</md-button>
 ```
 
 ## Polymer @download(Download for Polymer v0.5 'mdi.html', /api/download/polymer/38EF63D0-4744-11E4-B3CF-842B2B6CFE1B) @download(Download for Polymer v1.0 'mdi.html', /api/download/polymer/v1/38EF63D0-4744-11E4-B3CF-842B2B6CFE1B)
