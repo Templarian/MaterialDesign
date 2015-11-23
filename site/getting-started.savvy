@@ -125,6 +125,8 @@ app.config(function($mdIconProvider) {
 });
 ```
 
+Usage:
+
 ```html Example Usage
 <md-icon>android</md-icon>
 ```
