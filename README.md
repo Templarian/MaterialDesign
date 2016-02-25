@@ -35,12 +35,16 @@ For those designing new icons please use the templates provided as a starting po
 
 ### Donations
 
-This project does not directly take donations. If you would like to support the project and get some more icons at the same time purchase [Material Design Icons Light](https://creativemarket.com/templarian/348441-Material-Design-Icons-Light).
+This project does not directly take donations. If you would like to support the project and get some more icons at the same time purchase [Material Design Icons Light](https://creativemarket.com/templarian/348441-Material-Design-Icons-Light?u=templarian).
 
-# License
+## License
 
 Templates - [WTFPL](http://www.wtfpl.net/)
 
 Community Icons - [SIL Open Font License 1.1](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web)
 
 Google Material Design Icons - [Attribution 4.0 International](https://github.com/google/material-design-icons/blob/master/LICENSE)
+
+## Code of Conduct
+
+[View and submit violations](https://materialdesignicons.com/code-of-conduct).
