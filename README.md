@@ -4,6 +4,10 @@ This repo contains helpful design resources for Google's Material Design.
 
 [Getting Started for Bootstrap](http://materialdesignicons.com/bootstrap) - [Getting Started for Other Platforms](http://materialdesignicons.com/getting-started)
 
+[![npm](https://img.shields.io/npm/v/mdi.svg)](https://www.npmjs.com/package/mdi) [![npm](https://img.shields.io/bower/v/mdi.svg)](https://www.npmjs.com/package/mdi) [![GitHub issues](https://img.shields.io/github/issues/Templarian/MaterialDesign.svg)](https://github.com/Templarian/MaterialDesign/issues) [![npm](https://img.shields.io/npm/dm/mdi.svg)](https://github.com/Templarian/MaterialDesign-Webfont)
+
+<sub>Download stats above only for NPM</sub>
+
 ## Icons
 
 View at [Material Design Icons](http://materialdesignicons.com/). This repo also contains converted icons from [Google's official icon set](https://github.com/google/material-design-icons).
