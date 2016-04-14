@@ -19,7 +19,7 @@ npm install mdi
 
 [![Icons](http://templarian.com/files/material-design-icons-preview.png)](http://materialdesignicons.com/)
 
-**Note:** _SVG icons are not compressed in GitHub. Please use the icons from [Material Design Icons](http://materialdesignicons.com/) if you need inline SVG._
+**Note:** _SVG icons are not compressed in GitHub. Please use the icons from [Material Design Icons - Design](http://materialdesignicons.com/design) if you need inline SVG._
 
 **Warning (Cordova only):** _You will need to manually edit the css file to remove the version query string. [Read More](https://github.com/Templarian/MaterialDesign/issues/760)._
 
