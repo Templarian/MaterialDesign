@@ -101,7 +101,7 @@ Use the characters in custom SASS use the method below.
     @return char(nth($hexes, index($names, $name)));
 }
 .custom:before {
-    font: normal normal normal 24px/1 MaterialDesignIcons;
+    font: normal normal normal 24px/1 "Material Design Icons";
     content: mdi('account');
 }
 ```
