@@ -33,7 +33,7 @@ Submit icon suggestions through the issue tab. Please include examples.
 
 ### Expression Design (.design) and SVG
 
-[Expression Design](http://www.microsoft.com/en-us/download/details.aspx?id=36180) is a free software for designing vector assets. All icons are also provided in SVG which can be opened by most vector editors.
+[Expression Design](http://www.microsoft.com/en-us/download/details.aspx?id=36180) is a freeware software for designing vector assets. All icons are also provided in SVG which can be opened by most vector editors.
 
 For those designing new icons please use the templates provided as a starting point.
 
