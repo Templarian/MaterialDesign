@@ -86,7 +86,7 @@ The classes `.mdi-18px`, `.mdi-24px`, `.mdi-36px`, and `.mdi-48px` can be added 
 #### Color
 Use either `.mdi-light` or `.mdi-dark` to set the color of the icon to the default material values. You can also add `.mdi-inactive` to an element with those classes to use the inactive color variant.
 
-```html Size Example
+```html Color Example
 <a class="mdi mdi-home mdi-light" href="/">Home</a> 
 <a class="mdi mdi-home mdi-dark" href="/">Home</a> 
 <a class="mdi mdi-home mdi-light mdi-inactive" href="/">Home</a> 
