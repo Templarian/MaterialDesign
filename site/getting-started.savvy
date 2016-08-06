@@ -54,13 +54,73 @@ To reference the icons add the line below into the `head` tag.
 <link href="css/materialdesignicons.min.css" media="all" rel="stylesheet" type="text/css" />
 ```
 
-To use the icons inline use the syntax below. Preview these in the `preview.html` provided.
+To use the icons inline you can use the syntax below.
 
 ```html Webfont Example
 <i class="mdi mdi-bell"></i>  <!-- bell -->
 ```
 
 @previewBell()
+
+From version 1.6.80+, the `mdi` class will no longer alter styles of the element it is applied to and will only alter the styles of the `:before` pseudo element where the icon is inserted. This means it is now possible to apply icons directly to elements without key styles such as `font-family` being overridden. As you no longer need to use an aditional element (such as `i`), your HTML can be more  semantically correct.
+
+```html Semantic Icon Example
+<a class="mdi mdi-home" href="/">Home</a>
+```
+
+This change should not affect any existing icons other than rare cases where the `mdi` class is inherited by the icon element from a parent. If you are having issues please refer to the Iconsets webfont feature below which explains this in more detail and shows how it can be fixed. If this does not solve the problem feel free to open a new [issue](https://github.com/Templarian/MaterialDesign/issues) on github with the title 'Broken Icons After Update' outlining the code which no longer works.
+
+###Webfont features
+
+The webfont provides several additional helper classes which can be used to quickly display icons in a certain way.
+
+####Font Size
+
+The classes `.mdi-18px`, `.mdi-24px`, `.mdi-36px`, and `.mdi-48px` can be added to easily change the size of the icon to the most optimal sizes.
+
+```html Size Example
+<a class="mdi mdi-home mdi-24px" href="/">Home</a> <!-- Sets the home icon to be 24x24px -->
+<a class="mdi mdi-home mdi-36px" href="/">Home</a> <!-- Sets the home icon to be 36x36px -->
+```
+
+####Color
+Use either `.mdi-light` or `.mdi-dark` to set the color of the icon to the default material values. You can also add `.mdi-inactive` to an element with those classes to use the inactive color variant.
+
+```html Size Example
+<a class="mdi mdi-home mdi-light" href="/">Home</a> 
+<a class="mdi mdi-home mdi-dark" href="/">Home</a> 
+<a class="mdi mdi-home mdi-light mdi-inactive" href="/">Home</a> 
+<a class="mdi mdi-home mdi-dark mdi-inactive" href="/">Home</a> 
+```
+
+####Flip
+Icons can be flipped horizontally and/or vertically using the classes `.mdi-flip-horizontal` and `.mdi-flip-vertical`.
+
+```html Flip Example
+<a class="mdi mdi-home mdi-flip-horizontal" href="/">Home</a> 
+<a class="mdi mdi-home mdi-flip-vertical" href="/">Home</a> 
+```
+
+####Rotate
+Icons can be rotated by 45 degree increments using the syntax `.mdi-rotate-[angle]` where angle is one of the following values: 45, 90, 135, 180, 225, 270, or 315.
+
+```html Rotate Example
+<a class="mdi mdi-home mdi-rotate-45" href="/">Home</a> 
+<a class="mdi mdi-home mdi-rotate-180" href="/">Home</a> 
+```
+
+####Iconsets (v1.6.80+)
+As of version 1.6.80+, the `mdi` class can no longer be applied once to a parent element so that all child elements inherit the `mdi` styles needed to render icons (set the font to use the mdi iconfont etc). To remedy this, we have added a new class `.mdi-set`. This simply allows you to do something like the following example without specifying the `mdi` class on every icon.
+
+```html Iconset Example
+<div class="mdi-set">
+  <i class="mdi-star"></i>
+  <i class="mdi-star"></i>
+  <i class="mdi-star"></i>
+  <i class="mdi-star"></i>
+  <i class="mdi-star"></i>
+</div>
+```
 
 ## Inline SVG
 
