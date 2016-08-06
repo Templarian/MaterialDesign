@@ -70,11 +70,11 @@ From version 1.6.80+, the `mdi` class will no longer alter styles of the element
 
 This change should not affect any existing icons other than rare cases where the `mdi` class is inherited by the icon element from a parent. If you are having issues please refer to the Iconsets webfont feature below which explains this in more detail and shows how it can be fixed. If this does not solve the problem feel free to open a new [issue](https://github.com/Templarian/MaterialDesign/issues) on github with the title 'Broken Icons After Update' outlining the code which no longer works.
 
-###Webfont features
+### Webfont features
 
 The webfont provides several additional helper classes which can be used to quickly display icons in a certain way.
 
-####Font Size
+#### Font Size
 
 The classes `.mdi-18px`, `.mdi-24px`, `.mdi-36px`, and `.mdi-48px` can be added to easily change the size of the icon to the most optimal sizes.
 
@@ -83,7 +83,7 @@ The classes `.mdi-18px`, `.mdi-24px`, `.mdi-36px`, and `.mdi-48px` can be added 
 <a class="mdi mdi-home mdi-36px" href="/">Home</a> <!-- Sets the home icon to be 36x36px -->
 ```
 
-####Color
+#### Color
 Use either `.mdi-light` or `.mdi-dark` to set the color of the icon to the default material values. You can also add `.mdi-inactive` to an element with those classes to use the inactive color variant.
 
 ```html Size Example
@@ -93,7 +93,7 @@ Use either `.mdi-light` or `.mdi-dark` to set the color of the icon to the defau
 <a class="mdi mdi-home mdi-dark mdi-inactive" href="/">Home</a> 
 ```
 
-####Flip
+#### Flip
 Icons can be flipped horizontally and/or vertically using the classes `.mdi-flip-horizontal` and `.mdi-flip-vertical`.
 
 ```html Flip Example
@@ -101,7 +101,7 @@ Icons can be flipped horizontally and/or vertically using the classes `.mdi-flip
 <a class="mdi mdi-home mdi-flip-vertical" href="/">Home</a> 
 ```
 
-####Rotate
+#### Rotate
 Icons can be rotated by 45 degree increments using the syntax `.mdi-rotate-[angle]` where angle is one of the following values: 45, 90, 135, 180, 225, 270, or 315.
 
 ```html Rotate Example
@@ -109,7 +109,7 @@ Icons can be rotated by 45 degree increments using the syntax `.mdi-rotate-[angl
 <a class="mdi mdi-home mdi-rotate-180" href="/">Home</a> 
 ```
 
-####Iconsets (v1.6.80+)
+#### Iconsets (v1.6.80+)
 As of version 1.6.80+, the `mdi` class can no longer be applied once to a parent element so that all child elements inherit the `mdi` styles needed to render icons (set the font to use the mdi iconfont etc). To remedy this, we have added a new class `.mdi-set`. This simply allows you to do something like the following example without specifying the `mdi` class on every icon.
 
 ```html Iconset Example
