@@ -17,7 +17,7 @@ bower install mdi
 npm install mdi
 ```
 
-[![Icons](http://templarian.com/files/material-design-icons-preview.png)](http://materialdesignicons.com/)
+[![Icons](http://i.imgur.com/zKuXEkR.png)](https://materialdesignicons.com/)
 
 **Note:** _SVG icons are not compressed in GitHub. Please use the icons from [Material Design Icons - Design](http://materialdesignicons.com/design) if you need inline SVG._
 
