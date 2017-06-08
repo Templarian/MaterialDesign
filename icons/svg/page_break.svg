@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="40px" viewBox="0 0 32 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Page Break</title>
+    <desc>Page break, created by Robert</desc>
+    <defs></defs>
+    <g id="Transcriber" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0.008125,23 L0.02,4 C0.02,1.79 1.79,0 4,0 L20,0 L32,12 L32,23 L0.008125,23 Z M0.006875,25 L0,36 C0,38.209999 1.77,40 3.98,40 L28,40 C30.21,40 32,38.209999 32,36 L32,25 L0.006875,25 Z M16,29 L13,27 L19,27 L16,29 Z M16,19 L19,21 L13,21 L16,19 Z M18,14 L18,3 L29,14 L18,14 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>
