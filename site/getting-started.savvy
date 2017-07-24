@@ -194,10 +194,6 @@ Usage:
 </md-button>
 ```
 
-## React with Material-UI
-
-If you use React with the [Material-UI](http://www.material-ui.com/) component library, you can use a [third-party package](https://github.com/TeamWertarbyte/mdi-material-ui) that provides `SvgIcon` wrappers for every icon.
-
 ## Polymer @download(Download for Polymer v0.5 'mdi.html', /api/download/polymer/38EF63D0-4744-11E4-B3CF-842B2B6CFE1B) @download(Download for Polymer v1.0 'mdi.html', /api/download/polymer/v1/38EF63D0-4744-11E4-B3CF-842B2B6CFE1B)
 
 The `mdi.html` contains all the icons provided on the site. Use inline with the following code.
@@ -207,6 +203,10 @@ The `mdi.html` contains all the icons provided on the site. Use inline with the 
 ```
 
 Learn more about custom icons in the [polymer documentation for v0.5](https://www.polymer-project.org/docs/elements/icons.html#roll-your-own) and for Polymer v1.0 [iron-iconset-svg](https://elements.polymer-project.org/elements/iron-iconset-svg).
+
+## React with Material-UI
+
+If you use React with the [Material-UI](http://www.material-ui.com/) component library, you can use a [third-party package](https://github.com/TeamWertarbyte/mdi-material-ui) that provides `SvgIcon` wrappers for every icon.
 
 ## Cordova
 
