@@ -1,4 +1,4 @@
-# How to Contribute
+# How to Contribute Icons
 
 This project does not take pull requests as all icon designs go through community approval and design changes before being added.
 
