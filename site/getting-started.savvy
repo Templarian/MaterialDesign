@@ -210,7 +210,7 @@ If you use React with the [Material-UI](http://www.material-ui.com/) component l
 
 ## Vue
 
-If you are using [Vue.js](https://vuejs.org/ "Vue homepage"), you can find a collection of the SVG icons as single file components packaged as [vue-material-design-icons](https://www.npmjs.com/package/vue-material-design-icons "vue-material-design-icons on NPM").
+If you are using [Vue.js](https://vuejs.org/), you can find a collection of the SVG icons as single file components packaged as [vue-material-design-icons](https://www.npmjs.com/package/vue-material-design-icons).
 
 ## Cordova
 
