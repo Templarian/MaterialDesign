@@ -204,6 +204,10 @@ The `mdi.html` contains all the icons provided on the site. Use inline with the 
 
 Learn more about custom icons in the [polymer documentation for v0.5](https://www.polymer-project.org/docs/elements/icons.html#roll-your-own) and for Polymer v1.0 [iron-iconset-svg](https://elements.polymer-project.org/elements/iron-iconset-svg).
 
+## React
+
+If you are using [React](https://https://facebook.github.io/react/), you can find all SVG icons packaged as single React components in [mdi-react](https://github.com/levrik/mdi-react).
+
 ## React with Material-UI
 
 If you use React with the [Material-UI](http://www.material-ui.com/) component library, you can use a [third-party package](https://github.com/TeamWertarbyte/mdi-material-ui) that provides `SvgIcon` wrappers for every icon.
