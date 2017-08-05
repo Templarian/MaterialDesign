@@ -206,7 +206,7 @@ Learn more about custom icons in the [polymer documentation for v0.5](https://ww
 
 ## React
 
-If you are using [React](https://https://facebook.github.io/react/), you can find all SVG icons packaged as single React components in [mdi-react](https://github.com/levrik/mdi-react).
+If you are using [React](https://facebook.github.io/react/), you can find all SVG icons packaged as single React components in [mdi-react](https://github.com/levrik/mdi-react).
 
 ## React with Material-UI
 
