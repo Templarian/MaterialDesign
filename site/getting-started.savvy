@@ -216,6 +216,7 @@ Also add the following to your CSS:
 ```
 
 Usage:
+
 ```html Example Usage
 <md-icon svgIcon="android"></md-icon>
 ```
