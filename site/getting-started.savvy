@@ -174,26 +174,36 @@ Android uses the Vector Drawable format that is similar to SVG. Right click any 
 
 Windows uses the vector XAML format. Right click any icon on the site and click the "View XAML" item in the context menu.
 
-## Angular 2 @download(Download for Angular Material v1 'mdi.svg', /api/download/angularmaterial/38EF63D0-4744-11E4-B3CF-842B2B6CFE1B)
+## Angular 2.x/4.x @download(Download for Angular Material v2 'mdi.svg', /api/download/angularmaterial/38EF63D0-4744-11E4-B3CF-842B2B6CFE1B)
 
-The `mdi.svg` contains all the icons provided on the site. Use inline with [$mdIconProvider](https://material.angularjs.org/latest/api/service/$mdIconProvider).
+The `mdi.svg` contains all the icons provided on the site. Use inline with [MdIconRegistry](https://material.angular.io/components/icon/api).
+Place the SVG file under your `assets` folder. Please ensure that this file is publicly accessible.
+In your app's module file (typically `app.module.ts`), add the following lines:
 
-In your `app.module.ts`, add the following lines:
-
-```typescript app.module.ts
-import {MdIconRegistry} from '@angular/material';
-import {DomSanitizer} from '@angular/platform-browser';
+```typescript App module
+import { NgModule } from '@angular/core';
+import { MdIconRegistry, MdIconModule } from '@angular/material';
+import { DomSanitizer } from '@angular/platform-browser';
 ...
+@NgModule([
+    imports: [
+        BrowserModule,
+        BrowserAnimationsModule,
+        // Your other modules
+        // Take note that you have to import MdIconModule into your app
+        MdIconModule
+    ]
+])
 export class AppModule {
-    constructor(private mdIconRegistry: MdIconRegistry, private domSanitizer: DomSanitizer){
-        mdIconRegistry.addSvgIconSet(domSanitizer.bypassSecurityTrustResourceUrl('app/assets/mdi.svg'));
+    constructor(mdIconRegistry: MdIconRegistry, domSanitizer: DomSanitizer){
+        mdIconRegistry.addSvgIconSet(domSanitizer.bypassSecurityTrustResourceUrl('./src/assets/mdi.svg')); // Or whatever path you placed mdi.svg at
     }
 }
 ```
 
-Make sure to include assets folder under `.angular-cli.json` in assets (Although by default, it will be there):
+If you're using Angular CLI, make sure to include `assets` folder under `.angular-cli.json` in `assets` array (Although by default, the angular CLI will autofill it in):
 
-```json .angular-cli.json
+```json Angular CLI file
 {
      "apps": [
          {
@@ -205,27 +215,30 @@ Make sure to include assets folder under `.angular-cli.json` in assets (Although
      ]
 }
 ```
-
-Also add the following to your CSS:
-
-```css styles.css
-.mat-icon svg {
-    height: 24px;
-    width: 24px;
-}
-```
-
 Usage:
 
 ```html Example Usage
 <md-icon svgIcon="android"></md-icon>
+<button md-icon-button>
+    <md-icon svgIcon="android"></md-icon>
+</button>
+<!-- You can also combine an icon and text together -->
+<button md-button>
+    <md-icon svgIcon="code-tags"></md-icon>
+    View source
+</button>
 ```
 
-## Angular JS @download(Download for Angular Material v1 'mdi.svg', /api/download/angularmaterial/38EF63D0-4744-11E4-B3CF-842B2B6CFE1B)
+[Demo](http://plnkr.co/edit/Qtn1XeKPUdQtY5hntFIF?p=preview)
+
+For more information on icons, refer [here](https://material.angular.io/components/icon/overview).
+
+## Angular JS @download(Download for AngularJS Material 'mdi.svg', /api/download/angularmaterial/38EF63D0-4744-11E4-B3CF-842B2B6CFE1B)
 
 The `mdi.svg` contains all the icons provided on the site. Use inline with [$mdIconProvider](https://material.angularjs.org/latest/api/service/$mdIconProvider).
 
-```javascript Configure
+```javascript Configuration
+var app = angular.module('myApp', ['ngMaterial']);
 app.config(function($mdIconProvider) {
   $mdIconProvider
     .defaultIconSet('my/app/mdi.svg')
