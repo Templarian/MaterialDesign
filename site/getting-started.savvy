@@ -94,11 +94,11 @@ Use either `.mdi-light` or `.mdi-dark` to set the color of the icon to the defau
 ```
 
 #### Flip
-Icons can be flipped horizontally and/or vertically using the classes `.mdi-flip-horizontal` and `.mdi-flip-vertical`.
+Icons can be flipped horizontally and/or vertically using the classes `.mdi-flip-h` and `.mdi-flip-v`.
 
 ```html Flip Example
-<a class="mdi mdi-home mdi-flip-horizontal" href="/">Home</a> 
-<a class="mdi mdi-home mdi-flip-vertical" href="/">Home</a> 
+<a class="mdi mdi-home mdi-flip-h" href="/">Home</a> 
+<a class="mdi mdi-home mdi-flip-v" href="/">Home</a> 
 ```
 
 #### Rotate
