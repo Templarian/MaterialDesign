@@ -19,7 +19,7 @@ bower install mdi
 
 [![Icons](http://i.imgur.com/zKuXEkR.png)](https://materialdesignicons.com/)
 
-**Note:** _SVG icons are not compressed in GitHub. Please use the icons from [Material Design Icons - Design](http://materialdesignicons.com/design) if you need inline SVG._ or [Templarian/MaterialDesign-SVG](https://github.com/templarian/materialdesign-svg)
+**Note:** _SVG icons are not compressed in GitHub. Please use the icons from [Material Design Icons - Design](http://materialdesignicons.com/design) or [Templarian/MaterialDesign-SVG](https://github.com/templarian/materialdesign-svg) if you need inline SVG._
 
 **Warning (Cordova only):** _You will need to manually edit the css file to remove the version query string. [Read More](https://github.com/Templarian/MaterialDesign/issues/760)._
 
