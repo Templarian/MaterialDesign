@@ -188,22 +188,27 @@ import { NgModule } from '@angular/core';
 import { MatIconRegistry, MatIconModule } from '@angular/material';
 import { DomSanitizer } from '@angular/platform-browser';
 import { HttpModule } from '@angular/http';
+/*
+From the latest master, HttpClientModule is required instead
+import { HttpClientModule } from '@angular/common/http';
+*/
 
 ...
-@NgModule([
-    imports: [
-        BrowserModule,
-        BrowserAnimationsModule,
-        HttpModule,
-        // Your other modules
-        // Take note that you have to import MatIconModule into your app
-        MatIconModule
-    ]
-])
+@NgModule({
+  imports: [
+    BrowserModule,
+    BrowserAnimationsModule,
+    HttpModule,
+    // From the latest master, HttpClientModule is required instead
+    // Your other modules
+    // Take note that you have to import MatIconModule into your app
+    MatIconModule
+  ]
+})
 export class AppModule {
-    constructor(matIconRegistry: MatIconRegistry, domSanitizer: DomSanitizer){
-        matIconRegistry.addSvgIconSet(domSanitizer.bypassSecurityTrustResourceUrl('./assets/mdi.svg')); // Or whatever path you placed mdi.svg at
-    }
+  constructor(matIconRegistry: MatIconRegistry, domSanitizer: DomSanitizer){
+    matIconRegistry.addSvgIconSet(domSanitizer.bypassSecurityTrustResourceUrl('./assets/mdi.svg')); // Or whatever path you placed mdi.svg at
+  }
 }
 ```
 
@@ -211,14 +216,13 @@ If you're using Angular CLI, make sure to include `assets` folder under `.angula
 
 ```json Angular CLI file
 {
-     "apps": [
-         {
-              ...
-              "assets": [
-                  "assets"
-              ]
-         }
-     ]
+   "apps": [
+     {
+       "assets": [
+         "assets"
+       ]
+     }
+   ]
 }
 ```
 Usage:
@@ -228,13 +232,24 @@ Usage:
 <mat-icon svgIcon="android"></mat-icon>
 <!-- Icon button -->
 <button mat-icon-button>
-    <mat-icon svgIcon="android"></mat-icon>
+  <mat-icon svgIcon="android"></mat-icon>
 </button>
 <!-- You can also combine an icon and text together -->
 <button mat-button>
-    <mat-icon svgIcon="code-tags"></mat-icon>
-    View source
+  <mat-icon svgIcon="code-tags"></mat-icon>
+  View source
 </button>
+```
+
+Please also add the following class to your styles (`styles.css`) to solve the problem where an icon isn't aligned properly when used in a menu item:
+
+```css styles.css
+button.mat-menu-item {
+  line-height: 24px !important;
+}
+a.mat-menu-item > mat-icon {
+  margin-bottom: 14px;
+}
 ```
 
 [Demo](https://stackblitz.com/edit/mdi-material-example)
@@ -258,7 +273,7 @@ Usage:
 ```html Example Usage
 <md-icon md-svg-icon="android"></md-icon>
 <md-button aria-label="Android" class="md-icon-button">
-    <md-icon md-svg-icon="android"></md-icon>
+  <md-icon md-svg-icon="android"></md-icon>
 </md-button>
 ```
 
