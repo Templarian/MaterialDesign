@@ -250,6 +250,10 @@ button.mat-menu-item {
 a.mat-menu-item > mat-icon {
   margin-bottom: 14px;
 }
+.mat-icon svg {
+  height: 24px;
+  width: 24px;
+}
 ```
 
 [Demo](https://stackblitz.com/edit/mdi-material-example)
