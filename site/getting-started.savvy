@@ -33,7 +33,7 @@
 
 ## Webfont @download(Download the Webfont, https://github.com/Templarian/MaterialDesign-Webfont/archive/master.zip)
 
-For those targetting the web your best option is to use the webfont (bower `bower install mdi` or npm `npm install mdi`). Files should match the file structure below.
+For those targeting the web your best option is to use the webfont (bower `bower install mdi` or npm `npm install mdi`). Files should match the file structure below.
 
 ```text File Structure
 fonts
@@ -126,7 +126,7 @@ As of version 1.6.80+, the `mdi` class can no longer be applied once to a parent
 
 The webfont is not the only way to use the icons. They can also be included inline with the `svg` tag. Right click any icon on the site and click the 'View SVG' item in the context menu for example code.
 
-```html SVG Inline Exmaple
+```html SVG Inline Example
 <svg style="width:24px;height:24px" viewBox="0 0 24 24">
     <path fill="#000000" d="M ... Z" /> <!-- account -->
 </svg>
