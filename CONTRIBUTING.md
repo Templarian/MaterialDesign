@@ -45,4 +45,4 @@ Follow the same guidelines as submitting an icon request from above ('Icon Reque
 
 ## A Note on Brand Icons
 
-Please know that social media icons or largely used products are the only brand icons we allow. Thanks for understanding.
+Please note that, at this time, the only brand icons we accept requests for are popular social media sites/apps and widely used products/software. Thanks for understanding.
