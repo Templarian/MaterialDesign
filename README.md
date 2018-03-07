@@ -12,7 +12,7 @@ This repo contains all the planning for current and work-in-progress Material De
 
 View at [Material Design Icons](http://materialdesignicons.com/). This repo also contains converted icons from [Google's official icon set](https://github.com/google/material-design-icons).
 
-| Webfont / SCSS  | NPM                   | Bower                   | Dist Repo |
+|                 | NPM                   | Bower                   | Dist Repo |
 |-----------------|-----------------------|-------------------------|-----------|
 | Webfont / SCSS  | `npm install mdi`     |`bower install mdi`      | [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) |
 | SVG / Meta.json | `npm install mdi-svg` | `bower install mdi-svg` | [MaterialDesign-SVG](https://github.com/Templarian/MaterialDesign-SVG)     |
