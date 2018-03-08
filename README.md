@@ -1,6 +1,6 @@
 # Material Design
 
-This repo contains helpful design resources for Google's Material Design.
+This repo contains all the planning for current and work-in-progress Material Design Icons.
 
 [Getting Started for Bootstrap](http://materialdesignicons.com/bootstrap) - [Getting Started for Other Platforms](http://materialdesignicons.com/getting-started)
 
@@ -12,10 +12,10 @@ This repo contains helpful design resources for Google's Material Design.
 
 View at [Material Design Icons](http://materialdesignicons.com/). This repo also contains converted icons from [Google's official icon set](https://github.com/google/material-design-icons).
 
-```
-npm install mdi
-bower install mdi
-```
+|                 | NPM                   | Bower                   | Dist Repo |
+|-----------------|-----------------------|-------------------------|-----------|
+| Webfont / SCSS  | `npm install mdi`     |`bower install mdi`      | [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) |
+| SVG / Meta.json | `npm install mdi-svg` | `bower install mdi-svg` | [MaterialDesign-SVG](https://github.com/Templarian/MaterialDesign-SVG)     |
 
 [![Icons](http://i.imgur.com/zKuXEkR.png)](https://materialdesignicons.com/)
 
