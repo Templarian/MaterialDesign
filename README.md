@@ -39,7 +39,7 @@ For those designing new icons please use the templates provided as a starting po
 
 ### Third Party (Plugins / Extensions / etc)
 
-Please follow official releases and use the `mdi-svg` dependency for any third party integration. This ensures a stable release for your plugins or third party libraries/applications.
+Please follow official releases and use the `@mdi/svg` [NPM](https://www.npmjs.com/package/@mdi/svg) dependency for any third party integration. This ensures a stable release for your plugins or third party libraries/applications.
 
 [Templarian/MaterialDesign-SVG](https://github.com/templarian/materialdesign-svg)
 
