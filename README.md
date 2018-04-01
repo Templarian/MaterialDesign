@@ -44,7 +44,7 @@ Please follow official releases and use the `mdi-svg` dependency for any third p
 [Templarian/MaterialDesign-SVG](https://github.com/templarian/materialdesign-svg)
 
 ```
-npm install mdi-svg
+npm install @mdi/svg
 bower install mdi-svg
 ```
 
