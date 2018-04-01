@@ -14,8 +14,8 @@ View at [Material Design Icons](http://materialdesignicons.com/). This repo also
 
 |                 | NPM                   | Bower                   | Dist Repo |
 |-----------------|-----------------------|-------------------------|-----------|
-| Webfont / SCSS  | `npm install mdi`     |`bower install mdi`      | [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) |
-| SVG / Meta.json | `npm install mdi-svg` | `bower install mdi-svg` | [MaterialDesign-SVG](https://github.com/Templarian/MaterialDesign-SVG)     |
+| Webfont / SCSS  | `npm install @mdi/font`     |`bower install mdi`      | [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) |
+| SVG / Meta.json | `npm install @mdi/svg` | `bower install mdi-svg` | [MaterialDesign-SVG](https://github.com/Templarian/MaterialDesign-SVG)     |
 
 [![Icons](http://i.imgur.com/zKuXEkR.png)](https://materialdesignicons.com/)
 
@@ -39,12 +39,12 @@ For those designing new icons please use the templates provided as a starting po
 
 ### Third Party (Plugins / Extensions / etc)
 
-Please follow official releases and use the `mdi-svg` dependency for any third party integration. This ensures a stable release for your plugins or third party libraries/applications.
+Please follow official releases and use the `@mdi/svg` [NPM](https://www.npmjs.com/package/@mdi/svg) dependency for any third party integration. This ensures a stable release for your plugins or third party libraries/applications.
 
 [Templarian/MaterialDesign-SVG](https://github.com/templarian/materialdesign-svg)
 
 ```
-npm install mdi-svg
+npm install @mdi/svg
 bower install mdi-svg
 ```
 
