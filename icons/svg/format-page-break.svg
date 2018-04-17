@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" enable-background="new 0 0 24.00 24.00" xml:space="preserve">
-	<path fill="#000000" fill-opacity="0.862745" stroke-linejoin="round" d="M 7,11L 9,11L 9,13L 7,13L 7,11 Z M 11,11L 13,11L 13,13L 11,13L 11,11 Z M 19,17L 15,17L 15,11.1716L 21,17.1716L 21,22L 3,22L 3,13L 5,13L 5,20L 19,20L 19,17 Z M 3,2.00002L 21,2.00002L 21,11L 19,11L 19,4.00001L 5,4.00001L 5,11L 3,11L 3,2.00002 Z "/>
+	<path fill="#000000" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" d="M 18,20L 6,20L 6,18L 4,18L 4,20C 4,21.1046 4.89543,22 6,22L 18,22C 19.1046,22 20,21.1046 20,20L 20,18L 18,18L 18,20 Z M 14,2L 6,2C 4.89543,2 4,2.8954 4,4L 4,12L 6,12L 6,4L 14,4L 14,8L 18,8L 18,12L 20,12L 20,8L 14,2 Z M 11,16L 8,16L 8,14L 11,14L 11,16 Z M 16,16L 13,16L 13,14L 16,14L 16,16 Z M 3,14L 6,14L 6,16L 3,16L 3,14 Z M 21,16L 18,16L 18,14L 21,14L 21,16 Z "/>
 </svg>
