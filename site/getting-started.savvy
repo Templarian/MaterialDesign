@@ -166,6 +166,29 @@ Use the characters in custom SASS use the method below.
 }
 ```
 
+## JavaScript / TypeScript
+
+Please use the `@mdi/js` package to include ES6 importing and tree shaking of only the icons you make use of. A simple example with ReactJS is below.
+
+```js
+import { mdiAccount } from '@mdi/js'
+
+function Icon(props) {
+  return (
+    <svg viewBox="0 0 24 24"
+      style={{ width: '24px', height: '24px' }}>
+      <path d={props.path}/>
+    </svg>
+  )
+}
+
+function App(props) {
+  return (
+    <Icon path={mdiAccount}/>
+  )
+}
+```
+
 ## Android (Vector Drawable)
 
 Android uses the Vector Drawable format that is similar to SVG. Right click any icon to download or view the vector drawable syntax.
