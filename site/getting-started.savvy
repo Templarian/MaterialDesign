@@ -190,7 +190,7 @@ function App(props) {
 }
 ```
 
-## React
+## ReactJS
 
 For [ReactJS](https://reactjs.org) use the `@mdi/react` library. Learn more: [MaterialDesign-React](https://github.com/Templarian/MaterialDesign-React).
 
