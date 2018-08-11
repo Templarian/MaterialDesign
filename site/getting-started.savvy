@@ -33,7 +33,7 @@
 
 ## Webfont @download(Download the Webfont, https://github.com/Templarian/MaterialDesign-Webfont/archive/master.zip)
 
-For those targeting the web your best option is to use the webfont (bower `bower install mdi` or npm `npm install mdi`). Files should match the file structure below.
+For those targeting the web your best option is to use the webfont (npm `npm install @mdi/font` or bower `bower install mdi`). Files should match the file structure below.
 
 ```text File Structure
 fonts
