@@ -168,7 +168,8 @@ Use the characters in custom SASS use the method below.
 
 ## JavaScript / TypeScript
 
-Please use the `@mdi/js` package to include ES6 importing and tree shaking of only the icons you make use of. A simple example with ReactJS is below.
+Please use the `@mdi/js` package to include ES6 importing and tree shaking of only the icons you make use of. A simple example with 
+JS is below.
 
 ```js
 import { mdiAccount } from '@mdi/js'
@@ -188,6 +189,14 @@ function App(props) {
   )
 }
 ```
+
+## React
+
+For [ReactJS](https://reactjs.org) use the `@mdi/react` library. Learn more: [MaterialDesign-React](https://github.com/Templarian/MaterialDesign-React).
+
+## React with Material-UI
+
+If you use React with the [Material-UI](http://www.material-ui.com/) component library, you can use a [third-party package](https://github.com/TeamWertarbyte/mdi-material-ui) that provides `SvgIcon` wrappers for every icon.
 
 ## Android (Vector Drawable)
 
@@ -313,16 +322,6 @@ The `mdi.html` contains all the icons provided on the site. Use inline with the 
 ```
 
 Learn more about custom icons in the [polymer documentation for v0.5](https://www.polymer-project.org/docs/elements/icons.html#roll-your-own) and for Polymer v1.0 [iron-iconset-svg](https://elements.polymer-project.org/elements/iron-iconset-svg).
-
-## React and Preact
-
-If you are using [React](https://reactjs.org/), you can find all SVG icons packaged as single React components in [mdi-react](https://github.com/levrik/mdi-react).
-
-If you are using [Preact](https://preactjs.com/) instead, you can use [mdi-preact](https://github.com/levrik/mdi-react/blob/master/README-preact.md). It's the same package as above with a few changes made for Preact compatibility.
-
-## React with Material-UI
-
-If you use React with the [Material-UI](http://www.material-ui.com/) component library, you can use a [third-party package](https://github.com/TeamWertarbyte/mdi-material-ui) that provides `SvgIcon` wrappers for every icon.
 
 ## Vue
 
