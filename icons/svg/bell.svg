@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" enable-background="new 0 0 24.00 24.00" xml:space="preserve">
-	<path fill="#000000" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" d="M 12,22C 13.1,22 14,21.1 14,20L 10,20C 10,21.1 10.89,22 12,22 Z M 18,16L 18,11C 18,7.93 16.36,5.36 13.5,4.68L 13.5,4C 13.5,3.17 12.83,2.5 12,2.5C 11.17,2.5 10.5,3.17 10.5,4L 10.5,4.68C 7.63,5.36 6,7.92 6,11L 6,16L 4,18L 4,19L 20,19L 20,18L 18,16 Z "/>
+	<path fill="#000000" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" d="M 21,19L 21,20L 3,20L 3,19L 5,17L 5,11C 4.99921,7.9037 7.03273,5.1747 10,4.29C 9.99508,4.1934 9.99508,4.0966 10,4C 10,2.8954 10.8954,2 12,2C 13.1046,2 14,2.8954 14,4C 14.0049,4.0966 14.0049,4.1934 14,4.29C 16.9673,5.1747 19.0008,7.9037 19,11L 19,17L 21,19 Z M 14,21C 14,22.1046 13.1046,23 12,23C 10.8954,23 10,22.1046 10,21"/>
 </svg>
