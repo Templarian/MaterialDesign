@@ -327,6 +327,30 @@ Learn more about custom icons in the [polymer documentation for v0.5](https://ww
 
 If you are using [Vue.js](https://vuejs.org/), you can find a collection of the SVG icons as single file components packaged as [vue-material-design-icons](https://www.npmjs.com/package/vue-material-design-icons).
 
+## PHP / Twig
+
+You can use the `mesavolt/mdi-php` composer package to easily use MDI in your native PHP views:
+
+```php
+<?php Mdi::withIconsPath(__DIR__.'/../../../node_modules/@mdi/svg/svg/'); ?>
+
+<button>
+    <?php echo Mdi::mdi('account'); ?>
+    My account
+</button>
+```
+
+Twig integration is easy too:
+
+```twig
+<button>
+    {{ mdi('account', 'fill-muted', 42, {'aria-label': 'My account icon'}) }}
+    My account
+</button>
+```
+
+Learn more: [MaterialDesignIcons-PHP](https://github.com/chteuchteu/MaterialDesignIcons-PHP)
+
 ## Ember
 
 If you use [Ember.js](https://www.emberjs.com/), you can try to install the addon [ember-mdi](https://github.com/kaermorchen/ember-mdi) ([demo](https://kaermorchen.github.io/ember-mdi/)), which have only SVG icons and based on [mdi-svg](https://github.com/Templarian/MaterialDesign-SVG).
