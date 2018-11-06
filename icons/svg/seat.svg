@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" enable-background="new 0 0 24.00 24.00" xml:space="preserve">
+	<g>
+		<defs>
+			<rect id="SVG_CLIPPER1_" x="1.27157e-006" y="0" width="24" height="24"/>
+		</defs>
+		<clipPath id="SVG_CLIPPER2_">
+			<use xlink:href="#SVG_CLIPPER1_" overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVG_CLIPPER2_)">
+			<path fill="#000000" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" d="M 4,18L 4,21L 7,21L 7,18L 17,18L 17,21L 20,21L 20,15L 4,15L 4,18 Z M 19,10L 22,10L 22,13L 19,13L 19,10 Z M 2,10L 5,10L 5,13L 2,13L 2,10 Z M 17,13L 7,13L 7,5C 7,3.9 7.9,3 9,3L 15,3C 16.1,3 17,3.9 17,5L 17,13 Z "/>
+		</g>
+	</g>
+</svg>
