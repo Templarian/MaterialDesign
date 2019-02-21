@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" enable-background="new 0 0 24.00 24.00" xml:space="preserve">
+	<path fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="miter" d="M 22,3L 2,3C 0.9108,3.0363 0.0362485,3.9108 1.27157e-006,5L 1.27157e-006,19C 0.0362485,20.0892 0.9108,20.9638 2,21L 22,21C 23.0892,20.9638 23.9637,20.0892 24,19L 24,5C 23.9637,3.9108 23.0892,3.0363 22,3 Z M 22,19L 2,19L 2,5L 22,5L 22,19 Z M 14,17L 14,15.75C 14,14.09 10.66,13.25 9,13.25C 7.34001,13.25 4,14.09 4,15.75L 4,17L 14,17M 9,7C 7.61929,7 6.5,8.1193 6.5,9.5C 6.5,10.8807 7.61929,12 9,12C 10.3807,12 11.5,10.8807 11.5,9.5C 11.5,8.1193 10.3807,7 9,7 Z M 14,7L 14,8L 20,8L 20,7L 14,7M 14,9L 14,10L 20,10L 20,9L 14,9M 14,11L 14,12L 18,12L 18,11L 14,11"/>
+</svg>
