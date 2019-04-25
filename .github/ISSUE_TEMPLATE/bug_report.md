@@ -1,6 +1,7 @@
 ---
 name: 🐛 Bug report
 about: Report an issue with an icon or supporting library
+labels: Bug :beetle:
 
 ---
 
