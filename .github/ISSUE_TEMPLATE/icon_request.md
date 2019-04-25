@@ -1,6 +1,7 @@
 ---
 name: ➕ Icon Request
 about: Request an icon for the team to add
+labels: Icon Request :pencil2:
 
 ---
 
