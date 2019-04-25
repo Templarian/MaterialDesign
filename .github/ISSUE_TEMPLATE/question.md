@@ -1,6 +1,8 @@
 ---
 name: ❓ Question
 about: Unlike other repos, we're fine with questions.
+title: ''
+labels: Question
 
 ---
 
