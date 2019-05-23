@@ -1,5 +1,5 @@
 ---
-name: 🐛 Report a Bug
+name: Report a Bug 🐛
 about: Report an issue with an icon.
 title: ''
 labels: Bug
