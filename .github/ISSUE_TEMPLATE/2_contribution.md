@@ -1,5 +1,5 @@
 ---
-name: Contribute an Icon ✔️
+name: Contribute an Icon ➕
 about: Get your icon into MDI. 
 title: ''
 labels: Icon Request, Contribution
