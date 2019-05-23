@@ -1,5 +1,5 @@
 ---
-name: Request an Icon ➕
+name: Request an Icon 💡
 about: Request an icon for the team to add
 title: ''
 labels: Icon Request
