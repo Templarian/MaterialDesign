@@ -1,6 +1,6 @@
 ---
-name: 🐛 Bug report
-about: Report an issue with an icon or supporting library
+name: 🐛 Report a Bug
+about: Report an issue with an icon.
 title: ''
 labels: Bug
 
