@@ -50,10 +50,6 @@ npm install @mdi/svg
 bower install mdi-svg
 ```
 
-### Donations
-
-This project does not directly take donations. If you would like to support the project and get some more icons at the same time purchase [Material Design Icons Light](https://creativemarket.com/templarian/348441-Material-Design-Icons-Light?u=templarian).
-
 ## License
 
 Templates - [WTFPL](http://www.wtfpl.net/)
