@@ -13,7 +13,7 @@ We are no longer accepting brand icons. Learn more: http://dev.materialdesignico
 I have:
 
 - [ ] Searched all issues to make sure there isn't a request for this icon.
-- [ ] Only requested a single (or a few near-identical) icon in this issue. 
+- [ ] Only requested a single icon (or a few near-identical ones) in this issue. 
 
 ## Usage
 
