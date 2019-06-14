@@ -6,6 +6,10 @@ labels: Icon Request, Contribution
 
 ---
 
+<!--
+We are no longer accepting brand icons. Learn more: http://dev.materialdesignicons.com/roadmap/brand-icons
+-->
+
 I have:
 
 - [ ] Searched open issues to make sure there isn't a request for this icon.
