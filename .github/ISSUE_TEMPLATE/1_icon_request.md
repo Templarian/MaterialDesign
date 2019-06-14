@@ -7,12 +7,19 @@ labels: Icon Request
 ---
 
 <!--
->> Make sure you searched opened issues! <<
-
-Please keep the issue title a single word or noun
-
 We are no longer accepting brand icons. Learn more: http://dev.materialdesignicons.com/roadmap/brand-icons
-
-You can paste images to provide examples of what it might look like.
 -->
+
+I have:
+
+- [ ] Searched all issues to make sure there isn't a request for this icon.
+- [ ] Only requested a single icon in this issue. 
+
+## Usage
+
+Provide some context of how your icon could be used.
+
+## Examples
+
+Include any example images so we know what the icon should look like.
 
