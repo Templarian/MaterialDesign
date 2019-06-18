@@ -1,8 +1,8 @@
 ---
-name: 🐛 Bug report
-about: Report an issue with an icon or supporting library
+name: Add an Alias 🔃
+about: Make it easier to find the icons you need by suggesting alternative names.
 title: ''
-labels: Bug
+labels: Alias
 
 ---
 
