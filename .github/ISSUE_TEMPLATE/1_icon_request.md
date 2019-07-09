@@ -12,7 +12,8 @@ We are no longer accepting brand icons. Learn more: http://dev.materialdesignico
 
 I have:
 
-- [ ] Searched all issues to make sure there isn't a request for this icon.
+- [ ] [Searched all issues](https://github.com/Templarian/MaterialDesign/issues) to make sure there isn't a request for this icon.
+- [ ] [Searched the current library](https://materialdesignicons.com/) to make sure the icon doesn't exist.
 - [ ] Only requested a single icon (or a few near-identical ones) in this issue. 
 
 ## Usage
