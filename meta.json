@@ -44062,7 +44062,8 @@
         "name": "shopping",
         "codepoint": "F49A",
         "aliases": [
-            "local-mall"
+            "local-mall",
+            "marketplace"
         ],
         "tags": [
             "Shopping"
