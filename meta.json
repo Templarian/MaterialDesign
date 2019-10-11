@@ -44086,7 +44086,9 @@
         "id": "EBE771F9-2EF2-41D9-AE7D-8FDBA1B4C684",
         "name": "shopping-outline",
         "codepoint": "F0200",
-        "aliases": [],
+        "aliases": [
+            "local-mall-outline"
+        ],
         "tags": [
             "Shopping"
         ],
