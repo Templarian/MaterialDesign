@@ -44087,7 +44087,8 @@
         "name": "shopping-outline",
         "codepoint": "F0200",
         "aliases": [
-            "local-mall-outline"
+            "local-mall-outline",
+            "marketplace-outline"
         ],
         "tags": [
             "Shopping"
