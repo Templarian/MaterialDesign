@@ -19,9 +19,9 @@ View at [Material Design Icons](http://materialdesignicons.com/). This repo also
 | ReactJS  | `npm install @mdi/react`     | [MaterialDesign-React](https://github.com/Templarian/MaterialDesign-React) |
 | SVG / Meta.json | `npm install @mdi/svg` | [MaterialDesign-SVG](https://github.com/Templarian/MaterialDesign-SVG)     |
 
-[![Icons](http://i.imgur.com/zKuXEkR.png)](https://materialdesignicons.com/)
+[Upgrade Guide](https://dev.materialdesignicons.com/upgrade) | [Changelog Guide](https://dev.materialdesignicons.com/changelog)
 
-**Note:** _SVG icons are not compressed in GitHub. Please use the icons from [Material Design Icons - Design](http://materialdesignicons.com/design) or [Templarian/MaterialDesign-SVG](https://github.com/templarian/materialdesign-svg) if you need inline SVG._
+[![Icons](http://i.imgur.com/zKuXEkR.png)](https://materialdesignicons.com/)
 
 **Warning (Cordova only):** _You will need to manually edit the css file to remove the version query string. [Read More](https://github.com/Templarian/MaterialDesign/issues/760)._
 
