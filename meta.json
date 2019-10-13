@@ -48201,6 +48201,15 @@
         "version": "3.9.97"
     },
     {
+        "id": "2671B127-348C-47F5-B016-F30389D649CF",
+        "name": "timeline-clock",
+        "codepoint": "F0226",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.6.95"
+    },
+    {
         "id": "92637DDF-E9A3-43E1-986D-DA5DE7FA8CDE",
         "name": "timeline-help",
         "codepoint": "FFB6",
