@@ -46368,7 +46368,9 @@
         "id": "854C16E8-58EA-49E3-B1AE-7EC84B313005",
         "name": "strategy",
         "codepoint": "F0201",
-        "aliases": [],
+        "aliases": [
+            "football-play"
+        ],
         "tags": [
             "Sport"
         ],
