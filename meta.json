@@ -42192,7 +42192,9 @@
         "id": "43C3E250-2842-4973-8D19-CA1E48BCF61C",
         "name": "rv-truck",
         "codepoint": "F01FF",
-        "aliases": [],
+        "aliases": [
+            "recreational-vehicle"
+        ],
         "tags": [
             "Transportation + Road"
         ],
