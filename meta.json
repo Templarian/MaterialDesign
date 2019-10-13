@@ -43421,6 +43421,15 @@
         "version": "2.1.19"
     },
     {
+        "id": "CE4CFCD5-20D8-4248-A3E8-0B1EFDCC8EC4",
+        "name": "shape-oval-plus",
+        "codepoint": "F0225",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.6.95"
+    },
+    {
         "id": "C91D9DCD-5ADA-4D48-857C-39D38CD37A6B",
         "name": "shape-plus",
         "codepoint": "F495",
