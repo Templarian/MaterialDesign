@@ -6,8 +6,6 @@ This repo contains all the planning for current and work-in-progress Material De
 
 [![npm](https://img.shields.io/npm/v/@mdi/font.svg)](https://www.npmjs.com/package/@mdi/svg) [![GitHub issues](https://img.shields.io/github/issues/Templarian/MaterialDesign.svg)](https://github.com/Templarian/MaterialDesign/issues) [![npm](https://img.shields.io/npm/dm/@mdi/font.svg)](https://github.com/Templarian/MaterialDesign-Webfont) + (renamed `mdi` [![npm](https://img.shields.io/npm/dm/mdi.svg)](https://github.com/Templarian/MaterialDesign-Webfont))
 
-<sub>Download stats above only for NPM</sub>
-
 ## Icons
 
 View at [Material Design Icons](http://materialdesignicons.com/). This repo also contains converted icons from [Google's official icon set](https://github.com/google/material-design-icons).
