@@ -48210,6 +48210,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "2C73EA7B-CAD0-439D-8D8F-8779B100F927",
+        "name": "timeline-clock-outline",
+        "codepoint": "F0227",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.6.95"
+    },
+    {
         "id": "92637DDF-E9A3-43E1-986D-DA5DE7FA8CDE",
         "name": "timeline-help",
         "codepoint": "FFB6",
