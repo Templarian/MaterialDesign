@@ -31555,6 +31555,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "7D6FF098-D459-4B89-A13C-C9145A1EB992",
+        "name": "lightbulb-cfl",
+        "codepoint": "F0233",
+        "aliases": [],
+        "tags": [],
+        "author": "GreenTurtwig",
+        "version": "4.6.95"
+    },
+    {
         "id": "14D09F5A-C467-428B-9C5A-F2B3939D1678",
         "name": "lightbulb-off",
         "codepoint": "FE32",
