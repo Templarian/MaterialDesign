@@ -43059,6 +43059,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "2123E467-F48C-4AC6-8061-FEEB686ADB19",
+        "name": "selection-search",
+        "codepoint": "F0230",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.6.95"
+    },
+    {
         "id": "6791A1E4-DBF8-471C-AA27-0D4540A23678",
         "name": "send",
         "codepoint": "F48A",
