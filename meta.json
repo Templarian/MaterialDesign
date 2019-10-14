@@ -857,6 +857,17 @@
         "version": "4.6.95"
     },
     {
+        "id": "618B092A-7228-4E70-A95C-7EB4EC1BA2FB",
+        "name": "account-multiple-remove-outline",
+        "codepoint": "F0236",
+        "aliases": [],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Michael Richins",
+        "version": "4.6.95"
+    },
+    {
         "id": "8F49C741-4ED8-4DD3-A22E-310C039EDDA6",
         "name": "account-network",
         "codepoint": "F011",
