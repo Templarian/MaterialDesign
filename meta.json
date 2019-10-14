@@ -33849,7 +33849,9 @@
         "name": "mirror",
         "codepoint": "F0228",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Austin Andrews",
         "version": "4.6.95"
     },
