@@ -737,6 +737,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "4391B451-368F-4E41-82C5-63A89A2CDE69",
+        "name": "account-multiple-check-outline",
+        "codepoint": "F0229",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.6.95"
+    },
+    {
         "id": "BD31FA9F-EC76-44E9-A9F3-A85F83045D78",
         "name": "account-multiple-minus",
         "codepoint": "F5D3",
