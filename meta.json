@@ -32113,17 +32113,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "C2889545-7F08-4AE1-9142-ECF9B79957E1",
-        "name": "magnify",
-        "codepoint": "F349",
-        "aliases": [
-            "search"
-        ],
-        "tags": [],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "C48FDEBE-952C-4B4A-9EB8-47A18186EB0B",
         "name": "magnify-close",
         "codepoint": "F97F",
@@ -32166,6 +32155,17 @@
         "tags": [],
         "author": "Google",
         "version": "1.8.36"
+    },
+    {
+        "id": "C2889545-7F08-4AE1-9142-ECF9B79957E1",
+        "name": "magnify-outline",
+        "codepoint": "F349",
+        "aliases": [
+            "search"
+        ],
+        "tags": [],
+        "author": "Google",
+        "version": "1.5.54"
     },
     {
         "id": "798F7C9D-2EC7-47EF-8729-845B4E2DDD16",
