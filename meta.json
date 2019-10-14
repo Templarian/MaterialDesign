@@ -11689,6 +11689,15 @@
         "version": "3.0.39"
     },
     {
+        "id": "3B4FC4CD-DB60-407A-B230-C6CA593977DD",
+        "name": "card-plus",
+        "codepoint": "F022A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.6.95"
+    },
+    {
         "id": "2A09F869-B221-4ABC-B803-16560B7BA900",
         "name": "card-search",
         "codepoint": "F009F",
