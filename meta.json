@@ -32311,6 +32311,15 @@
         "version": "1.8.36"
     },
     {
+        "id": "845BBEA5-F20E-4E1B-AB42-FE7BF45FCDAB",
+        "name": "magnify-remove-cursor",
+        "codepoint": "F0237",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.6.95"
+    },
+    {
         "id": "269E49C3-261D-42CD-8EFA-FD76C0BA7B7C",
         "name": "mail",
         "codepoint": "FED8",
