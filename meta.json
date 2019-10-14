@@ -846,6 +846,17 @@
         "version": "2.1.19"
     },
     {
+        "id": "998E10E4-B96A-4DB2-9793-3E1C31D42501",
+        "name": "account-multiple-remove",
+        "codepoint": "F0235",
+        "aliases": [],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Michael Richins",
+        "version": "4.6.95"
+    },
+    {
         "id": "8F49C741-4ED8-4DD3-A22E-310C039EDDA6",
         "name": "account-network",
         "codepoint": "F011",
