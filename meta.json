@@ -11698,6 +11698,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "DD8BE7C3-7AE2-420C-8DA2-B3AA4EEC5614",
+        "name": "card-plus-outline",
+        "codepoint": "F022B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.6.95"
+    },
+    {
         "id": "2A09F869-B221-4ABC-B803-16560B7BA900",
         "name": "card-search",
         "codepoint": "F009F",
