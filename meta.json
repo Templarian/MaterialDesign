@@ -741,7 +741,9 @@
         "name": "account-multiple-check-outline",
         "codepoint": "F0229",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Michael Richins",
         "version": "4.6.95"
     },
