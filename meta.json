@@ -33834,6 +33834,15 @@
         "version": "3.2.89"
     },
     {
+        "id": "AB90BAF0-E671-4418-9CBB-74C3F03A94DB",
+        "name": "mirror",
+        "codepoint": "F0228",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.6.95"
+    },
+    {
         "id": "77B97AED-2613-434C-BD9C-82755C8B468C",
         "name": "mixcloud",
         "codepoint": "F62A",
