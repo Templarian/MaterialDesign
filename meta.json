@@ -13359,6 +13359,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "925C7A7F-E7D0-4260-B131-D96FF2F7B8DB",
+        "name": "checkerboard-minus",
+        "codepoint": "F022D",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.6.95"
+    },
+    {
         "id": "020A5F88-EE7B-4FE7-ADC7-999A0ADB16EE",
         "name": "checkerboard-plus",
         "codepoint": "F022C",
