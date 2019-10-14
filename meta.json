@@ -32320,6 +32320,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "1465D0D4-32FE-4495-B137-CFE49A390474",
+        "name": "magnify-remove-outline",
+        "codepoint": "F0238",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.6.95"
+    },
+    {
         "id": "269E49C3-261D-42CD-8EFA-FD76C0BA7B7C",
         "name": "mail",
         "codepoint": "FED8",
