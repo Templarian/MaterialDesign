@@ -43005,6 +43005,15 @@
         "version": "4.0.96"
     },
     {
+        "id": "5D558A02-EC98-47D7-AD04-D02E225AF4C6",
+        "name": "select-search",
+        "codepoint": "F022F",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.6.95"
+    },
+    {
         "id": "33A5D3FF-E2A7-4E3A-95B5-86D4C6604911",
         "name": "selection",
         "codepoint": "F489",
