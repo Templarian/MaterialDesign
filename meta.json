@@ -27119,7 +27119,9 @@
         "name": "google-cloud",
         "codepoint": "F0221",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
         "author": "Google",
         "version": "4.6.95"
     },
