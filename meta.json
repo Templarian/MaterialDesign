@@ -31224,6 +31224,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "6EC54CC3-3FAD-4692-B123-9FA5A8F3D80E",
+        "name": "layers-search-outline",
+        "codepoint": "F0232",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.6.95"
+    },
+    {
         "id": "E13ACA71-A398-4E3F-A1DF-ED7E4A1E1A84",
         "name": "layers-triple",
         "codepoint": "FF75",
