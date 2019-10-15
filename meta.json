@@ -17555,7 +17555,8 @@
         "name": "debug-step-over",
         "codepoint": "F1BD",
         "aliases": [
-            "skip"
+            "skip",
+            "jump"
         ],
         "tags": [],
         "author": "Austin Andrews",
