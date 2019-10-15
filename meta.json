@@ -17554,7 +17554,9 @@
         "id": "8242E7C8-1400-476D-AC27-DCA7B6292C70",
         "name": "debug-step-over",
         "codepoint": "F1BD",
-        "aliases": [],
+        "aliases": [
+            "skip"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.5.54"
