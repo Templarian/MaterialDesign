@@ -13377,7 +13377,8 @@
             "raster"
         ],
         "tags": [
-            "Gaming \/ RPG"
+            "Gaming \/ RPG",
+            "Geographic Information System"
         ],
         "author": "Austin Andrews",
         "version": "1.5.54"
@@ -13389,7 +13390,9 @@
         "aliases": [
             "raster-minus"
         ],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.6.95"
     },
