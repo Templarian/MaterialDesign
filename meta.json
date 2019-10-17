@@ -13373,7 +13373,9 @@
         "id": "A5F7D4AF-C7A3-4F38-B21B-B9F3E68770DE",
         "name": "checkerboard",
         "codepoint": "F13A",
-        "aliases": [],
+        "aliases": [
+            "raster"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
