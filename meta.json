@@ -13403,7 +13403,9 @@
         "aliases": [
             "raster-plus"
         ],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.6.95"
     },
