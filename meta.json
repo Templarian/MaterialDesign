@@ -13395,7 +13395,9 @@
         "id": "020A5F88-EE7B-4FE7-ADC7-999A0ADB16EE",
         "name": "checkerboard-plus",
         "codepoint": "F022C",
-        "aliases": [],
+        "aliases": [
+            "raster-plus"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.6.95"
