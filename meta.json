@@ -13386,7 +13386,9 @@
         "id": "925C7A7F-E7D0-4260-B131-D96FF2F7B8DB",
         "name": "checkerboard-minus",
         "codepoint": "F022D",
-        "aliases": [],
+        "aliases": [
+            "raster-minus"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.6.95"
