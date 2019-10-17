@@ -13408,7 +13408,9 @@
         "id": "CDCAA6DE-0885-474F-992F-6A7F46563A15",
         "name": "checkerboard-remove",
         "codepoint": "F022E",
-        "aliases": [],
+        "aliases": [
+            "raster-remove"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.6.95"
