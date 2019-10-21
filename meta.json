@@ -31406,7 +31406,9 @@
         "name": "layers-outline",
         "codepoint": "F9FD",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Google",
         "version": "2.5.94"
     },
