@@ -50656,6 +50656,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "D2CE645F-5DC0-4E94-AD3C-346D59DD6AB1",
+        "name": "vector-polyline-edit",
+        "codepoint": "F0250",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.6.95"
+    },
+    {
         "id": "1B112A31-E2A7-4BAD-B1F1-5289B8811F08",
         "name": "vector-radius",
         "codepoint": "F749",
