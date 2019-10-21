@@ -50646,7 +50646,8 @@
         "codepoint": "F55D",
         "aliases": [],
         "tags": [
-            "Vector"
+            "Vector",
+            "Geographic Information System"
         ],
         "author": "Cody",
         "version": "1.5.54"
