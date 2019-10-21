@@ -47650,6 +47650,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "A85425D5-61FC-46C8-B604-4105C407967B",
+        "name": "tag-off",
+        "codepoint": "F024B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.6.95"
+    },
+    {
         "id": "2022546E-45D4-4AC5-B24F-6D6AAEA0F452",
         "name": "tag-outline",
         "codepoint": "F4FC",
