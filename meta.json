@@ -17496,7 +17496,9 @@
         "name": "database-export",
         "codepoint": "F95D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Michael Richins",
         "version": "2.4.85"
     },
