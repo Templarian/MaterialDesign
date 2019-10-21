@@ -17517,7 +17517,8 @@
         "codepoint": "FAA9",
         "aliases": [],
         "tags": [
-            "Lock"
+            "Lock",
+            "Geographic Information System"
         ],
         "author": "Andrew Nenakhov",
         "version": "2.7.94"
