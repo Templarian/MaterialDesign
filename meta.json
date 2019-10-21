@@ -50668,7 +50668,8 @@
         "codepoint": "F0009",
         "aliases": [],
         "tags": [
-            "Vector"
+            "Vector",
+            "Geographic Information System"
         ],
         "author": "Cody",
         "version": "4.0.96"
