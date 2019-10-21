@@ -17570,7 +17570,9 @@
         "name": "database-remove",
         "codepoint": "FCDC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Michael Richins",
         "version": "3.3.92"
     },
