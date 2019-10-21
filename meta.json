@@ -32533,7 +32533,9 @@
         "name": "magnify-remove-outline",
         "codepoint": "F0238",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.6.95"
     },
