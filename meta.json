@@ -7370,6 +7370,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "2DE04585-054B-4E09-AC31-33E28DD80942",
+        "name": "battery-heart-variant",
+        "codepoint": "F023C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.6.95"
+    },
+    {
         "id": "15E0E37E-564A-40D5-9D4A-948C932C8E52",
         "name": "battery-minus",
         "codepoint": "F08C",
