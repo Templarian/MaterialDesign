@@ -32509,7 +32509,8 @@
             "timezone"
         ],
         "tags": [
-            "Navigation"
+            "Navigation",
+            "Geographic Information System"
         ],
         "author": "Augustin Ursu",
         "version": "3.3.92"
