@@ -19462,7 +19462,9 @@
         "name": "earth-off",
         "codepoint": "F1E8",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
