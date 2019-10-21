@@ -20261,6 +20261,15 @@
         "version": "3.2.89"
     },
     {
+        "id": "11CEDEB3-DB1A-45F4-92C9-6AF6FCEE4FC5",
+        "name": "emoticon-lol",
+        "codepoint": "F023F",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.6.95"
+    },
+    {
         "id": "922B06B7-9C78-452C-AF29-79A47F0F6931",
         "name": "emoticon-neutral",
         "codepoint": "FC50",
