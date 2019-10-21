@@ -7352,6 +7352,15 @@
         "version": "2.1.19"
     },
     {
+        "id": "DEE88AFA-DFF3-4100-8475-EB5EB72CCFCB",
+        "name": "battery-heart",
+        "codepoint": "F023A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.6.95"
+    },
+    {
         "id": "15E0E37E-564A-40D5-9D4A-948C932C8E52",
         "name": "battery-minus",
         "codepoint": "F08C",
