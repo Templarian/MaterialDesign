@@ -41133,6 +41133,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "B39962EE-105B-4093-9B4C-6078FEA43DA2",
+        "name": "radio-off",
+        "codepoint": "F0247",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.6.95"
+    },
+    {
         "id": "8E5FC366-E9F8-40ED-A16D-CD6C87B0C5B1",
         "name": "radio-tower",
         "codepoint": "F43B",
