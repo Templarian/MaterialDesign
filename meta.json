@@ -32513,7 +32513,9 @@
             "search-plus-outline",
             "search-add-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Google",
         "version": "1.8.36"
     },
