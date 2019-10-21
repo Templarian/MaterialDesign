@@ -31417,7 +31417,9 @@
         "name": "layers-plus",
         "codepoint": "FE30",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Austin Andrews",
         "version": "3.6.95"
     },
