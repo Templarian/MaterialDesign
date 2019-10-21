@@ -16773,7 +16773,9 @@
             "gps-not-fixed",
             "location-searching"
         ],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
