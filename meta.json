@@ -27930,6 +27930,19 @@
         "version": "4.4.95"
     },
     {
+        "id": "A41E35E2-6756-46D9-BE48-4DFA705A6A6A",
+        "name": "handshake",
+        "codepoint": "F0243",
+        "aliases": [
+            "business",
+            "deal",
+            "help"
+        ],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.6.95"
+    },
+    {
         "id": "2FB0994B-BBA8-4F59-93AF-87F2065F34EA",
         "name": "hanger",
         "codepoint": "F2C8",
