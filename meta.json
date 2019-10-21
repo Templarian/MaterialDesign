@@ -32834,7 +32834,8 @@
             "location-off"
         ],
         "tags": [
-            "Navigation"
+            "Navigation",
+            "Geographic Information System"
         ],
         "author": "Austin Andrews",
         "version": "1.5.54"
