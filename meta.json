@@ -50683,6 +50683,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "0B173B1A-A4BE-4B96-A33F-2C332150B5AE",
+        "name": "vector-polyline-remove",
+        "codepoint": "F0253",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.6.95"
+    },
+    {
         "id": "1B112A31-E2A7-4BAD-B1F1-5289B8811F08",
         "name": "vector-radius",
         "codepoint": "F749",
