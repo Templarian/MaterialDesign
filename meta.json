@@ -37223,6 +37223,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "64C3CB40-BBDF-4A82-9B07-62CA527A258C",
+        "name": "offer",
+        "codepoint": "F0246",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "4.6.95"
+    },
+    {
         "id": "7E2456A3-891B-43F4-B233-AA0D890815CF",
         "name": "office",
         "codepoint": "F3C6",
