@@ -52372,7 +52372,9 @@
         "aliases": [
             "language-box"
         ],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Contributors",
         "version": "3.9.97"
     },
