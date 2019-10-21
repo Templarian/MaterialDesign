@@ -19433,7 +19433,9 @@
             "public",
             "planet"
         ],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
