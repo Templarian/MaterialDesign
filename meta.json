@@ -47706,6 +47706,15 @@
         "version": "1.8.36"
     },
     {
+        "id": "DD1E4B8E-E8C2-4B72-A56D-F42B3259AD49",
+        "name": "tag-remove-outline",
+        "codepoint": "F024E",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.6.95"
+    },
+    {
         "id": "8ED927D3-84B9-43D1-82B4-3859653006D6",
         "name": "tag-text-outline",
         "codepoint": "F4FD",
