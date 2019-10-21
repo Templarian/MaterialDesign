@@ -32797,7 +32797,8 @@
             "map-add"
         ],
         "tags": [
-            "Navigation"
+            "Navigation",
+            "Geographic Information System"
         ],
         "author": "Peter Noble",
         "version": "2.4.85"
