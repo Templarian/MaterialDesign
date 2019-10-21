@@ -50665,6 +50665,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "ADB52436-4BAD-40E2-8A13-48C76188FCE6",
+        "name": "vector-polyline-minus",
+        "codepoint": "F0251",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.6.95"
+    },
+    {
         "id": "1B112A31-E2A7-4BAD-B1F1-5289B8811F08",
         "name": "vector-radius",
         "codepoint": "F749",
