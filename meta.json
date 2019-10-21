@@ -20270,6 +20270,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "2A7BA4B1-C436-4EE6-BF5A-34B150A9A746",
+        "name": "emoticon-lol-outline",
+        "codepoint": "F0240",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.6.95"
+    },
+    {
         "id": "922B06B7-9C78-452C-AF29-79A47F0F6931",
         "name": "emoticon-neutral",
         "codepoint": "FC50",
