@@ -4778,7 +4778,8 @@
         "codepoint": "F04C",
         "aliases": [],
         "tags": [
-            "Arrow"
+            "Arrow",
+            "Geographic Information System"
         ],
         "author": "Austin Andrews",
         "version": "1.5.54"
