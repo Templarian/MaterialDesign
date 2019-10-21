@@ -32495,7 +32495,8 @@
             "map-tick-outline"
         ],
         "tags": [
-            "Navigation"
+            "Navigation",
+            "Geographic Information System"
         ],
         "author": "Contributors",
         "version": "3.7.94"
