@@ -32762,7 +32762,8 @@
             "where-to-vote"
         ],
         "tags": [
-            "Navigation"
+            "Navigation",
+            "Geographic Information System"
         ],
         "author": "Google",
         "version": "3.2.89"
