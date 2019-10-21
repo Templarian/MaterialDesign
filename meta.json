@@ -47319,6 +47319,15 @@
         "version": "4.2.95"
     },
     {
+        "id": "9AB8E55A-A51C-4384-A6C6-1F88BFBBD63B",
+        "name": "table-headers-eye",
+        "codepoint": "F0248",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.6.95"
+    },
+    {
         "id": "99BE0AB4-A123-4745-839F-DC355DA8C3D4",
         "name": "table-large",
         "codepoint": "F4F1",
