@@ -4277,6 +4277,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "4B8AAB0C-9EB8-44D9-B1DF-C2EE6ACB91BE",
+        "name": "archive-outline",
+        "codepoint": "F0239",
+        "aliases": [],
+        "tags": [],
+        "author": "James Coyle",
+        "version": "4.6.95"
+    },
+    {
         "id": "F7613EF8-368F-4AA6-B833-7246A01C3961",
         "name": "arm-flex",
         "codepoint": "F008F",
@@ -50441,7 +50450,7 @@
         "tags": [
             "Vector"
         ],
-        "author": "Cody",
+        "author": "Contributors",
         "version": "1.5.54"
     },
     {
