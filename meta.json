@@ -17575,7 +17575,8 @@
         "codepoint": "FCDD",
         "aliases": [],
         "tags": [
-            "Settings"
+            "Settings",
+            "Geographic Information System"
         ],
         "author": "Michael Richins",
         "version": "3.3.92"
