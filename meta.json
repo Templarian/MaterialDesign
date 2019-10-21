@@ -31384,7 +31384,9 @@
         "aliases": [
             "layers-clear"
         ],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
