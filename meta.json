@@ -50701,7 +50701,8 @@
         "codepoint": "F561",
         "aliases": [],
         "tags": [
-            "Vector"
+            "Vector",
+            "Geographic Information System"
         ],
         "author": "Contributors",
         "version": "1.5.54"
