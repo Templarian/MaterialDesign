@@ -12916,6 +12916,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "42E3BF4B-FFE9-449F-AFEE-66F565602A9B",
+        "name": "chart-multiple",
+        "codepoint": "F023E",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.6.95"
+    },
+    {
         "id": "9C6B53C5-698B-4428-9738-A6700BF8698C",
         "name": "chart-pie",
         "codepoint": "F12B",
