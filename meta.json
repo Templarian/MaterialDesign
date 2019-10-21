@@ -31050,6 +31050,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "F1DEF74B-8116-4E0E-98BE-97A699812E5A",
+        "name": "language-fortran",
+        "codepoint": "F0245",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.6.95"
+    },
+    {
         "id": "ACAFCF05-E04D-4212-AB53-C72BD8DB5768",
         "name": "language-go",
         "codepoint": "F7D2",
