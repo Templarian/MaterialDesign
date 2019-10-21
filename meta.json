@@ -15899,7 +15899,9 @@
         "name": "compass-off-outline",
         "codepoint": "FB5D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Google",
         "version": "3.0.39"
     },
