@@ -17525,7 +17525,9 @@
         "name": "database-minus",
         "codepoint": "F1B9",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Cody",
         "version": "1.5.54"
     },
