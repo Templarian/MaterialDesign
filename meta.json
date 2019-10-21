@@ -22565,6 +22565,15 @@
         "version": "4.0.96"
     },
     {
+        "id": "C17D4D8C-F028-4EED-9C77-B9E1A66FE372",
+        "name": "file-sync",
+        "codepoint": "F0241",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.6.95"
+    },
+    {
         "id": "663EC5E6-16C5-4075-AB5C-1215864F3B2B",
         "name": "file-table",
         "codepoint": "FC5A",
