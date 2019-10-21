@@ -50635,7 +50635,8 @@
         "codepoint": "F892",
         "aliases": [],
         "tags": [
-            "Vector"
+            "Vector",
+            "Geographic Information System"
         ],
         "author": "Austin Andrews",
         "version": "2.1.99"
