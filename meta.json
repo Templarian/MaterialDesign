@@ -30850,6 +30850,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "D3EC3384-B91D-46C9-8D43-7D333DB2273D",
+        "name": "kotlin",
+        "codepoint": "F0244",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.6.95"
+    },
+    {
         "id": "9823C48B-5D2E-4058-9836-F2C6DCACAB71",
         "name": "kubernetes",
         "codepoint": "F0129",
