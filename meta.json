@@ -31395,7 +31395,9 @@
         "name": "layers-off-outline",
         "codepoint": "F9FC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Google",
         "version": "2.5.94"
     },
