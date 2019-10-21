@@ -32469,7 +32469,9 @@
             "zoom-out-outline",
             "search-minus-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Google",
         "version": "1.8.36"
     },
