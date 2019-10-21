@@ -47630,6 +47630,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "E8EF5D5C-B3EE-459C-9C6D-B6A045B8052C",
+        "name": "tag-minus-outline",
+        "codepoint": "F024A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.6.95"
+    },
+    {
         "id": "408AB5A3-F100-4175-96CD-8602BE101150",
         "name": "tag-multiple",
         "codepoint": "F4FB",
