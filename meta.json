@@ -17476,7 +17476,9 @@
         "aliases": [
             "database-tick"
         ],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Andrew Nenakhov",
         "version": "2.7.94"
     },
