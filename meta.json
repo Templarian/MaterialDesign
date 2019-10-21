@@ -17505,7 +17505,9 @@
         "name": "database-import",
         "codepoint": "F95C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Michael Richins",
         "version": "2.4.85"
     },
