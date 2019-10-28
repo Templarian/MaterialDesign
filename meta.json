@@ -7552,6 +7552,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "15C31E14-F9D4-49E7-A9FA-266E3C2C7F1B",
+        "name": "beaker-minus-outline",
+        "codepoint": "F0259",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.6.95"
+    },
+    {
         "id": "95E06F22-3EA5-448F-B260-E555C1DCD18E",
         "name": "beaker-outline",
         "codepoint": "F68F",
