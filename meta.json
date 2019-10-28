@@ -8061,6 +8061,17 @@
         "version": "4.2.95"
     },
     {
+        "id": "CF4876E1-DEBA-4C41-B5B7-4C90C3EF68F4",
+        "name": "bicycle-basket",
+        "codepoint": "F0260",
+        "aliases": [
+            "bike-basket"
+        ],
+        "tags": [],
+        "author": "Fran\u00e7ois Risoud",
+        "version": "4.6.95"
+    },
+    {
         "id": "627C7FF1-BCAD-4741-966E-7CED73B35DC2",
         "name": "bike",
         "codepoint": "F0A3",
