@@ -7581,6 +7581,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "210E9002-74BB-44CB-9D93-7CC8EE95D519",
+        "name": "beaker-plus-outline",
+        "codepoint": "F025B",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.6.95"
+    },
+    {
         "id": "D3DFF539-E101-40B2-BA6D-B62327AFE6AC",
         "name": "beats",
         "codepoint": "F097",
