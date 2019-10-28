@@ -7599,6 +7599,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "3C151400-745C-44BE-A94E-A2F5365C7DD6",
+        "name": "beaker-question-outline",
+        "codepoint": "F025D",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.6.95"
+    },
+    {
         "id": "D3DFF539-E101-40B2-BA6D-B62327AFE6AC",
         "name": "beats",
         "codepoint": "F097",
