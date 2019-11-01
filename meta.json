@@ -6539,6 +6539,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "AF7144E7-5004-4685-A100-78425F035F51",
+        "name": "barcode-off",
+        "codepoint": "F0261",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.6.95"
+    },
+    {
         "id": "40365CB0-4664-4648-8C51-2E6E20A0D096",
         "name": "barcode-scan",
         "codepoint": "F072",
