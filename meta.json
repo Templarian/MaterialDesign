@@ -18660,6 +18660,15 @@
         "version": "1.6.50"
     },
     {
+        "id": "58BA7D31-6B34-46E6-B325-080C95B32A6F",
+        "name": "digital-ocean",
+        "codepoint": "F0262",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.6.95"
+    },
+    {
         "id": "2356EE38-11BE-44B1-BAD9-D74ECE86F8E7",
         "name": "dip-switch",
         "codepoint": "F7C0",
