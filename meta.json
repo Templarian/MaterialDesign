@@ -53032,6 +53032,15 @@
         "version": "1.8.36"
     },
     {
+        "id": "972B66F0-ED66-42B4-BEE8-63EF28F4658B",
+        "name": "webrtc",
+        "codepoint": "F0273",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.6.95"
+    },
+    {
         "id": "31CBB823-2223-40D5-BCF7-470F91159757",
         "name": "wechat",
         "codepoint": "F611",
