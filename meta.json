@@ -18099,6 +18099,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "35E2D33D-B4A8-4E12-B844-8EC1172F15A9",
+        "name": "desk",
+        "codepoint": "F0264",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.6.95"
+    },
+    {
         "id": "80459D13-2662-4F47-AB31-F6A2B84C8DEB",
         "name": "desk-lamp",
         "codepoint": "F95E",
