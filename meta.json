@@ -23726,6 +23726,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "6FA94A7A-788F-44B6-90A7-B4EACF9B6FD3",
+        "name": "flask-plus",
+        "codepoint": "F026D",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.6.95"
+    },
+    {
         "id": "E86BFC0D-B4A4-41F2-A8E3-D1AE79072A45",
         "name": "flattr",
         "codepoint": "F246",
