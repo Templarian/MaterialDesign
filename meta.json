@@ -53006,6 +53006,15 @@
         "version": "3.9.97"
     },
     {
+        "id": "FABF6519-0CE7-461D-986D-60B4BF7374A7",
+        "name": "web-clock",
+        "codepoint": "F0275",
+        "aliases": [],
+        "tags": [],
+        "author": "frankgrinaert",
+        "version": "4.6.95"
+    },
+    {
         "id": "03483AFB-9D53-4E10-B00C-1095C1873276",
         "name": "webcam",
         "codepoint": "F5A0",
