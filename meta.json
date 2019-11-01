@@ -43447,6 +43447,15 @@
         "version": "3.2.89"
     },
     {
+        "id": "BF015C93-A5AD-47BF-9451-A9B5DFFAD50C",
+        "name": "seat-passenger",
+        "codepoint": "F0274",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.6.95"
+    },
+    {
         "id": "EB83D5D9-0439-476C-9BFD-04B5D6789940",
         "name": "seat-recline-extra",
         "codepoint": "F481",
