@@ -20846,6 +20846,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "2DEA5CA1-8412-4DA4-95C4-7E1AA2C27404",
+        "name": "exclamation-thick",
+        "codepoint": "F0263",
+        "aliases": [],
+        "tags": [],
+        "author": "frankgrinaert",
+        "version": "4.6.95"
+    },
+    {
         "id": "9F68722F-B500-48AD-BE3A-EB7591496084",
         "name": "exit-run",
         "codepoint": "FA47",
