@@ -24313,6 +24313,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "F3985E52-B82C-4008-98E3-48DCDBC21749",
+        "name": "folder-move-outline",
+        "codepoint": "F0271",
+        "aliases": [],
+        "tags": [],
+        "author": "Sascha Wohlgemuth",
+        "version": "4.6.95"
+    },
+    {
         "id": "7116841C-C243-4A44-8C68-267048AAF939",
         "name": "folder-multiple",
         "codepoint": "F253",
