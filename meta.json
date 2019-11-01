@@ -23744,6 +23744,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "ED698844-E3E9-4FD3-89F2-A41163ACD80A",
+        "name": "flask-remove",
+        "codepoint": "F026F",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.6.95"
+    },
+    {
         "id": "E86BFC0D-B4A4-41F2-A8E3-D1AE79072A45",
         "name": "flattr",
         "codepoint": "F246",
