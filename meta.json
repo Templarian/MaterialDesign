@@ -29411,6 +29411,15 @@
         "version": "2.4.85"
     },
     {
+        "id": "FEF8AC85-F9E6-4C9B-B0C2-A5158AAD8A8B",
+        "name": "home-remove",
+        "codepoint": "F0272",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.6.95"
+    },
+    {
         "id": "32EF139A-14EB-4767-ADDD-08120FB530A0",
         "name": "home-roof",
         "codepoint": "F0156",
