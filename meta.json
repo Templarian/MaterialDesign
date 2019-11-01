@@ -23660,6 +23660,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "716D7945-ED6F-40B5-890A-18A1F93247B0",
+        "name": "flask-empty-plus",
+        "codepoint": "F0267",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.6.95"
+    },
+    {
         "id": "14C068EE-90AC-42DA-AA1E-D24F74EE7263",
         "name": "flask-outline",
         "codepoint": "F096",
