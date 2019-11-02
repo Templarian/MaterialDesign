@@ -23762,6 +23762,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "E7D0BD51-A831-4355-AE75-1D903C121D3F",
+        "name": "flask-round-bottom",
+        "codepoint": "F0276",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.6.95"
+    },
+    {
         "id": "E86BFC0D-B4A4-41F2-A8E3-D1AE79072A45",
         "name": "flattr",
         "codepoint": "F246",
