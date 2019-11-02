@@ -27400,6 +27400,15 @@
         "version": "3.0.39"
     },
     {
+        "id": "8B0AC7A2-11DB-43DF-96AF-D6193A2DCEFE",
+        "name": "gold",
+        "codepoint": "F027A",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.6.95"
+    },
+    {
         "id": "80A4F47A-3512-4C76-AA10-C0232C57E624",
         "name": "golf",
         "codepoint": "F822",
