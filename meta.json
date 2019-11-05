@@ -29377,6 +29377,15 @@
         "version": "3.9.97"
     },
     {
+        "id": "06C5C86B-2918-4501-B247-890B18874E8E",
+        "name": "home-lightbulb",
+        "codepoint": "F027C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.6.95"
+    },
+    {
         "id": "ECB8FF23-47EC-4038-9673-1A3A1619C071",
         "name": "home-lock",
         "codepoint": "F8EA",
