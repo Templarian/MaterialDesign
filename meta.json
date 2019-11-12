@@ -19626,7 +19626,9 @@
         "id": "50BCAB01-5182-4FBA-9F6D-62DF6872B743",
         "name": "dump-truck",
         "codepoint": "FC43",
-        "aliases": [],
+        "aliases": [
+            "tipper-lorry"
+        ],
         "tags": [
             "Transportation + Road",
             "Hardware \/ Tools"
