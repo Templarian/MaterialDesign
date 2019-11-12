@@ -52273,7 +52273,9 @@
         "id": "4F0EF72A-F2A8-4BFA-9E6F-279E159FC888",
         "name": "wall-sconce-flat",
         "codepoint": "F91C",
-        "aliases": [],
+        "aliases": [
+            "ceiling-light-flat"
+        ],
         "tags": [
             "Home Automation"
         ],
