@@ -48227,7 +48227,8 @@
         "aliases": [
             "fuel-truck",
             "oil-truck",
-            "water-truck"
+            "water-truck",
+            "tanker"
         ],
         "tags": [
             "Transportation + Road"
