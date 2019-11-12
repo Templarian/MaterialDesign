@@ -1844,7 +1844,9 @@
         "id": "04AE9704-928E-4272-B7FA-BD2ABC38ABE0",
         "name": "align-vertical-center",
         "codepoint": "F01F1",
-        "aliases": [],
+        "aliases": [
+            "align-vertical-centre"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.5.95"
