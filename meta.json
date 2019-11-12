@@ -11708,7 +11708,9 @@
         "id": "CB49A868-3317-4445-BFED-13CB6533000E",
         "name": "car-side",
         "codepoint": "F7AA",
-        "aliases": [],
+        "aliases": [
+            "car-saloon"
+        ],
         "tags": [
             "Transportation + Road",
             "Automotive"
