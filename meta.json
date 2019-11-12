@@ -21160,7 +21160,9 @@
         "id": "89350468-16D8-4F39-AA78-C3E00EE8FB2C",
         "name": "eyedropper",
         "codepoint": "F20A",
-        "aliases": [],
+        "aliases": [
+            "pipette"
+        ],
         "tags": [
             "Color"
         ],
