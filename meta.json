@@ -42993,7 +42993,8 @@
         "name": "rv-truck",
         "codepoint": "F01FF",
         "aliases": [
-            "recreational-vehicle"
+            "recreational-vehicle",
+            "campervan"
         ],
         "tags": [
             "Transportation + Road"
