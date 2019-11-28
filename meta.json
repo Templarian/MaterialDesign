@@ -33233,6 +33233,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "DF9ACF3F-5AF0-4F55-845C-569018942B95",
+        "name": "magnify-scan",
+        "codepoint": "F02A1",
+        "aliases": [],
+        "tags": [],
+        "author": "Sascha Wohlgemuth",
+        "version": "4.7.95"
+    },
+    {
         "id": "269E49C3-261D-42CD-8EFA-FD76C0BA7B7C",
         "name": "mail",
         "codepoint": "FED8",
