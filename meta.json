@@ -50923,6 +50923,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "42696369-BAF9-4854-A57D-355F89630929",
+        "name": "truck-fast-outline",
+        "codepoint": "F02C7",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.7.95"
+    },
+    {
         "id": "6F488FA3-B882-443D-8619-0124217E267C",
         "name": "truck-trailer",
         "codepoint": "F726",
