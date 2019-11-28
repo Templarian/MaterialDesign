@@ -33537,6 +33537,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "360866E5-D407-4E54-9470-7ECF6759F941",
+        "name": "map-marker-multiple-outline",
+        "codepoint": "F02A2",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.7.95"
+    },
+    {
         "id": "92410469-09D9-4C29-AC79-CD0DF882D05F",
         "name": "map-marker-off",
         "codepoint": "F351",
