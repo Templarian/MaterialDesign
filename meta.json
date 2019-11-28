@@ -14653,6 +14653,15 @@
         "version": "2.2.43"
     },
     {
+        "id": "CE6923D5-218F-4817-B904-E03A842CE696",
+        "name": "clipboard-file",
+        "codepoint": "F0290",
+        "aliases": [],
+        "tags": [],
+        "author": "frankgrinaert",
+        "version": "4.7.95"
+    },
+    {
         "id": "5A450EF8-D2F0-4F32-8D10-A606DD847E19",
         "name": "clipboard-flow",
         "codepoint": "F6C7",
