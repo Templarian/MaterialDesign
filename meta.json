@@ -8912,6 +8912,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "562F5DDE-E65C-4ACC-98B7-54C0D5406AED",
+        "name": "bookshelf",
+        "codepoint": "F028A",
+        "aliases": [],
+        "tags": [],
+        "author": "Thomas de Saint-Exup\u00e9ry",
+        "version": "4.7.95"
+    },
+    {
         "id": "D24517D5-27A6-4BE4-B9C8-C575A1431310",
         "name": "boom-gate",
         "codepoint": "FEA3",
