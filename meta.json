@@ -14818,6 +14818,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "37090A31-A50D-43AB-92C4-BFB2C17273E6",
+        "name": "clipboard-text-multiple",
+        "codepoint": "F0296",
+        "aliases": [],
+        "tags": [],
+        "author": "frankgrinaert",
+        "version": "4.7.95"
+    },
+    {
         "id": "9C5136D5-E614-4DBD-AB36-EBB044178B6D",
         "name": "clipboard-text-outline",
         "codepoint": "FA37",
