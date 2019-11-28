@@ -47293,6 +47293,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "2B9ACC0A-EA3D-478D-935E-EAFA8F8580CF",
+        "name": "star-box-multiple-outline",
+        "codepoint": "F02B2",
+        "aliases": [],
+        "tags": [],
+        "author": "Yaroslav Bandura",
+        "version": "4.7.95"
+    },
+    {
         "id": "B22FEE66-3EC9-466A-9014-EF53030FA3D9",
         "name": "star-box-outline",
         "codepoint": "FA73",
