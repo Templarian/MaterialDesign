@@ -44119,6 +44119,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "A312AB96-5A12-4223-AF67-7067653E17E5",
+        "name": "select-marker",
+        "codepoint": "F02AB",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.7.95"
+    },
+    {
         "id": "B2C462E1-44F0-456A-8A73-919DB480D978",
         "name": "select-off",
         "codepoint": "F488",
