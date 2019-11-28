@@ -25781,6 +25781,15 @@
         "version": "3.3.92"
     },
     {
+        "id": "5458AB97-471F-4A96-92E0-FB0AE72AFF33",
+        "name": "format-list-text",
+        "codepoint": "F029A",
+        "aliases": [],
+        "tags": [],
+        "author": "Yaroslav Bandura",
+        "version": "4.7.95"
+    },
+    {
         "id": "5D87D3E1-C59B-47A2-9ADE-C96FF1C7CA21",
         "name": "format-overline",
         "codepoint": "FED0",
