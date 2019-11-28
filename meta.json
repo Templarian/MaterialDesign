@@ -50253,6 +50253,19 @@
         "version": "4.7.95"
     },
     {
+        "id": "AEED3DA4-5EAF-4630-BA5B-6E4675E29FA1",
+        "name": "toy-brick-search",
+        "codepoint": "F02BD",
+        "aliases": [
+            "lego",
+            "plugin",
+            "extension"
+        ],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.7.95"
+    },
+    {
         "id": "6BF0AEDF-F822-460F-8CEB-AEF0D83815F5",
         "name": "track-light",
         "codepoint": "F913",
