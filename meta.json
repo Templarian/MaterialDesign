@@ -12409,6 +12409,15 @@
         "version": "3.3.92"
     },
     {
+        "id": "C4DA23E6-9BE6-490B-83FB-B39A3E22E9E1",
+        "name": "cash-remove",
+        "codepoint": "F028D",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.7.95"
+    },
+    {
         "id": "22ECB099-6A57-4DA8-9E42-0E3D8000C003",
         "name": "cash-usd",
         "codepoint": "F01A1",
