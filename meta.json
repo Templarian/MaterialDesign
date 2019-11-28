@@ -50149,6 +50149,19 @@
         "version": "4.7.95"
     },
     {
+        "id": "6EE7FD45-3389-4007-A362-0EDB4B9DF9BD",
+        "name": "toy-brick-marker-outline",
+        "codepoint": "F02B5",
+        "aliases": [
+            "lego",
+            "plugin",
+            "extension"
+        ],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.7.95"
+    },
+    {
         "id": "6BF0AEDF-F822-460F-8CEB-AEF0D83815F5",
         "name": "track-light",
         "codepoint": "F913",
