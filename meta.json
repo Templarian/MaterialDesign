@@ -14662,6 +14662,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "B9BE1636-2925-4AA2-B21A-1EE197FA7774",
+        "name": "clipboard-file-outline",
+        "codepoint": "F0291",
+        "aliases": [],
+        "tags": [],
+        "author": "frankgrinaert",
+        "version": "4.7.95"
+    },
+    {
         "id": "5A450EF8-D2F0-4F32-8D10-A606DD847E19",
         "name": "clipboard-flow",
         "codepoint": "F6C7",
