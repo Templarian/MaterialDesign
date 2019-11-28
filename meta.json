@@ -30795,6 +30795,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "1CB38744-AE8F-4B42-ACED-10749BBF81F5",
+        "name": "inbox-full",
+        "codepoint": "F029D",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.7.95"
+    },
+    {
         "id": "6FF18A17-48D4-4173-9CBD-8DB77F5A6E2A",
         "name": "inbox-multiple",
         "codepoint": "F8AF",
