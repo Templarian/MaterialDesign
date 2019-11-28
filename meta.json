@@ -40370,6 +40370,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "B60DF8C7-F693-4E2B-B5AB-65CA6DC21A8E",
+        "name": "play-box",
+        "codepoint": "F02A5",
+        "aliases": [],
+        "tags": [],
+        "author": "frankgrinaert",
+        "version": "4.7.95"
+    },
+    {
         "id": "D0431F42-A1C2-409B-9D44-2EDDEF3F9AB3",
         "name": "play-box-outline",
         "codepoint": "F40B",
