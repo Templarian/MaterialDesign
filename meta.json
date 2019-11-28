@@ -51552,6 +51552,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "9FD568CE-B873-45FC-8F8A-8D8172FB4C7E",
+        "name": "usb-flash-drive-outline",
+        "codepoint": "F02CA",
+        "aliases": [],
+        "tags": [],
+        "author": "Yaroslav Bandura",
+        "version": "4.7.95"
+    },
+    {
         "id": "B271CD5A-6340-440A-896E-6A53BAE3B685",
         "name": "usb-port",
         "codepoint": "F021B",
