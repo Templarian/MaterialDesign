@@ -32445,6 +32445,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "0F61D2EB-5321-4D49-B9DD-4F205DA010A2",
+        "name": "lightbulb-cfl-spiral",
+        "codepoint": "F02A0",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.7.95"
+    },
+    {
         "id": "DB267C0E-F298-4380-99C8-E18FA8E06554",
         "name": "lightbulb-group",
         "codepoint": "F027E",
