@@ -30835,6 +30835,15 @@
         "version": "3.0.39"
     },
     {
+        "id": "7082C01E-4FF9-489E-BD05-53140FCD382A",
+        "name": "inbox-outline",
+        "codepoint": "F029F",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.7.95"
+    },
+    {
         "id": "1350E7BA-9354-4F62-9B21-0238E3DF4D81",
         "name": "incognito",
         "codepoint": "F5F9",
