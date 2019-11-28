@@ -4303,6 +4303,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "237B205E-C03C-424A-93F9-8C771FE01A38",
+        "name": "archive-arrow-down",
+        "codepoint": "F0284",
+        "aliases": [],
+        "tags": [],
+        "author": "frankgrinaert",
+        "version": "4.7.95"
+    },
+    {
         "id": "4B8AAB0C-9EB8-44D9-B1DF-C2EE6ACB91BE",
         "name": "archive-outline",
         "codepoint": "F0239",
