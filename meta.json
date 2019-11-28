@@ -43655,6 +43655,17 @@
         "version": "4.5.95"
     },
     {
+        "id": "C20508AC-CC67-48DF-9B05-72DE40E417AF",
+        "name": "scoreboard",
+        "codepoint": "F02A9",
+        "aliases": [],
+        "tags": [
+            "Sport"
+        ],
+        "author": "Yaroslav Bandura",
+        "version": "4.7.95"
+    },
+    {
         "id": "913EA106-BCB3-410B-A5F4-6FAAA1B79880",
         "name": "screen-rotation",
         "codepoint": "F475",
