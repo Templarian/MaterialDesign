@@ -39352,6 +39352,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "0625AC7C-AD52-4221-8F53-A9AE6DAA57BD",
+        "name": "percent-outline",
+        "codepoint": "F02A3",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.7.95"
+    },
+    {
         "id": "1DB2BD6D-830D-4A4F-8E04-94D14901895A",
         "name": "periodic-table",
         "codepoint": "F8B5",
