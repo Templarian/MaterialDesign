@@ -40924,6 +40924,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "32388085-89F4-4C2C-BE98-1AEBED8F9B95",
+        "name": "poll-box-outline",
+        "codepoint": "F02A6",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "4.7.95"
+    },
+    {
         "id": "528FF16A-C55C-43F9-8E0B-3879A209AEDE",
         "name": "polymer",
         "codepoint": "F421",
