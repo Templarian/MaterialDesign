@@ -50653,6 +50653,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "FACF04CD-2633-47EC-97BE-59A3341289C3",
+        "name": "tray-remove",
+        "codepoint": "F02C4",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.7.95"
+    },
+    {
         "id": "A0678E6D-C3D3-42AB-B9E7-C1B12D368B70",
         "name": "treasure-chest",
         "codepoint": "F725",
