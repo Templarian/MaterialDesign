@@ -51543,6 +51543,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "DB728530-EAF2-488E-8971-9567A31354DE",
+        "name": "usb-flash-drive",
+        "codepoint": "F02C9",
+        "aliases": [],
+        "tags": [],
+        "author": "Yaroslav Bandura",
+        "version": "4.7.95"
+    },
+    {
         "id": "B271CD5A-6340-440A-896E-6A53BAE3B685",
         "name": "usb-port",
         "codepoint": "F021B",
