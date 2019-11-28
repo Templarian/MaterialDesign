@@ -53380,6 +53380,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "09C341A8-067F-4CE2-96BC-D96E18334AB3",
+        "name": "water-polo",
+        "codepoint": "F02CB",
+        "aliases": [],
+        "tags": [],
+        "author": "Yaroslav Bandura",
+        "version": "4.7.95"
+    },
+    {
         "id": "06862D93-608A-4B21-9193-83FA8C6BBDCD",
         "name": "water-pump",
         "codepoint": "F58F",
