@@ -30786,6 +30786,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "B84765D3-091A-483D-A788-C0269238CF6D",
+        "name": "inbox-arrow-up-outline",
+        "codepoint": "F029C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.7.95"
+    },
+    {
         "id": "6FF18A17-48D4-4173-9CBD-8DB77F5A6E2A",
         "name": "inbox-multiple",
         "codepoint": "F8AF",
