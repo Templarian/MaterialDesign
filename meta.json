@@ -50878,6 +50878,15 @@
         "version": "3.2.89"
     },
     {
+        "id": "BCEE78F4-69D9-40FC-8174-D299610C0690",
+        "name": "truck-check-outline",
+        "codepoint": "F02C5",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.7.95"
+    },
+    {
         "id": "D0EB091D-C62C-4A93-9AE4-AE942F5738C7",
         "name": "truck-delivery",
         "codepoint": "F53E",
