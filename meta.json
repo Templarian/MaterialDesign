@@ -44128,6 +44128,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "1958E6ED-3D6C-4341-8F21-DDE80D030CEF",
+        "name": "select-multiple",
+        "codepoint": "F02AC",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.7.95"
+    },
+    {
         "id": "B2C462E1-44F0-456A-8A73-919DB480D978",
         "name": "select-off",
         "codepoint": "F488",
