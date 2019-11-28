@@ -24564,6 +24564,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "00FD0F50-240F-4654-9712-C219B0FF9A97",
+        "name": "folder-marker",
+        "codepoint": "F0298",
+        "aliases": [],
+        "tags": [
+            "Geographic Information System"
+        ],
+        "author": "Contributors",
+        "version": "4.7.95"
+    },
+    {
         "id": "B7AD0302-5738-4474-9679-AC118E566A7E",
         "name": "folder-move",
         "codepoint": "F252",
