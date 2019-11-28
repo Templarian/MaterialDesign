@@ -12353,6 +12353,15 @@
         "version": "3.5.94"
     },
     {
+        "id": "20240E77-778A-4B82-9975-585C647AE81C",
+        "name": "cash-minus",
+        "codepoint": "F028B",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.7.95"
+    },
+    {
         "id": "80D4170E-FDA3-40D0-9B05-1020D5FCA817",
         "name": "cash-multiple",
         "codepoint": "F116",
