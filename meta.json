@@ -7485,6 +7485,17 @@
         "version": "4.7.95"
     },
     {
+        "id": "66A0E28A-53F2-4E22-B14A-BADBE10E0CA9",
+        "name": "battery-off-outline",
+        "codepoint": "F0289",
+        "aliases": [],
+        "tags": [
+            "Battery"
+        ],
+        "author": "Michael Richins",
+        "version": "4.7.95"
+    },
+    {
         "id": "925B02B4-CA05-4545-A4E3-421F8412DA37",
         "name": "battery-outline",
         "codepoint": "F08E",
