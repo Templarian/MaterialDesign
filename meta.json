@@ -44218,6 +44218,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "5B06BC81-DA70-41F2-B05C-31E9BD7F571E",
+        "name": "selection-multiple-marker",
+        "codepoint": "F02AF",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.7.95"
+    },
+    {
         "id": "DE8BF55F-05A8-4CB8-86FC-63D6EAC57A6C",
         "name": "selection-off",
         "codepoint": "F776",
