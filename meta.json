@@ -7474,6 +7474,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "C0939A88-BF53-4323-A12F-E6A92F7BE327",
+        "name": "battery-off",
+        "codepoint": "F0288",
+        "aliases": [],
+        "tags": [
+            "Battery"
+        ],
+        "author": "Michael Richins",
+        "version": "4.7.95"
+    },
+    {
         "id": "925B02B4-CA05-4545-A4E3-421F8412DA37",
         "name": "battery-outline",
         "codepoint": "F08E",
