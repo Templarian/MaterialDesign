@@ -43383,6 +43383,15 @@
         "version": "2.6.95"
     },
     {
+        "id": "B12FE612-BEB7-45A2-BB7D-B04C6F33AE1B",
+        "name": "safe-square",
+        "codepoint": "F02A7",
+        "aliases": [],
+        "tags": [],
+        "author": "Yaroslav Bandura",
+        "version": "4.7.95"
+    },
+    {
         "id": "438888DA-342B-4861-95EA-026A3F4E2F95",
         "name": "safety-goggles",
         "codepoint": "FD0C",
