@@ -14633,6 +14633,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "2FB7020B-64CC-4CA8-A46E-0D3E5B65A697",
+        "name": "clipboard-check-multiple-outline",
+        "codepoint": "F028F",
+        "aliases": [],
+        "tags": [],
+        "author": "frankgrinaert",
+        "version": "4.7.95"
+    },
+    {
         "id": "6A0DFB73-2DBF-4D3C-8C6B-2B4758B11782",
         "name": "clipboard-check-outline",
         "codepoint": "F8A7",
