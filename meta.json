@@ -39558,6 +39558,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "4D938684-537A-4ED1-B227-6859EA3DADAF",
+        "name": "phone-classic-off",
+        "codepoint": "F02A4",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.7.95"
+    },
+    {
         "id": "5EF77B27-31D7-47F8-8D72-8BC040CD154E",
         "name": "phone-forward",
         "codepoint": "F3F4",
