@@ -43392,6 +43392,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "6F471894-793E-4F7F-848D-CE2AA2F4C67D",
+        "name": "safe-square-outline",
+        "codepoint": "F02A8",
+        "aliases": [],
+        "tags": [],
+        "author": "Yaroslav Bandura",
+        "version": "4.7.95"
+    },
+    {
         "id": "438888DA-342B-4861-95EA-026A3F4E2F95",
         "name": "safety-goggles",
         "codepoint": "FD0C",
