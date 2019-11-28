@@ -4312,6 +4312,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "133BA980-E797-4DB3-9C92-F59AC3DB3399",
+        "name": "archive-arrow-down-outline",
+        "codepoint": "F0285",
+        "aliases": [],
+        "tags": [],
+        "author": "frankgrinaert",
+        "version": "4.7.95"
+    },
+    {
         "id": "4B8AAB0C-9EB8-44D9-B1DF-C2EE6ACB91BE",
         "name": "archive-outline",
         "codepoint": "F0239",
