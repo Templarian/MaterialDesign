@@ -50617,6 +50617,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "A1CCEE33-5CCA-43B9-B056-23F3EAFBE506",
+        "name": "tray-alert",
+        "codepoint": "F02C0",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.7.95"
+    },
+    {
         "id": "A0678E6D-C3D3-42AB-B9E7-C1B12D368B70",
         "name": "treasure-chest",
         "codepoint": "F725",
