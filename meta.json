@@ -50644,6 +50644,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "BF55355C-56CC-4C1F-9136-D92AA0800706",
+        "name": "tray-plus",
+        "codepoint": "F02C3",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.7.95"
+    },
+    {
         "id": "A0678E6D-C3D3-42AB-B9E7-C1B12D368B70",
         "name": "treasure-chest",
         "codepoint": "F725",
