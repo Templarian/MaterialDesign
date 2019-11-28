@@ -1870,6 +1870,19 @@
         "version": "1.8.36"
     },
     {
+        "id": "76B6381F-14CA-4453-8B28-184C508D003B",
+        "name": "allergy",
+        "codepoint": "F0283",
+        "aliases": [
+            "hand",
+            "rash",
+            "germ"
+        ],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.7.95"
+    },
+    {
         "id": "0B93DD30-B279-4997-BD6D-AC86E29D34CA",
         "name": "alpha",
         "codepoint": "F02B",
