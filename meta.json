@@ -50240,6 +50240,19 @@
         "version": "4.7.95"
     },
     {
+        "id": "497261EB-0B21-4829-8659-1B1EB39043D1",
+        "name": "toy-brick-remove-outline",
+        "codepoint": "F02BC",
+        "aliases": [
+            "lego",
+            "plugin",
+            "extension"
+        ],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.7.95"
+    },
+    {
         "id": "6BF0AEDF-F822-460F-8CEB-AEF0D83815F5",
         "name": "track-light",
         "codepoint": "F913",
