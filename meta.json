@@ -14827,6 +14827,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "4FF17874-C828-4EA8-9F4D-BEAEB614D69F",
+        "name": "clipboard-text-multiple-outline",
+        "codepoint": "F0297",
+        "aliases": [],
+        "tags": [],
+        "author": "frankgrinaert",
+        "version": "4.7.95"
+    },
+    {
         "id": "9C5136D5-E614-4DBD-AB36-EBB044178B6D",
         "name": "clipboard-text-outline",
         "codepoint": "FA37",
