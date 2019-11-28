@@ -50608,6 +50608,15 @@
         "version": "2.6.95"
     },
     {
+        "id": "F9A7F6AA-7379-4215-A97A-0E2FCAF3A9ED",
+        "name": "tray",
+        "codepoint": "F02BF",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.7.95"
+    },
+    {
         "id": "A0678E6D-C3D3-42AB-B9E7-C1B12D368B70",
         "name": "treasure-chest",
         "codepoint": "F725",
