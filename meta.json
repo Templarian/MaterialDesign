@@ -12376,6 +12376,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "C2E340E3-EA0A-4726-B595-6149C8C662B8",
+        "name": "cash-plus",
+        "codepoint": "F028C",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.7.95"
+    },
+    {
         "id": "EADBBD96-B2BD-4C31-969E-BFBA6DF519B1",
         "name": "cash-refund",
         "codepoint": "FA9B",
