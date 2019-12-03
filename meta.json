@@ -7493,7 +7493,9 @@
         "name": "battery-high",
         "codepoint": "F02CE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Battery"
+        ],
         "author": "Austin Andrews",
         "version": "4.7.95"
     },
