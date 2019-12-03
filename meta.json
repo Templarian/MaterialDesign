@@ -47943,6 +47943,15 @@
         "version": "3.8.95"
     },
     {
+        "id": "6CCDB34F-9B02-4712-B615-A7E1056B534D",
+        "name": "string-lights",
+        "codepoint": "F02E5",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.7.95"
+    },
+    {
         "id": "FC46F7BD-E8E2-452C-868C-E168E13B278D",
         "name": "subdirectory-arrow-left",
         "codepoint": "F60C",
