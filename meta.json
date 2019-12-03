@@ -50307,6 +50307,19 @@
         "version": "3.3.92"
     },
     {
+        "id": "207A1D36-F4A1-4ACB-B588-7BEA51C2E285",
+        "name": "toslink",
+        "codepoint": "F02E3",
+        "aliases": [
+            "optical-audio"
+        ],
+        "tags": [
+            "Audio"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.7.95"
+    },
+    {
         "id": "E2623132-7507-4FFD-8382-E192DDC62D17",
         "name": "tournament",
         "codepoint": "F9AD",
