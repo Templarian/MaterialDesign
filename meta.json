@@ -31458,6 +31458,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "3EB07099-2309-466E-8BC0-EA835C273E37",
+        "name": "keyboard-esc",
+        "codepoint": "F02E2",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.7.95"
+    },
+    {
         "id": "512A5D44-18A8-4644-AA17-E8E026E0F1B0",
         "name": "keyboard-f1",
         "codepoint": "F02D6",
