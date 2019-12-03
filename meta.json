@@ -31476,6 +31476,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "7776F4B4-2F61-47FF-83F5-A768239E3F80",
+        "name": "keyboard-f3",
+        "codepoint": "F02D8",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.7.95"
+    },
+    {
         "id": "A7DFF78C-C6DD-4BB6-BBFA-A88242516A74",
         "name": "keyboard-off",
         "codepoint": "F310",
