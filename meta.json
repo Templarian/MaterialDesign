@@ -47952,6 +47952,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "F1B6F6EB-6D20-4C27-A631-8FAF759D183A",
+        "name": "string-lights-off",
+        "codepoint": "F02E6",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.7.95"
+    },
+    {
         "id": "FC46F7BD-E8E2-452C-868C-E168E13B278D",
         "name": "subdirectory-arrow-left",
         "codepoint": "F60C",
