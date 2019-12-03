@@ -7471,7 +7471,9 @@
         "name": "battery-heart-outline",
         "codepoint": "F023B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Battery"
+        ],
         "author": "Michael Richins",
         "version": "4.6.95"
     },
