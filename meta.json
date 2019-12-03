@@ -31476,6 +31476,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "DDF92650-C04B-4826-BD5A-FB12B06F7E6E",
+        "name": "keyboard-f11",
+        "codepoint": "F02E0",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.7.95"
+    },
+    {
         "id": "3DFC5B29-C785-4D97-A04D-E63FAD987C25",
         "name": "keyboard-f2",
         "codepoint": "F02D7",
