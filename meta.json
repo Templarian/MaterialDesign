@@ -7273,7 +7273,9 @@
         "name": "battery-charging-low",
         "codepoint": "F02CF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Battery"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.7.95"
     },
