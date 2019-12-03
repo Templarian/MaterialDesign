@@ -47950,7 +47950,11 @@
         "id": "6CCDB34F-9B02-4712-B615-A7E1056B534D",
         "name": "string-lights",
         "codepoint": "F02E5",
-        "aliases": [],
+        "aliases": [
+            "italian-lights",
+            "christmas-lights",
+            "fairy-lights"
+        ],
         "tags": [
             "Home Automation"
         ],
