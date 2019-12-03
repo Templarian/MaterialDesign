@@ -27383,6 +27383,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "FC2EE3B3-9885-4278-9BCE-491B27B4666E",
+        "name": "gesture-tap-box",
+        "codepoint": "F02D4",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.7.95"
+    },
+    {
         "id": "51E5488F-71C4-4E08-950D-EAAAB7B22D53",
         "name": "gesture-tap-button",
         "codepoint": "F02D3",
