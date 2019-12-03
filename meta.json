@@ -7460,7 +7460,9 @@
         "name": "battery-heart",
         "codepoint": "F023A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Battery"
+        ],
         "author": "Michael Richins",
         "version": "4.6.95"
     },
