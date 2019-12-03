@@ -7504,7 +7504,9 @@
         "name": "battery-low",
         "codepoint": "F02CC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Battery"
+        ],
         "author": "Austin Andrews",
         "version": "4.7.95"
     },
