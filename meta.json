@@ -47949,7 +47949,9 @@
         "name": "string-lights",
         "codepoint": "F02E5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.7.95"
     },
