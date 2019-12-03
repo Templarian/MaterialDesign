@@ -47965,7 +47965,11 @@
         "id": "F1B6F6EB-6D20-4C27-A631-8FAF759D183A",
         "name": "string-lights-off",
         "codepoint": "F02E6",
-        "aliases": [],
+        "aliases": [
+            "italian-lights-off",
+            "christmas-lights-off",
+            "fairy-lights-off"
+        ],
         "tags": [
             "Home Automation"
         ],
