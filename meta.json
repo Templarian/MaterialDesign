@@ -7450,6 +7450,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "253E4BDF-CE79-459D-B06D-915B34A12227",
+        "name": "battery-high",
+        "codepoint": "F02CE",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.7.95"
+    },
+    {
         "id": "4BDC283A-A6B7-4B2B-A18A-2B25410AF35C",
         "name": "battery-low",
         "codepoint": "F02CC",
