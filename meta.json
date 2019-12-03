@@ -7258,6 +7258,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "2BD37CBE-629C-41E8-8631-CD438C1E7704",
+        "name": "battery-charging-high",
+        "codepoint": "F02D1",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.7.95"
+    },
+    {
         "id": "C0158CBD-1F8D-491B-9825-9DB96D901908",
         "name": "battery-charging-low",
         "codepoint": "F02CF",
