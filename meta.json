@@ -29096,7 +29096,9 @@
         "name": "hexadecimal",
         "codepoint": "F02D2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.7.95"
     },
