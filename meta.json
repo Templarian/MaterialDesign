@@ -31723,6 +31723,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "9DF15E25-DE45-4D9B-8E3B-EA6D643EA0CC",
+        "name": "lan-check",
+        "codepoint": "F02D5",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.7.95"
+    },
+    {
         "id": "B52D6944-3AC2-4113-A91C-199C0CD577A6",
         "name": "lan-connect",
         "codepoint": "F318",
