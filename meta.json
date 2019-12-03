@@ -47960,7 +47960,9 @@
         "name": "string-lights-off",
         "codepoint": "F02E6",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.7.95"
     },
