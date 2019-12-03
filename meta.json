@@ -13808,7 +13808,9 @@
         "name": "cheese",
         "codepoint": "F02E4",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Thomas de Saint-Exup\u00e9ry",
         "version": "4.7.95"
     },
