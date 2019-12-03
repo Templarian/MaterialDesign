@@ -13804,6 +13804,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "618E3DC0-F776-4CFF-BE9F-D6A23D580F5B",
+        "name": "cheese",
+        "codepoint": "F02E4",
+        "aliases": [],
+        "tags": [],
+        "author": "Thomas de Saint-Exup\u00e9ry",
+        "version": "4.7.95"
+    },
+    {
         "id": "E22BD22B-9748-4CA8-A748-B5598B08A7DE",
         "name": "chef-hat",
         "codepoint": "FB58",
