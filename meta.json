@@ -7267,6 +7267,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "FD7F7486-1E30-44A5-A4B2-C908372835CD",
+        "name": "battery-charging-medium",
+        "codepoint": "F02D0",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.7.95"
+    },
+    {
         "id": "A057A8D0-A442-4948-B2BF-63CECE073AF5",
         "name": "battery-charging-outline",
         "codepoint": "F89E",
