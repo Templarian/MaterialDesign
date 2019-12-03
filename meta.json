@@ -27395,7 +27395,10 @@
         "id": "51E5488F-71C4-4E08-950D-EAAAB7B22D53",
         "name": "gesture-tap-button",
         "codepoint": "F02D3",
-        "aliases": [],
+        "aliases": [
+            "call-to-action",
+            "cta"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.7.95"
