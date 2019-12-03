@@ -31530,6 +31530,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "BBFF3508-533C-4378-B9FC-60EC20CAB214",
+        "name": "keyboard-f9",
+        "codepoint": "F02DE",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.7.95"
+    },
+    {
         "id": "A7DFF78C-C6DD-4BB6-BBFA-A88242516A74",
         "name": "keyboard-off",
         "codepoint": "F310",
