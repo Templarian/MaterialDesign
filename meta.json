@@ -7262,7 +7262,9 @@
         "name": "battery-charging-high",
         "codepoint": "F02D1",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Battery"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.7.95"
     },
