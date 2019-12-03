@@ -31485,6 +31485,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "7C97B45E-8039-41C4-A188-A21475A4FB3F",
+        "name": "keyboard-f12",
+        "codepoint": "F02E1",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.7.95"
+    },
+    {
         "id": "3DFC5B29-C785-4D97-A04D-E63FAD987C25",
         "name": "keyboard-f2",
         "codepoint": "F02D7",
