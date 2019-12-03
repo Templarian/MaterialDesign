@@ -13807,7 +13807,9 @@
         "id": "618E3DC0-F776-4CFF-BE9F-D6A23D580F5B",
         "name": "cheese",
         "codepoint": "F02E4",
-        "aliases": [],
+        "aliases": [
+            "swiss-cheese"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
