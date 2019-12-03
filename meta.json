@@ -29071,6 +29071,15 @@
         "version": "3.0.39"
     },
     {
+        "id": "4FB1FDA2-96F8-4983-83B9-470C1526042F",
+        "name": "hexadecimal",
+        "codepoint": "F02D2",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.7.95"
+    },
+    {
         "id": "229D267D-F77F-4F33-ADD4-325647EC2662",
         "name": "hexagon",
         "codepoint": "F2D8",
