@@ -948,7 +948,8 @@
             "person-add",
             "account-add",
             "person-plus",
-            "user-add"
+            "user-add",
+            "invite"
         ],
         "tags": [
             "Account \/ User",
