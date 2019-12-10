@@ -813,7 +813,8 @@
             "account-multiple-add",
             "accounts-add",
             "user-multiple-add",
-            "users-add"
+            "users-add",
+            "invite"
         ],
         "tags": [
             "Account \/ User"
