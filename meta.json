@@ -968,7 +968,8 @@
             "user-plus-outline",
             "account-add-outline",
             "person-plus-outline",
-            "user-add-outline"
+            "user-add-outline",
+            "invite"
         ],
         "tags": [
             "Account \/ User"
