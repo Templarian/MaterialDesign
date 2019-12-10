@@ -838,7 +838,8 @@
             "account-multiple-add-outline",
             "accounts-add-outline",
             "user-multiple-add-outline",
-            "users-add-outline"
+            "users-add-outline",
+            "invite"
         ],
         "tags": [
             "Account \/ User"
