@@ -34222,17 +34222,6 @@
         "version": "1.6.50"
     },
     {
-        "id": "7FB125A0-875A-4766-BFAF-02CC45226530",
-        "name": "maxcdn",
-        "codepoint": "F359",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "626FA95C-E655-44A6-BA6A-4B60CED44B6D",
         "name": "medal",
         "codepoint": "F986",
@@ -47445,6 +47434,17 @@
         "aliases": [
             "stackoverflow"
         ],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
+        "id": "7FB125A0-875A-4766-BFAF-02CC45226530",
+        "name": "stackpath",
+        "codepoint": "F359",
+        "aliases": [],
         "tags": [
             "Brand \/ Logo"
         ],
