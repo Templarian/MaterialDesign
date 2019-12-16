@@ -28241,7 +28241,8 @@
         "name": "graph-outline",
         "codepoint": "F006C",
         "aliases": [
-            "dependency"
+            "dependency",
+            "dependencies"
         ],
         "tags": [],
         "author": "Cody",
