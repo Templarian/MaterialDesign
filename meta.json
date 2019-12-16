@@ -28240,7 +28240,9 @@
         "id": "2B8A2BB1-0887-493F-A644-88015BFA507A",
         "name": "graph-outline",
         "codepoint": "F006C",
-        "aliases": [],
+        "aliases": [
+            "dependency"
+        ],
         "tags": [],
         "author": "Cody",
         "version": "4.1.95"
