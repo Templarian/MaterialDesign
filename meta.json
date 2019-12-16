@@ -28228,7 +28228,9 @@
         "id": "76AC59FA-C58D-4A55-AE8F-A351AF2CD43A",
         "name": "graph",
         "codepoint": "F006B",
-        "aliases": [],
+        "aliases": [
+            "dependency"
+        ],
         "tags": [],
         "author": "Cody",
         "version": "4.1.95"
