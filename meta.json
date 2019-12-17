@@ -21037,6 +21037,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "F29A47AC-C3B6-4568-8ADA-94C5F92F0DC0",
+        "name": "escalator-down",
+        "codepoint": "F02EB",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.8.95"
+    },
+    {
         "id": "4BA51088-9403-4E34-A829-1F31D8DE2646",
         "name": "escalator-up",
         "codepoint": "F02EA",
