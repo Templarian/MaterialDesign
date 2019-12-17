@@ -32895,7 +32895,9 @@
         "name": "lightbulb-multiple-outline",
         "codepoint": "F0281",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Richins",
         "version": "4.6.95"
     },
