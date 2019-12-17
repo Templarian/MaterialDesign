@@ -20157,7 +20157,9 @@
         "name": "elevator-up",
         "codepoint": "F02EC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Other"
+        ],
         "author": "Austin Andrews",
         "version": "4.8.95"
     },
