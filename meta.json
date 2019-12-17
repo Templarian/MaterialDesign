@@ -53748,7 +53748,9 @@
         "name": "water-polo",
         "codepoint": "F02CB",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Yaroslav Bandura",
         "version": "4.7.95"
     },
