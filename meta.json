@@ -15347,6 +15347,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "A56D0A20-FC19-455F-B1E8-3CA24270957A",
+        "name": "cloud-check-outline",
+        "codepoint": "F02F7",
+        "aliases": [],
+        "tags": [
+            "Cloud"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "06BCD41B-8BFF-43C0-88A1-69F262C51C5F",
         "name": "cloud-circle",
         "codepoint": "F161",
