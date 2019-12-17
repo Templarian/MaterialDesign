@@ -27141,7 +27141,9 @@
         "name": "garage-alert-variant",
         "codepoint": "F0300",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
