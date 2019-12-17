@@ -15354,7 +15354,9 @@
         "name": "cloud-lock",
         "codepoint": "F021C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Cloud"
+        ],
         "author": "Michael Richins",
         "version": "4.5.95"
     },
