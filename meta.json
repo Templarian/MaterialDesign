@@ -27137,6 +27137,15 @@
         "version": "2.1.99"
     },
     {
+        "id": "25425A4D-48BD-4139-BA72-81D0DAB54020",
+        "name": "garage-alert-variant",
+        "codepoint": "F0300",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "6B34986A-5D17-4C64-9840-994B66EC00AB",
         "name": "garage-open",
         "codepoint": "F6D9",
