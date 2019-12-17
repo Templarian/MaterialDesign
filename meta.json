@@ -35383,6 +35383,17 @@
         "version": "2.5.94"
     },
     {
+        "id": "E04B6974-751D-4A55-9309-02336DDB5070",
+        "name": "monitor-edit",
+        "codepoint": "F02F1",
+        "aliases": [],
+        "tags": [
+            "Edit \/ Modify"
+        ],
+        "author": "Michael Richins",
+        "version": "4.8.95"
+    },
+    {
         "id": "59544B54-B690-47F4-AE30-4A9D9FE08FD1",
         "name": "monitor-lock",
         "codepoint": "FDB7",
