@@ -52236,7 +52236,9 @@
         "name": "vector-polyline-edit",
         "codepoint": "F0250",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Edit \/ Modify"
+        ],
         "author": "Contributors",
         "version": "4.6.95"
     },
