@@ -20134,6 +20134,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "8EA26066-2C66-4A38-996B-8F23E288E0B7",
+        "name": "elevator-up",
+        "codepoint": "F02EC",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.8.95"
+    },
+    {
         "id": "0CAAACF8-3D1C-4CCA-A3E4-3590CDEEC5D6",
         "name": "ellipse",
         "codepoint": "FEBD",
