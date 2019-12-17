@@ -27170,7 +27170,9 @@
         "name": "garage-variant",
         "codepoint": "F02FE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
