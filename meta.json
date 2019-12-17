@@ -32862,7 +32862,9 @@
         "name": "lightbulb-group",
         "codepoint": "F027E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Richins",
         "version": "4.6.95"
     },
