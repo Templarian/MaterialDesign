@@ -54306,6 +54306,15 @@
         "version": "2.4.85"
     },
     {
+        "id": "93CDBDF3-A4BE-4ADE-9179-171FA94726A6",
+        "name": "whistle-outline",
+        "codepoint": "F02E7",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.8.95"
+    },
+    {
         "id": "2FE12EF0-B5CE-4ADB-9B1B-3F796F0EDE0E",
         "name": "white-balance-auto",
         "codepoint": "F5A5",
