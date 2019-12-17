@@ -20135,7 +20135,9 @@
         "name": "elevator",
         "codepoint": "F1ED",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Other"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
