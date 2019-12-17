@@ -21037,6 +21037,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "4BA51088-9403-4E34-A829-1F31D8DE2646",
+        "name": "escalator-up",
+        "codepoint": "F02EA",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.8.95"
+    },
+    {
         "id": "9D305B93-7722-4784-A9D3-8F64824A67AB",
         "name": "eslint",
         "codepoint": "FC56",
