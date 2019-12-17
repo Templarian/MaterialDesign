@@ -27161,7 +27161,9 @@
         "name": "garage-open-variant",
         "codepoint": "F02FF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
