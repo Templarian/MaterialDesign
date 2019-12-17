@@ -13422,6 +13422,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "ABE1573F-24A9-4AC1-9ADB-6A9A32FB10AA",
+        "name": "chat-sleep-outline",
+        "codepoint": "F02FD",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "F789CE44-7EA3-4E97-88FB-BEC22EB2030C",
         "name": "check",
         "codepoint": "F12C",
