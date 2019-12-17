@@ -47494,6 +47494,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "8F09C6B0-DFE8-4700-A90A-476EFA6454F4",
+        "name": "stairs-up",
+        "codepoint": "F02E8",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.8.95"
+    },
+    {
         "id": "2D9C68D6-6DFA-42CC-B69C-E28011FC2BF7",
         "name": "stamper",
         "codepoint": "FD15",
