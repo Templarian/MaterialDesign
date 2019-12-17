@@ -54380,7 +54380,9 @@
         "name": "whistle-outline",
         "codepoint": "F02E7",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Michael Richins",
         "version": "4.8.95"
     },
