@@ -54369,7 +54369,9 @@
         "name": "whistle",
         "codepoint": "F9B5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Michael Richins",
         "version": "2.4.85"
     },
