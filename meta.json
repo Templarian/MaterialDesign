@@ -13371,6 +13371,17 @@
         "version": "3.0.39"
     },
     {
+        "id": "C0C2065A-8B0C-4DE2-AD4E-D909080FFB42",
+        "name": "chat-alert-outline",
+        "codepoint": "F02F4",
+        "aliases": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "E6394813-3C45-4D08-A207-9008A2E5CECB",
         "name": "chat-outline",
         "codepoint": "FEFB",
