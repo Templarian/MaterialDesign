@@ -32733,7 +32733,9 @@
         "name": "lightbulb-cfl-off",
         "codepoint": "F0234",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.6.95"
     },
