@@ -13413,6 +13413,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "4B555315-27A3-4DD2-8A85-0F05260CDA33",
+        "name": "chat-sleep",
+        "codepoint": "F02FC",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "F789CE44-7EA3-4E97-88FB-BEC22EB2030C",
         "name": "check",
         "codepoint": "F12C",
