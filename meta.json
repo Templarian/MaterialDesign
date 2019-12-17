@@ -47548,7 +47548,9 @@
         "name": "stairs-down",
         "codepoint": "F02E9",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Other"
+        ],
         "author": "Austin Andrews",
         "version": "4.8.95"
     },
