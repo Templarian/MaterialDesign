@@ -20146,7 +20146,9 @@
         "name": "elevator-down",
         "codepoint": "F02ED",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Other"
+        ],
         "author": "Austin Andrews",
         "version": "4.8.95"
     },
