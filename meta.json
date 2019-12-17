@@ -47559,7 +47559,9 @@
         "name": "stairs-up",
         "codepoint": "F02E8",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Other"
+        ],
         "author": "Austin Andrews",
         "version": "4.8.95"
     },
