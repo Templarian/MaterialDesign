@@ -32906,7 +32906,9 @@
         "name": "lightbulb-off",
         "codepoint": "FE32",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Contributors",
         "version": "3.6.95"
     },
