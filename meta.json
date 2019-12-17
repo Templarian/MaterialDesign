@@ -32722,7 +32722,9 @@
         "name": "lightbulb-cfl",
         "codepoint": "F0233",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "GreenTurtwig",
         "version": "4.6.95"
     },
