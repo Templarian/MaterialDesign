@@ -21078,7 +21078,9 @@
         "name": "escalator-up",
         "codepoint": "F02EA",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Other"
+        ],
         "author": "Austin Andrews",
         "version": "4.8.95"
     },
