@@ -13375,7 +13375,9 @@
         "id": "95003FC4-C655-4687-AF82-660A49B95978",
         "name": "chat-processing",
         "codepoint": "FB57",
-        "aliases": [],
+        "aliases": [
+            "chat-typing"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "3.0.39"
@@ -50244,7 +50246,7 @@
             "Tooltip",
             "Edit \/ Modify"
         ],
-        "author": "Austin Andrews",
+        "author": "Michael Irigoyen",
         "version": "1.5.54"
     },
     {
