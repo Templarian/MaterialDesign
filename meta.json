@@ -30047,7 +30047,9 @@
         "name": "home-remove",
         "codepoint": "F0272",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.6.95"
     },
