@@ -29897,7 +29897,9 @@
         "name": "home-lightbulb-outline",
         "codepoint": "F027D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Richins",
         "version": "4.6.95"
     },
