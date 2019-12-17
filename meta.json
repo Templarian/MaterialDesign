@@ -47537,7 +47537,9 @@
         "name": "stairs",
         "codepoint": "F4CD",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Other"
+        ],
         "author": "Cody",
         "version": "1.5.54"
     },
