@@ -1645,7 +1645,9 @@
         "name": "alert-circle-check",
         "codepoint": "F0218",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Austin Andrews",
         "version": "4.5.95"
     },
