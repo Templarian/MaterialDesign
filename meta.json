@@ -32884,7 +32884,9 @@
         "name": "lightbulb-multiple",
         "codepoint": "F0280",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Richins",
         "version": "4.6.95"
     },
