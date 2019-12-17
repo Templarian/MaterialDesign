@@ -16151,6 +16151,17 @@
         "version": "4.5.95"
     },
     {
+        "id": "3A7903C6-EA94-4FF6-8B95-FECC91058756",
+        "name": "comment-edit-outline",
+        "codepoint": "F02EF",
+        "aliases": [],
+        "tags": [
+            "Edit \/ Modify"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "7CDBE4A1-9E98-419D-A309-4ECB9476DA12",
         "name": "comment-eye",
         "codepoint": "FA39",
