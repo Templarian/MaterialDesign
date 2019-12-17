@@ -32924,6 +32924,17 @@
         "version": "4.8.95"
     },
     {
+        "id": "827B8418-9667-4429-A4D3-7C0553D1946E",
+        "name": "lightbulb-multiple-off-outline",
+        "codepoint": "F02FB",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "7AAEC297-D587-4D13-9397-50C8C93B48C8",
         "name": "lightbulb-multiple-outline",
         "codepoint": "F0281",
