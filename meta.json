@@ -7684,7 +7684,9 @@
         "name": "beaker-alert",
         "codepoint": "F0254",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Austin Andrews",
         "version": "4.6.95"
     },
