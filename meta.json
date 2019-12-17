@@ -32873,7 +32873,9 @@
         "name": "lightbulb-group-outline",
         "codepoint": "F027F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Richins",
         "version": "4.6.95"
     },
