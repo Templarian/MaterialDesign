@@ -29886,7 +29886,9 @@
         "name": "home-lightbulb",
         "codepoint": "F027C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Richins",
         "version": "4.6.95"
     },
