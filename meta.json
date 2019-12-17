@@ -27148,6 +27148,15 @@
         "version": "1.8.36"
     },
     {
+        "id": "11A3EA2E-E0A4-435D-B53D-55EB0E8A5F10",
+        "name": "garage-variant",
+        "codepoint": "F02FE",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "7CEC48C5-3A70-4BA2-9FB8-A383387DC4A1",
         "name": "gas-cylinder",
         "codepoint": "F647",
