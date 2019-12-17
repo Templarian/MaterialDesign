@@ -32869,6 +32869,17 @@
         "version": "4.6.95"
     },
     {
+        "id": "CA2B5020-40AD-44C1-8868-F14927FCD535",
+        "name": "lightbulb-group-off",
+        "codepoint": "F02F8",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "C4751630-A657-4A0B-89C5-6FD3037A8CD6",
         "name": "lightbulb-group-outline",
         "codepoint": "F027F",
