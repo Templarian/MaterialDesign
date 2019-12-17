@@ -21056,7 +21056,9 @@
         "name": "escalator",
         "codepoint": "F1FF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Other"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
