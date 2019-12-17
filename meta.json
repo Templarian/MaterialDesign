@@ -20491,6 +20491,18 @@
         "version": "4.3.95"
     },
     {
+        "id": "72B2D41E-42AA-44E7-8F1E-42AC62577F73",
+        "name": "email-sync",
+        "codepoint": "F02F2",
+        "aliases": [
+            "email-refresh",
+            "email-resend"
+        ],
+        "tags": [],
+        "author": "Cody",
+        "version": "4.8.95"
+    },
+    {
         "id": "80BB05EB-8F75-4205-9952-60B09204A9F6",
         "name": "email-variant",
         "codepoint": "F5F0",
