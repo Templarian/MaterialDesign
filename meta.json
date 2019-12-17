@@ -51009,7 +51009,9 @@
         "name": "tray-alert",
         "codepoint": "F02C0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Michael Richins",
         "version": "4.7.95"
     },
