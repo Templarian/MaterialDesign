@@ -1656,7 +1656,9 @@
         "name": "alert-circle-check-outline",
         "codepoint": "F0219",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Austin Andrews",
         "version": "4.5.95"
     },
