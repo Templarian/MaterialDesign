@@ -32775,6 +32775,17 @@
         "version": "4.7.95"
     },
     {
+        "id": "49D60773-F400-491A-AD3F-B50110089F63",
+        "name": "lightbulb-cfl-spiral-off",
+        "codepoint": "F02EE",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "DB267C0E-F298-4380-99C8-E18FA8E06554",
         "name": "lightbulb-group",
         "codepoint": "F027E",
