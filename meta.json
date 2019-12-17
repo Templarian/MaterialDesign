@@ -15365,7 +15365,9 @@
         "name": "cloud-lock-outline",
         "codepoint": "F021D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Cloud"
+        ],
         "author": "Michael Richins",
         "version": "4.5.95"
     },
