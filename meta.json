@@ -46785,6 +46785,17 @@
         "version": "3.8.95"
     },
     {
+        "id": "017BAEB6-E5B4-4BEF-8CA3-D0ABA689DE2C",
+        "name": "snowflake-melt",
+        "codepoint": "F02F6",
+        "aliases": [
+            "defrost"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "50B6D484-E7DC-4B88-9981-9C962C9A9EB6",
         "name": "snowflake-variant",
         "codepoint": "FF47",
