@@ -27905,7 +27905,9 @@
         "name": "globe-light",
         "codepoint": "F0302",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
