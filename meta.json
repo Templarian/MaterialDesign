@@ -12876,7 +12876,9 @@
         "name": "cellphone-nfc-off",
         "codepoint": "F0303",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
