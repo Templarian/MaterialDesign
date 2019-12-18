@@ -32639,7 +32639,9 @@
         "name": "leaf-off",
         "codepoint": "F0304",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Nature"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
