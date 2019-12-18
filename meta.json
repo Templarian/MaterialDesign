@@ -12905,7 +12905,9 @@
         "name": "cellphone-play",
         "codepoint": "F0041",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
         "author": "Google",
         "version": "4.1.95"
     },
