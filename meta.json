@@ -32630,7 +32630,9 @@
         "name": "leaf-maple-off",
         "codepoint": "F0305",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Nature"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
