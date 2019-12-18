@@ -34080,6 +34080,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "0283CCF3-BC73-4642-92FA-38E62D635368",
+        "name": "map-marker-left-outline",
+        "codepoint": "F0308",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "34DD1168-3875-4F77-9C0B-5BCFFB80FBBD",
         "name": "map-marker-minus",
         "codepoint": "F650",
