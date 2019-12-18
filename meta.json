@@ -32626,6 +32626,15 @@
         "version": "3.2.89"
     },
     {
+        "id": "D1DE0E7A-928A-430D-BD2B-B80C9FA2D2F4",
+        "name": "leaf-maple-off",
+        "codepoint": "F0305",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "96F48C59-4C64-4584-9E07-73AAD3533FAA",
         "name": "leaf-off",
         "codepoint": "F0304",
