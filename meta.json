@@ -34127,7 +34127,9 @@
         "name": "map-marker-multiple-outline",
         "codepoint": "F02A2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Austin Andrews",
         "version": "4.7.95"
     },
