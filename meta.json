@@ -32626,6 +32626,15 @@
         "version": "3.2.89"
     },
     {
+        "id": "96F48C59-4C64-4584-9E07-73AAD3533FAA",
+        "name": "leaf-off",
+        "codepoint": "F0304",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "D648ECFA-B185-4041-8B54-6D1C125CD08E",
         "name": "leak",
         "codepoint": "FDB3",
