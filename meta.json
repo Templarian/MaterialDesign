@@ -15522,8 +15522,19 @@
         "tags": [
             "Cloud"
         ],
-        "author": "Cody",
+        "author": "Michael Irigoyen",
         "version": "1.6.50"
+    },
+    {
+        "id": "FA6B7B54-7817-40EE-9A64-3D30EAC0F4CF",
+        "name": "cloud-sync-outline",
+        "codepoint": "F0301",
+        "aliases": [],
+        "tags": [
+            "Cloud"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
     },
     {
         "id": "AE3A5033-BA77-4E82-BFD0-4C23275B602F",
