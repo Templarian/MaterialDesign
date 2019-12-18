@@ -34226,6 +34226,15 @@
         "version": "3.8.95"
     },
     {
+        "id": "445C4B6D-5A56-42F3-845F-92C22A11BB64",
+        "name": "map-marker-right",
+        "codepoint": "F0307",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "0C1B9015-C0F4-4710-87D2-BA7B710943F2",
         "name": "map-marker-up",
         "codepoint": "F012E",
