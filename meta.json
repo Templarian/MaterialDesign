@@ -34090,7 +34090,9 @@
         "name": "map-marker-left-outline",
         "codepoint": "F0308",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
