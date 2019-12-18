@@ -27892,6 +27892,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "A498671D-3C09-4874-B7BA-3F371208F4A0",
+        "name": "globe-light",
+        "codepoint": "F0302",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "3E5EE2B1-AE6A-4675-BBAB-1D6B70FBFC36",
         "name": "globe-model",
         "codepoint": "F8E8",
