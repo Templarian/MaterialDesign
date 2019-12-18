@@ -12854,7 +12854,9 @@
         "name": "cellphone-message-off",
         "codepoint": "F00FD",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
         "author": "Terren",
         "version": "4.3.95"
     },
