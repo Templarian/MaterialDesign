@@ -864,7 +864,8 @@
         "name": "account-multiple-remove",
         "codepoint": "F0235",
         "aliases": [
-            "user-multiple-remove"
+            "user-multiple-remove",
+            "person-multiple-remove"
         ],
         "tags": [
             "Account \/ User"
