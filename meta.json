@@ -312,6 +312,22 @@
         "version": "4.8.95"
     },
     {
+        "id": "D2CDB839-C734-46EA-A4DE-085CBF29DD0F",
+        "name": "account-cancel-outline",
+        "codepoint": "F030B",
+        "aliases": [
+            "user-cancel-outline",
+            "user-block-outline",
+            "person-cancel-outline",
+            "person-block-outline"
+        ],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Cody",
+        "version": "4.8.95"
+    },
+    {
         "id": "4ACD18FB-87D4-46F1-9231-8BD0A91867A9",
         "name": "account-card-details",
         "codepoint": "F5D2",
