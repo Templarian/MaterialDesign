@@ -874,7 +874,9 @@
         "id": "618B092A-7228-4E70-A95C-7EB4EC1BA2FB",
         "name": "account-multiple-remove-outline",
         "codepoint": "F0236",
-        "aliases": [],
+        "aliases": [
+            "user-multiple-remove-outline"
+        ],
         "tags": [
             "Account \/ User"
         ],
