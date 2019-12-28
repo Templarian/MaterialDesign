@@ -747,7 +747,8 @@
             "accounts-tick-outline",
             "users-check-outline",
             "users-tick-outline",
-            "user-multiple-tick-outline"
+            "user-multiple-tick-outline",
+            "person-multiple-check-outline"
         ],
         "tags": [
             "Account \/ User"
