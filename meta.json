@@ -296,6 +296,22 @@
         "version": "1.5.54"
     },
     {
+        "id": "31CE9FF1-9698-4ED6-8E9B-392840E55DDE",
+        "name": "account-cancel",
+        "codepoint": "F030A",
+        "aliases": [
+            "user-cancel",
+            "user-block",
+            "person-cancel",
+            "person-block"
+        ],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Cody",
+        "version": "4.8.95"
+    },
+    {
         "id": "4ACD18FB-87D4-46F1-9231-8BD0A91867A9",
         "name": "account-card-details",
         "codepoint": "F5D2",
