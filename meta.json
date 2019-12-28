@@ -875,7 +875,8 @@
         "name": "account-multiple-remove-outline",
         "codepoint": "F0236",
         "aliases": [
-            "user-multiple-remove-outline"
+            "user-multiple-remove-outline",
+            "person-multiple-remove-outline"
         ],
         "tags": [
             "Account \/ User"
