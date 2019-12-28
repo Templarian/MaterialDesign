@@ -661,7 +661,8 @@
         "aliases": [
             "account-security-outline",
             "account-secure-outline",
-            "person-lock-outline"
+            "person-lock-outline",
+            "user-lock-outline"
         ],
         "tags": [
             "Account \/ User",
