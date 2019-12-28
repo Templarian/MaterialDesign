@@ -863,7 +863,9 @@
         "id": "998E10E4-B96A-4DB2-9793-3E1C31D42501",
         "name": "account-multiple-remove",
         "codepoint": "F0235",
-        "aliases": [],
+        "aliases": [
+            "user-multiple-remove"
+        ],
         "tags": [
             "Account \/ User"
         ],
