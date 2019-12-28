@@ -740,7 +740,9 @@
         "id": "4391B451-368F-4E41-82C5-63A89A2CDE69",
         "name": "account-multiple-check-outline",
         "codepoint": "F0229",
-        "aliases": [],
+        "aliases": [
+            "user-multiple-check-outline"
+        ],
         "tags": [
             "Account \/ User"
         ],
