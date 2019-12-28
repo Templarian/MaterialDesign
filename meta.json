@@ -743,7 +743,8 @@
         "aliases": [
             "user-multiple-check-outline",
             "account-multiple-tick-outline",
-            "accounts-check-outline"
+            "accounts-check-outline",
+            "accounts-tick-outline"
         ],
         "tags": [
             "Account \/ User"
