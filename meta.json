@@ -22223,6 +22223,17 @@
         "version": "4.8.95"
     },
     {
+        "id": "90AB6510-AEEC-4C00-BCFD-71B3F6E591CC",
+        "name": "file-clock-outline",
+        "codepoint": "F030D",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Cody",
+        "version": "4.8.95"
+    },
+    {
         "id": "452A53B0-3718-4483-ABB0-2897EBE97312",
         "name": "file-cloud",
         "codepoint": "F217",
