@@ -742,7 +742,8 @@
         "codepoint": "F0229",
         "aliases": [
             "user-multiple-check-outline",
-            "account-multiple-tick-outline"
+            "account-multiple-tick-outline",
+            "accounts-check-outline"
         ],
         "tags": [
             "Account \/ User"
