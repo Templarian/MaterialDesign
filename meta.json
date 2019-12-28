@@ -25266,6 +25266,17 @@
         "version": "3.3.92"
     },
     {
+        "id": "58AC43F6-6A0B-43AC-B681-A68B6714B4F1",
+        "name": "folder-table",
+        "codepoint": "F030E",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Cody",
+        "version": "4.8.95"
+    },
+    {
         "id": "2A24B473-B162-4B0E-9723-6867EEA702A9",
         "name": "folder-text",
         "codepoint": "FC5E",
