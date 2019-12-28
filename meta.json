@@ -30678,6 +30678,21 @@
         "version": "1.9.32"
     },
     {
+        "id": "97D5D644-DB37-4DA8-8B37-444B242A88EF",
+        "name": "hydro-power",
+        "codepoint": "F0310",
+        "aliases": [
+            "hydraulic-turbine",
+            "water-turbine",
+            "watermill"
+        ],
+        "tags": [
+            "Device \/ Tech"
+        ],
+        "author": "Austin Andrews",
+        "version": "4.8.95"
+    },
+    {
         "id": "C8D5186F-BF39-40DA-9F7A-747DB166EABD",
         "name": "ice-cream",
         "codepoint": "F829",
