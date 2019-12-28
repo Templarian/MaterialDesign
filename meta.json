@@ -643,7 +643,8 @@
         "codepoint": "F0189",
         "aliases": [
             "account-security",
-            "account-secure"
+            "account-secure",
+            "user-lock"
         ],
         "tags": [
             "Account \/ User",
