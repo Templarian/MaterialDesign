@@ -13709,6 +13709,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "8F505717-7778-4909-81E9-0714F01B44AF",
+        "name": "checkbox-blank-off",
+        "codepoint": "F0317",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "C7D0E43D-6393-429B-BDCE-B522419B7B3D",
         "name": "checkbox-blank-outline",
         "codepoint": "F131",
