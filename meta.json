@@ -31461,6 +31461,15 @@
         "version": "3.6.95"
     },
     {
+        "id": "A360D72F-7DC7-4E24-B7F0-1856C918CB8A",
+        "name": "iobroker",
+        "codepoint": "F0313",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.8.95"
+    },
+    {
         "id": "4560EF32-158B-40B1-829E-A078219A808A",
         "name": "ip",
         "codepoint": "FA5E",
