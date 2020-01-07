@@ -13718,6 +13718,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "06F6526C-6D2A-45F5-A5DF-46860DE27EAC",
+        "name": "checkbox-blank-off-outline",
+        "codepoint": "F0318",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "C7D0E43D-6393-429B-BDCE-B522419B7B3D",
         "name": "checkbox-blank-outline",
         "codepoint": "F131",
