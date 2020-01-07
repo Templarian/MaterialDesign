@@ -19964,6 +19964,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "BAD1F323-E74E-4E04-A1F6-4CCC7CAC2E34",
+        "name": "drag-vertical-variant",
+        "codepoint": "F031C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "ACAF4137-3EA8-4B7C-A1DB-C34759C70A5D",
         "name": "drama-masks",
         "codepoint": "FCDE",
