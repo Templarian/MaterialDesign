@@ -19937,6 +19937,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "FA5B1F76-C0C4-4F08-B545-D28E78781F67",
+        "name": "drag-horizontal-variant",
+        "codepoint": "F031B",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "4.8.95"
+    },
+    {
         "id": "5B3C7AEE-2539-4DD7-AA86-D5B3ED1EB097",
         "name": "drag-variant",
         "codepoint": "FB6C",
