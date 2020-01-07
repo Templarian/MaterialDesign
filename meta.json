@@ -31503,7 +31503,9 @@
         "name": "iobroker",
         "codepoint": "F0313",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
         "author": "Contributors",
         "version": "4.8.95"
     },
