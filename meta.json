@@ -10188,6 +10188,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "103BB26D-356A-4F6D-9F98-787CEC908FAD",
+        "name": "bulma",
+        "codepoint": "F0312",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.8.95"
+    },
+    {
         "id": "F6516F38-B29E-4CC9-A7E2-706817121D45",
         "name": "bus",
         "codepoint": "F0E7",
