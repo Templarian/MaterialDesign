@@ -10192,7 +10192,9 @@
         "name": "bulma",
         "codepoint": "F0312",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Contributors",
         "version": "4.8.95"
     },
