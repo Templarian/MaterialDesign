@@ -38685,6 +38685,15 @@
         "version": "3.5.94"
     },
     {
+        "id": "53021908-1FB5-4293-896E-94C5330E6101",
+        "name": "oci",
+        "codepoint": "F0314",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.8.95"
+    },
+    {
         "id": "2943D362-A548-448C-A868-19E6D37C8B2D",
         "name": "ocr",
         "codepoint": "F0165",
