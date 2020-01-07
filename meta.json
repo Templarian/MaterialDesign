@@ -38745,7 +38745,9 @@
         "aliases": [
             "open-container-initiative"
         ],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Contributors",
         "version": "4.8.95"
     },
