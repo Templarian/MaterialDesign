@@ -19703,6 +19703,17 @@
         "version": "2.1.19"
     },
     {
+        "id": "91D0BB43-E5D4-4F0B-89E7-B379A6F9A455",
+        "name": "doorbell",
+        "codepoint": "F0311",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "63848BB0-8CBA-491A-9D3A-5964BAA67CC2",
         "name": "doorbell-video",
         "codepoint": "F868",
