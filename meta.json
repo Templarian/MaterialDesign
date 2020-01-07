@@ -47941,6 +47941,15 @@
         "version": "2.5.94"
     },
     {
+        "id": "19F3DC9F-4861-4220-944C-8BE8D543902B",
+        "name": "square-off",
+        "codepoint": "F0319",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "5ED659B5-F175-445F-950D-0B4DDAB3F8B3",
         "name": "square-outline",
         "codepoint": "F762",
