@@ -32186,6 +32186,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "62FCE66D-4003-4B22-8C47-501947EA4CC8",
+        "name": "label-percent",
+        "codepoint": "F0315",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "3A54255E-EDE1-4622-87F4-9FCB31B1B688",
         "name": "label-variant",
         "codepoint": "FACC",
