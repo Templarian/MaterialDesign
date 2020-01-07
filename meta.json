@@ -38688,7 +38688,9 @@
         "id": "53021908-1FB5-4293-896E-94C5330E6101",
         "name": "oci",
         "codepoint": "F0314",
-        "aliases": [],
+        "aliases": [
+            "open-container-initiative"
+        ],
         "tags": [],
         "author": "Contributors",
         "version": "4.8.95"
