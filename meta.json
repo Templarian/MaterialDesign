@@ -34483,6 +34483,18 @@
         "version": "3.8.95"
     },
     {
+        "id": "75FDE93C-EB66-4824-9F96-1B4212BDA785",
+        "name": "map-marker-remove-outline",
+        "codepoint": "F0325",
+        "aliases": [],
+        "tags": [
+            "Geographic Information System",
+            "Navigation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "D19361A0-41AB-4E11-B4D4-AE50D42B3B2C",
         "name": "map-marker-remove-variant",
         "codepoint": "FF27",
