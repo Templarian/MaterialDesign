@@ -18144,6 +18144,17 @@
         "version": "2.7.94"
     },
     {
+        "id": "91AD02DB-7EBD-4B39-AACB-8037B50728AC",
+        "name": "database-marker",
+        "codepoint": "F0321",
+        "aliases": [],
+        "tags": [
+            "Geographic Information System"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "31CE0431-ABF2-4650-8439-515C0E9012CD",
         "name": "database-minus",
         "codepoint": "F1B9",
