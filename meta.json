@@ -34411,6 +34411,18 @@
         "version": "1.6.50"
     },
     {
+        "id": "C1F80E9D-2408-46FC-9E92-AE61A8D5C650",
+        "name": "map-marker-plus-outline",
+        "codepoint": "F0323",
+        "aliases": [],
+        "tags": [
+            "Geographic Information System",
+            "Navigation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "C9930FE9-E831-4194-A4FA-905CE141CFEA",
         "name": "map-marker-question",
         "codepoint": "FF24",
