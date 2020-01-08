@@ -35080,6 +35080,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "BEDCDC33-9EAE-46D2-B380-80A6B47B400C",
+        "name": "message-arrow-right-outline",
+        "codepoint": "F0320",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "1EC9427A-2A02-4F74-9C1B-C4EC5E62B793",
         "name": "message-bulleted",
         "codepoint": "F6A1",
