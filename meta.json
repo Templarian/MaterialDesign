@@ -35071,6 +35071,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "3292CBC5-7E1D-405F-A8CD-BAB528B88D45",
+        "name": "message-arrow-right",
+        "codepoint": "F031F",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "1EC9427A-2A02-4F74-9C1B-C4EC5E62B793",
         "name": "message-bulleted",
         "codepoint": "F6A1",
