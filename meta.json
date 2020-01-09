@@ -34400,7 +34400,9 @@
         "name": "map-marker-off-outline",
         "codepoint": "F0328",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
