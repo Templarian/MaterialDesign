@@ -34259,6 +34259,15 @@
         "version": "3.2.89"
     },
     {
+        "id": "76C82A3D-F79E-46D9-8234-456F39A35567",
+        "name": "map-marker-check-outline",
+        "codepoint": "F0326",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "03F79839-314C-4F29-B3E3-43B97D7F7FA6",
         "name": "map-marker-circle",
         "codepoint": "F34F",
