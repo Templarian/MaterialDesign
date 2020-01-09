@@ -34486,7 +34486,9 @@
         "name": "map-marker-radius-outline",
         "codepoint": "F0327",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
