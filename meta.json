@@ -34263,7 +34263,9 @@
         "name": "map-marker-check-outline",
         "codepoint": "F0326",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
