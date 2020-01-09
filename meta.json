@@ -34480,6 +34480,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "865AB612-D546-431D-85A8-52C305B263F8",
+        "name": "map-marker-radius-outline",
+        "codepoint": "F0327",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "8BC7ABEC-FE5F-4C2F-889C-8C8804DD12E4",
         "name": "map-marker-remove",
         "codepoint": "FF26",
