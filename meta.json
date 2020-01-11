@@ -17688,6 +17688,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "FEA3388A-F985-482C-8CE0-0B4ABCD31691",
+        "name": "cup-outline",
+        "codepoint": "F033A",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "4.8.95"
+    },
+    {
         "id": "AC4AD054-775A-4D59-BF92-A57A6A952607",
         "name": "cup-water",
         "codepoint": "F1AB",
