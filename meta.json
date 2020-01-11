@@ -1272,6 +1272,15 @@
         "version": "4.3.95"
     },
     {
+        "id": "7EAF1288-141D-4C8E-91E6-891D04BAE32C",
+        "name": "account-tie-voice",
+        "codepoint": "F0333",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "CABA2832-65F9-4196-9681-51C5E2C1CFB2",
         "name": "accusoft",
         "codepoint": "F849",
