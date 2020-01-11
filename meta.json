@@ -17705,7 +17705,9 @@
         "name": "cup-outline",
         "codepoint": "F033A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Cody",
         "version": "4.8.95"
     },
