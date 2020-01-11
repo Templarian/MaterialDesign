@@ -9630,6 +9630,15 @@
         "version": "2.1.99"
     },
     {
+        "id": "B04C5F90-A3FB-4A60-B773-25AE19D293C7",
+        "name": "bottle-wine-outline",
+        "codepoint": "F033B",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "4.8.95"
+    },
+    {
         "id": "741B300C-06EF-459D-BB3E-95DB8E21194E",
         "name": "bow-tie",
         "codepoint": "F677",
