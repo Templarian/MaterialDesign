@@ -31797,7 +31797,9 @@
         "name": "kettlebell",
         "codepoint": "F032B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
