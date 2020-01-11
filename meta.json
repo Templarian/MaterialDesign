@@ -24466,6 +24466,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "1BB3488A-A7B4-4DA5-99A2-AD23A184606B",
+        "name": "fleur-de-lis",
+        "codepoint": "F032E",
+        "aliases": [],
+        "tags": [],
+        "author": "Nick",
+        "version": "4.8.95"
+    },
+    {
         "id": "D9CEAAB0-32D3-4A42-A0F3-74B1FC50E9F0",
         "name": "flickr",
         "codepoint": "FCE3",
