@@ -1281,6 +1281,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "F835F775-8FC4-4E85-9B26-7C95F8F45B05",
+        "name": "account-tie-voice-off",
+        "codepoint": "F0335",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "5712C24C-E8EE-48CD-9E6F-9712AD2BA502",
         "name": "account-tie-voice-outline",
         "codepoint": "F0334",
