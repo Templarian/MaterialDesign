@@ -9636,7 +9636,9 @@
         "name": "bottle-wine-outline",
         "codepoint": "F033B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Cody",
         "version": "4.8.95"
     },
