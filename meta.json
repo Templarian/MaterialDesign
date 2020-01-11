@@ -10211,6 +10211,17 @@
         "version": "4.8.95"
     },
     {
+        "id": "8428337D-0DED-4E4D-8F89-326FCAD97884",
+        "name": "bunk-bed",
+        "codepoint": "F032D",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Cody",
+        "version": "4.8.95"
+    },
+    {
         "id": "F6516F38-B29E-4CC9-A7E2-706817121D45",
         "name": "bus",
         "codepoint": "F0E7",
