@@ -47429,6 +47429,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "C2A03E16-166E-4FAA-A5DB-462CE38C44FE",
+        "name": "snowboard",
+        "codepoint": "F0332",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "5675A747-D467-473E-9A1D-1C61E1B5C619",
         "name": "snowflake",
         "codepoint": "F716",
