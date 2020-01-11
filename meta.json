@@ -16069,6 +16069,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "DC66752A-65C6-461D-AAA6-65E8389E7D3B",
+        "name": "coffee-to-go-outline",
+        "codepoint": "F0339",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "4.8.95"
+    },
+    {
         "id": "AC6E8289-8D3C-4CE0-ADA6-D17DC639B7FB",
         "name": "coffin",
         "codepoint": "FB5B",
