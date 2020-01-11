@@ -537,6 +537,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "BED42D20-9EEE-4297-81DC-A72F2F9D935D",
+        "name": "account-convert-outline",
+        "codepoint": "F032C",
+        "aliases": [],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Cody",
+        "version": "4.8.95"
+    },
+    {
         "id": "3696B7DF-3E12-44EF-B27F-E171AEB5241F",
         "name": "account-details",
         "codepoint": "F631",
