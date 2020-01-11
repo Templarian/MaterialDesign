@@ -28139,7 +28139,9 @@
         "name": "glass-pint-outline",
         "codepoint": "F0338",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Cody",
         "version": "4.8.95"
     },
