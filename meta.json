@@ -30759,7 +30759,7 @@
         "tags": [
             "Device \/ Tech"
         ],
-        "author": "Austin Andrews",
+        "author": "Contributors",
         "version": "4.8.95"
     },
     {
@@ -40332,6 +40332,20 @@
         ],
         "author": "Cody",
         "version": "2.2.43"
+    },
+    {
+        "id": "F3FDFD25-C4F6-4ECF-8F8B-C460E4C6BD7C",
+        "name": "periodic-table-co",
+        "codepoint": "F0329",
+        "aliases": [
+            "carbon-monoxide"
+        ],
+        "tags": [
+            "Home Automation",
+            "Science"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
     },
     {
         "id": "6F7A0011-054A-4805-A970-A48BEAA9454B",
