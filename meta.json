@@ -47004,7 +47004,9 @@
         "name": "ski-cross-country",
         "codepoint": "F0330",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
