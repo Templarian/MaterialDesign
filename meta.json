@@ -31956,6 +31956,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "7A79C7BB-6669-46CA-8AB0-E3B537D83EA2",
+        "name": "key-arrow-right",
+        "codepoint": "F033D",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "FEEA71CA-4810-46DD-B459-6D9327720D17",
         "name": "key-change",
         "codepoint": "F307",
