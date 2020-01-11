@@ -31793,6 +31793,15 @@
         "version": "3.9.97"
     },
     {
+        "id": "E3220479-E885-4EDD-9678-E60F670DFBAA",
+        "name": "kettlebell",
+        "codepoint": "F032B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "D6208581-CF7F-438A-8578-B6ADEE462212",
         "name": "key",
         "codepoint": "F306",
