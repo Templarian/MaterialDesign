@@ -31712,6 +31712,17 @@
         "version": "2.4.85"
     },
     {
+        "id": "FC2D912E-451A-4AE8-8399-67F116ED12D9",
+        "name": "jump-rope",
+        "codepoint": "F032A",
+        "aliases": [],
+        "tags": [
+            "Sport"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "24CB8442-6875-4A22-A265-0C625118C7E7",
         "name": "kabaddi",
         "codepoint": "FD63",
