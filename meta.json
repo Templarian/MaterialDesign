@@ -20300,6 +20300,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "E6C7261B-1CC0-41EA-844B-0DA761CDCC12",
+        "name": "earth-arrow-right",
+        "codepoint": "F033C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "3F4C3330-49D5-4F2B-8FCC-A3448BEF521E",
         "name": "earth-box",
         "codepoint": "F6CC",
