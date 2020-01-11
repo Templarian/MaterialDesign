@@ -16084,7 +16084,9 @@
         "name": "coffee-to-go-outline",
         "codepoint": "F0339",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Cody",
         "version": "4.8.95"
     },
