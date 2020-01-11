@@ -28100,6 +28100,15 @@
         "version": "4.3.95"
     },
     {
+        "id": "AFF2782E-A558-40EF-9B8C-787BAE055D57",
+        "name": "glass-pint-outline",
+        "codepoint": "F0338",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "4.8.95"
+    },
+    {
         "id": "E26942A0-61AE-4D1A-941C-895D92E94C5D",
         "name": "glass-stange",
         "codepoint": "F2A7",
