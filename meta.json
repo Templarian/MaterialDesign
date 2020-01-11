@@ -47007,6 +47007,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "51D8DB1F-FA7C-4527-AD8E-495024CD4E2D",
+        "name": "ski-water",
+        "codepoint": "F0331",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "45260E4C-E8EB-4E35-85A8-F19A91FE1A2C",
         "name": "skip-backward",
         "codepoint": "F4AB",
