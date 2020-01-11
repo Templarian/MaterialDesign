@@ -1276,7 +1276,9 @@
         "name": "account-tie-voice",
         "codepoint": "F0333",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
