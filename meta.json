@@ -1298,7 +1298,9 @@
         "name": "account-tie-voice-off-outline",
         "codepoint": "F0336",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
