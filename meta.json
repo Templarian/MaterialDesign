@@ -31980,6 +31980,15 @@
         "version": "3.9.97"
     },
     {
+        "id": "B976C4B0-D50C-49ED-B072-CD8E8A38A4AF",
+        "name": "kettle-steam",
+        "codepoint": "F0344",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "E3220479-E885-4EDD-9678-E60F670DFBAA",
         "name": "kettlebell",
         "codepoint": "F032B",
