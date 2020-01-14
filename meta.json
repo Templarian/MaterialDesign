@@ -31950,7 +31950,11 @@
         "id": "123DA4E5-7243-4495-8CE4-2CDA32A65C01",
         "name": "kettle-alert",
         "codepoint": "F0342",
-        "aliases": [],
+        "aliases": [
+            "tea-kettle-alert",
+            "kettle-full-alert",
+            "tea-kettle-full-alert"
+        ],
         "tags": [
             "Home Automation",
             "Alert \/ Error"
