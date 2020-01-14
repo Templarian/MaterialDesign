@@ -28970,7 +28970,9 @@
         "name": "hail",
         "codepoint": "FAC0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Google",
         "version": "2.7.94"
     },
