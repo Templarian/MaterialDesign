@@ -32039,7 +32039,11 @@
         "id": "6D9BDFFF-63EE-45DE-A6F5-712B0EE12534",
         "name": "kettle-steam-outline",
         "codepoint": "F0345",
-        "aliases": [],
+        "aliases": [
+            "tea-kettle-steam-outline",
+            "kettle-empty-steam",
+            "tea-kettle-empty-steam"
+        ],
         "tags": [
             "Home Automation"
         ],
