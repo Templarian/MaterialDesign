@@ -20576,7 +20576,9 @@
         "name": "email-alert-outline",
         "codepoint": "FD1E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Michael Irigoyen",
         "version": "3.4.93"
     },
