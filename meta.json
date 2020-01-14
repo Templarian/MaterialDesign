@@ -31964,6 +31964,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "A28C7FA8-2D3A-482A-ADC8-46391CF201E1",
+        "name": "kettle-off",
+        "codepoint": "F0346",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "FCE0A2B1-414F-4E9F-AF73-F878AE890F38",
         "name": "kettle-outline",
         "codepoint": "FF73",
