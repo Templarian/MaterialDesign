@@ -17865,7 +17865,9 @@
         "name": "currency-eur-off",
         "codepoint": "F0340",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Currency"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
