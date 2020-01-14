@@ -31997,7 +31997,11 @@
         "id": "15C6F7FE-65D4-4116-AF5C-7A171407E460",
         "name": "kettle-off-outline",
         "codepoint": "F0347",
-        "aliases": [],
+        "aliases": [
+            "tea-kettle-off-outline",
+            "kettle-empty-off",
+            "tea-kettle-empty-off"
+        ],
         "tags": [
             "Home Automation"
         ],
