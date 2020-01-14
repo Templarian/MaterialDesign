@@ -15116,6 +15116,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "4662F629-FEF3-4F7A-A901-56FF827CF051",
+        "name": "clipboard-plus-outline",
+        "codepoint": "F034A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "8E3D93CC-DE0A-4828-AC9A-9A6CFD932978",
         "name": "clipboard-pulse",
         "codepoint": "F85C",
