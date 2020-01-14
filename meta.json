@@ -45441,6 +45441,18 @@
         "version": "4.6.95"
     },
     {
+        "id": "43AB1D06-4033-4F02-8147-B692F4534174",
+        "name": "semantic-web",
+        "codepoint": "F0341",
+        "aliases": [],
+        "tags": [
+            "Developer \/ Languages",
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "4.8.95"
+    },
+    {
         "id": "6791A1E4-DBF8-471C-AA27-0D4540A23678",
         "name": "send",
         "codepoint": "F48A",
