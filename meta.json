@@ -36392,7 +36392,9 @@
         "name": "mother-heart",
         "codepoint": "F033F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "People \/ Family"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
