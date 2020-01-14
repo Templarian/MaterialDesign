@@ -9821,6 +9821,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "3889AEB1-7257-4D20-ACD4-78CB27879639",
+        "name": "briefcase-check-outline",
+        "codepoint": "F0349",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "1BC68384-3EB0-4296-A3B2-9F348DD7AF1E",
         "name": "briefcase-clock",
         "codepoint": "F00FB",
