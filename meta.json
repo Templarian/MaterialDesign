@@ -32016,7 +32016,11 @@
         "id": "B976C4B0-D50C-49ED-B072-CD8E8A38A4AF",
         "name": "kettle-steam",
         "codepoint": "F0344",
-        "aliases": [],
+        "aliases": [
+            "tea-kettle-steam",
+            "kettle-full-steam",
+            "tea-kettle-full-steam"
+        ],
         "tags": [
             "Home Automation"
         ],
