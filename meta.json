@@ -27488,7 +27488,8 @@
         "codepoint": "F0300",
         "aliases": [],
         "tags": [
-            "Home Automation"
+            "Home Automation",
+            "Alert \/ Error"
         ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
