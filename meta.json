@@ -31955,6 +31955,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "4F1F1AC0-68D1-4C74-8F03-DF6EBC2C8B29",
+        "name": "kettle-alert-outline",
+        "codepoint": "F0343",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "FCE0A2B1-414F-4E9F-AF73-F878AE890F38",
         "name": "kettle-outline",
         "codepoint": "FF73",
