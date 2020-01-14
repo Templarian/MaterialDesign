@@ -50047,7 +50047,8 @@
         "name": "taxi",
         "codepoint": "F4FF",
         "aliases": [
-            "local-taxi"
+            "local-taxi",
+            "cab"
         ],
         "tags": [
             "Transportation + Road"
