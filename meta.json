@@ -28970,7 +28970,8 @@
         "name": "hail",
         "codepoint": "FAC0",
         "aliases": [
-            "hail-taxi"
+            "hail-taxi",
+            "hail-cab"
         ],
         "tags": [
             "Transportation + Road"
