@@ -31966,7 +31966,11 @@
         "id": "4F1F1AC0-68D1-4C74-8F03-DF6EBC2C8B29",
         "name": "kettle-alert-outline",
         "codepoint": "F0343",
-        "aliases": [],
+        "aliases": [
+            "tea-kettle-alert-outline",
+            "kettle-empty-alert",
+            "tea-kettle-empty-alert"
+        ],
         "tags": [
             "Home Automation",
             "Alert \/ Error"
