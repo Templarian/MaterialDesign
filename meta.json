@@ -31946,6 +31946,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "123DA4E5-7243-4495-8CE4-2CDA32A65C01",
+        "name": "kettle-alert",
+        "codepoint": "F0342",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "FCE0A2B1-414F-4E9F-AF73-F878AE890F38",
         "name": "kettle-outline",
         "codepoint": "FF73",
