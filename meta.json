@@ -25859,6 +25859,15 @@
         "version": "3.6.95"
     },
     {
+        "id": "C6D32152-B2F3-43D3-A78E-D69CBDC5E054",
+        "name": "format-color-marker-cancel",
+        "codepoint": "F033E",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "D28EF658-3CE7-4F5B-99B3-50F60F5B0BA0",
         "name": "format-color-text",
         "codepoint": "F69D",
