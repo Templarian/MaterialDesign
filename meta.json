@@ -32021,7 +32021,9 @@
         "name": "kettle-steam-outline",
         "codepoint": "F0345",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
