@@ -45537,7 +45537,13 @@
         "id": "43AB1D06-4033-4F02-8147-B692F4534174",
         "name": "semantic-web",
         "codepoint": "F0341",
-        "aliases": [],
+        "aliases": [
+            "rdf",
+            "resource-description-framework",
+            "owl",
+            "web-ontology-language",
+            "w3c"
+        ],
         "tags": [
             "Developer \/ Languages",
             "Brand \/ Logo"
