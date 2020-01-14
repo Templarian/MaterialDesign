@@ -28974,7 +28974,8 @@
             "hail-cab"
         ],
         "tags": [
-            "Transportation + Road"
+            "Transportation + Road",
+            "Navigation"
         ],
         "author": "Google",
         "version": "2.7.94"
