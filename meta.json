@@ -25873,7 +25873,9 @@
         "id": "C6D32152-B2F3-43D3-A78E-D69CBDC5E054",
         "name": "format-color-marker-cancel",
         "codepoint": "F033E",
-        "aliases": [],
+        "aliases": [
+            "format-color-redact"
+        ],
         "tags": [
             "Text \/ Content \/ Format"
         ],
