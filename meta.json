@@ -32010,7 +32010,9 @@
         "name": "kettle-steam",
         "codepoint": "F0344",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
