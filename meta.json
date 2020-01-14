@@ -47200,7 +47200,9 @@
         "name": "simple-icons",
         "codepoint": "F0348",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
         "author": "Contributors",
         "version": "4.8.95"
     },
