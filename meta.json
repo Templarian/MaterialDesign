@@ -25874,7 +25874,9 @@
         "name": "format-color-marker-cancel",
         "codepoint": "F033E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
