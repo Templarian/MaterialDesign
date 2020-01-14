@@ -28969,7 +28969,9 @@
         "id": "B4AC04DD-9F29-4F55-ABB6-A4AE4F272EC4",
         "name": "hail",
         "codepoint": "FAC0",
-        "aliases": [],
+        "aliases": [
+            "hail-taxi"
+        ],
         "tags": [
             "Transportation + Road"
         ],
