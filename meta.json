@@ -31950,7 +31950,9 @@
         "name": "kettle-alert",
         "codepoint": "F0342",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
