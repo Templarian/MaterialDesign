@@ -17861,6 +17861,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "010841EE-1569-425A-9849-9FC6E4D05C3B",
+        "name": "currency-eur-off",
+        "codepoint": "F0340",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "F9BD830F-EBB6-45A4-A576-0DEC27084A95",
         "name": "currency-gbp",
         "codepoint": "F1AE",
