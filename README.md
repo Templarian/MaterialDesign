@@ -33,8 +33,8 @@ Submit icon suggestions through the issue tab. Please include examples.
 
 ### Third Party (Plugins / Extensions / etc)
 
-- [Third Party Guide](http://dev.materialdesignicons.com/contribute/first-party)
-- [First Party Guide](http://dev.materialdesignicons.com/contribute/third-party)
+- [Third Party Guide](http://dev.materialdesignicons.com/contribute/third-party)
+- [First Party Guide](http://dev.materialdesignicons.com/contribute/first-party)
 
 ## License
 
