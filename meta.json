@@ -29075,7 +29075,7 @@
         "tags": [
             "Hardware \/ Tools"
         ],
-        "author": "Nick",
+        "author": "Google",
         "version": "2.3.50"
     },
     {
@@ -35205,7 +35205,9 @@
         "id": "626FA95C-E655-44A6-BA6A-4B60CED44B6D",
         "name": "medal",
         "codepoint": "F986",
-        "aliases": [],
+        "aliases": [
+            "award"
+        ],
         "tags": [
             "Gaming \/ RPG",
             "Sport"
