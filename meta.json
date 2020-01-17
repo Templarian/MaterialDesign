@@ -29599,7 +29599,9 @@
         "id": "86AC6B0F-62ED-4691-88DB-A95DF86CBFF9",
         "name": "head-flash",
         "codepoint": "F036B",
-        "aliases": [],
+        "aliases": [
+            "head-ache"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.9.95"
