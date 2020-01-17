@@ -29116,6 +29116,19 @@
         "version": "4.9.95"
     },
     {
+        "id": "86D5756B-DE86-4273-A475-4E2D9856B0C3",
+        "name": "hammer-wrench",
+        "codepoint": "F034E",
+        "aliases": [
+            "tools"
+        ],
+        "tags": [
+            "Hardware \/ Tools"
+        ],
+        "author": "Google",
+        "version": "4.9.95"
+    },
+    {
         "id": "C30FC465-2DF1-4716-AAC9-F48213F23D65",
         "name": "hand",
         "codepoint": "FA4E",
