@@ -27,7 +27,9 @@
         "id": "FC508376-0233-498A-ABF8-B289241031FF",
         "name": "abjad-hebrew",
         "codepoint": "F0354",
-        "aliases": [],
+        "aliases": [
+            "writing-system-hebrew"
+        ],
         "tags": [
             "Alpha \/ Numeric"
         ],
