@@ -31189,7 +31189,8 @@
         "name": "ideogram-cjk",
         "codepoint": "F035C",
         "aliases": [
-            "ideogram-chinese-japanese-korean"
+            "ideogram-chinese-japanese-korean",
+            "writing-system-cjk"
         ],
         "tags": [
             "Alpha \/ Numeric"
