@@ -29508,6 +29508,15 @@
         "version": "3.4.93"
     },
     {
+        "id": "783B2BB8-1ECA-4E19-8F45-9FCC8D749F99",
+        "name": "head-alert",
+        "codepoint": "F0363",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.9.95"
+    },
+    {
         "id": "51F72F83-1559-4037-8BF9-2D8AE3BCB1A8",
         "name": "headphones",
         "codepoint": "F2CB",
