@@ -20007,6 +20007,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "F70D7D6A-B496-4182-A423-939E2CCF21AC",
+        "name": "download-lock",
+        "codepoint": "F034B",
+        "aliases": [],
+        "tags": [
+            "Lock"
+        ],
+        "author": "Michael Richins",
+        "version": "4.9.95"
+    },
+    {
         "id": "EEECC393-B78C-43DE-BDA4-F31DACA25F56",
         "name": "download-multiple",
         "codepoint": "F9E8",
