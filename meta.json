@@ -29566,7 +29566,9 @@
         "id": "C4C50873-9844-42F6-A37B-16FE905873D9",
         "name": "head-cog-outline",
         "codepoint": "F0368",
-        "aliases": [],
+        "aliases": [
+            "psychology-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.9.95"
