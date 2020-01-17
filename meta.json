@@ -3928,7 +3928,9 @@
         "id": "07851190-1E8F-43D3-A5BF-01A120C0A3FB",
         "name": "alphabet-latin",
         "codepoint": "F035A",
-        "aliases": [],
+        "aliases": [
+            "writing-system-latin"
+        ],
         "tags": [
             "Alpha \/ Numeric"
         ],
