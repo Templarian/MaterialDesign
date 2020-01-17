@@ -3889,6 +3889,17 @@
         "version": "4.9.95"
     },
     {
+        "id": "197B613F-AF17-41DE-B2A6-7FCB8D86C366",
+        "name": "alphabet-cyrillic",
+        "codepoint": "F0358",
+        "aliases": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
+        "author": "Haley Halcyon",
+        "version": "4.9.95"
+    },
+    {
         "id": "EAD8BAC5-EE7C-4553-9316-F45094CF9C7A",
         "name": "alphabetical",
         "codepoint": "F02C",
