@@ -42152,6 +42152,17 @@
         "version": "2.1.99"
     },
     {
+        "id": "5767EA8C-592F-4CEF-A01D-52F3CD0D111E",
+        "name": "pipe-wrench",
+        "codepoint": "F037F",
+        "aliases": [],
+        "tags": [
+            "Hardware \/ Tools"
+        ],
+        "author": "Google",
+        "version": "4.9.95"
+    },
+    {
         "id": "5CDFFABD-F3B4-4E4D-97A3-F8B1AE403809",
         "name": "pirate",
         "codepoint": "FA07",
