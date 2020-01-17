@@ -3902,7 +3902,9 @@
         "id": "197B613F-AF17-41DE-B2A6-7FCB8D86C366",
         "name": "alphabet-cyrillic",
         "codepoint": "F0358",
-        "aliases": [],
+        "aliases": [
+            "writing-system-cyrillic"
+        ],
         "tags": [
             "Alpha \/ Numeric"
         ],
