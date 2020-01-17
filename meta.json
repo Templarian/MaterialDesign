@@ -22,6 +22,17 @@
         "version": "4.9.95"
     },
     {
+        "id": "FC508376-0233-498A-ABF8-B289241031FF",
+        "name": "abjad-hebrew",
+        "codepoint": "F0354",
+        "aliases": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
+        "author": "Haley Halcyon",
+        "version": "4.9.95"
+    },
+    {
         "id": "4F013652-22DE-48CF-886B-A0FB995E8B41",
         "name": "access-point",
         "codepoint": "F002",
