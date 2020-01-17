@@ -29604,6 +29604,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "619BBE2E-46B1-4FC8-91CF-13FE138FC601",
+        "name": "head-heart",
+        "codepoint": "F036D",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.9.95"
+    },
+    {
         "id": "51F72F83-1559-4037-8BF9-2D8AE3BCB1A8",
         "name": "headphones",
         "codepoint": "F2CB",
