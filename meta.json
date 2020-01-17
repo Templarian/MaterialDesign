@@ -14,7 +14,9 @@
         "id": "E20665F3-5354-46C2-9162-4202B20DCA05",
         "name": "abjad-arabic",
         "codepoint": "F0353",
-        "aliases": [],
+        "aliases": [
+            "writing-system-arabic"
+        ],
         "tags": [
             "Alpha \/ Numeric"
         ],
