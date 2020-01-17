@@ -40,7 +40,9 @@
         "id": "E211A028-22EA-4A78-9306-FC8FF8494D02",
         "name": "abugida-devanagari",
         "codepoint": "F0355",
-        "aliases": [],
+        "aliases": [
+            "writing-system-devanagari"
+        ],
         "tags": [
             "Alpha \/ Numeric"
         ],
