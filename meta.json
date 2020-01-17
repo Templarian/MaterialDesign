@@ -15620,7 +15620,8 @@
         "codepoint": "F021D",
         "aliases": [],
         "tags": [
-            "Cloud"
+            "Cloud",
+            "Lock"
         ],
         "author": "Michael Richins",
         "version": "4.5.95"
