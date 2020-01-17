@@ -29640,6 +29640,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "ACE0E86B-603A-4B3A-9AF5-D6C2F3B4F121",
+        "name": "head-minus",
+        "codepoint": "F0371",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.9.95"
+    },
+    {
         "id": "51F72F83-1559-4037-8BF9-2D8AE3BCB1A8",
         "name": "headphones",
         "codepoint": "F2CB",
