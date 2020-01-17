@@ -3900,6 +3900,17 @@
         "version": "4.9.95"
     },
     {
+        "id": "5E1EDFBD-2E67-41E1-8E23-F835614DBBD9",
+        "name": "alphabet-greek",
+        "codepoint": "F0359",
+        "aliases": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
+        "author": "Haley Halcyon",
+        "version": "4.9.95"
+    },
+    {
         "id": "EAD8BAC5-EE7C-4553-9316-F45094CF9C7A",
         "name": "alphabetical",
         "codepoint": "F02C",
