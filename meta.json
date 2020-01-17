@@ -3915,7 +3915,9 @@
         "id": "5E1EDFBD-2E67-41E1-8E23-F835614DBBD9",
         "name": "alphabet-greek",
         "codepoint": "F0359",
-        "aliases": [],
+        "aliases": [
+            "writing-system-greek"
+        ],
         "tags": [
             "Alpha \/ Numeric"
         ],
