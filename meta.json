@@ -53,7 +53,9 @@
         "id": "F782C16A-0558-4347-AB62-3E4A8DD299AD",
         "name": "abugida-thai",
         "codepoint": "F0356",
-        "aliases": [],
+        "aliases": [
+            "writing-system-thai"
+        ],
         "tags": [
             "Alpha \/ Numeric"
         ],
