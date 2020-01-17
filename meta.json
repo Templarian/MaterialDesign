@@ -29544,6 +29544,17 @@
         "version": "4.9.95"
     },
     {
+        "id": "58C540DF-30BA-449B-8426-61AD2C43959D",
+        "name": "head-cog",
+        "codepoint": "F0367",
+        "aliases": [
+            "psychology"
+        ],
+        "tags": [],
+        "author": "Google",
+        "version": "4.9.95"
+    },
+    {
         "id": "51F72F83-1559-4037-8BF9-2D8AE3BCB1A8",
         "name": "headphones",
         "codepoint": "F2CB",
