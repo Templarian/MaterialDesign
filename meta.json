@@ -35288,6 +35288,17 @@
         "version": "2.4.85"
     },
     {
+        "id": "22F9B575-7D95-46A3-BA55-625B12E75AC2",
+        "name": "medal-outline",
+        "codepoint": "F0351",
+        "aliases": [],
+        "tags": [
+            "Sport"
+        ],
+        "author": "Michael Richins",
+        "version": "4.9.95"
+    },
+    {
         "id": "7F6DF58A-C9A3-4CE7-9664-28C04218C628",
         "name": "medical-bag",
         "codepoint": "F6EE",
