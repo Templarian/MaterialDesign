@@ -30986,6 +30986,17 @@
         "version": "1.9.32"
     },
     {
+        "id": "FBFEC6FC-C311-4B53-8445-18B604AA7C12",
+        "name": "hydraulic-oil-level",
+        "codepoint": "F034F",
+        "aliases": [],
+        "tags": [
+            "Automotive"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.9.95"
+    },
+    {
         "id": "97D5D644-DB37-4DA8-8B37-444B242A88EF",
         "name": "hydro-power",
         "codepoint": "F0310",
