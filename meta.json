@@ -31203,7 +31203,8 @@
         "name": "ideogram-cjk-variant",
         "codepoint": "F035D",
         "aliases": [
-            "ideogram-chinese-japanese-korean-variant"
+            "ideogram-chinese-japanese-korean-variant",
+            "writing-system-cjk-variant"
         ],
         "tags": [
             "Alpha \/ Numeric"
