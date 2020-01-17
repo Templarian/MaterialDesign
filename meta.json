@@ -3941,7 +3941,9 @@
         "id": "169593B8-F579-4167-B49C-5F353BBABB00",
         "name": "alphabet-piqad",
         "codepoint": "F035B",
-        "aliases": [],
+        "aliases": [
+            "writing-system-piqad"
+        ],
         "tags": [
             "Alpha \/ Numeric",
             "Alpha \/ Numeric"
