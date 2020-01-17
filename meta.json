@@ -29103,6 +29103,19 @@
         "version": "2.3.50"
     },
     {
+        "id": "CDD24BC0-E8F8-4B6E-B160-BC8DABC286A9",
+        "name": "hammer-screwdriver",
+        "codepoint": "F034D",
+        "aliases": [
+            "tools"
+        ],
+        "tags": [
+            "Hardware \/ Tools"
+        ],
+        "author": "Google",
+        "version": "4.9.95"
+    },
+    {
         "id": "C30FC465-2DF1-4716-AAC9-F48213F23D65",
         "name": "hand",
         "codepoint": "FA4E",
