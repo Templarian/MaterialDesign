@@ -56209,6 +56209,15 @@
         "version": "1.8.36"
     },
     {
+        "id": "94C40C14-7BBA-4DF6-824B-6EFC9327F7E5",
+        "name": "widgets-outline",
+        "codepoint": "F0380",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "4.9.95"
+    },
+    {
         "id": "E77CF681-7DD0-4EDF-AA35-0DB80790BC03",
         "name": "wifi",
         "codepoint": "F5A9",
