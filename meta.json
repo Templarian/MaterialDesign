@@ -29577,7 +29577,9 @@
         "id": "DE191219-96D0-4189-8BE1-8F24A5E3E492",
         "name": "head-dots-horizontal",
         "codepoint": "F0369",
-        "aliases": [],
+        "aliases": [
+            "head-thinking"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.9.95"
