@@ -49743,6 +49743,17 @@
         "version": "4.9.95"
     },
     {
+        "id": "8B8AF349-F9B5-483B-90CC-387F3791AF69",
+        "name": "syllabary-hiragana",
+        "codepoint": "F035F",
+        "aliases": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
+        "author": "Haley Halcyon",
+        "version": "4.9.95"
+    },
+    {
         "id": "2BCCEE64-583D-4EC7-9BBA-72FF58354181",
         "name": "symfony",
         "codepoint": "FAE5",
