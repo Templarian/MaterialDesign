@@ -29588,7 +29588,9 @@
         "id": "E07B33BA-5E14-45A2-AE38-EA80CE0ED909",
         "name": "head-dots-horizontal-outline",
         "codepoint": "F036A",
-        "aliases": [],
+        "aliases": [
+            "head-thinking-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.9.95"
