@@ -29628,7 +29628,9 @@
         "id": "0DA85FAF-88F1-4DF1-8DA6-CB3CEFA2A505",
         "name": "head-heart-outline",
         "codepoint": "F036E",
-        "aliases": [],
+        "aliases": [
+            "head-love-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.9.95"
