@@ -20018,6 +20018,17 @@
         "version": "4.9.95"
     },
     {
+        "id": "CDB71553-149F-452B-A0DC-2CD8EFA41150",
+        "name": "download-lock-outline",
+        "codepoint": "F034C",
+        "aliases": [],
+        "tags": [
+            "Lock"
+        ],
+        "author": "Michael Richins",
+        "version": "4.9.95"
+    },
+    {
         "id": "EEECC393-B78C-43DE-BDA4-F31DACA25F56",
         "name": "download-multiple",
         "codepoint": "F9E8",
