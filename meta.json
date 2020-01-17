@@ -29741,7 +29741,10 @@
         "id": "C7A97A26-B7C3-406A-9087-2463AC624926",
         "name": "head-snowflake-outline",
         "codepoint": "F037A",
-        "aliases": [],
+        "aliases": [
+            "head-freeze-outline",
+            "brain-freeze-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.9.95"
