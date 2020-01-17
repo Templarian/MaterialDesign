@@ -33,6 +33,17 @@
         "version": "4.9.95"
     },
     {
+        "id": "E211A028-22EA-4A78-9306-FC8FF8494D02",
+        "name": "abugida-devanagari",
+        "codepoint": "F0355",
+        "aliases": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
+        "author": "Haley Halcyon",
+        "version": "4.9.95"
+    },
+    {
         "id": "4F013652-22DE-48CF-886B-A0FB995E8B41",
         "name": "access-point",
         "codepoint": "F002",
