@@ -29516,7 +29516,9 @@
         "name": "head-alert",
         "codepoint": "F0363",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.9.95"
     },
