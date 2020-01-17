@@ -29753,7 +29753,10 @@
         "id": "CB0FD2AA-6EA8-4324-8207-6C4FFCCB5143",
         "name": "head-sync",
         "codepoint": "F037B",
-        "aliases": [],
+        "aliases": [
+            "head-reload",
+            "head-refresh"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.9.95"
