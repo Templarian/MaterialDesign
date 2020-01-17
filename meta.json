@@ -49781,7 +49781,9 @@
         "id": "220577A0-1D92-46EA-8116-DF964F6C57F0",
         "name": "syllabary-katakana",
         "codepoint": "F0360",
-        "aliases": [],
+        "aliases": [
+            "writing-system-katakana"
+        ],
         "tags": [
             "Alpha \/ Numeric"
         ],
