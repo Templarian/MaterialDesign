@@ -49765,6 +49765,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "BEDFC0D3-5AC2-46E4-BD69-07048CC47710",
+        "name": "syllabary-katakana-half-width",
+        "codepoint": "F0361",
+        "aliases": [],
+        "tags": [],
+        "author": "Haley Halcyon",
+        "version": "4.9.95"
+    },
+    {
         "id": "2BCCEE64-583D-4EC7-9BBA-72FF58354181",
         "name": "symfony",
         "codepoint": "FAE5",
