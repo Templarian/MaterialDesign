@@ -50938,6 +50938,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "09374787-27B8-43D7-92CA-B35050B1FA63",
+        "name": "television-ambient-light",
+        "codepoint": "F0381",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.9.95"
+    },
+    {
         "id": "CB446614-AE63-403E-BBF8-0B0ED3E367AE",
         "name": "television-box",
         "codepoint": "F838",
