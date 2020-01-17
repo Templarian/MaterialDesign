@@ -3889,7 +3889,9 @@
         "id": "68AC0195-57C1-4759-8814-FA18DFE0351B",
         "name": "alphabet-aurebesh",
         "codepoint": "F0357",
-        "aliases": [],
+        "aliases": [
+            "writing-system-aurebesh"
+        ],
         "tags": [
             "Alpha \/ Numeric"
         ],
