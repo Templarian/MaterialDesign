@@ -50960,7 +50960,9 @@
         "name": "television-ambient-light",
         "codepoint": "F0381",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.9.95"
     },
