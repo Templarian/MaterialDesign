@@ -29765,7 +29765,10 @@
         "id": "8EC8806B-0E06-4EA4-915E-C061D4930ECC",
         "name": "head-sync-outline",
         "codepoint": "F037C",
-        "aliases": [],
+        "aliases": [
+            "head-reload-outline",
+            "head-refresh-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.9.95"
