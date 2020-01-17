@@ -29646,7 +29646,9 @@
         "id": "A7FCF7AB-00BF-404B-8AF6-B384B034B6F7",
         "name": "head-lightbulb-outline",
         "codepoint": "F0370",
-        "aliases": [],
+        "aliases": [
+            "head-idea-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.9.95"
