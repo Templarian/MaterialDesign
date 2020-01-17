@@ -49794,7 +49794,9 @@
         "id": "BEDFC0D3-5AC2-46E4-BD69-07048CC47710",
         "name": "syllabary-katakana-half-width",
         "codepoint": "F0361",
-        "aliases": [],
+        "aliases": [
+            "writing-system-katakana-half-width"
+        ],
         "tags": [],
         "author": "Haley Halcyon",
         "version": "4.9.95"
