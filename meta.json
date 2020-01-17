@@ -44290,6 +44290,20 @@
         "version": "1.5.54"
     },
     {
+        "id": "AA8B7EA9-2DB2-4591-94E0-A457373E64C1",
+        "name": "rodent",
+        "codepoint": "F0352",
+        "aliases": [
+            "mouse",
+            "rat"
+        ],
+        "tags": [
+            "Animal"
+        ],
+        "author": "Google",
+        "version": "4.9.95"
+    },
+    {
         "id": "6EFB213D-87A6-454A-AB37-AB87CE853E4B",
         "name": "roller-skate",
         "codepoint": "FD07",
