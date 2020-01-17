@@ -31387,6 +31387,21 @@
         "version": "1.9.32"
     },
     {
+        "id": "EE07113F-BD81-424C-B228-7EC802F7CFB2",
+        "name": "hvac",
+        "codepoint": "F037D",
+        "aliases": [
+            "heating",
+            "ventilation",
+            "air-conditioning"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "4.9.95"
+    },
+    {
         "id": "FBFEC6FC-C311-4B53-8445-18B604AA7C12",
         "name": "hydraulic-oil-level",
         "codepoint": "F034F",
