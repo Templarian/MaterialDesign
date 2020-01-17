@@ -44,6 +44,17 @@
         "version": "4.9.95"
     },
     {
+        "id": "F782C16A-0558-4347-AB62-3E4A8DD299AD",
+        "name": "abugida-thai",
+        "codepoint": "F0356",
+        "aliases": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
+        "author": "Haley Halcyon",
+        "version": "4.9.95"
+    },
+    {
         "id": "4F013652-22DE-48CF-886B-A0FB995E8B41",
         "name": "access-point",
         "codepoint": "F002",
