@@ -11,6 +11,17 @@
         "version": "4.0.96"
     },
     {
+        "id": "E20665F3-5354-46C2-9162-4202B20DCA05",
+        "name": "abjad-arabic",
+        "codepoint": "F0353",
+        "aliases": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
+        "author": "Haley Halcyon",
+        "version": "4.9.95"
+    },
+    {
         "id": "4F013652-22DE-48CF-886B-A0FB995E8B41",
         "name": "access-point",
         "codepoint": "F002",
