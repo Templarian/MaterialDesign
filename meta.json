@@ -29564,6 +29564,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "DE191219-96D0-4189-8BE1-8F24A5E3E492",
+        "name": "head-dots-horizontal",
+        "codepoint": "F0369",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.9.95"
+    },
+    {
         "id": "51F72F83-1559-4037-8BF9-2D8AE3BCB1A8",
         "name": "headphones",
         "codepoint": "F2CB",
