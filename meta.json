@@ -29667,6 +29667,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "FDEA8867-C576-4065-87D9-945ADE51C543",
+        "name": "head-plus-outline",
+        "codepoint": "F0374",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.9.95"
+    },
+    {
         "id": "51F72F83-1559-4037-8BF9-2D8AE3BCB1A8",
         "name": "headphones",
         "codepoint": "F2CB",
