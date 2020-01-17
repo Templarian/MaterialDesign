@@ -29658,6 +29658,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "84EDC185-89D4-4F6A-9C28-9911ADA41950",
+        "name": "head-plus",
+        "codepoint": "F0373",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.9.95"
+    },
+    {
         "id": "51F72F83-1559-4037-8BF9-2D8AE3BCB1A8",
         "name": "headphones",
         "codepoint": "F2CB",
