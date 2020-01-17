@@ -49768,7 +49768,9 @@
         "id": "8B8AF349-F9B5-483B-90CC-387F3791AF69",
         "name": "syllabary-hiragana",
         "codepoint": "F035F",
-        "aliases": [],
+        "aliases": [
+            "writing-system-hiragana"
+        ],
         "tags": [
             "Alpha \/ Numeric"
         ],
