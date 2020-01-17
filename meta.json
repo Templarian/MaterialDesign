@@ -31167,6 +31167,19 @@
         "version": "3.8.95"
     },
     {
+        "id": "86B5194A-AB94-4C20-8110-FA463B705B39",
+        "name": "ideogram-cjk",
+        "codepoint": "F035C",
+        "aliases": [
+            "ideogram-chinese-japanese-korean"
+        ],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
+        "author": "Haley Halcyon",
+        "version": "4.9.95"
+    },
+    {
         "id": "86A1CD17-B112-46F8-A076-424D528A25AA",
         "name": "iframe",
         "codepoint": "FC67",
