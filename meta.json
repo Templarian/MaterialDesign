@@ -30997,6 +30997,17 @@
         "version": "4.9.95"
     },
     {
+        "id": "54AC2207-9F8D-4A1D-B8B4-ED626D0C8C38",
+        "name": "hydraulic-oil-temperature",
+        "codepoint": "F0350",
+        "aliases": [],
+        "tags": [
+            "Automotive"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.9.95"
+    },
+    {
         "id": "97D5D644-DB37-4DA8-8B37-444B242A88EF",
         "name": "hydro-power",
         "codepoint": "F0310",
