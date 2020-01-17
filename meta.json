@@ -3958,7 +3958,9 @@
         "aliases": [
             "writing-system-tengwar"
         ],
-        "tags": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
         "author": "Haley Halcyon",
         "version": "4.9.95"
     },
