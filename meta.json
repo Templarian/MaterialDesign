@@ -43450,6 +43450,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "03A9105D-F79F-454C-9EE2-4E96A1BBA908",
+        "name": "propane-tank-outline",
+        "codepoint": "F0383",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.9.95"
+    },
+    {
         "id": "16D49AC9-5D43-4401-980B-C9DF4593838A",
         "name": "protocol",
         "codepoint": "FFF9",
