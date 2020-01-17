@@ -29593,6 +29593,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "28D19749-AD74-4017-B4B1-AFA65AA7B47F",
+        "name": "head-flash-outline",
+        "codepoint": "F036C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.9.95"
+    },
+    {
         "id": "51F72F83-1559-4037-8BF9-2D8AE3BCB1A8",
         "name": "headphones",
         "codepoint": "F2CB",
