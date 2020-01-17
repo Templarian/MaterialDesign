@@ -29610,7 +29610,9 @@
         "id": "28D19749-AD74-4017-B4B1-AFA65AA7B47F",
         "name": "head-flash-outline",
         "codepoint": "F036C",
-        "aliases": [],
+        "aliases": [
+            "head-ache-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.9.95"
