@@ -29631,6 +29631,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "A7FCF7AB-00BF-404B-8AF6-B384B034B6F7",
+        "name": "head-lightbulb-outline",
+        "codepoint": "F0370",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.9.95"
+    },
+    {
         "id": "51F72F83-1559-4037-8BF9-2D8AE3BCB1A8",
         "name": "headphones",
         "codepoint": "F2CB",
