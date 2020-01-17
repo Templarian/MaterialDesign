@@ -15608,7 +15608,8 @@
         "codepoint": "F021C",
         "aliases": [],
         "tags": [
-            "Cloud"
+            "Cloud",
+            "Lock"
         ],
         "author": "Michael Richins",
         "version": "4.5.95"
