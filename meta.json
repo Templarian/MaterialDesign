@@ -49755,7 +49755,9 @@
         "id": "9201098E-A360-4BF2-8EC7-683EB2AA7FEF",
         "name": "syllabary-hangul",
         "codepoint": "F035E",
-        "aliases": [],
+        "aliases": [
+            "writing-system-hangul"
+        ],
         "tags": [
             "Alpha \/ Numeric"
         ],
