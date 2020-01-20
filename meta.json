@@ -47000,6 +47000,15 @@
         "version": "4.5.95"
     },
     {
+        "id": "DC82606F-2ABB-4C09-BAC5-1C3C4DA38BEC",
+        "name": "shield-half",
+        "codepoint": "F038B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.9.95"
+    },
+    {
         "id": "9E908727-9325-4FC6-B8B8-C5CA52A7A827",
         "name": "shield-half-full",
         "codepoint": "F77F",
