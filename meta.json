@@ -32995,6 +32995,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "1A131BAA-CFEE-41F3-9B15-01A4A9F1B341",
+        "name": "klingon",
+        "codepoint": "F0386",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.9.95"
+    },
+    {
         "id": "AF35DB46-1B52-4721-8475-F3CD107325B4",
         "name": "knife",
         "codepoint": "F9FA",
