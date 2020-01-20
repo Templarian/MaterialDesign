@@ -25367,6 +25367,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "4D36C1AA-F109-485C-8D3C-EDDD054057AF",
+        "name": "folder-music",
+        "codepoint": "F0384",
+        "aliases": [],
+        "tags": [],
+        "author": "\u00d6zg\u00fcr G\u00f6rg\u00fcl\u00fc",
+        "version": "4.9.95"
+    },
+    {
         "id": "7C4EED9D-D897-4B8C-9C0B-FE9A9D820A2D",
         "name": "folder-network",
         "codepoint": "F86F",
