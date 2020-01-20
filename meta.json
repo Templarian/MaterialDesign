@@ -25376,6 +25376,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "629FB453-89C2-4B3F-A12E-2FDC427FCD0D",
+        "name": "folder-music-outline",
+        "codepoint": "F0385",
+        "aliases": [],
+        "tags": [],
+        "author": "\u00d6zg\u00fcr G\u00f6rg\u00fcl\u00fc",
+        "version": "4.9.95"
+    },
+    {
         "id": "7C4EED9D-D897-4B8C-9C0B-FE9A9D820A2D",
         "name": "folder-network",
         "codepoint": "F86F",
