@@ -51334,6 +51334,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "32C3C391-9B80-4659-BCB3-6653FE4E5108",
+        "name": "textbox-lock",
+        "codepoint": "F0388",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "4.9.95"
+    },
+    {
         "id": "F35B5B3C-762F-473C-B229-B6818D50E045",
         "name": "textbox-password",
         "codepoint": "F7F4",
