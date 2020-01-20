@@ -29530,6 +29530,15 @@
         "version": "3.4.93"
     },
     {
+        "id": "6C83ACD1-95E8-4DE0-837A-4C66E07533DD",
+        "name": "head",
+        "codepoint": "F0389",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.9.95"
+    },
+    {
         "id": "783B2BB8-1ECA-4E19-8F45-9FCC8D749F99",
         "name": "head-alert",
         "codepoint": "F0363",
