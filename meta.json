@@ -40400,7 +40400,7 @@
             "Drawing \/ Art",
             "Color"
         ],
-        "author": "Michael Irigoyen",
+        "author": "Google",
         "version": "4.9.95"
     },
     {
@@ -49714,6 +49714,21 @@
         ],
         "author": "Google",
         "version": "1.5.54"
+    },
+    {
+        "id": "6BF9FB77-DF50-40B5-9A93-43E2A22E8633",
+        "name": "store-outline",
+        "codepoint": "F038C",
+        "aliases": [
+            "shop-outline",
+            "store-mall-directory-outline"
+        ],
+        "tags": [
+            "Places",
+            "Shopping"
+        ],
+        "author": "Google",
+        "version": "4.9.95"
     },
     {
         "id": "CFC9D5C9-A60F-48D0-880E-71F2A06BB94D",
