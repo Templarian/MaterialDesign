@@ -40394,7 +40394,9 @@
         "name": "palette-swatch-outline",
         "codepoint": "F0387",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Drawing \/ Art"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.9.95"
     },
