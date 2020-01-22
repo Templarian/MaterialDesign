@@ -40393,7 +40393,9 @@
         "id": "3D2690B4-4A3D-4B7C-B384-1C0AB180DD0B",
         "name": "palette-swatch-outline",
         "codepoint": "F0387",
-        "aliases": [],
+        "aliases": [
+            "style-outline"
+        ],
         "tags": [
             "Drawing \/ Art",
             "Color"
