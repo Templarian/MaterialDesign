@@ -28723,6 +28723,22 @@
         "version": "1.5.54"
     },
     {
+        "id": "D9285386-5BA5-423A-8F3B-435E7A57363A",
+        "name": "google-downasaur",
+        "codepoint": "F038D",
+        "aliases": [
+            "dinosaur-pixel",
+            "t-rex",
+            "tyrannosaurus-rex"
+        ],
+        "tags": [
+            "Animal",
+            "Gaming \/ RPG"
+        ],
+        "author": "Cody",
+        "version": "4.9.95"
+    },
+    {
         "id": "EE98C0AD-0A55-4A6B-BB7A-01CBD3D819A2",
         "name": "google-drive",
         "codepoint": "F2B6",
