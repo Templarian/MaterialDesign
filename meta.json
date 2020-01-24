@@ -52814,7 +52814,9 @@
         "id": "DBA97655-B2ED-4FA6-95E0-02E7273549C9",
         "name": "transmission-tower",
         "codepoint": "FD1A",
-        "aliases": [],
+        "aliases": [
+            "pylon"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "3.3.92"
