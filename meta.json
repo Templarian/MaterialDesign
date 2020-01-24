@@ -52815,7 +52815,8 @@
         "name": "transmission-tower",
         "codepoint": "FD1A",
         "aliases": [
-            "pylon"
+            "pylon",
+            "powerline"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
