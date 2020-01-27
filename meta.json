@@ -49734,6 +49734,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "48F11F1C-7501-4EDB-B4C9-FEA63EF1C090",
+        "name": "sticker-plus",
+        "codepoint": "F0397",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "4.9.95"
+    },
+    {
         "id": "3C90040A-0B3F-4849-B21D-E16240D7A699",
         "name": "stocking",
         "codepoint": "F4DA",
