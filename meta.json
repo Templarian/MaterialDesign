@@ -49642,6 +49642,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "D2115A9A-4F13-4F9E-888D-3E8CE835A7C3",
+        "name": "sticker",
+        "codepoint": "F038F",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "4.9.95"
+    },
+    {
         "id": "F4C92E8A-A238-4F7C-B2FC-CBA914C5CE04",
         "name": "sticker-circle-outline",
         "codepoint": "F5D0",
