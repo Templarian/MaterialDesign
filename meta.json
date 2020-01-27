@@ -49660,6 +49660,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "795CD51D-0887-4AC1-B7C1-137248AE0EB3",
+        "name": "sticker-alert-outline",
+        "codepoint": "F0391",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "4.9.95"
+    },
+    {
         "id": "F4C92E8A-A238-4F7C-B2FC-CBA914C5CE04",
         "name": "sticker-circle-outline",
         "codepoint": "F5D0",
