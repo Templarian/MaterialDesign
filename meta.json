@@ -49678,6 +49678,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "4239323B-AA14-4177-8F94-AB7F1577D111",
+        "name": "sticker-check-outline",
+        "codepoint": "F0393",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "4.9.95"
+    },
+    {
         "id": "F4C92E8A-A238-4F7C-B2FC-CBA914C5CE04",
         "name": "sticker-circle-outline",
         "codepoint": "F5D0",
