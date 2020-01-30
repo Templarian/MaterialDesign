@@ -584,6 +584,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "7B40CAE5-6B01-4E2E-8F23-60ECAB9DAC9F",
+        "name": "account-cog-outline",
+        "codepoint": "F039C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.9.95"
+    },
+    {
         "id": "A6964E10-1CF0-41FA-BDCA-A77C9C6F30AF",
         "name": "account-convert",
         "codepoint": "F00A",
