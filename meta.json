@@ -592,7 +592,8 @@
         "codepoint": "F039C",
         "aliases": [],
         "tags": [
-            "Account \/ User"
+            "Account \/ User",
+            "Settings"
         ],
         "author": "Michael Irigoyen",
         "version": "4.9.95"
