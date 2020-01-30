@@ -29634,7 +29634,9 @@
         "aliases": [
             "psychology"
         ],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Google",
         "version": "4.9.95"
     },
