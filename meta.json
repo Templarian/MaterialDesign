@@ -575,6 +575,15 @@
         "version": "3.0.39"
     },
     {
+        "id": "CA7B4B4E-B909-48F5-B93B-7A024D6A9AAA",
+        "name": "account-cog",
+        "codepoint": "F039B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "4.9.95"
+    },
+    {
         "id": "A6964E10-1CF0-41FA-BDCA-A77C9C6F30AF",
         "name": "account-convert",
         "codepoint": "F00A",
