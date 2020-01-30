@@ -592,7 +592,9 @@
         "id": "7B40CAE5-6B01-4E2E-8F23-60ECAB9DAC9F",
         "name": "account-cog-outline",
         "codepoint": "F039C",
-        "aliases": [],
+        "aliases": [
+            "account-settings-outline"
+        ],
         "tags": [
             "Account \/ User",
             "Settings"
