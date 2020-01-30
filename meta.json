@@ -579,7 +579,9 @@
         "name": "account-cog",
         "codepoint": "F039B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.9.95"
     },
