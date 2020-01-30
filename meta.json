@@ -29647,7 +29647,9 @@
         "aliases": [
             "psychology-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.9.95"
     },
