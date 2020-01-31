@@ -53912,6 +53912,17 @@
         "version": "4.9.95"
     },
     {
+        "id": "AB9A1FD5-FAAC-4E6F-8B6D-D642D7066E96",
+        "name": "upload-lock-outline",
+        "codepoint": "F039F",
+        "aliases": [],
+        "tags": [
+            "Lock"
+        ],
+        "author": "Michael Richins",
+        "version": "4.9.95"
+    },
+    {
         "id": "2B1A438E-4795-43D1-B4FD-3997C8E1BA9F",
         "name": "upload-multiple",
         "codepoint": "F83C",
