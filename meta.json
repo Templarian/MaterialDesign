@@ -30903,7 +30903,9 @@
         "id": "5F0E0727-76E9-4793-9406-FD513FF7CB58",
         "name": "home-lightbulb-outline",
         "codepoint": "F027D",
-        "aliases": [],
+        "aliases": [
+            "home-bulb-outline"
+        ],
         "tags": [
             "Home Automation"
         ],
