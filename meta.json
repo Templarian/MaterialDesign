@@ -29755,7 +29755,8 @@
         "name": "head-lightbulb-outline",
         "codepoint": "F0370",
         "aliases": [
-            "head-idea-outline"
+            "head-idea-outline",
+            "head-bulb-outline"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
