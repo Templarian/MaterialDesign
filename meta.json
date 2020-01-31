@@ -53901,6 +53901,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "961ECD2E-2849-42C0-909A-5431B0273DA0",
+        "name": "upload-lock",
+        "codepoint": "F039E",
+        "aliases": [],
+        "tags": [
+            "Lock"
+        ],
+        "author": "Michael Richins",
+        "version": "4.9.95"
+    },
+    {
         "id": "2B1A438E-4795-43D1-B4FD-3997C8E1BA9F",
         "name": "upload-multiple",
         "codepoint": "F83C",
