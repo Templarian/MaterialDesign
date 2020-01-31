@@ -33166,6 +33166,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "D504ED4D-5F02-4501-A223-59BF2D4CD9EB",
+        "name": "label-multiple-outline",
+        "codepoint": "F03A1",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.9.95"
+    },
+    {
         "id": "BCBB111E-0DF2-4498-831D-E547AE9EE0FB",
         "name": "label-off",
         "codepoint": "FACA",
