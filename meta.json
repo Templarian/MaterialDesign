@@ -30890,7 +30890,9 @@
         "id": "06C5C86B-2918-4501-B247-890B18874E8E",
         "name": "home-lightbulb",
         "codepoint": "F027C",
-        "aliases": [],
+        "aliases": [
+            "home-bulb"
+        ],
         "tags": [
             "Home Automation"
         ],
