@@ -34288,7 +34288,9 @@
         "id": "02757DC7-3D66-4244-B115-C69A74D24B66",
         "name": "lightbulb-off-outline",
         "codepoint": "FE33",
-        "aliases": [],
+        "aliases": [
+            "bulb-off-outline"
+        ],
         "tags": [
             "Home Automation"
         ],
