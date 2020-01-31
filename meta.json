@@ -29743,7 +29743,8 @@
         "name": "head-lightbulb",
         "codepoint": "F036F",
         "aliases": [
-            "head-idea"
+            "head-idea",
+            "head-bulb"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
