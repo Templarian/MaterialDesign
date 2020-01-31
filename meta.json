@@ -34230,7 +34230,11 @@
         "id": "B336C5E4-48AB-4620-9DA4-DB1144885F7C",
         "name": "lightbulb-multiple-off",
         "codepoint": "F02FA",
-        "aliases": [],
+        "aliases": [
+            "lightbulbs-off",
+            "bulb-multiple-off",
+            "bulbs-off"
+        ],
         "tags": [
             "Home Automation"
         ],
