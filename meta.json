@@ -34260,7 +34260,11 @@
         "id": "7AAEC297-D587-4D13-9397-50C8C93B48C8",
         "name": "lightbulb-multiple-outline",
         "codepoint": "F0281",
-        "aliases": [],
+        "aliases": [
+            "lightbulbs-outline",
+            "bulb-multiple-outline",
+            "bulbs-outline"
+        ],
         "tags": [
             "Home Automation"
         ],
