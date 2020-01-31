@@ -34189,7 +34189,9 @@
         "id": "54E68537-16C8-48C4-82F8-4A1000DA605D",
         "name": "lightbulb-group-off-outline",
         "codepoint": "F02F9",
-        "aliases": [],
+        "aliases": [
+            "bulb-group-off-outline"
+        ],
         "tags": [
             "Home Automation"
         ],
