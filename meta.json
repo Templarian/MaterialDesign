@@ -34150,7 +34150,9 @@
         "id": "49D60773-F400-491A-AD3F-B50110089F63",
         "name": "lightbulb-cfl-spiral-off",
         "codepoint": "F02EE",
-        "aliases": [],
+        "aliases": [
+            "bulb-cfl-spiral-off"
+        ],
         "tags": [
             "Home Automation"
         ],
