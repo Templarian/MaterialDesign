@@ -34176,7 +34176,9 @@
         "id": "CA2B5020-40AD-44C1-8868-F14927FCD535",
         "name": "lightbulb-group-off",
         "codepoint": "F02F8",
-        "aliases": [],
+        "aliases": [
+            "bulb-group-off"
+        ],
         "tags": [
             "Home Automation"
         ],
