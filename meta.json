@@ -34137,7 +34137,9 @@
         "id": "0F61D2EB-5321-4D49-B9DD-4F205DA010A2",
         "name": "lightbulb-cfl-spiral",
         "codepoint": "F02A0",
-        "aliases": [],
+        "aliases": [
+            "bulb-cfl-spiral"
+        ],
         "tags": [
             "Home Automation"
         ],
