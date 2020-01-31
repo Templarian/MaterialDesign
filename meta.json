@@ -34163,7 +34163,9 @@
         "id": "DB267C0E-F298-4380-99C8-E18FA8E06554",
         "name": "lightbulb-group",
         "codepoint": "F027E",
-        "aliases": [],
+        "aliases": [
+            "bulb-group"
+        ],
         "tags": [
             "Home Automation"
         ],
