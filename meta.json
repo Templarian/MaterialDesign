@@ -643,6 +643,21 @@
         "version": "1.6.50"
     },
     {
+        "id": "B9137734-8DC1-41D1-9B34-CEDBB1742A39",
+        "name": "account-details-outline",
+        "codepoint": "F039D",
+        "aliases": [
+            "person-details-outline",
+            "user-details-outline"
+        ],
+        "tags": [
+            "Account \/ User",
+            "Settings"
+        ],
+        "author": "Cody",
+        "version": "4.9.95"
+    },
+    {
         "id": "66271DF7-FF11-4998-9C03-F096CE407E4C",
         "name": "account-edit",
         "codepoint": "F6BB",
