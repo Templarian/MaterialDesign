@@ -33157,6 +33157,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "9373446C-95C3-4160-9CBC-FF1DEF5C9F28",
+        "name": "label-multiple",
+        "codepoint": "F03A0",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "4.9.95"
+    },
+    {
         "id": "BCBB111E-0DF2-4498-831D-E547AE9EE0FB",
         "name": "label-off",
         "codepoint": "FACA",
