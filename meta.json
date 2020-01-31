@@ -34215,7 +34215,11 @@
         "id": "33D321D2-E427-469E-9646-D5758B4D5038",
         "name": "lightbulb-multiple",
         "codepoint": "F0280",
-        "aliases": [],
+        "aliases": [
+            "lightbulbs",
+            "bulb-multiple",
+            "bulbs"
+        ],
         "tags": [
             "Home Automation"
         ],
