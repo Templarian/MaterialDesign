@@ -34202,7 +34202,9 @@
         "id": "C4751630-A657-4A0B-89C5-6FD3037A8CD6",
         "name": "lightbulb-group-outline",
         "codepoint": "F027F",
-        "aliases": [],
+        "aliases": [
+            "bulb-group-outline"
+        ],
         "tags": [
             "Home Automation"
         ],
