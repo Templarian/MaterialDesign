@@ -34111,7 +34111,9 @@
         "id": "7D6FF098-D459-4B89-A13C-C9145A1EB992",
         "name": "lightbulb-cfl",
         "codepoint": "F0233",
-        "aliases": [],
+        "aliases": [
+            "bulb-cfl"
+        ],
         "tags": [
             "Home Automation"
         ],
