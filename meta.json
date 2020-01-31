@@ -34245,7 +34245,11 @@
         "id": "827B8418-9667-4429-A4D3-7C0553D1946E",
         "name": "lightbulb-multiple-off-outline",
         "codepoint": "F02FB",
-        "aliases": [],
+        "aliases": [
+            "lightbulbs-off-outline",
+            "bulb-multiple-off-outline",
+            "bulbs-multiple-off-outline"
+        ],
         "tags": [
             "Home Automation"
         ],
