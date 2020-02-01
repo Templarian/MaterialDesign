@@ -11144,7 +11144,9 @@
         "id": "7343C074-F974-4083-89C5-3C2BABF4E3C9",
         "name": "calendar-sync",
         "codepoint": "FEAB",
-        "aliases": [],
+        "aliases": [
+            "calendar-repeat"
+        ],
         "tags": [
             "Date \/ Time"
         ],
