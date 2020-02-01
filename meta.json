@@ -50513,6 +50513,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "26250B6D-8879-4DAA-8DFA-A04738E855FE",
+        "name": "sync-circle",
+        "codepoint": "F03A3",
+        "aliases": [],
+        "tags": [],
+        "author": "Fran\u00e7ois Risoud",
+        "version": "4.9.95"
+    },
+    {
         "id": "538457F5-44DB-404B-92FE-5FB8597B258E",
         "name": "sync-off",
         "codepoint": "F4E8",
