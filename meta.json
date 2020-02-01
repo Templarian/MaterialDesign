@@ -11078,8 +11078,10 @@
         "name": "calendar-refresh",
         "codepoint": "F1E1",
         "aliases": [],
-        "tags": [],
-        "author": "Contributors",
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen",
         "version": "1.5.54"
     },
     {
