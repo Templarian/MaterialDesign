@@ -11102,19 +11102,6 @@
         "version": "3.2.89"
     },
     {
-        "id": "7343C074-F974-4083-89C5-3C2BABF4E3C9",
-        "name": "calendar-repeat",
-        "codepoint": "FEAB",
-        "aliases": [
-            "calendar-sync"
-        ],
-        "tags": [
-            "Date \/ Time"
-        ],
-        "author": "Michael Richins",
-        "version": "3.7.94"
-    },
-    {
         "id": "24C0F48E-A354-4835-A2D4-B1E348ACF5D5",
         "name": "calendar-repeat-outline",
         "codepoint": "FEAC",
@@ -11152,6 +11139,19 @@
         ],
         "author": "Michael Richins",
         "version": "2.5.94"
+    },
+    {
+        "id": "7343C074-F974-4083-89C5-3C2BABF4E3C9",
+        "name": "calendar-sync",
+        "codepoint": "FEAB",
+        "aliases": [
+            "calendar-sync"
+        ],
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Richins",
+        "version": "3.7.94"
     },
     {
         "id": "1A873476-B82D-4E23-BF19-897F0A0C0B93",
@@ -47375,7 +47375,7 @@
         "codepoint": "F1E0",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Michael Irigoyen",
         "version": "1.5.54"
     },
     {
