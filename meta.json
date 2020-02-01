@@ -4191,17 +4191,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "FF441E7F-8F7E-4B03-876E-FD65C2A847C9",
-        "name": "android-head",
-        "codepoint": "F78F",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Google",
-        "version": "2.0.46"
-    },
-    {
         "id": "55847C89-2AE5-4F91-85AA-761FD8CE57F0",
         "name": "android-messages",
         "codepoint": "FD21",
@@ -54919,6 +54908,17 @@
         ],
         "author": "Google",
         "version": "1.5.54"
+    },
+    {
+        "id": "FF441E7F-8F7E-4B03-876E-FD65C2A847C9",
+        "name": "video-switch-outline",
+        "codepoint": "F78F",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Google",
+        "version": "2.0.46"
     },
     {
         "id": "1A8E4CC1-97A7-4593-BE20-0E9C5686C2D3",
