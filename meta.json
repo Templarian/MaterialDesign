@@ -8051,6 +8051,21 @@
         "version": "4.6.95"
     },
     {
+        "id": "EA62EF73-ACC7-4E54-87EF-D5E1683BE58F",
+        "name": "bed",
+        "codepoint": "F2E3",
+        "aliases": [
+            "bed",
+            "local-hotel"
+        ],
+        "tags": [
+            "Home Automation",
+            "Holiday"
+        ],
+        "author": "Google",
+        "version": "1.5.54"
+    },
+    {
         "id": "76E0CC3D-3FF4-421A-A7F0-0F38C68C92A2",
         "name": "bed-double",
         "codepoint": "F0092",
@@ -31278,21 +31293,6 @@
         "tags": [],
         "author": "Google",
         "version": "2.1.19"
-    },
-    {
-        "id": "EA62EF73-ACC7-4E54-87EF-D5E1683BE58F",
-        "name": "hotel",
-        "codepoint": "F2E3",
-        "aliases": [
-            "bed",
-            "local-hotel"
-        ],
-        "tags": [
-            "Home Automation",
-            "Holiday"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
     },
     {
         "id": "3C547C40-FF5E-4BB6-B45E-2B26AD990B20",
