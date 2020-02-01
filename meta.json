@@ -9173,6 +9173,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "EFBBDF1F-1497-4BA3-AE93-614B2BB496F7",
+        "name": "bookmark-check-outline",
+        "codepoint": "F03A6",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "4.9.95"
+    },
+    {
         "id": "AB2B19C4-5114-4D8A-A2EB-4E112B43F383",
         "name": "bookmark-minus",
         "codepoint": "F9CB",
