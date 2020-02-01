@@ -24842,17 +24842,6 @@
         "version": "4.6.95"
     },
     {
-        "id": "E86BFC0D-B4A4-41F2-A8E3-D1AE79072A45",
-        "name": "flattr",
-        "codepoint": "F246",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "1BB3488A-A7B4-4DA5-99A2-AD23A184606B",
         "name": "fleur-de-lis",
         "codepoint": "F032E",
@@ -49679,6 +49668,17 @@
         ],
         "author": "Michael Irigoyen",
         "version": "2.7.94"
+    },
+    {
+        "id": "E86BFC0D-B4A4-41F2-A8E3-D1AE79072A45",
+        "name": "star-half",
+        "codepoint": "F246",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
     },
     {
         "id": "52E97617-C7F4-45D0-98E0-E9B4407EC179",
