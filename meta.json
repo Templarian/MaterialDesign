@@ -44369,6 +44369,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "9D88AEE3-9749-4B74-8F60-2995BD811AAA",
+        "name": "refresh-circle",
+        "codepoint": "F03A2",
+        "aliases": [],
+        "tags": [],
+        "author": "Fran\u00e7ois Risoud",
+        "version": "4.9.95"
+    },
+    {
         "id": "3313CE4A-E2EF-4E46-8110-C0BF297D0C16",
         "name": "regex",
         "codepoint": "F451",
