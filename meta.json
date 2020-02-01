@@ -52860,6 +52860,15 @@
         "version": "2.6.95"
     },
     {
+        "id": "BA597840-6D3A-4D89-B8DC-63C5B2DA6638",
+        "name": "traffic-cone",
+        "codepoint": "F03A7",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.9.95"
+    },
+    {
         "id": "073B4489-5787-432C-9D10-50B270182D34",
         "name": "traffic-light",
         "codepoint": "F52B",
