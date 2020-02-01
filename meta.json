@@ -13656,6 +13656,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "42A6B073-CC7E-4539-9313-E60FAE81BC70",
+        "name": "chart-ppf",
+        "codepoint": "F03AB",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "4.9.95"
+    },
+    {
         "id": "C268C5A5-0D35-4963-9151-61D2C442015B",
         "name": "chart-scatter-plot",
         "codepoint": "FEAF",
