@@ -8051,17 +8051,6 @@
         "version": "4.6.95"
     },
     {
-        "id": "D3DFF539-E101-40B2-BA6D-B62327AFE6AC",
-        "name": "beats",
-        "codepoint": "F097",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "76E0CC3D-3FF4-421A-A7F0-0F38C68C92A2",
         "name": "bed-double",
         "codepoint": "F0092",
@@ -10470,6 +10459,17 @@
         ],
         "author": "Cody",
         "version": "4.8.95"
+    },
+    {
+        "id": "D3DFF539-E101-40B2-BA6D-B62327AFE6AC",
+        "name": "bunk-bed-outline",
+        "codepoint": "F097",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
     },
     {
         "id": "F6516F38-B29E-4CC9-A7E2-706817121D45",
