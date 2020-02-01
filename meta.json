@@ -11144,7 +11144,9 @@
         "id": "24C0F48E-A354-4835-A2D4-B1E348ACF5D5",
         "name": "calendar-sync-outline",
         "codepoint": "FEAC",
-        "aliases": [],
+        "aliases": [
+            "calendar-repeat-outline"
+        ],
         "tags": [
             "Date \/ Time"
         ],
