@@ -11096,7 +11096,7 @@
         "tags": [
             "Date \/ Time"
         ],
-        "author": "Contributors",
+        "author": "Michael Irigoyen",
         "version": "1.5.54"
     },
     {
@@ -50078,7 +50078,7 @@
     },
     {
         "id": "CFC9D5C9-A60F-48D0-880E-71F2A06BB94D",
-        "name": "storefront",
+        "name": "storefront-outline",
         "codepoint": "F00EC",
         "aliases": [
             "awning"
