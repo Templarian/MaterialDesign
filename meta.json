@@ -9288,6 +9288,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "0634B479-2104-4AF4-B442-2E5C407EBEE1",
+        "name": "bookmark-remove-outline",
+        "codepoint": "F03A5",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "4.9.95"
+    },
+    {
         "id": "562F5DDE-E65C-4ACC-98B7-54C0D5406AED",
         "name": "bookshelf",
         "codepoint": "F028A",
