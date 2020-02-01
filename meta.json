@@ -18552,6 +18552,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "C43C676A-F2BE-489A-8613-BE6EF651F0AC",
+        "name": "database-refresh",
+        "codepoint": "F5C2",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "20B59D03-2EF5-4C5D-BB00-2CC611297AC0",
         "name": "database-remove",
         "codepoint": "FCDC",
@@ -57513,17 +57524,6 @@
         "aliases": [],
         "tags": [],
         "author": "Austin Andrews",
-        "version": "1.5.54"
-    },
-    {
-        "id": "C43C676A-F2BE-489A-8613-BE6EF651F0AC",
-        "name": "yelp",
-        "codepoint": "F5C2",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
         "version": "1.5.54"
     },
     {
