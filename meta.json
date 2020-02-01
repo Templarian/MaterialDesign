@@ -18552,19 +18552,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "5E954303-C1CF-406B-A9B5-A72E5C25E499",
-        "name": "database-refresh",
-        "codepoint": "FCDB",
-        "aliases": [
-            "database-sync"
-        ],
-        "tags": [
-            "Geographic Information System"
-        ],
-        "author": "Michael Richins",
-        "version": "3.3.92"
-    },
-    {
         "id": "20B59D03-2EF5-4C5D-BB00-2CC611297AC0",
         "name": "database-remove",
         "codepoint": "FCDC",
@@ -18593,6 +18580,19 @@
         "aliases": [],
         "tags": [
             "Settings",
+            "Geographic Information System"
+        ],
+        "author": "Michael Richins",
+        "version": "3.3.92"
+    },
+    {
+        "id": "5E954303-C1CF-406B-A9B5-A72E5C25E499",
+        "name": "database-sync",
+        "codepoint": "FCDB",
+        "aliases": [
+            "database-sync"
+        ],
+        "tags": [
             "Geographic Information System"
         ],
         "author": "Michael Richins",
