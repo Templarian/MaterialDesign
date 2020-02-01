@@ -13647,6 +13647,17 @@
         "version": "4.9.95"
     },
     {
+        "id": "D0F312B5-8B3B-4E68-BF0B-691D4F129749",
+        "name": "chart-sankey",
+        "codepoint": "F020A",
+        "aliases": [],
+        "tags": [
+            "Math"
+        ],
+        "author": "Michael Richins",
+        "version": "4.5.95"
+    },
+    {
         "id": "C268C5A5-0D35-4963-9151-61D2C442015B",
         "name": "chart-scatter-plot",
         "codepoint": "FEAF",
@@ -13669,17 +13680,6 @@
         ],
         "author": "Austin Andrews",
         "version": "1.6.50"
-    },
-    {
-        "id": "D0F312B5-8B3B-4E68-BF0B-691D4F129749",
-        "name": "chart-snakey",
-        "codepoint": "F020A",
-        "aliases": [],
-        "tags": [
-            "Math"
-        ],
-        "author": "Michael Richins",
-        "version": "4.5.95"
     },
     {
         "id": "5FA4943E-5956-4668-ADDD-984914DD745C",
@@ -32279,7 +32279,7 @@
         "codepoint": "F075",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "nilsfast",
         "version": "1.5.54"
     },
     {
