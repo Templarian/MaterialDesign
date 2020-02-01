@@ -8111,6 +8111,17 @@
         "version": "4.2.95"
     },
     {
+        "id": "860292B0-C722-4829-9E30-AACF00D09C8C",
+        "name": "bed-outline",
+        "codepoint": "F099",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "0DB69F3A-8C9B-48D0-8D37-5A1CF6B03B68",
         "name": "bed-queen",
         "codepoint": "F0096",
@@ -8222,17 +8233,6 @@
         ],
         "author": "Cody",
         "version": "4.8.95"
-    },
-    {
-        "id": "860292B0-C722-4829-9E30-AACF00D09C8C",
-        "name": "behance",
-        "codepoint": "F099",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "45fea174-07db-11e4-bf19-842b2b6cfe1b",
