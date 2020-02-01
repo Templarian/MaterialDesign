@@ -28724,7 +28724,9 @@
         "id": "300B71B3-499A-4998-BA9D-22F2190229AA",
         "name": "google-ads",
         "codepoint": "FC63",
-        "aliases": [],
+        "aliases": [
+            "google-adwords"
+        ],
         "tags": [
             "Brand \/ Logo"
         ],
