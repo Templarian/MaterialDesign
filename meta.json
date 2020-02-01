@@ -13663,7 +13663,9 @@
         "id": "5FA4943E-5956-4668-ADDD-984914DD745C",
         "name": "chart-sankey-variant",
         "codepoint": "F020B",
-        "aliases": [],
+        "aliases": [
+            "chart-snakey-variant"
+        ],
         "tags": [
             "Math"
         ],
