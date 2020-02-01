@@ -11087,6 +11087,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "BC0BD74D-06D4-458A-B0CE-90B96A2ADCBF",
+        "name": "calendar-refresh-outline",
+        "codepoint": "F203",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "2FAF3098-4BD1-4C70-94A8-F75E1EA54F49",
         "name": "calendar-remove",
         "codepoint": "F0F4",
@@ -21809,17 +21820,6 @@
         "aliases": [],
         "tags": [],
         "author": "Cody",
-        "version": "1.5.54"
-    },
-    {
-        "id": "BC0BD74D-06D4-458A-B0CE-90B96A2ADCBF",
-        "name": "etsy",
-        "codepoint": "F203",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
         "version": "1.5.54"
     },
     {
