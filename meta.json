@@ -8114,7 +8114,9 @@
         "id": "860292B0-C722-4829-9E30-AACF00D09C8C",
         "name": "bed-outline",
         "codepoint": "F099",
-        "aliases": [],
+        "aliases": [
+            "hotel-outline"
+        ],
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
