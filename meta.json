@@ -20790,7 +20790,9 @@
         "name": "elevator-passenger",
         "codepoint": "F03AC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Other"
+        ],
         "author": "Moma Design Studio",
         "version": "4.9.95"
     },
