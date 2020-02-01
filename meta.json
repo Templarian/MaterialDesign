@@ -11077,7 +11077,9 @@
         "id": "4147C0BC-E3AE-4324-AA38-D2EC7A7AAD5E",
         "name": "calendar-refresh",
         "codepoint": "F1E1",
-        "aliases": [],
+        "aliases": [
+            "calendar-repeat"
+        ],
         "tags": [
             "Date \/ Time"
         ],
