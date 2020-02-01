@@ -11090,7 +11090,9 @@
         "id": "BC0BD74D-06D4-458A-B0CE-90B96A2ADCBF",
         "name": "calendar-refresh-outline",
         "codepoint": "F203",
-        "aliases": [],
+        "aliases": [
+            "calendar-repeat-outline"
+        ],
         "tags": [
             "Date \/ Time"
         ],
