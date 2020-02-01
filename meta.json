@@ -8115,10 +8115,8 @@
         "name": "bed-outline",
         "codepoint": "F099",
         "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
+        "tags": [],
+        "author": "Google",
         "version": "1.5.54"
     },
     {
