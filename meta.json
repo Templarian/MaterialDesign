@@ -1411,17 +1411,6 @@
         "version": "4.8.95"
     },
     {
-        "id": "CABA2832-65F9-4196-9681-51C5E2C1CFB2",
-        "name": "accusoft",
-        "codepoint": "F849",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "2.1.99"
-    },
-    {
         "id": "3334E19F-962D-45B4-BE11-F009E1192165",
         "name": "adjust",
         "codepoint": "F01A",
@@ -11666,6 +11655,17 @@
         ],
         "author": "Google",
         "version": "1.5.54"
+    },
+    {
+        "id": "CABA2832-65F9-4196-9681-51C5E2C1CFB2",
+        "name": "camera-switch-outline",
+        "codepoint": "F849",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "2.1.99"
     },
     {
         "id": "6A8FC2AF-724C-46A2-9F04-C34E7D658679",
