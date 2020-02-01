@@ -20457,17 +20457,6 @@
         "version": "3.9.97"
     },
     {
-        "id": "D3FD64E5-2836-4527-8861-29D53D101672",
-        "name": "dribbble",
-        "codepoint": "F1E0",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "4147C0BC-E3AE-4324-AA38-D2EC7A7AAD5E",
         "name": "dribbble-box",
         "codepoint": "F1E1",
@@ -47378,6 +47367,17 @@
         "aliases": [],
         "tags": [],
         "author": "Michael Irigoyen",
+        "version": "1.5.54"
+    },
+    {
+        "id": "D3FD64E5-2836-4527-8861-29D53D101672",
+        "name": "shield-refresh-outline",
+        "codepoint": "F1E0",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
         "version": "1.5.54"
     },
     {
