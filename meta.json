@@ -21839,17 +21839,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "8ABE8FB2-F704-4095-9E65-F614F86FCE99",
-        "name": "eventbrite",
-        "codepoint": "F7C6",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "2.0.46"
-    },
-    {
         "id": "193F4AB4-12B2-4E3C-965F-284967A7F736",
         "name": "evernote",
         "codepoint": "F204",
@@ -50075,6 +50064,17 @@
         ],
         "author": "Google",
         "version": "4.9.95"
+    },
+    {
+        "id": "8ABE8FB2-F704-4095-9E65-F614F86FCE99",
+        "name": "storefront",
+        "codepoint": "F7C6",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "2.0.46"
     },
     {
         "id": "CFC9D5C9-A60F-48D0-880E-71F2A06BB94D",
