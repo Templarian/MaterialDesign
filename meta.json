@@ -47382,15 +47382,6 @@
         "version": "2.7.94"
     },
     {
-        "id": "AE87ED6F-DF56-449E-A3EF-D010AB6F4D17",
-        "name": "shield-refresh",
-        "codepoint": "F01CD",
-        "aliases": [],
-        "tags": [],
-        "author": "Fran\u00e7ois Risoud",
-        "version": "4.5.95"
-    },
-    {
         "id": "55F6BCDE-A55A-4206-B079-1684F6E1FF0F",
         "name": "shield-refresh-outline",
         "codepoint": "F01CE",
@@ -47469,6 +47460,15 @@
         "tags": [],
         "author": "Perth Totty",
         "version": "4.1.95"
+    },
+    {
+        "id": "AE87ED6F-DF56-449E-A3EF-D010AB6F4D17",
+        "name": "shield-sync",
+        "codepoint": "F01CD",
+        "aliases": [],
+        "tags": [],
+        "author": "Fran\u00e7ois Risoud",
+        "version": "4.5.95"
     },
     {
         "id": "1F35A20C-CF6C-4C2A-9A72-82269F4ECCF7",
