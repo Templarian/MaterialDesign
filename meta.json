@@ -6958,17 +6958,6 @@
         "version": "2.1.99"
     },
     {
-        "id": "26B94EEC-5090-4DF4-99FC-C4A90830720A",
-        "name": "basecamp",
-        "codepoint": "F075",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "53BA6F8E-FC99-4B2A-8497-EA732C1880E4",
         "name": "bash",
         "codepoint": "F01AE",
@@ -32282,6 +32271,17 @@
         ],
         "tags": [],
         "author": "Christopher Schreiner",
+        "version": "1.5.54"
+    },
+    {
+        "id": "26B94EEC-5090-4DF4-99FC-C4A90830720A",
+        "name": "incognito-off",
+        "codepoint": "F075",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
         "version": "1.5.54"
     },
     {
