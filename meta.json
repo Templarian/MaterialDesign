@@ -8655,17 +8655,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "2E0E0624-1F5D-4998-B0F9-A957EC2ADD49",
-        "name": "blackberry",
-        "codepoint": "F0AA",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "AC980D29-7F19-4356-970E-A147CFEB64E3",
         "name": "blender",
         "codepoint": "FCC7",
@@ -47381,6 +47370,17 @@
         "tags": [],
         "author": "Google",
         "version": "2.7.94"
+    },
+    {
+        "id": "2E0E0624-1F5D-4998-B0F9-A957EC2ADD49",
+        "name": "shield-refresh",
+        "codepoint": "F0AA",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
     },
     {
         "id": "F6E9D9DF-7266-4D03-BE3E-4F3B4612B77F",
