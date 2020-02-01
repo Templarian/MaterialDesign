@@ -13640,7 +13640,9 @@
         "name": "chart-multiple",
         "codepoint": "F023E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Math"
+        ],
         "author": "Michael Richins",
         "version": "4.6.95"
     },
