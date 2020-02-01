@@ -50070,10 +50070,8 @@
         "name": "storefront",
         "codepoint": "F7C6",
         "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
+        "tags": [],
+        "author": "Cody",
         "version": "2.0.46"
     },
     {
