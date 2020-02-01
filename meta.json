@@ -20777,6 +20777,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "559121CE-CD01-4B96-9C0B-66DF7EED8944",
+        "name": "elevator-passenger",
+        "codepoint": "F03AC",
+        "aliases": [],
+        "tags": [],
+        "author": "Moma Design Studio",
+        "version": "4.9.95"
+    },
+    {
         "id": "8EA26066-2C66-4A38-996B-8F23E288E0B7",
         "name": "elevator-up",
         "codepoint": "F02EC",
