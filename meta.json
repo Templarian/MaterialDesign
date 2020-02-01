@@ -16929,6 +16929,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "D7B6D7B4-F143-477C-A402-963791DB0029",
+        "name": "compass-rose",
+        "codepoint": "F03AD",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.9.95"
+    },
+    {
         "id": "9C32EF89-4919-4CF1-A266-A0AB4C1C11EA",
         "name": "concourse-ci",
         "codepoint": "F00CB",
