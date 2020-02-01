@@ -8054,9 +8054,7 @@
         "id": "EA62EF73-ACC7-4E54-87EF-D5E1683BE58F",
         "name": "bed",
         "codepoint": "F2E3",
-        "aliases": [
-            "local-hotel"
-        ],
+        "aliases": [],
         "tags": [
             "Home Automation",
             "Holiday"
