@@ -50069,7 +50069,9 @@
         "id": "8ABE8FB2-F704-4095-9E65-F614F86FCE99",
         "name": "storefront",
         "codepoint": "F7C6",
-        "aliases": [],
+        "aliases": [
+            "awning"
+        ],
         "tags": [],
         "author": "Cody",
         "version": "2.0.46"
