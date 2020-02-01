@@ -17922,6 +17922,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "C3BC4A94-7F95-4E12-A715-45830DEDA014",
+        "name": "cup-off-outline",
+        "codepoint": "F03A8",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "4.9.95"
+    },
+    {
         "id": "FEA3388A-F985-482C-8CE0-0B4ABCD31691",
         "name": "cup-outline",
         "codepoint": "F033A",
