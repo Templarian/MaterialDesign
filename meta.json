@@ -52906,7 +52906,9 @@
         "name": "traffic-cone",
         "codepoint": "F03A7",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Michael Richins",
         "version": "4.9.95"
     },
