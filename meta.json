@@ -13662,7 +13662,9 @@
         "aliases": [
             "chart-production-possibility-frontier"
         ],
-        "tags": [],
+        "tags": [
+            "Math"
+        ],
         "author": "Cody",
         "version": "4.9.95"
     },
