@@ -11074,6 +11074,17 @@
         "version": "3.0.39"
     },
     {
+        "id": "4147C0BC-E3AE-4324-AA38-D2EC7A7AAD5E",
+        "name": "calendar-refresh",
+        "codepoint": "F1E1",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "2FAF3098-4BD1-4C70-94A8-F75E1EA54F49",
         "name": "calendar-remove",
         "codepoint": "F0F4",
@@ -20455,17 +20466,6 @@
         ],
         "author": "GreenTurtwig",
         "version": "3.9.97"
-    },
-    {
-        "id": "4147C0BC-E3AE-4324-AA38-D2EC7A7AAD5E",
-        "name": "dribbble-box",
-        "codepoint": "F1E1",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "B6A0EC44-BDF3-4001-ABBF-51E0F2522BD3",
