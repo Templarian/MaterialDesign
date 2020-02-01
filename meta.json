@@ -16935,7 +16935,9 @@
         "name": "compass-rose",
         "codepoint": "F03AD",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Michael Richins",
         "version": "4.9.95"
     },
