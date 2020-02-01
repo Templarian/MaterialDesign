@@ -49674,7 +49674,9 @@
         "name": "star-half",
         "codepoint": "F246",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Cody",
         "version": "1.5.54"
     },
