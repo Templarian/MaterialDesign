@@ -47631,6 +47631,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "70BBF348-E5D1-4C4C-AD93-17246A78DE13",
+        "name": "shuriken",
+        "codepoint": "F03AA",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "4.9.95"
+    },
+    {
         "id": "59A98F47-9067-492A-8454-42BEFA2391C1",
         "name": "sigma",
         "codepoint": "F4A0",
