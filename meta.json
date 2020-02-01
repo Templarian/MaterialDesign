@@ -11102,19 +11102,6 @@
         "version": "3.2.89"
     },
     {
-        "id": "24C0F48E-A354-4835-A2D4-B1E348ACF5D5",
-        "name": "calendar-repeat-outline",
-        "codepoint": "FEAC",
-        "aliases": [
-            "calendar-sync-outline"
-        ],
-        "tags": [
-            "Date \/ Time"
-        ],
-        "author": "Michael Richins",
-        "version": "3.7.94"
-    },
-    {
         "id": "1C61A1FD-56B6-41F1-B677-84D32425225A",
         "name": "calendar-search",
         "codepoint": "F94B",
@@ -11146,6 +11133,19 @@
         "codepoint": "FEAB",
         "aliases": [
             "calendar-repeat"
+        ],
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Richins",
+        "version": "3.7.94"
+    },
+    {
+        "id": "24C0F48E-A354-4835-A2D4-B1E348ACF5D5",
+        "name": "calendar-sync-outline",
+        "codepoint": "FEAC",
+        "aliases": [
+            "calendar-sync-outline"
         ],
         "tags": [
             "Date \/ Time"
