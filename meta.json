@@ -35107,17 +35107,6 @@
         "version": "3.7.94"
     },
     {
-        "id": "93BBA1EA-76F8-4D2E-B4D0-98F684B15AC3",
-        "name": "mail-ru",
-        "codepoint": "F34C",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "CCEA599C-8CED-4D49-83FB-7AC452AADFA0",
         "name": "mailbox",
         "codepoint": "F6ED",
@@ -42768,6 +42757,17 @@
         ],
         "tags": [],
         "author": "Google",
+        "version": "1.5.54"
+    },
+    {
+        "id": "93BBA1EA-76F8-4D2E-B4D0-98F684B15AC3",
+        "name": "plus-circle-multiple",
+        "codepoint": "F34C",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
         "version": "1.5.54"
     },
     {
