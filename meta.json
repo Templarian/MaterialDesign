@@ -14916,7 +14916,7 @@
             "Currency",
             "Banking"
         ],
-        "author": "Contributors",
+        "author": "Michael Richins",
         "version": "2.8.94"
     },
     {
@@ -16467,18 +16467,6 @@
         ],
         "author": "Google",
         "version": "2.3.50"
-    },
-    {
-        "id": "9DA90BB6-B525-47A8-879F-66EC572FE31B",
-        "name": "coin",
-        "codepoint": "F0196",
-        "aliases": [],
-        "tags": [
-            "Banking",
-            "Currency"
-        ],
-        "author": "Michael Richins",
-        "version": "4.4.95"
     },
     {
         "id": "42F0733E-F36F-491B-ADC9-AC8ABAF2C0B7",
@@ -18419,6 +18407,18 @@
         ],
         "author": "Google",
         "version": "1.5.54"
+    },
+    {
+        "id": "9DA90BB6-B525-47A8-879F-66EC572FE31B",
+        "name": "currency-usd-circle",
+        "codepoint": "F0196",
+        "aliases": [],
+        "tags": [
+            "Banking",
+            "Currency"
+        ],
+        "author": "Michael Richins",
+        "version": "4.4.95"
     },
     {
         "id": "5E9D35E4-9487-4A9B-9D4B-E1BBCA52AE0C",
