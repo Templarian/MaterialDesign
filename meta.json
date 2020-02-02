@@ -55657,10 +55657,8 @@
         "name": "wall-sconce-round",
         "codepoint": "F747",
         "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
+        "tags": [],
+        "author": "Michael Irigoyen",
         "version": "1.9.32"
     },
     {
