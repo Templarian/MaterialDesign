@@ -33680,17 +33680,6 @@
         "version": "3.8.95"
     },
     {
-        "id": "A6C14603-8189-4CC5-82CF-1231422B6F70",
-        "name": "lastfm",
-        "codepoint": "F326",
-        "aliases": [],
-        "tags": [
-            "Food \/ Drink"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "65AC32C4-911E-4005-8BD1-663AE0000988",
         "name": "lastpass",
         "codepoint": "F446",
@@ -43167,6 +43156,17 @@
         ],
         "author": "Cody",
         "version": "1.6.50"
+    },
+    {
+        "id": "A6C14603-8189-4CC5-82CF-1231422B6F70",
+        "name": "pot-steam-outline",
+        "codepoint": "F326",
+        "aliases": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Cody",
+        "version": "1.5.54"
     },
     {
         "id": "9344AA1D-FF8B-432F-A314-C416DFA37F12",
