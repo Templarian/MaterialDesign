@@ -8955,6 +8955,17 @@
         "version": "2.7.94"
     },
     {
+        "id": "2AF5ACED-6980-4A66-B010-629C3E371315",
+        "name": "book-minus-multiple-outline",
+        "codepoint": "F90A",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "2.3.50"
+    },
+    {
         "id": "637C4988-5432-4F5E-ADD5-EBDC397D0622",
         "name": "book-multiple",
         "codepoint": "F0BB",
@@ -48424,17 +48435,6 @@
         ],
         "author": "Contributors",
         "version": "1.5.54"
-    },
-    {
-        "id": "2AF5ACED-6980-4A66-B010-629C3E371315",
-        "name": "slackware",
-        "codepoint": "F90A",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "2.3.50"
     },
     {
         "id": "355F6D86-E6B6-4EA4-91BA-95370240E9CF",
