@@ -16469,20 +16469,6 @@
         "version": "2.3.50"
     },
     {
-        "id": "42F0733E-F36F-491B-ADC9-AC8ABAF2C0B7",
-        "name": "coin-outline",
-        "codepoint": "F178",
-        "aliases": [
-            "currency-usd-circle-outline"
-        ],
-        "tags": [
-            "Currency",
-            "Banking"
-        ],
-        "author": "Austin Andrews",
-        "version": "1.5.54"
-    },
-    {
         "id": "8FD44CCD-5073-4C73-98BE-139F777F6E94",
         "name": "collage",
         "codepoint": "F640",
@@ -18421,6 +18407,20 @@
         ],
         "author": "Michael Richins",
         "version": "4.4.95"
+    },
+    {
+        "id": "42F0733E-F36F-491B-ADC9-AC8ABAF2C0B7",
+        "name": "currency-usd-circle-outline",
+        "codepoint": "F178",
+        "aliases": [
+            "currency-usd-circle-outline"
+        ],
+        "tags": [
+            "Currency",
+            "Banking"
+        ],
+        "author": "Austin Andrews",
+        "version": "1.5.54"
     },
     {
         "id": "5E9D35E4-9487-4A9B-9D4B-E1BBCA52AE0C",
