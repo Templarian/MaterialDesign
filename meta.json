@@ -14906,6 +14906,20 @@
         "version": "2.5.94"
     },
     {
+        "id": "BAD0A147-6CA0-4BCF-88DF-8E8A4C247B0E",
+        "name": "circle-multiple-outline",
+        "codepoint": "F694",
+        "aliases": [
+            "toll"
+        ],
+        "tags": [
+            "Currency",
+            "Banking"
+        ],
+        "author": "Google",
+        "version": "1.7.12"
+    },
+    {
         "id": "5DC46127-B07A-4E2B-B3BA-A98C0D2942F4",
         "name": "circle-off-outline",
         "codepoint": "F00FE",
@@ -16464,20 +16478,6 @@
         ],
         "author": "Austin Andrews",
         "version": "1.5.54"
-    },
-    {
-        "id": "BAD0A147-6CA0-4BCF-88DF-8E8A4C247B0E",
-        "name": "coins-outline",
-        "codepoint": "F694",
-        "aliases": [
-            "toll"
-        ],
-        "tags": [
-            "Currency",
-            "Banking"
-        ],
-        "author": "Google",
-        "version": "1.7.12"
     },
     {
         "id": "8FD44CCD-5073-4C73-98BE-139F777F6E94",
