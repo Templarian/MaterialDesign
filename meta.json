@@ -9948,7 +9948,7 @@
         "codepoint": "FB25",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "nilsfast",
         "version": "2.8.94"
     },
     {
@@ -17157,9 +17157,7 @@
         "name": "contacts-outline",
         "codepoint": "F5B8",
         "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
+        "tags": [],
         "author": "Google",
         "version": "1.5.54"
     },
