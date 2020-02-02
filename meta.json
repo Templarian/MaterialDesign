@@ -32091,6 +32091,7 @@
         "name": "image-multiple-outline",
         "codepoint": "F2EF",
         "aliases": [
+            "image-filter",
             "images-outline"
         ],
         "tags": [
