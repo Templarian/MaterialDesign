@@ -43147,9 +43147,9 @@
         "version": "3.2.89"
     },
     {
-        "id": "444286FD-F41C-4945-BF9D-7C2913EC663E",
-        "name": "pot",
-        "codepoint": "F65A",
+        "id": "C264A721-9CFD-4AE5-BD97-404E7DCDC6C2",
+        "name": "pot-mix",
+        "codepoint": "F65B",
         "aliases": [],
         "tags": [
             "Food \/ Drink"
@@ -43158,9 +43158,9 @@
         "version": "1.6.50"
     },
     {
-        "id": "C264A721-9CFD-4AE5-BD97-404E7DCDC6C2",
-        "name": "pot-mix",
-        "codepoint": "F65B",
+        "id": "444286FD-F41C-4945-BF9D-7C2913EC663E",
+        "name": "pot-steam",
+        "codepoint": "F65A",
         "aliases": [],
         "tags": [
             "Food \/ Drink"
