@@ -9847,7 +9847,9 @@
         "name": "bowl-mix-outline",
         "codepoint": "F2E4",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Cody",
         "version": "1.5.54"
     },
