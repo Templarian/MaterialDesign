@@ -18412,9 +18412,7 @@
         "id": "42F0733E-F36F-491B-ADC9-AC8ABAF2C0B7",
         "name": "currency-usd-circle-outline",
         "codepoint": "F178",
-        "aliases": [
-            "currency-usd-circle-outline"
-        ],
+        "aliases": [],
         "tags": [
             "Currency",
             "Banking"
