@@ -15939,6 +15939,17 @@
         "version": "2.6.95"
     },
     {
+        "id": "1771EA83-96FC-4A06-8A03-E4048C9F9C27",
+        "name": "cloud-refresh",
+        "codepoint": "F52A",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Austin Andrews",
+        "version": "1.5.54"
+    },
+    {
         "id": "BF384FFB-7E5D-4C2E-ADC5-4BEEAF61A81C",
         "name": "cloud-search",
         "codepoint": "F955",
@@ -52702,17 +52713,6 @@
         ],
         "author": "Cody",
         "version": "4.3.95"
-    },
-    {
-        "id": "1771EA83-96FC-4A06-8A03-E4048C9F9C27",
-        "name": "tor",
-        "codepoint": "F52A",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "E66ECEE5-0382-4406-B0AB-CFE819AE7684",
