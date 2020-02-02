@@ -42773,7 +42773,9 @@
         "id": "93BBA1EA-76F8-4D2E-B4D0-98F684B15AC3",
         "name": "plus-circle-multiple",
         "codepoint": "F34C",
-        "aliases": [],
+        "aliases": [
+            "coins-plus"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "1.5.54"
