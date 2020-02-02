@@ -9843,6 +9843,17 @@
         "version": "1.6.50"
     },
     {
+        "id": "D0021FC3-865F-45B4-8542-4937DC2952E2",
+        "name": "bowl-outline",
+        "codepoint": "F2A9",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "0CAB5DF9-E4A7-418D-B317-E792FF2DF8D1",
         "name": "bowling",
         "codepoint": "F0D3",
@@ -28566,17 +28577,6 @@
         ],
         "author": "Michael Richins",
         "version": "2.1.99"
-    },
-    {
-        "id": "D0021FC3-865F-45B4-8542-4937DC2952E2",
-        "name": "glassdoor",
-        "codepoint": "F2A9",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "BE4C1227-C47E-4839-85AA-4EA6928BAAAE",
