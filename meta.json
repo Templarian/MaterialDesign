@@ -23600,6 +23600,17 @@
         "version": "2.3.50"
     },
     {
+        "id": "B48358A6-983D-4E15-8FE1-905D706A4A4B",
+        "name": "file-refresh-outline",
+        "codepoint": "F541",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "1D2987A7-950D-45DF-AF0C-F465350C6374",
         "name": "file-remove",
         "codepoint": "FB74",
@@ -53714,17 +53725,6 @@
         ],
         "author": "Michael Irigoyen",
         "version": "4.5.95"
-    },
-    {
-        "id": "B48358A6-983D-4E15-8FE1-905D706A4A4B",
-        "name": "tumblr",
-        "codepoint": "F541",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "B1F7C2ED-4017-4162-A4C7-31D8761D8DC3",
