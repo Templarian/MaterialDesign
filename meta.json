@@ -1342,6 +1342,18 @@
         "version": "1.5.54"
     },
     {
+        "id": "82D545A0-9A8E-4363-A462-883526E48330",
+        "name": "account-switch-outline",
+        "codepoint": "F4CB",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo",
+            "Banking"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "5EF0B9EA-FECB-409C-999C-FE1ECF0C8B01",
         "name": "account-tie",
         "codepoint": "FCBF",
@@ -49346,18 +49358,6 @@
         ],
         "author": "GreenTurtwig",
         "version": "2.3.50"
-    },
-    {
-        "id": "82D545A0-9A8E-4363-A462-883526E48330",
-        "name": "square-inc-cash",
-        "codepoint": "F4CB",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo",
-            "Banking"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "0267FB77-EB23-41D4-92B4-FF65796BDF40",
