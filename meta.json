@@ -9106,6 +9106,17 @@
         "version": "2.7.94"
     },
     {
+        "id": "32DEB304-15CC-4B30-832E-A1377A57EC47",
+        "name": "book-remove-multiple-outline",
+        "codepoint": "F4CA",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "AE0D918C-8BC9-4D85-B445-62039AD16FB2",
         "name": "book-search",
         "codepoint": "FEA1",
@@ -49368,17 +49379,6 @@
         ],
         "author": "GreenTurtwig",
         "version": "2.3.50"
-    },
-    {
-        "id": "32DEB304-15CC-4B30-832E-A1377A57EC47",
-        "name": "square-inc",
-        "codepoint": "F4CA",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "82D545A0-9A8E-4363-A462-883526E48330",
