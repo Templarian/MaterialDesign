@@ -9843,6 +9843,17 @@
         "version": "1.6.50"
     },
     {
+        "id": "3C547C40-FF5E-4BB6-B45E-2B26AD990B20",
+        "name": "bowl-mix-outline",
+        "codepoint": "F2E4",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "D0021FC3-865F-45B4-8542-4937DC2952E2",
         "name": "bowl-outline",
         "codepoint": "F2A9",
@@ -31319,17 +31330,6 @@
         "tags": [],
         "author": "Google",
         "version": "2.1.19"
-    },
-    {
-        "id": "3C547C40-FF5E-4BB6-B45E-2B26AD990B20",
-        "name": "houzz",
-        "codepoint": "F2E4",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "267AF23F-D48A-493E-91BD-E78CD3EFCCBA",
