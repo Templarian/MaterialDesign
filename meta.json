@@ -11414,18 +11414,7 @@
         "codepoint": "F0FC",
         "aliases": [],
         "tags": [],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
-        "id": "9E0AEA4A-7A90-43F7-8A7F-D49F374F11FF",
-        "name": "camcorder-box",
-        "codepoint": "F0FD",
-        "aliases": [],
-        "tags": [
-            "Video \/ Movie"
-        ],
-        "author": "Google",
+        "author": "Austin Andrews",
         "version": "1.5.54"
     },
     {
@@ -54705,6 +54694,17 @@
         ],
         "author": "Google",
         "version": "2.3.50"
+    },
+    {
+        "id": "9E0AEA4A-7A90-43F7-8A7F-D49F374F11FF",
+        "name": "video-box",
+        "codepoint": "F0FD",
+        "aliases": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
+        "author": "Google",
+        "version": "1.5.54"
     },
     {
         "id": "9E4CFE98-3E4E-4C70-B1F1-7316F21427E3",
