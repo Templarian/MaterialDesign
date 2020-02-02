@@ -11418,17 +11418,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "A8AD0C27-54CD-4362-A862-C6865B1EE750",
-        "name": "camcorder-box-off",
-        "codepoint": "F0FE",
-        "aliases": [],
-        "tags": [
-            "Video \/ Movie"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "236D9E8E-E38C-4EA9-9539-0E8B1447003A",
         "name": "camera",
         "codepoint": "F100",
@@ -54690,6 +54679,17 @@
         "id": "9E0AEA4A-7A90-43F7-8A7F-D49F374F11FF",
         "name": "video-box",
         "codepoint": "F0FD",
+        "aliases": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
+        "author": "Google",
+        "version": "1.5.54"
+    },
+    {
+        "id": "A8AD0C27-54CD-4362-A862-C6865B1EE750",
+        "name": "video-box-off",
+        "codepoint": "F0FE",
         "aliases": [],
         "tags": [
             "Video \/ Movie"
