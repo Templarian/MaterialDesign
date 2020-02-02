@@ -15743,6 +15743,17 @@
         "version": "1.6.50"
     },
     {
+        "id": "B77F1750-F3D8-43A5-A2D1-EEF2E3EB584B",
+        "name": "close-circle-multiple-outline",
+        "codepoint": "F882",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "2.1.99"
+    },
+    {
         "id": "EA41E6BB-A176-4E0E-896A-36F9FA5AA62F",
         "name": "close-circle-outline",
         "codepoint": "F15A",
@@ -41008,17 +41019,6 @@
         ],
         "author": "Cody",
         "version": "1.6.50"
-    },
-    {
-        "id": "B77F1750-F3D8-43A5-A2D1-EEF2E3EB584B",
-        "name": "paypal",
-        "codepoint": "F882",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "2.1.99"
     },
     {
         "id": "088F07BD-BEA9-46D5-A2DF-0B9FA37BBF99",
