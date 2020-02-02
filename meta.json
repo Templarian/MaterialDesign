@@ -10300,6 +10300,17 @@
         "version": "1.6.50"
     },
     {
+        "id": "B68F24D9-0E45-4729-9DB9-46E0D73589F2",
+        "name": "buffet",
+        "codepoint": "F578",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "nilsfast",
+        "version": "1.5.54"
+    },
+    {
         "id": "09A131FB-EE06-49B8-80C3-49B294BCA612",
         "name": "bug",
         "codepoint": "F0E4",
@@ -54636,17 +54647,6 @@
             "Geographic Information System"
         ],
         "author": "Cody",
-        "version": "1.5.54"
-    },
-    {
-        "id": "B68F24D9-0E45-4729-9DB9-46E0D73589F2",
-        "name": "venmo",
-        "codepoint": "F578",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
         "version": "1.5.54"
     },
     {
