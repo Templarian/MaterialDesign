@@ -17068,6 +17068,17 @@
         "version": "1.8.36"
     },
     {
+        "id": "5D5E7753-B3F1-4D0C-B175-62749D448492",
+        "name": "contacts-outline",
+        "codepoint": "F5B8",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Google",
+        "version": "1.5.54"
+    },
+    {
         "id": "44029D6D-5640-4AE5-907B-8388B0438FF0",
         "name": "contain",
         "codepoint": "FA3D",
@@ -57241,17 +57252,6 @@
         ],
         "author": "Google",
         "version": "3.0.39"
-    },
-    {
-        "id": "5D5E7753-B3F1-4D0C-B175-62749D448492",
-        "name": "wunderlist",
-        "codepoint": "F5B8",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "958B8A8B-A4D7-45A4-8C80-39F7140443C0",
