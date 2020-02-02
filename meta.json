@@ -25611,6 +25611,17 @@
         "version": "3.3.92"
     },
     {
+        "id": "9B23FB77-FAF2-4F8E-B071-D23726EA8632",
+        "name": "folder-refresh",
+        "codepoint": "F748",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Austin Andrews",
+        "version": "1.9.32"
+    },
+    {
         "id": "3FF41316-69DC-4913-A299-84206E12FE42",
         "name": "folder-remove",
         "codepoint": "F258",
@@ -53850,17 +53861,6 @@
         "tags": [],
         "author": "Michael Richins",
         "version": "3.8.95"
-    },
-    {
-        "id": "9B23FB77-FAF2-4F8E-B071-D23726EA8632",
-        "name": "uber",
-        "codepoint": "F748",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.9.32"
     },
     {
         "id": "F8C3B22E-D72C-4A1C-BCB8-A24CBB3CAF46",
