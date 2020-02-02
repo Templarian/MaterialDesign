@@ -9068,6 +9068,17 @@
         "version": "2.7.94"
     },
     {
+        "id": "129A1ABB-F616-4750-8814-018A12FE9D88",
+        "name": "book-plus-multiple-outline",
+        "codepoint": "FADD",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "2.7.94"
+    },
+    {
         "id": "DAB52460-1820-4BD0-9695-67EBF9E84167",
         "name": "book-remove",
         "codepoint": "FA96",
@@ -47535,17 +47546,6 @@
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "3.5.94"
-    },
-    {
-        "id": "129A1ABB-F616-4750-8814-018A12FE9D88",
-        "name": "shopify",
-        "codepoint": "FADD",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "2.7.94"
     },
     {
         "id": "7A5ED547-B142-4921-8050-647B2B9F4DC0",
