@@ -14906,6 +14906,17 @@
         "version": "2.5.94"
     },
     {
+        "id": "C05A4C2F-8128-474F-B204-D782A332CB73",
+        "name": "circle-multiple",
+        "codepoint": "FB1D",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "2.8.94"
+    },
+    {
         "id": "BAD0A147-6CA0-4BCF-88DF-8E8A4C247B0E",
         "name": "circle-multiple-outline",
         "codepoint": "F694",
@@ -34932,17 +34943,6 @@
         ],
         "author": "Michael Irigoyen",
         "version": "4.2.95"
-    },
-    {
-        "id": "C05A4C2F-8128-474F-B204-D782A332CB73",
-        "name": "lyft",
-        "codepoint": "FB1D",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "2.8.94"
     },
     {
         "id": "65B3A914-578A-468F-95C1-9C2B6D0C3A52",
