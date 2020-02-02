@@ -9110,10 +9110,8 @@
         "name": "book-remove-multiple-outline",
         "codepoint": "F4CA",
         "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
+        "tags": [],
+        "author": "Michael Richins",
         "version": "1.5.54"
     },
     {
