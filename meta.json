@@ -15748,7 +15748,9 @@
         "id": "B77F1750-F3D8-43A5-A2D1-EEF2E3EB584B",
         "name": "close-circle-multiple-outline",
         "codepoint": "F882",
-        "aliases": [],
+        "aliases": [
+            "remove-circle-multiple-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "2.1.99"
