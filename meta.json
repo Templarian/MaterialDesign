@@ -35999,17 +35999,6 @@
         "version": "4.4.95"
     },
     {
-        "id": "313B60B3-A740-4F5B-A63E-A5772C20AC0D",
-        "name": "meetup",
-        "codepoint": "FAD2",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "2.7.94"
-    },
-    {
         "id": "E404434E-17DB-4E90-9D97-5355258E1FCF",
         "name": "memory",
         "codepoint": "F35B",
@@ -36890,6 +36879,17 @@
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "1.5.54"
+    },
+    {
+        "id": "313B60B3-A740-4F5B-A63E-A5772C20AC0D",
+        "name": "minus-circle-multiple-outline",
+        "codepoint": "FAD2",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "2.7.94"
     },
     {
         "id": "E1568BA6-EA0E-478F-933F-102F76996D6C",
