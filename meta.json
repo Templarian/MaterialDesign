@@ -31923,20 +31923,6 @@
         "version": "4.5.95"
     },
     {
-        "id": "BCCF75AE-F73D-4B7A-BDFD-9E767DED0B28",
-        "name": "image-filter",
-        "codepoint": "F2EF",
-        "aliases": [
-            "image-multiple-outline",
-            "images-outline"
-        ],
-        "tags": [
-            "Photography"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "7D3932BA-9061-40D7-B624-044EE7A7B445",
         "name": "image-filter-black-white",
         "codepoint": "F2F0",
@@ -32097,6 +32083,20 @@
             "images"
         ],
         "tags": [],
+        "author": "Google",
+        "version": "1.5.54"
+    },
+    {
+        "id": "BCCF75AE-F73D-4B7A-BDFD-9E767DED0B28",
+        "name": "image-multiple-outline",
+        "codepoint": "F2EF",
+        "aliases": [
+            "image-multiple-outline",
+            "images-outline"
+        ],
+        "tags": [
+            "Photography"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
