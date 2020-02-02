@@ -15778,7 +15778,9 @@
         "name": "close-circle-multiple-outline",
         "codepoint": "F882",
         "aliases": [
-            "remove-circle-multiple-outline"
+            "remove-circle-multiple-outline",
+            "coins-close-outline",
+            "coins-remove-outline"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
