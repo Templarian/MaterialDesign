@@ -14910,7 +14910,8 @@
         "name": "circle-multiple-outline",
         "codepoint": "F694",
         "aliases": [
-            "toll"
+            "toll",
+            "coins-outline"
         ],
         "tags": [
             "Currency",
