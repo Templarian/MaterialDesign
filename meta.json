@@ -32488,17 +32488,6 @@
         "version": "4.1.95"
     },
     {
-        "id": "857C302E-0AC9-438D-A8E5-DE3DC9680FAB",
-        "name": "itunes",
-        "codepoint": "F676",
-        "aliases": [],
-        "tags": [
-            "Food \/ Drink"
-        ],
-        "author": "Contributors",
-        "version": "1.7.12"
-    },
-    {
         "id": "0921F3AE-3BFF-4913-BB68-CB48587D14E4",
         "name": "iv-bag",
         "codepoint": "F00E4",
@@ -43145,6 +43134,17 @@
         ],
         "author": "Cody",
         "version": "1.6.50"
+    },
+    {
+        "id": "857C302E-0AC9-438D-A8E5-DE3DC9680FAB",
+        "name": "pot-mix-outline",
+        "codepoint": "F676",
+        "aliases": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Contributors",
+        "version": "1.7.12"
     },
     {
         "id": "EB68865A-2308-4667-9B2F-C550923180A9",
