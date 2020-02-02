@@ -14909,7 +14909,9 @@
         "id": "C05A4C2F-8128-474F-B204-D782A332CB73",
         "name": "circle-multiple",
         "codepoint": "FB1D",
-        "aliases": [],
+        "aliases": [
+            "coins"
+        ],
         "tags": [
             "Currency",
             "Banking"
