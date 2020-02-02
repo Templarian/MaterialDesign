@@ -31336,7 +31336,9 @@
         "name": "houzz-box",
         "codepoint": "F2E5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Contributors",
         "version": "1.5.54"
     },
