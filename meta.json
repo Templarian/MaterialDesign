@@ -14910,7 +14910,9 @@
         "name": "circle-multiple",
         "codepoint": "FB1D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Contributors",
         "version": "2.8.94"
     },
