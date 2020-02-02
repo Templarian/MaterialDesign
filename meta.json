@@ -1346,9 +1346,7 @@
         "name": "account-switch-outline",
         "codepoint": "F4CB",
         "aliases": [],
-        "tags": [
-            "Banking"
-        ],
+        "tags": [],
         "author": "Contributors",
         "version": "1.5.54"
     },
