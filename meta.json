@@ -41468,17 +41468,6 @@
         "version": "2.0.46"
     },
     {
-        "id": "05EDCFBB-803B-4DA9-BDC5-17A4E43DE584",
-        "name": "periscope",
-        "codepoint": "F747",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.9.32"
-    },
-    {
         "id": "408FA22D-2054-4579-A991-DF061CDE5A00",
         "name": "perspective-less",
         "codepoint": "FCFF",
@@ -55662,6 +55651,17 @@
         ],
         "author": "GreenTurtwig",
         "version": "2.3.50"
+    },
+    {
+        "id": "05EDCFBB-803B-4DA9-BDC5-17A4E43DE584",
+        "name": "wall-sconce-round",
+        "codepoint": "F747",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.9.32"
     },
     {
         "id": "D599F298-0E64-47A7-AD5B-B1AD5CEE1B1E",
