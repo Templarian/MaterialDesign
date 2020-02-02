@@ -9880,7 +9880,9 @@
         "id": "95E70948-C85D-41AC-887C-62752FBA7B6B",
         "name": "bowl-mix",
         "codepoint": "F617",
-        "aliases": [],
+        "aliases": [
+            "mixing-bowl"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
