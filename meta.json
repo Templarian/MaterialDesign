@@ -15734,6 +15734,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "77B97AED-2613-434C-BD9C-82755C8B468C",
+        "name": "close-circle-multiple",
+        "codepoint": "F62A",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.6.50"
+    },
+    {
         "id": "EA41E6BB-A176-4E0E-896A-36F9FA5AA62F",
         "name": "close-circle-outline",
         "codepoint": "F15A",
@@ -36931,17 +36942,6 @@
         ],
         "author": "Austin Andrews",
         "version": "4.6.95"
-    },
-    {
-        "id": "77B97AED-2613-434C-BD9C-82755C8B468C",
-        "name": "mixcloud",
-        "codepoint": "F62A",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.6.50"
     },
     {
         "id": "BF0B21D2-7266-4639-B2C4-24199863849D",
