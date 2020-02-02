@@ -32367,7 +32367,9 @@
         "name": "instapaper",
         "codepoint": "F2FF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Contributors",
         "version": "1.5.54"
     },
