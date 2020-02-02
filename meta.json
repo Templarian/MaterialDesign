@@ -25620,6 +25620,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "DBC01AAD-8FE1-4668-9E76-7AF716D30C32",
+        "name": "folder-refresh-outline",
+        "codepoint": "F542",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "1.5.54"
+    },
+    {
         "id": "3FF41316-69DC-4913-A299-84206E12FE42",
         "name": "folder-remove",
         "codepoint": "F258",
@@ -53718,15 +53727,6 @@
         ],
         "author": "Contributors",
         "version": "2.3.50"
-    },
-    {
-        "id": "DBC01AAD-8FE1-4668-9E76-7AF716D30C32",
-        "name": "tumblr-reblog",
-        "codepoint": "F542",
-        "aliases": [],
-        "tags": [],
-        "author": "Austin Andrews",
-        "version": "1.5.54"
     },
     {
         "id": "B1F7C2ED-4017-4162-A4C7-31D8761D8DC3",
