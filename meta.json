@@ -9943,6 +9943,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "0E77ABEB-007D-4458-BEB9-F2C4607ECFC7",
+        "name": "box-cutter-off",
+        "codepoint": "FB25",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "2.8.94"
+    },
+    {
         "id": "9DBE04CB-C425-4556-9046-15CBD88C866B",
         "name": "box-shadow",
         "codepoint": "F637",
@@ -50117,17 +50128,6 @@
         ],
         "author": "Michael Richins",
         "version": "4.5.95"
-    },
-    {
-        "id": "0E77ABEB-007D-4458-BEB9-F2C4607ECFC7",
-        "name": "strava",
-        "codepoint": "FB25",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "2.8.94"
     },
     {
         "id": "8E85E624-D1D8-4BA3-A99C-3067863D355C",
