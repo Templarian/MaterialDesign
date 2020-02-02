@@ -36931,7 +36931,9 @@
         "id": "313B60B3-A740-4F5B-A63E-A5772C20AC0D",
         "name": "minus-circle-multiple-outline",
         "codepoint": "FAD2",
-        "aliases": [],
+        "aliases": [
+            "coins-minus-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "2.7.94"
