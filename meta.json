@@ -9821,6 +9821,17 @@
         "version": "1.7.12"
     },
     {
+        "id": "84EB4644-EC38-431B-B55B-12363EB63765",
+        "name": "bowl",
+        "codepoint": "F28E",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "95E70948-C85D-41AC-887C-62752FBA7B6B",
         "name": "bowl-mix",
         "codepoint": "F617",
@@ -27251,17 +27262,6 @@
         ],
         "author": "Michael Irigoyen",
         "version": "3.3.92"
-    },
-    {
-        "id": "84EB4644-EC38-431B-B55B-12363EB63765",
-        "name": "foursquare",
-        "codepoint": "F28E",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "54CA035A-3BAB-4349-8FD1-D50A1990D301",
