@@ -23591,6 +23591,17 @@
         "version": "4.1.95"
     },
     {
+        "id": "6AAC6C2E-4B51-4A21-8CDC-BA516D7BAB6B",
+        "name": "file-refresh",
+        "codepoint": "F917",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "2.3.50"
+    },
+    {
         "id": "1D2987A7-950D-45DF-AF0C-F465350C6374",
         "name": "file-remove",
         "codepoint": "FB74",
@@ -53716,17 +53727,6 @@
         ],
         "author": "Contributors",
         "version": "1.5.54"
-    },
-    {
-        "id": "6AAC6C2E-4B51-4A21-8CDC-BA516D7BAB6B",
-        "name": "tumblr-box",
-        "codepoint": "F917",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "2.3.50"
     },
     {
         "id": "B1F7C2ED-4017-4162-A4C7-31D8761D8DC3",
