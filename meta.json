@@ -35999,17 +35999,6 @@
         "version": "4.4.95"
     },
     {
-        "id": "C7561067-F057-4E26-B8F1-791BD24E0A2C",
-        "name": "medium",
-        "codepoint": "F35A",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "313B60B3-A740-4F5B-A63E-A5772C20AC0D",
         "name": "meetup",
         "codepoint": "FAD2",
@@ -36891,6 +36880,17 @@
             "Transportation + Road"
         ],
         "author": "Google",
+        "version": "1.5.54"
+    },
+    {
+        "id": "C7561067-F057-4E26-B8F1-791BD24E0A2C",
+        "name": "minus-circle-multiple",
+        "codepoint": "F35A",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
         "version": "1.5.54"
     },
     {
