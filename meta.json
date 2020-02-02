@@ -55657,7 +55657,9 @@
         "name": "wall-sconce-round",
         "codepoint": "F747",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "1.9.32"
     },
