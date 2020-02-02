@@ -9847,7 +9847,9 @@
         "name": "bowl-outline",
         "codepoint": "F2A9",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Michael Irigoyen",
         "version": "1.5.54"
     },
