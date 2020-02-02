@@ -55646,10 +55646,8 @@
         "name": "wall-sconce-flat-variant",
         "codepoint": "F41C",
         "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
+        "tags": [],
+        "author": "Michael Irigoyen",
         "version": "1.5.54"
     },
     {
