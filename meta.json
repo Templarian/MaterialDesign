@@ -9825,7 +9825,9 @@
         "name": "bowl",
         "codepoint": "F28E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Michael Irigoyen",
         "version": "1.5.54"
     },
