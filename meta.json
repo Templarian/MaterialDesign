@@ -42854,17 +42854,6 @@
         "version": "4.5.95"
     },
     {
-        "id": "DEAC0604-6FD1-496C-99E1-74068FC27713",
-        "name": "pocket",
-        "codepoint": "F41C",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "56B37BA8-E973-4B53-812A-7F47BCFF217A",
         "name": "podcast",
         "codepoint": "F993",
@@ -55651,6 +55640,17 @@
         ],
         "author": "GreenTurtwig",
         "version": "2.3.50"
+    },
+    {
+        "id": "DEAC0604-6FD1-496C-99E1-74068FC27713",
+        "name": "wall-sconce-flat-variant",
+        "codepoint": "F41C",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
     },
     {
         "id": "05EDCFBB-803B-4DA9-BDC5-17A4E43DE584",
