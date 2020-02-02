@@ -32363,17 +32363,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "EB68865A-2308-4667-9B2F-C550923180A9",
-        "name": "instapaper",
-        "codepoint": "F2FF",
-        "aliases": [],
-        "tags": [
-            "Food \/ Drink"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "7A8E4735-E738-4ECE-8386-889694014C22",
         "name": "instrument-triangle",
         "codepoint": "F0070",
@@ -43156,6 +43145,17 @@
         ],
         "author": "Cody",
         "version": "1.6.50"
+    },
+    {
+        "id": "EB68865A-2308-4667-9B2F-C550923180A9",
+        "name": "pot-outline",
+        "codepoint": "F2FF",
+        "aliases": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
     },
     {
         "id": "444286FD-F41C-4945-BF9D-7C2913EC663E",
