@@ -15737,7 +15737,9 @@
         "id": "77B97AED-2613-434C-BD9C-82755C8B468C",
         "name": "close-circle-multiple",
         "codepoint": "F62A",
-        "aliases": [],
+        "aliases": [
+            "remove-circle-multiple"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "1.6.50"
@@ -15748,7 +15750,7 @@
         "codepoint": "F882",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Michael Irigoyen",
         "version": "2.1.99"
     },
     {
