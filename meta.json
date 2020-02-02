@@ -15765,7 +15765,9 @@
         "name": "close-circle-multiple",
         "codepoint": "F62A",
         "aliases": [
-            "remove-circle-multiple"
+            "remove-circle-multiple",
+            "coins-close",
+            "coins-remove"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
