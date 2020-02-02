@@ -31332,17 +31332,6 @@
         "version": "2.1.19"
     },
     {
-        "id": "267AF23F-D48A-493E-91BD-E78CD3EFCCBA",
-        "name": "houzz-box",
-        "codepoint": "F2E5",
-        "aliases": [],
-        "tags": [
-            "Food \/ Drink"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "04125F27-F2CB-4304-8C9D-81E4D72A0B6E",
         "name": "hubspot",
         "codepoint": "FCF3",
@@ -43145,6 +43134,17 @@
         "tags": [],
         "author": "Cody",
         "version": "3.2.89"
+    },
+    {
+        "id": "267AF23F-D48A-493E-91BD-E78CD3EFCCBA",
+        "name": "pot",
+        "codepoint": "F2E5",
+        "aliases": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
     },
     {
         "id": "C264A721-9CFD-4AE5-BD97-404E7DCDC6C2",
