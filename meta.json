@@ -38434,7 +38434,7 @@
             "near-field-communication"
         ],
         "tags": [],
-        "author": "Austin Andrews",
+        "author": "Contributors",
         "version": "1.5.54"
     },
     {
@@ -53230,7 +53230,9 @@
         "id": "F9A7F6AA-7379-4215-A97A-0E2FCAF3A9ED",
         "name": "tray",
         "codepoint": "F02BF",
-        "aliases": [],
+        "aliases": [
+            "queue"
+        ],
         "tags": [],
         "author": "Michael Richins",
         "version": "4.7.95"
