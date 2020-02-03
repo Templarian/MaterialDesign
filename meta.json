@@ -53245,7 +53245,8 @@
         "codepoint": "F02C0",
         "aliases": [
             "queue",
-            "printer"
+            "printer",
+            "inbox"
         ],
         "tags": [
             "Alert \/ Error"
