@@ -53231,7 +53231,8 @@
         "name": "tray",
         "codepoint": "F02BF",
         "aliases": [
-            "queue"
+            "queue",
+            "printer"
         ],
         "tags": [],
         "author": "Michael Richins",
