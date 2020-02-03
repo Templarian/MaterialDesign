@@ -53259,7 +53259,8 @@
         "name": "tray-full",
         "codepoint": "F02C1",
         "aliases": [
-            "queue"
+            "queue",
+            "printer"
         ],
         "tags": [],
         "author": "Michael Richins",
