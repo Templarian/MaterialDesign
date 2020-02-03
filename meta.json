@@ -38433,9 +38433,7 @@
         "aliases": [
             "near-field-communication"
         ],
-        "tags": [
-            "Currency"
-        ],
+        "tags": [],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
