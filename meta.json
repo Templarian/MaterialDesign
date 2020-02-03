@@ -53287,7 +53287,9 @@
         "id": "FACF04CD-2633-47EC-97BE-59A3341289C3",
         "name": "tray-remove",
         "codepoint": "F02C4",
-        "aliases": [],
+        "aliases": [
+            "queue"
+        ],
         "tags": [],
         "author": "Michael Richins",
         "version": "4.7.95"
