@@ -53244,7 +53244,8 @@
         "name": "tray-alert",
         "codepoint": "F02C0",
         "aliases": [
-            "queue"
+            "queue",
+            "printer"
         ],
         "tags": [
             "Alert \/ Error"
