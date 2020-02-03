@@ -53298,7 +53298,8 @@
         "name": "tray-remove",
         "codepoint": "F02C4",
         "aliases": [
-            "queue"
+            "queue",
+            "printer"
         ],
         "tags": [],
         "author": "Michael Richins",
