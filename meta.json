@@ -53276,7 +53276,9 @@
         "id": "BF55355C-56CC-4C1F-9136-D92AA0800706",
         "name": "tray-plus",
         "codepoint": "F02C3",
-        "aliases": [],
+        "aliases": [
+            "queue"
+        ],
         "tags": [],
         "author": "Michael Richins",
         "version": "4.7.95"
