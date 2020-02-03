@@ -53272,7 +53272,8 @@
         "name": "tray-minus",
         "codepoint": "F02C2",
         "aliases": [
-            "queue"
+            "queue",
+            "printer"
         ],
         "tags": [],
         "author": "Michael Richins",
