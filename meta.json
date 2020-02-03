@@ -31716,6 +31716,15 @@
         "version": "2.1.19"
     },
     {
+        "id": "9620A768-2570-423E-8D3C-D65C9CACA7EC",
+        "name": "ice-cream-off",
+        "codepoint": "FE35",
+        "aliases": [],
+        "tags": [],
+        "author": "TheChilliPL",
+        "version": "3.6.95"
+    },
+    {
         "id": "58AA127F-3523-4B91-AFED-018FA36D0876",
         "name": "ice-pop",
         "codepoint": "FF1A",
@@ -38427,15 +38436,6 @@
         ],
         "author": "Austin Andrews",
         "version": "1.5.54"
-    },
-    {
-        "id": "9620A768-2570-423E-8D3C-D65C9CACA7EC",
-        "name": "nfc-off",
-        "codepoint": "FE35",
-        "aliases": [],
-        "tags": [],
-        "author": "TheChilliPL",
-        "version": "3.6.95"
     },
     {
         "id": "2AD73512-8D95-4CCB-8A7E-528E70F510B9",
