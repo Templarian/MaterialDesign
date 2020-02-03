@@ -53241,7 +53241,9 @@
         "id": "A1CCEE33-5CCA-43B9-B056-23F3EAFBE506",
         "name": "tray-alert",
         "codepoint": "F02C0",
-        "aliases": [],
+        "aliases": [
+            "queue"
+        ],
         "tags": [
             "Alert \/ Error"
         ],
