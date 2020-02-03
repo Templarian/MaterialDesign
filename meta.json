@@ -53265,7 +53265,9 @@
         "id": "F7F07C92-4531-466D-AC3E-F7822D2FDFBD",
         "name": "tray-minus",
         "codepoint": "F02C2",
-        "aliases": [],
+        "aliases": [
+            "queue"
+        ],
         "tags": [],
         "author": "Michael Richins",
         "version": "4.7.95"
