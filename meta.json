@@ -31720,8 +31720,10 @@
         "name": "ice-cream-off",
         "codepoint": "FE35",
         "aliases": [],
-        "tags": [],
-        "author": "TheChilliPL",
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Cody",
         "version": "3.6.95"
     },
     {
