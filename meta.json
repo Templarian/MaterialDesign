@@ -53254,7 +53254,9 @@
         "id": "B81435D3-9FE4-470D-A46A-7FEDA1773D15",
         "name": "tray-full",
         "codepoint": "F02C1",
-        "aliases": [],
+        "aliases": [
+            "queue"
+        ],
         "tags": [],
         "author": "Michael Richins",
         "version": "4.7.95"
