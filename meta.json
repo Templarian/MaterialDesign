@@ -11433,7 +11433,9 @@
         "name": "camcorder-off",
         "codepoint": "F0FF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "Michael Irigoyen",
         "version": "1.5.54"
     },
