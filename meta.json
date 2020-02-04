@@ -29077,17 +29077,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "DEC0A182-36E6-47D2-ABC4-AF717946C412",
-        "name": "google-pages",
-        "codepoint": "F2BA",
-        "aliases": [],
-        "tags": [
-            "Video \/ Movie"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "A4C7D4DF-2B1F-424B-9502-6618F88C9A65",
         "name": "google-photos",
         "codepoint": "F6DC",
@@ -54844,6 +54833,17 @@
         ],
         "author": "Google",
         "version": "2.4.85"
+    },
+    {
+        "id": "DEC0A182-36E6-47D2-ABC4-AF717946C412",
+        "name": "video-minus-outline",
+        "codepoint": "F2BA",
+        "aliases": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "1.5.54"
     },
     {
         "id": "F4C3A814-205E-4F0A-9B3D-34B5777A4237",
