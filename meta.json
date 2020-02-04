@@ -29081,7 +29081,9 @@
         "name": "google-pages",
         "codepoint": "F2BA",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
