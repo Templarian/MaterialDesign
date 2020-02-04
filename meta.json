@@ -15070,17 +15070,6 @@
         "version": "3.6.95"
     },
     {
-        "id": "A6387660-7DB0-41DC-9ECF-EBBA5A78FC82",
-        "name": "cisco-webex",
-        "codepoint": "F145",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "5A5AC571-1818-45D0-8259-A9177DBED615",
         "name": "city",
         "codepoint": "F146",
@@ -45103,6 +45092,17 @@
         ],
         "author": "Michael Irigoyen",
         "version": "3.3.92"
+    },
+    {
+        "id": "A6387660-7DB0-41DC-9ECF-EBBA5A78FC82",
+        "name": "roller-skate-off",
+        "codepoint": "F145",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
     },
     {
         "id": "366C920F-6DC6-46FF-94C6-44A8D22A7D1D",
