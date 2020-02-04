@@ -45098,7 +45098,9 @@
         "name": "roller-skate-off",
         "codepoint": "F145",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Michael Irigoyen",
         "version": "1.5.54"
     },
