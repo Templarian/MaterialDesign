@@ -11427,6 +11427,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "BE1C767B-C032-487C-AB85-E2E960C9A89D",
+        "name": "camcorder-off",
+        "codepoint": "F0FF",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "1.5.54"
+    },
+    {
         "id": "236D9E8E-E38C-4EA9-9539-0E8B1447003A",
         "name": "camera",
         "codepoint": "F100",
@@ -54840,15 +54849,6 @@
         ],
         "author": "Google",
         "version": "2.4.85"
-    },
-    {
-        "id": "BE1C767B-C032-487C-AB85-E2E960C9A89D",
-        "name": "video-off",
-        "codepoint": "F0FF",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "1.5.54"
     },
     {
         "id": "F4C3A814-205E-4F0A-9B3D-34B5777A4237",
