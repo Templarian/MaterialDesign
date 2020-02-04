@@ -11422,7 +11422,9 @@
         "name": "camcorder",
         "codepoint": "F0FC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
