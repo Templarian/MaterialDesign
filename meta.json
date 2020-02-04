@@ -28514,7 +28514,9 @@
         "name": "github-face",
         "codepoint": "F6DA",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Contributors",
         "version": "1.8.36"
     },
