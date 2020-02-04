@@ -28503,7 +28503,9 @@
         "name": "github-box",
         "codepoint": "F2A3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Contributors",
         "version": "1.5.54"
     },
