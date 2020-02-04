@@ -4085,17 +4085,6 @@
         "version": "2.3.50"
     },
     {
-        "id": "BC1934AD-28E6-4E7C-8C7E-1557CE482CCB",
-        "name": "amazon-drive",
-        "codepoint": "F02E",
-        "aliases": [],
-        "tags": [
-            "Sport"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "B0DB559B-A9D4-473A-AF6D-C72559CCC9D9",
         "name": "ambulance",
         "codepoint": "F02F",
@@ -45124,6 +45113,17 @@
         ],
         "author": "Michael Irigoyen",
         "version": "3.3.92"
+    },
+    {
+        "id": "BC1934AD-28E6-4E7C-8C7E-1557CE482CCB",
+        "name": "rollerblade-off",
+        "codepoint": "F02E",
+        "aliases": [],
+        "tags": [
+            "Sport"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "1.5.54"
     },
     {
         "id": "9BBAB3C0-02B2-436A-94C8-0EBD388289D8",
