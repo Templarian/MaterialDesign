@@ -27603,6 +27603,7 @@
         "name": "furigana-vertical",
         "codepoint": "F00AD",
         "aliases": [
+            "zhuyin",
             "ruby-vertical"
         ],
         "tags": [
