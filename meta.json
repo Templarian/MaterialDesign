@@ -416,6 +416,17 @@
         "version": "3.5.94"
     },
     {
+        "id": "951C68F1-876F-440E-A4D9-B724BB6D6181",
+        "name": "account-card-star",
+        "codepoint": "F2A3",
+        "aliases": [],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Michael Richins",
+        "version": "1.5.54"
+    },
+    {
         "id": "E3270EE8-3F41-481F-9B15-E8925C62A83C",
         "name": "account-cash",
         "codepoint": "F00C2",
@@ -28494,17 +28505,6 @@
         "tags": [
             "Developer \/ Languages",
             "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
-        "id": "951C68F1-876F-440E-A4D9-B724BB6D6181",
-        "name": "github-box",
-        "codepoint": "F2A3",
-        "aliases": [],
-        "tags": [
-            "Account \/ User"
         ],
         "author": "Contributors",
         "version": "1.5.54"
