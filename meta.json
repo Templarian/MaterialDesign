@@ -4088,9 +4088,7 @@
         "id": "BC1934AD-28E6-4E7C-8C7E-1557CE482CCB",
         "name": "amazon-drive",
         "codepoint": "F02E",
-        "aliases": [
-            "amazon-clouddrive"
-        ],
+        "aliases": [],
         "tags": [],
         "author": "Contributors",
         "version": "1.5.54"
