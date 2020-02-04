@@ -416,6 +416,17 @@
         "version": "3.5.94"
     },
     {
+        "id": "97C9CAC2-9F94-40EA-9A08-1A9BDD208743",
+        "name": "account-card-details-star-outline",
+        "codepoint": "F6DA",
+        "aliases": [],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Michael Richins",
+        "version": "1.8.36"
+    },
+    {
         "id": "951C68F1-876F-440E-A4D9-B724BB6D6181",
         "name": "account-card-star",
         "codepoint": "F2A3",
@@ -28508,17 +28519,6 @@
         ],
         "author": "Contributors",
         "version": "1.5.54"
-    },
-    {
-        "id": "97C9CAC2-9F94-40EA-9A08-1A9BDD208743",
-        "name": "github-face",
-        "codepoint": "F6DA",
-        "aliases": [],
-        "tags": [
-            "Account \/ User"
-        ],
-        "author": "Contributors",
-        "version": "1.8.36"
     },
     {
         "id": "6C0EA9E0-8F4F-40CB-A2B2-A2D84C97EE6A",
