@@ -19820,7 +19820,9 @@
         "name": "disqus-outline",
         "codepoint": "F1D3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "Contributors",
         "version": "1.5.54"
     },
