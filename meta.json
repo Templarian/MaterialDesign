@@ -54937,7 +54937,9 @@
         "name": "video-switch-outline",
         "codepoint": "F78F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "Google",
         "version": "2.0.46"
     },
