@@ -4089,7 +4089,9 @@
         "name": "amazon-drive",
         "codepoint": "F02E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Contributors",
         "version": "1.5.54"
     },
