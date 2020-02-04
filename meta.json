@@ -33647,6 +33647,15 @@
         "version": "2.0.46"
     },
     {
+        "id": "2BC47DF3-B959-44C0-BE1A-8D1EB0B18FEF",
+        "name": "language-ruby",
+        "codepoint": "FD09",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "3.3.92"
+    },
+    {
         "id": "6898147E-618C-4A16-A06B-5270C63AAB2B",
         "name": "language-ruby-on-rails",
         "codepoint": "FACE",
@@ -45436,15 +45445,6 @@
         "tags": [],
         "author": "Michael Richins",
         "version": "3.8.95"
-    },
-    {
-        "id": "2BC47DF3-B959-44C0-BE1A-8D1EB0B18FEF",
-        "name": "ruby",
-        "codepoint": "FD09",
-        "aliases": [],
-        "tags": [],
-        "author": "Contributors",
-        "version": "3.3.92"
     },
     {
         "id": "19489FCE-DD25-4670-BC6F-4FC3AF1E66D3",
