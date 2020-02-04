@@ -28487,9 +28487,9 @@
         "version": "1.5.54"
     },
     {
-        "id": "951C68F1-876F-440E-A4D9-B724BB6D6181",
-        "name": "github-box",
-        "codepoint": "F2A3",
+        "id": "5C6175DD-8549-4004-AB77-A545D721A0DE",
+        "name": "github",
+        "codepoint": "F2A4",
         "aliases": [],
         "tags": [
             "Developer \/ Languages",
@@ -28499,9 +28499,9 @@
         "version": "1.5.54"
     },
     {
-        "id": "5C6175DD-8549-4004-AB77-A545D721A0DE",
-        "name": "github-circle",
-        "codepoint": "F2A4",
+        "id": "951C68F1-876F-440E-A4D9-B724BB6D6181",
+        "name": "github-box",
+        "codepoint": "F2A3",
         "aliases": [],
         "tags": [
             "Developer \/ Languages",
