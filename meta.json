@@ -1063,6 +1063,15 @@
         "version": "2.1.19"
     },
     {
+        "id": "A8CC9CFF-A5DE-4FC8-A4AC-BCE153F767F8",
+        "name": "account-music-outline",
+        "codepoint": "FCC5",
+        "aliases": [],
+        "tags": [],
+        "author": "GreenTurtwig",
+        "version": "3.3.92"
+    },
+    {
         "id": "8F49C741-4ED8-4DD3-A22E-310C039EDDA6",
         "name": "account-network",
         "codepoint": "F011",
@@ -5954,15 +5963,6 @@
         ],
         "author": "Michael Irigoyen",
         "version": "4.4.95"
-    },
-    {
-        "id": "A8CC9CFF-A5DE-4FC8-A4AC-BCE153F767F8",
-        "name": "artist-outline",
-        "codepoint": "FCC5",
-        "aliases": [],
-        "tags": [],
-        "author": "GreenTurtwig",
-        "version": "3.3.92"
     },
     {
         "id": "548CCDA7-0E99-4568-9997-2ECFD33392BB",
