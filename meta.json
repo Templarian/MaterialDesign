@@ -16565,6 +16565,17 @@
         "version": "2.2.43"
     },
     {
+        "id": "17CD5A77-2809-4DDC-B876-877D8B913217",
+        "name": "cog-transfer",
+        "codepoint": "F007D",
+        "aliases": [],
+        "tags": [
+            "Settings"
+        ],
+        "author": "Michael Richins",
+        "version": "4.1.95"
+    },
+    {
         "id": "2EF56130-ECE9-4432-B59E-36F646DE1C86",
         "name": "cogs",
         "codepoint": "F8D5",
@@ -46871,17 +46882,6 @@
         ],
         "author": "Peter Noble",
         "version": "2.6.95"
-    },
-    {
-        "id": "17CD5A77-2809-4DDC-B876-877D8B913217",
-        "name": "settings-transfer",
-        "codepoint": "F007D",
-        "aliases": [],
-        "tags": [
-            "Settings"
-        ],
-        "author": "Michael Richins",
-        "version": "4.1.95"
     },
     {
         "id": "AD008794-9094-40B5-91E8-6648E1CBADAD",
