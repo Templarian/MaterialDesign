@@ -16551,6 +16551,20 @@
         "version": "4.5.95"
     },
     {
+        "id": "D29B92ED-BC81-44F0-8031-2E48A90ABAD8",
+        "name": "cog-outline",
+        "codepoint": "F8BA",
+        "aliases": [
+            "cog-outline",
+            "gear-outline"
+        ],
+        "tags": [
+            "Settings"
+        ],
+        "author": "Google",
+        "version": "2.2.43"
+    },
+    {
         "id": "2EF56130-ECE9-4432-B59E-36F646DE1C86",
         "name": "cogs",
         "codepoint": "F8D5",
@@ -46856,20 +46870,6 @@
         ],
         "author": "Peter Noble",
         "version": "2.6.95"
-    },
-    {
-        "id": "D29B92ED-BC81-44F0-8031-2E48A90ABAD8",
-        "name": "settings-outline",
-        "codepoint": "F8BA",
-        "aliases": [
-            "cog-outline",
-            "gear-outline"
-        ],
-        "tags": [
-            "Settings"
-        ],
-        "author": "Google",
-        "version": "2.2.43"
     },
     {
         "id": "17CD5A77-2809-4DDC-B876-877D8B913217",
