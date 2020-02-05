@@ -8939,7 +8939,9 @@
         "id": "CC30F9D0-3076-4189-A00D-F570D5B0C5D1",
         "name": "book-cross",
         "codepoint": "F0A2",
-        "aliases": [],
+        "aliases": [
+            "bible"
+        ],
         "tags": [
             "Religion"
         ],
