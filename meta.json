@@ -35855,15 +35855,6 @@
         "version": "2.7.94"
     },
     {
-        "id": "618ED59F-832C-4DA8-A8F6-421CC6A10305",
-        "name": "mastodon-variant",
-        "codepoint": "FAD1",
-        "aliases": [],
-        "tags": [],
-        "author": "Contributors",
-        "version": "2.7.94"
-    },
-    {
         "id": "224604D9-8F3D-454A-B11F-D4C00231B15B",
         "name": "material-design",
         "codepoint": "F985",
@@ -48855,6 +48846,15 @@
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "2.3.50"
+    },
+    {
+        "id": "618ED59F-832C-4DA8-A8F6-421CC6A10305",
+        "name": "sort-numeric-descending-variant",
+        "codepoint": "FAD1",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "2.7.94"
     },
     {
         "id": "2CD8E0F3-0AF4-4BBD-B1C8-EEF6391F62C3",
