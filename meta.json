@@ -199,20 +199,6 @@
         "version": "3.0.39"
     },
     {
-        "id": "AE2E869B-B420-4505-9EE0-EE3751478D64",
-        "name": "account-badge",
-        "codepoint": "FD83",
-        "aliases": [
-            "user-badge",
-            "person-badge"
-        ],
-        "tags": [
-            "Account \/ User"
-        ],
-        "author": "Michael Richins",
-        "version": "3.5.94"
-    },
-    {
         "id": "610A9983-6737-4876-B1E2-09C22D3888D9",
         "name": "account-badge-alert",
         "codepoint": "FD84",
@@ -6610,6 +6596,20 @@
         ],
         "author": "Michael Irigoyen",
         "version": "3.8.95"
+    },
+    {
+        "id": "AE2E869B-B420-4505-9EE0-EE3751478D64",
+        "name": "badge-account",
+        "codepoint": "FD83",
+        "aliases": [
+            "user-badge",
+            "person-badge"
+        ],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Michael Richins",
+        "version": "3.5.94"
     },
     {
         "id": "AF478988-12FA-460A-AE5B-01536D6D5B97",
