@@ -22938,6 +22938,20 @@
         "version": "4.2.95"
     },
     {
+        "id": "6ABE5D01-4204-46C0-B0D8-B3904C2E64C2",
+        "name": "file-cog-outline",
+        "codepoint": "F00A7",
+        "aliases": [
+            "file-settings-cog-outline"
+        ],
+        "tags": [
+            "Settings",
+            "Files \/ Folders"
+        ],
+        "author": "Cody",
+        "version": "4.2.95"
+    },
+    {
         "id": "2169C66B-967F-4AB4-9123-A8A2C6129D6C",
         "name": "file-compare",
         "codepoint": "F8A9",
@@ -23897,20 +23911,6 @@
         "name": "file-settings-outline",
         "codepoint": "F00A5",
         "aliases": [],
-        "tags": [
-            "Settings",
-            "Files \/ Folders"
-        ],
-        "author": "Cody",
-        "version": "4.2.95"
-    },
-    {
-        "id": "6ABE5D01-4204-46C0-B0D8-B3904C2E64C2",
-        "name": "file-settings-variant-outline",
-        "codepoint": "F00A7",
-        "aliases": [
-            "file-settings-cog-outline"
-        ],
         "tags": [
             "Settings",
             "Files \/ Folders"
