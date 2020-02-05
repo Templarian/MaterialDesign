@@ -34640,15 +34640,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "A00FD3F3-01E7-489E-AB22-66F3B94AF6C0",
-        "name": "linkedin-box",
-        "codepoint": "F33C",
-        "aliases": [],
-        "tags": [],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "A58FE3A3-BC2C-48A4-8146-0D15F1B80128",
         "name": "linux",
         "codepoint": "F33D",
@@ -48862,6 +48853,15 @@
         ],
         "tags": [],
         "author": "Google",
+        "version": "1.5.54"
+    },
+    {
+        "id": "A00FD3F3-01E7-489E-AB22-66F3B94AF6C0",
+        "name": "sort-reverse-variant",
+        "codepoint": "F33C",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
         "version": "1.5.54"
     },
     {
