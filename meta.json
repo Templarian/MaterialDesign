@@ -36883,9 +36883,7 @@
         "id": "0AE81D55-4520-4975-B406-145C74ECF033",
         "name": "microsoft-outlook",
         "codepoint": "FCFE",
-        "aliases": [
-            "microsoft-outlook"
-        ],
+        "aliases": [],
         "tags": [],
         "author": "Contributors",
         "version": "3.3.92"
