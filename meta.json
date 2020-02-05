@@ -17171,7 +17171,9 @@
         "name": "contactless-payment-circle",
         "codepoint": "F321",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Currency"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
