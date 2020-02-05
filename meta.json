@@ -29547,17 +29547,6 @@
         "version": "2.1.19"
     },
     {
-        "id": "A19711E4-E339-4016-970B-F81D14B303AC",
-        "name": "hackernews",
-        "codepoint": "F624",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.6.50"
-    },
-    {
         "id": "B4AC04DD-9F29-4F55-ABB6-A4AE4F272EC4",
         "name": "hail",
         "codepoint": "FAC0",
@@ -57684,6 +57673,17 @@
         ],
         "author": "Contributors",
         "version": "2.0.46"
+    },
+    {
+        "id": "A19711E4-E339-4016-970B-F81D14B303AC",
+        "name": "y-combinator",
+        "codepoint": "F624",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.6.50"
     },
     {
         "id": "63AB3732-B3D1-4AFA-81B5-5D0F40E5D0E0",
