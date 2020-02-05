@@ -17163,6 +17163,15 @@
         "version": "3.4.93"
     },
     {
+        "id": "445CF970-F03C-4DDC-A326-F77DA919CB39",
+        "name": "contactless-payment-circle",
+        "codepoint": "F321",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "1.5.54"
+    },
+    {
         "id": "5A68EA78-9792-4223-808D-17E5205765E6",
         "name": "contacts",
         "codepoint": "F6CA",
@@ -33608,15 +33617,6 @@
             "Developer \/ Languages"
         ],
         "author": "Austin Andrews",
-        "version": "1.5.54"
-    },
-    {
-        "id": "445CF970-F03C-4DDC-A326-F77DA919CB39",
-        "name": "language-python-text",
-        "codepoint": "F321",
-        "aliases": [],
-        "tags": [],
-        "author": "Contributors",
         "version": "1.5.54"
     },
     {
