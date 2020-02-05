@@ -16500,6 +16500,20 @@
         "version": "3.0.39"
     },
     {
+        "id": "E4A14909-3821-4DB1-A739-4DA464ABEEB7",
+        "name": "cog",
+        "codepoint": "F493",
+        "aliases": [
+            "cog",
+            "gear"
+        ],
+        "tags": [
+            "Settings"
+        ],
+        "author": "Google",
+        "version": "1.5.54"
+    },
+    {
         "id": "3E835EBE-D768-428D-8440-E162EC9F90E4",
         "name": "cog-clockwise",
         "codepoint": "F0208",
@@ -46816,20 +46830,6 @@
         ],
         "author": "Austin Andrews",
         "version": "2.4.85"
-    },
-    {
-        "id": "E4A14909-3821-4DB1-A739-4DA464ABEEB7",
-        "name": "settings",
-        "codepoint": "F493",
-        "aliases": [
-            "cog",
-            "gear"
-        ],
-        "tags": [
-            "Settings"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
     },
     {
         "id": "6F15658D-723C-4BE9-85D1-F170E4B90281",
