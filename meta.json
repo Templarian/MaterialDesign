@@ -36869,6 +36869,19 @@
         "version": "2.4.85"
     },
     {
+        "id": "E95EC3DF-2A48-4167-9F22-F4E735D4F298",
+        "name": "microsoft-onenote",
+        "codepoint": "F746",
+        "aliases": [
+            "microsoft-onenote"
+        ],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.9.32"
+    },
+    {
         "id": "62F69C7A-4CBA-444A-8BFE-E5B7A891CF5D",
         "name": "microwave",
         "codepoint": "FC75",
@@ -40275,19 +40288,6 @@
         ],
         "author": "Contributors",
         "version": "1.5.54"
-    },
-    {
-        "id": "E95EC3DF-2A48-4167-9F22-F4E735D4F298",
-        "name": "onenote",
-        "codepoint": "F746",
-        "aliases": [
-            "microsoft-onenote"
-        ],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.9.32"
     },
     {
         "id": "2B9B64C7-B799-45C5-BDCC-BEC3B8672CFE",
