@@ -36794,6 +36794,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "94560EAB-E027-4462-BBD8-C6921D90CC07",
+        "name": "microsoft-access",
+        "codepoint": "F03B9",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.0.95"
+    },
+    {
         "id": "7701BECC-343D-4BE8-B33A-B88ABACA8F26",
         "name": "microsoft-azure",
         "codepoint": "F804",
