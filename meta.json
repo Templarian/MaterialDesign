@@ -53790,9 +53790,7 @@
         "name": "twitter-box",
         "codepoint": "F545",
         "aliases": [],
-        "tags": [
-            "Social Media"
-        ],
+        "tags": [],
         "author": "Contributors",
         "version": "1.5.54"
     },
