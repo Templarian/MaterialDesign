@@ -12536,7 +12536,9 @@
         "id": "F43579AB-0098-44B4-910C-3B24193C3B79",
         "name": "card-account-mail-outline",
         "codepoint": "FEB5",
-        "aliases": [],
+        "aliases": [
+            "contact-mail-outline"
+        ],
         "tags": [],
         "author": "Google",
         "version": "3.7.94"
