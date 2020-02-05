@@ -38648,15 +38648,6 @@
         "version": "1.8.36"
     },
     {
-        "id": "FA5DB7BA-69CB-4DF5-9DE9-B0681889CB2D",
-        "name": "npm-variant",
-        "codepoint": "F98E",
-        "aliases": [],
-        "tags": [],
-        "author": "Contributors",
-        "version": "2.4.85"
-    },
-    {
         "id": "56E79669-E557-4D22-A21D-E07FFDB1C2B6",
         "name": "npm-variant-outline",
         "codepoint": "F98F",
@@ -40270,6 +40261,15 @@
         "tags": [],
         "author": "Cody",
         "version": "3.3.92"
+    },
+    {
+        "id": "FA5DB7BA-69CB-4DF5-9DE9-B0681889CB2D",
+        "name": "order-bool-ascending-variant",
+        "codepoint": "F98E",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "2.4.85"
     },
     {
         "id": "1ADB886B-B791-42BF-AC04-5EB73E665EA6",
