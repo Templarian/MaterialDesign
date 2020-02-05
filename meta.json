@@ -13178,6 +13178,23 @@
         "version": "1.5.54"
     },
     {
+        "id": "134C82D3-528D-46FA-9107-7F3D5AD8FBC3",
+        "name": "cellphone-cog",
+        "codepoint": "F950",
+        "aliases": [
+            "phonelink-setup",
+            "mobile-phone-settings-variant",
+            "smartphone-settings-variant"
+        ],
+        "tags": [
+            "Settings",
+            "Cellphone \/ Phone",
+            "Device \/ Tech"
+        ],
+        "author": "Google",
+        "version": "2.4.85"
+    },
+    {
         "id": "4FBBF196-CF97-436B-A3E6-A08D695E6986",
         "name": "cellphone-dock",
         "codepoint": "F11F",
@@ -13406,23 +13423,6 @@
         ],
         "author": "Google",
         "version": "1.5.54"
-    },
-    {
-        "id": "134C82D3-528D-46FA-9107-7F3D5AD8FBC3",
-        "name": "cellphone-settings-variant",
-        "codepoint": "F950",
-        "aliases": [
-            "phonelink-setup",
-            "mobile-phone-settings-variant",
-            "smartphone-settings-variant"
-        ],
-        "tags": [
-            "Settings",
-            "Cellphone \/ Phone",
-            "Device \/ Tech"
-        ],
-        "author": "Google",
-        "version": "2.4.85"
     },
     {
         "id": "F5D685BD-7BA8-4F4C-8701-06F1B1E57064",
