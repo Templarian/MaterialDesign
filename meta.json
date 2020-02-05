@@ -57678,7 +57678,9 @@
         "id": "A19711E4-E339-4016-970B-F81D14B303AC",
         "name": "y-combinator",
         "codepoint": "F624",
-        "aliases": [],
+        "aliases": [
+            "hackernews"
+        ],
         "tags": [
             "Brand \/ Logo"
         ],
