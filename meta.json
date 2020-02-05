@@ -36967,6 +36967,15 @@
         "version": "2.5.94"
     },
     {
+        "id": "BBB336AA-A225-44EE-B8AA-14AB109C505D",
+        "name": "microsoft-word",
+        "codepoint": "F03BD",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.0.95"
+    },
+    {
         "id": "B74213B2-B220-4D15-AFA5-CAE0E40D6CFE",
         "name": "microsoft-yammer",
         "codepoint": "F788",
