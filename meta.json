@@ -36908,9 +36908,7 @@
         "id": "AD21ACB2-11A5-4C30-907B-FFF1A5904738",
         "name": "microsoft-windows-classic",
         "codepoint": "FA20",
-        "aliases": [
-            "microsoft-windows-classic"
-        ],
+        "aliases": [],
         "tags": [],
         "author": "Contributors",
         "version": "2.5.94"
