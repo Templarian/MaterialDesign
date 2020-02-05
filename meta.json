@@ -20942,19 +20942,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "C2D33448-5C6E-41D9-89B4-65184FF5EE15",
-        "name": "edge",
-        "codepoint": "F1E9",
-        "aliases": [
-            "microsoft-edge"
-        ],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "F2B4075E-3226-40CB-9165-2C66A4BB4BBD",
         "name": "edge-legacy",
         "codepoint": "F027B",
@@ -36858,6 +36845,19 @@
         ],
         "author": "Contributors",
         "version": "2.4.85"
+    },
+    {
+        "id": "C2D33448-5C6E-41D9-89B4-65184FF5EE15",
+        "name": "microsoft-edge",
+        "codepoint": "F1E9",
+        "aliases": [
+            "microsoft-edge"
+        ],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
     },
     {
         "id": "E95EC3DF-2A48-4167-9F22-F4E735D4F298",
