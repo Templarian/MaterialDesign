@@ -36917,7 +36917,9 @@
         "name": "microsoft-powerpoint",
         "codepoint": "F03BB",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
         "author": "Contributors",
         "version": "5.0.95"
     },
