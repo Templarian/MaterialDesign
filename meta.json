@@ -40316,7 +40316,9 @@
         "name": "order-bool-descending-variant",
         "codepoint": "F98F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Cody",
         "version": "2.4.85"
     },
