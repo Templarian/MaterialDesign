@@ -36922,6 +36922,15 @@
         "version": "5.0.95"
     },
     {
+        "id": "D4F99553-AAF4-406A-8C02-71850F75E07E",
+        "name": "microsoft-sharepoint",
+        "codepoint": "F03BC",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.0.95"
+    },
+    {
         "id": "390FC04F-F2A9-44F5-9808-6370A647BAF0",
         "name": "microsoft-teams",
         "codepoint": "F2BB",
