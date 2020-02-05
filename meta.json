@@ -36880,6 +36880,17 @@
         "version": "1.9.32"
     },
     {
+        "id": "0AE81D55-4520-4975-B406-145C74ECF033",
+        "name": "microsoft-outlook",
+        "codepoint": "FCFE",
+        "aliases": [
+            "microsoft-outlook"
+        ],
+        "tags": [],
+        "author": "Contributors",
+        "version": "3.3.92"
+    },
+    {
         "id": "62F69C7A-4CBA-444A-8BFE-E5B7A891CF5D",
         "name": "microwave",
         "codepoint": "FC75",
@@ -40510,17 +40521,6 @@
         ],
         "author": "Borre Haugen",
         "version": "4.1.95"
-    },
-    {
-        "id": "0AE81D55-4520-4975-B406-145C74ECF033",
-        "name": "outlook",
-        "codepoint": "FCFE",
-        "aliases": [
-            "microsoft-outlook"
-        ],
-        "tags": [],
-        "author": "Contributors",
-        "version": "3.3.92"
     },
     {
         "id": "059B5D2A-9B8B-412D-BAF1-F3F9B7E14A44",
