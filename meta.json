@@ -36926,7 +36926,9 @@
         "name": "microsoft-sharepoint",
         "codepoint": "F03BC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
         "author": "Contributors",
         "version": "5.0.95"
     },
