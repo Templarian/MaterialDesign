@@ -293,17 +293,6 @@
         "version": "4.8.95"
     },
     {
-        "id": "97C9CAC2-9F94-40EA-9A08-1A9BDD208743",
-        "name": "account-card-details-star-outline",
-        "codepoint": "F6DA",
-        "aliases": [],
-        "tags": [
-            "Account \/ User"
-        ],
-        "author": "Michael Richins",
-        "version": "1.8.36"
-    },
-    {
         "id": "E3270EE8-3F41-481F-9B15-E8925C62A83C",
         "name": "account-cash",
         "codepoint": "F00C2",
@@ -12520,6 +12509,17 @@
         ],
         "author": "Michael Richins",
         "version": "1.5.54"
+    },
+    {
+        "id": "97C9CAC2-9F94-40EA-9A08-1A9BDD208743",
+        "name": "card-account-details-star-outline",
+        "codepoint": "F6DA",
+        "aliases": [],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Michael Richins",
+        "version": "1.8.36"
     },
     {
         "id": "BFFB5C41-DA26-4980-8B25-1DCB21B4673E",
