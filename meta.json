@@ -31639,7 +31639,9 @@
         "name": "human-wheelchair",
         "codepoint": "F03B8",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "People \/ Family"
+        ],
         "author": "Moma Design Studio",
         "version": "5.0.95"
     },
