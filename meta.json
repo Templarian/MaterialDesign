@@ -17160,7 +17160,9 @@
         "name": "contactless-payment",
         "codepoint": "FD46",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Currency"
+        ],
         "author": "Michael Richins",
         "version": "3.4.93"
     },
