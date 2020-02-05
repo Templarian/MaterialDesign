@@ -654,7 +654,9 @@
         "name": "account-cowboy-hat",
         "codepoint": "FEB8",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Augustin Ursu",
         "version": "3.7.94"
     },
