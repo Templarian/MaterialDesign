@@ -40272,7 +40272,9 @@
         "name": "order-alphabetical-descending",
         "codepoint": "FCE3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Cody",
         "version": "3.3.92"
     },
