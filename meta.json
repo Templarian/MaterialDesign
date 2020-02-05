@@ -36303,6 +36303,17 @@
         "version": "1.7.12"
     },
     {
+        "id": "F0F27B00-3C37-4AC0-B8D7-DB2554894079",
+        "name": "message-cog",
+        "codepoint": "F6F0",
+        "aliases": [],
+        "tags": [
+            "Settings"
+        ],
+        "author": "Michael Richins",
+        "version": "1.8.36"
+    },
+    {
         "id": "6434A4B3-F803-4C8B-A03C-BE39E947166B",
         "name": "message-draw",
         "codepoint": "F363",
@@ -36471,17 +36482,6 @@
         ],
         "author": "Michael Irigoyen",
         "version": "4.4.95"
-    },
-    {
-        "id": "F0F27B00-3C37-4AC0-B8D7-DB2554894079",
-        "name": "message-settings-variant",
-        "codepoint": "F6F0",
-        "aliases": [],
-        "tags": [
-            "Settings"
-        ],
-        "author": "Michael Richins",
-        "version": "1.8.36"
     },
     {
         "id": "B4FCC7EE-5464-4713-A4F4-8C0CA0E9472E",
