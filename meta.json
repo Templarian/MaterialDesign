@@ -40258,6 +40258,15 @@
         "version": "2.4.85"
     },
     {
+        "id": "62006FDB-1540-4E32-B74D-A758C8974661",
+        "name": "order-bool-descending",
+        "codepoint": "F03AF",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "5.0.95"
+    },
+    {
         "id": "56E79669-E557-4D22-A21D-E07FFDB1C2B6",
         "name": "order-bool-descending-variant",
         "codepoint": "F98F",
