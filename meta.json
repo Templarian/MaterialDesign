@@ -48862,6 +48862,15 @@
         "version": "5.0.95"
     },
     {
+        "id": "9F0F11BF-8F55-45CD-B185-7C8BC278954C",
+        "name": "sort-bool-ascending-variant",
+        "codepoint": "F03B1",
+        "aliases": [],
+        "tags": [],
+        "author": "frankgrinaert",
+        "version": "5.0.95"
+    },
+    {
         "id": "F0028BDF-0589-400F-8596-100CCB029D6E",
         "name": "sort-descending",
         "codepoint": "F4BD",
