@@ -221,20 +221,6 @@
         "version": "3.6.95"
     },
     {
-        "id": "37856000-4337-42D9-B273-9C9656E9CFCD",
-        "name": "account-badge-outline",
-        "codepoint": "FD86",
-        "aliases": [
-            "user-badge-outline",
-            "person-badge-outline"
-        ],
-        "tags": [
-            "Account \/ User"
-        ],
-        "author": "Michael Richins",
-        "version": "3.5.94"
-    },
-    {
         "id": "474D0A31-E56A-4780-9417-DCF8D9A38830",
         "name": "account-box",
         "codepoint": "F006",
@@ -6607,6 +6593,20 @@
         "tags": [
             "Account \/ User",
             "Alert \/ Error"
+        ],
+        "author": "Michael Richins",
+        "version": "3.5.94"
+    },
+    {
+        "id": "37856000-4337-42D9-B273-9C9656E9CFCD",
+        "name": "badge-account-outline",
+        "codepoint": "FD86",
+        "aliases": [
+            "user-badge-outline",
+            "person-badge-outline"
+        ],
+        "tags": [
+            "Account \/ User"
         ],
         "author": "Michael Richins",
         "version": "3.5.94"
