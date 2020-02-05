@@ -25349,6 +25349,20 @@
         "version": "2.7.94"
     },
     {
+        "id": "C5113090-DFDF-461C-BD5F-885DF9938A9E",
+        "name": "folder-cog",
+        "codepoint": "F00AA",
+        "aliases": [
+            "folder-cog"
+        ],
+        "tags": [
+            "Settings",
+            "Files \/ Folders"
+        ],
+        "author": "Cody",
+        "version": "4.2.95"
+    },
+    {
         "id": "E10E0982-353D-484A-886B-30D343261422",
         "name": "folder-download",
         "codepoint": "F24D",
@@ -25842,20 +25856,6 @@
         "name": "folder-settings-outline",
         "codepoint": "F00A9",
         "aliases": [],
-        "tags": [
-            "Settings",
-            "Files \/ Folders"
-        ],
-        "author": "Cody",
-        "version": "4.2.95"
-    },
-    {
-        "id": "C5113090-DFDF-461C-BD5F-885DF9938A9E",
-        "name": "folder-settings-variant",
-        "codepoint": "F00AA",
-        "aliases": [
-            "folder-cog"
-        ],
         "tags": [
             "Settings",
             "Files \/ Folders"
