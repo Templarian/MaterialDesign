@@ -36891,6 +36891,20 @@
         "version": "1.5.54"
     },
     {
+        "id": "6E06B49E-5127-4D5A-9C8B-F58BA8943BC4",
+        "name": "microsoft-windows",
+        "codepoint": "F5B3",
+        "aliases": [
+            "microsoft-windows"
+        ],
+        "tags": [
+            "Brand \/ Logo",
+            "Gaming \/ RPG"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "B74213B2-B220-4D15-AFA5-CAE0E40D6CFE",
         "name": "microsoft-yammer",
         "codepoint": "F788",
@@ -57362,20 +57376,6 @@
         ],
         "author": "idevo89",
         "version": "4.3.95"
-    },
-    {
-        "id": "6E06B49E-5127-4D5A-9C8B-F58BA8943BC4",
-        "name": "windows",
-        "codepoint": "F5B3",
-        "aliases": [
-            "microsoft-windows"
-        ],
-        "tags": [
-            "Brand \/ Logo",
-            "Gaming \/ RPG"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "AD21ACB2-11A5-4C30-907B-FFF1A5904738",
