@@ -650,6 +650,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "18963ABD-E908-4E3C-B8DA-D87916F269F7",
+        "name": "account-cowboy-hat",
+        "codepoint": "FEB8",
+        "aliases": [],
+        "tags": [],
+        "author": "Augustin Ursu",
+        "version": "3.7.94"
+    },
+    {
         "id": "3696B7DF-3E12-44EF-B27F-E171AEB5241F",
         "name": "account-details",
         "codepoint": "F631",
@@ -17628,15 +17637,6 @@
         ],
         "author": "Austin Andrews",
         "version": "1.5.54"
-    },
-    {
-        "id": "18963ABD-E908-4E3C-B8DA-D87916F269F7",
-        "name": "cowboy",
-        "codepoint": "FEB8",
-        "aliases": [],
-        "tags": [],
-        "author": "Augustin Ursu",
-        "version": "3.7.94"
     },
     {
         "id": "BC9DA934-ED6D-4EC4-9FA4-2B6FF26B3058",
