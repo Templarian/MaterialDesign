@@ -55849,6 +55849,7 @@
             "account-balance-wallet"
         ],
         "tags": [
+            "Currency",
             "Banking"
         ],
         "author": "Google",
