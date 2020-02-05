@@ -25023,15 +25023,6 @@
         "version": "4.8.95"
     },
     {
-        "id": "D9CEAAB0-32D3-4A42-A0F3-74B1FC50E9F0",
-        "name": "flickr",
-        "codepoint": "FCE3",
-        "aliases": [],
-        "tags": [],
-        "author": "Contributors",
-        "version": "3.3.92"
-    },
-    {
         "id": "9D29290D-A243-4C72-BC8C-ABCDFB4448B2",
         "name": "flip-horizontal",
         "codepoint": "F0112",
@@ -40272,6 +40263,15 @@
         "tags": [],
         "author": "Cody",
         "version": "1.5.54"
+    },
+    {
+        "id": "D9CEAAB0-32D3-4A42-A0F3-74B1FC50E9F0",
+        "name": "order-alphabetical-descending",
+        "codepoint": "FCE3",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "3.3.92"
     },
     {
         "id": "E41855D5-FB0E-4FAD-8CD8-D085B1577D2F",
