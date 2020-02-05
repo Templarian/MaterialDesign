@@ -57768,7 +57768,9 @@
         "id": "7150F7D3-B162-41DE-80A8-5DFD930EDF1B",
         "name": "youtube-studio",
         "codepoint": "F846",
-        "aliases": [],
+        "aliases": [
+            "youtube-creator-studio"
+        ],
         "tags": [
             "Brand \/ Logo"
         ],
