@@ -55350,9 +55350,7 @@
         "id": "00E657E0-F05A-423A-813F-3DC14C5E6439",
         "name": "vk-circle",
         "codepoint": "F57B",
-        "aliases": [
-            "vkontakte-circle"
-        ],
+        "aliases": [],
         "tags": [],
         "author": "Cody",
         "version": "1.5.54"
