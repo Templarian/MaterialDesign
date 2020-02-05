@@ -40314,7 +40314,9 @@
         "id": "62006FDB-1540-4E32-B74D-A758C8974661",
         "name": "order-bool-descending",
         "codepoint": "F03AF",
-        "aliases": [],
+        "aliases": [
+            "order-checkbox-descending"
+        ],
         "tags": [
             "Text \/ Content \/ Format"
         ],
