@@ -40301,7 +40301,9 @@
         "id": "FA5DB7BA-69CB-4DF5-9DE9-B0681889CB2D",
         "name": "order-bool-ascending-variant",
         "codepoint": "F98E",
-        "aliases": [],
+        "aliases": [
+            "order-checkbox-ascending"
+        ],
         "tags": [
             "Text \/ Content \/ Format"
         ],
