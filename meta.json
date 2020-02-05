@@ -40327,7 +40327,9 @@
         "name": "order-numeric-ascending",
         "codepoint": "F545",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Cody",
         "version": "1.5.54"
     },
