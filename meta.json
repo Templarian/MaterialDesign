@@ -32567,17 +32567,6 @@
         "version": "4.1.95"
     },
     {
-        "id": "255BB365-7B2F-46C7-B85E-EFDAD527BB54",
-        "name": "internet-explorer",
-        "codepoint": "F300",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "2B0100AC-D0EB-4B85-A9AB-EB921C9A65AC",
         "name": "invert-colors",
         "codepoint": "F301",
@@ -36858,6 +36847,17 @@
         "tags": [],
         "author": "Contributors",
         "version": "4.6.95"
+    },
+    {
+        "id": "255BB365-7B2F-46C7-B85E-EFDAD527BB54",
+        "name": "microsoft-internet-explorer",
+        "codepoint": "F300",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
     },
     {
         "id": "E95EC3DF-2A48-4167-9F22-F4E735D4F298",
