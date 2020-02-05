@@ -36844,7 +36844,9 @@
         "name": "microsoft-edge-legacy",
         "codepoint": "F027B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
         "author": "Contributors",
         "version": "4.6.95"
     },
