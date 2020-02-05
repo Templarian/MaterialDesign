@@ -33615,9 +33615,7 @@
         "name": "language-python-text",
         "codepoint": "F321",
         "aliases": [],
-        "tags": [
-            "Developer \/ Languages"
-        ],
+        "tags": [],
         "author": "Contributors",
         "version": "1.5.54"
     },
