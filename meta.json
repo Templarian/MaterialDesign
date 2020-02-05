@@ -743,7 +743,9 @@
         "id": "54665F14-32CD-41E3-B5C5-0E9ABDD3A317",
         "name": "account-hard-hat",
         "codepoint": "F5B5",
-        "aliases": [],
+        "aliases": [
+            "worker"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.5.54"
