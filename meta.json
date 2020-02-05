@@ -12533,6 +12533,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "F43579AB-0098-44B4-910C-3B24193C3B79",
+        "name": "card-account-mail-outline",
+        "codepoint": "FEB5",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "3.7.94"
+    },
+    {
         "id": "BFFB5C41-DA26-4980-8B25-1DCB21B4673E",
         "name": "card-bulleted",
         "codepoint": "FB4C",
@@ -17253,15 +17262,6 @@
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.3.95"
-    },
-    {
-        "id": "F43579AB-0098-44B4-910C-3B24193C3B79",
-        "name": "contact-mail-outline",
-        "codepoint": "FEB5",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "3.7.94"
     },
     {
         "id": "D992EB08-7BDB-4D44-B3C1-A123F80C17FA",
