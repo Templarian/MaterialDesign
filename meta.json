@@ -40338,7 +40338,9 @@
         "name": "order-numeric-descending",
         "codepoint": "F546",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Cody",
         "version": "1.5.54"
     },
