@@ -29131,15 +29131,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "2D12922D-3C06-4916-9575-CA9A1014C4BF",
-        "name": "google-plus-box",
-        "codepoint": "F2BE",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "2C6E6048-97ED-4CA1-B8CE-31CEB31670C3",
         "name": "google-podcast",
         "codepoint": "FED6",
@@ -40247,6 +40238,15 @@
         "tags": [],
         "author": "Cody",
         "version": "3.3.92"
+    },
+    {
+        "id": "2D12922D-3C06-4916-9575-CA9A1014C4BF",
+        "name": "order-bool-ascending",
+        "codepoint": "F2BE",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "1.5.54"
     },
     {
         "id": "FA5DB7BA-69CB-4DF5-9DE9-B0681889CB2D",
