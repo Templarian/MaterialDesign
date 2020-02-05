@@ -17584,7 +17584,8 @@
         "codepoint": "F0010",
         "aliases": [],
         "tags": [
-            "Banking"
+            "Banking",
+            "Currency"
         ],
         "author": "Michael Richins",
         "version": "4.0.96"
