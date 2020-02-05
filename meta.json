@@ -16393,6 +16393,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "24C1AA84-85C2-41F4-A5E3-8FE7421CD359",
+        "name": "code-json",
+        "codepoint": "F626",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "1.6.50"
+    },
+    {
         "id": "92266B3A-6EC4-4CE7-9904-2A793B2A4084",
         "name": "code-less-than",
         "codepoint": "F16E",
@@ -32792,15 +32801,6 @@
         ],
         "author": "Contributors",
         "version": "1.5.54"
-    },
-    {
-        "id": "24C1AA84-85C2-41F4-A5E3-8FE7421CD359",
-        "name": "json",
-        "codepoint": "F626",
-        "aliases": [],
-        "tags": [],
-        "author": "Austin Andrews",
-        "version": "1.6.50"
     },
     {
         "id": "7EF95029-012C-456C-A1E8-BB96961071FD",
