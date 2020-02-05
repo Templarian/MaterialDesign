@@ -16581,7 +16581,9 @@
         "id": "AD008794-9094-40B5-91E8-6648E1CBADAD",
         "name": "cog-transfer-outline",
         "codepoint": "F007E",
-        "aliases": [],
+        "aliases": [
+            "settings-transfer-outline"
+        ],
         "tags": [
             "Settings"
         ],
