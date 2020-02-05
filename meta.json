@@ -48797,6 +48797,15 @@
         "version": "4.4.95"
     },
     {
+        "id": "7F545D3A-5E66-42D4-88AB-8A2BD817D731",
+        "name": "sort-alphabetical-descending",
+        "codepoint": "F5BF",
+        "aliases": [],
+        "tags": [],
+        "author": "frankgrinaert",
+        "version": "1.5.54"
+    },
+    {
         "id": "D4F8234D-4EE3-4825-861E-C46E8FE6F438",
         "name": "sort-alphabetical-descending",
         "codepoint": "F0174",
@@ -57452,15 +57461,6 @@
             "Brand \/ Logo"
         ],
         "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
-        "id": "7F545D3A-5E66-42D4-88AB-8A2BD817D731",
-        "name": "xing-circle",
-        "codepoint": "F5BF",
-        "aliases": [],
-        "tags": [],
-        "author": "frankgrinaert",
         "version": "1.5.54"
     },
     {
