@@ -49007,7 +49007,9 @@
         "aliases": [
             "sort-numerically"
         ],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
