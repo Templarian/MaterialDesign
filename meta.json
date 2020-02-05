@@ -48895,7 +48895,9 @@
         "name": "sort-ascending",
         "codepoint": "F4BC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "frankgrinaert",
         "version": "1.5.54"
     },
