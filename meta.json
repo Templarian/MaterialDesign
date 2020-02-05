@@ -40305,7 +40305,9 @@
         "name": "order-bool-descending",
         "codepoint": "F03AF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Cody",
         "version": "5.0.95"
     },
