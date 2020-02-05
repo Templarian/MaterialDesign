@@ -48994,7 +48994,9 @@
         "name": "sort-numeric-descending-variant",
         "codepoint": "FAD1",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Michael Irigoyen",
         "version": "2.7.94"
     },
