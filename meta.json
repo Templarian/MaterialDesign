@@ -9000,7 +9000,9 @@
         "id": "10BCB9E5-2E1F-4CD0-871F-B36FA0595004",
         "name": "book-music",
         "codepoint": "F067",
-        "aliases": [],
+        "aliases": [
+            "audio-book"
+        ],
         "tags": [
             "Audio"
         ],
