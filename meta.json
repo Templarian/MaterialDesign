@@ -49064,7 +49064,9 @@
         "name": "sort-variant-remove",
         "codepoint": "F0172",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Contributors",
         "version": "4.4.95"
     },
