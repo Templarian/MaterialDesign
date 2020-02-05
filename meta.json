@@ -22448,15 +22448,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "B6FBB02F-98A0-4521-BA9B-D00EA8A2FC57",
-        "name": "facebook-box",
-        "codepoint": "F20D",
-        "aliases": [],
-        "tags": [],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "1989DA16-DAA9-4C95-A61F-BA512FE5592D",
         "name": "facebook-messenger",
         "codepoint": "F20E",
@@ -40271,6 +40262,15 @@
             "Science"
         ],
         "author": "Roberto Graham",
+        "version": "1.5.54"
+    },
+    {
+        "id": "B6FBB02F-98A0-4521-BA9B-D00EA8A2FC57",
+        "name": "order-alphabetical-ascending",
+        "codepoint": "F20D",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
         "version": "1.5.54"
     },
     {
