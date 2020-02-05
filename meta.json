@@ -40294,7 +40294,9 @@
         "name": "order-bool-ascending-variant",
         "codepoint": "F98E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Cody",
         "version": "2.4.85"
     },
