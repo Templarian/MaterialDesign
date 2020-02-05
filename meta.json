@@ -12547,7 +12547,9 @@
         "id": "D992EB08-7BDB-4D44-B3C1-A123F80C17FA",
         "name": "card-account-phone",
         "codepoint": "FEB6",
-        "aliases": [],
+        "aliases": [
+            "contact-phone"
+        ],
         "tags": [],
         "author": "Google",
         "version": "3.7.94"
