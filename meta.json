@@ -744,7 +744,8 @@
         "name": "account-hard-hat",
         "codepoint": "F5B5",
         "aliases": [
-            "worker"
+            "worker",
+            "construction"
         ],
         "tags": [],
         "author": "Austin Andrews",
