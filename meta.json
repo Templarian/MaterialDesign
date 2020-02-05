@@ -36922,7 +36922,9 @@
         "name": "microsoft-windows-classic",
         "codepoint": "FA20",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
         "author": "Contributors",
         "version": "2.5.94"
     },
