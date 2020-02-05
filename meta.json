@@ -48950,7 +48950,9 @@
         "name": "sort-descending",
         "codepoint": "F4BD",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "frankgrinaert",
         "version": "1.5.54"
     },
