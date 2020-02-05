@@ -293,24 +293,6 @@
         "version": "4.8.95"
     },
     {
-        "id": "6BD2BC65-C99A-42FB-A37E-85F5E8C91D32",
-        "name": "account-card-details-outline",
-        "codepoint": "FD87",
-        "aliases": [
-            "identification-card-outline",
-            "user-card-details-outline",
-            "id-card-outline",
-            "person-card-details-outline",
-            "drivers-license-outline",
-            "business-card-outline"
-        ],
-        "tags": [
-            "Account \/ User"
-        ],
-        "author": "Michael Richins",
-        "version": "3.5.94"
-    },
-    {
         "id": "951C68F1-876F-440E-A4D9-B724BB6D6181",
         "name": "account-card-details-star",
         "codepoint": "F2A3",
@@ -12520,6 +12502,24 @@
         ],
         "author": "Christopher Schreiner",
         "version": "1.5.54"
+    },
+    {
+        "id": "6BD2BC65-C99A-42FB-A37E-85F5E8C91D32",
+        "name": "card-account-details-outline",
+        "codepoint": "FD87",
+        "aliases": [
+            "identification-card-outline",
+            "user-card-details-outline",
+            "id-card-outline",
+            "person-card-details-outline",
+            "drivers-license-outline",
+            "business-card-outline"
+        ],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Michael Richins",
+        "version": "3.5.94"
     },
     {
         "id": "BFFB5C41-DA26-4980-8B25-1DCB21B4673E",
