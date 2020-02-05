@@ -31544,6 +31544,15 @@
         "version": "2.6.95"
     },
     {
+        "id": "4FDB5D5D-02F8-4B99-AA54-C9344F1DB02D",
+        "name": "human-male-child",
+        "codepoint": "F03B7",
+        "aliases": [],
+        "tags": [],
+        "author": "Moma Design Studio",
+        "version": "5.0.95"
+    },
+    {
         "id": "0FC16450-7A7E-43C5-AED4-E27C4A6BFF99",
         "name": "human-male-female",
         "codepoint": "F2E8",
