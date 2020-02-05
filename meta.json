@@ -1478,6 +1478,21 @@
         "version": "4.8.95"
     },
     {
+        "id": "F1EEA910-2CD7-448A-A12F-A1BD0FDC6010",
+        "name": "account-voice",
+        "codepoint": "F5CB",
+        "aliases": [
+            "record-voice-over",
+            "speak",
+            "talk",
+            "speaking",
+            "talking"
+        ],
+        "tags": [],
+        "author": "Google",
+        "version": "1.5.54"
+    },
+    {
         "id": "3334E19F-962D-45B4-BE11-F009E1192165",
         "name": "adjust",
         "codepoint": "F01A",
@@ -55549,21 +55564,6 @@
             "Brand \/ Logo"
         ],
         "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
-        "id": "F1EEA910-2CD7-448A-A12F-A1BD0FDC6010",
-        "name": "voice",
-        "codepoint": "F5CB",
-        "aliases": [
-            "record-voice-over",
-            "speak",
-            "talk",
-            "speaking",
-            "talking"
-        ],
-        "tags": [],
-        "author": "Google",
         "version": "1.5.54"
     },
     {
