@@ -36860,6 +36860,19 @@
         "version": "1.5.54"
     },
     {
+        "id": "7E2456A3-891B-43F4-B233-AA0D890815CF",
+        "name": "microsoft-office",
+        "codepoint": "F3C6",
+        "aliases": [
+            "microsoft-office"
+        ],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "E95EC3DF-2A48-4167-9F22-F4E735D4F298",
         "name": "microsoft-onenote",
         "codepoint": "F746",
@@ -40225,19 +40238,6 @@
         "tags": [],
         "author": "Cody",
         "version": "4.6.95"
-    },
-    {
-        "id": "7E2456A3-891B-43F4-B233-AA0D890815CF",
-        "name": "office",
-        "codepoint": "F3C6",
-        "aliases": [
-            "microsoft-office"
-        ],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "C6BEE3A0-C734-48D4-A2E4-622E9B16CA06",
