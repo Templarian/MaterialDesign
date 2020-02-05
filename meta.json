@@ -31631,6 +31631,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "B0529853-AE3D-475C-94EB-0C775E934806",
+        "name": "human-wheelchair",
+        "codepoint": "F03B8",
+        "aliases": [],
+        "tags": [],
+        "author": "Moma Design Studio",
+        "version": "5.0.95"
+    },
+    {
         "id": "9A2A1178-7E30-49E7-A639-2D16464EA7EA",
         "name": "humble-bundle",
         "codepoint": "F743",
