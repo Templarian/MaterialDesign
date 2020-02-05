@@ -35859,9 +35859,7 @@
         "name": "mastodon-variant",
         "codepoint": "FAD1",
         "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
+        "tags": [],
         "author": "Contributors",
         "version": "2.7.94"
     },
