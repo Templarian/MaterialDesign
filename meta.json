@@ -12525,7 +12525,9 @@
         "id": "81840940-8672-42C0-B657-15E94B3638D6",
         "name": "card-account-mail",
         "codepoint": "F18E",
-        "aliases": [],
+        "aliases": [
+            "contact-mail"
+        ],
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
