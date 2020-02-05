@@ -1368,7 +1368,9 @@
         "name": "account-switch-outline",
         "codepoint": "F4CB",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Cody",
         "version": "1.5.54"
     },
