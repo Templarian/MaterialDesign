@@ -31408,7 +31408,9 @@
         "name": "human-baby-changing-table",
         "codepoint": "F03B6",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "People \/ Family"
+        ],
         "author": "Moma Design Studio",
         "version": "5.0.95"
     },
