@@ -16569,6 +16569,7 @@
         "name": "cogs",
         "codepoint": "F8D5",
         "aliases": [
+            "settings",
             "manufacturing"
         ],
         "tags": [
