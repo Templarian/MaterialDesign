@@ -1055,7 +1055,9 @@
         "id": "306F2F2C-4B76-40E9-9561-BC3AD271D6BA",
         "name": "account-music",
         "codepoint": "F802",
-        "aliases": [],
+        "aliases": [
+            "artist"
+        ],
         "tags": [],
         "author": "Google",
         "version": "2.1.19"
