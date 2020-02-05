@@ -49018,7 +49018,9 @@
         "name": "sort-reverse-variant",
         "codepoint": "F33C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Cody",
         "version": "1.5.54"
     },
