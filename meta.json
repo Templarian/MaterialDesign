@@ -48779,6 +48779,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "496476A3-F614-4925-90E6-3BB83C1C4E37",
+        "name": "sort-alphabetical-ascending",
+        "codepoint": "F5BD",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "frankgrinaert",
+        "version": "1.5.54"
+    },
+    {
         "id": "96571AB7-B3D4-4A76-ADE0-47D931FF1F0A",
         "name": "sort-alphabetical-ascending-variant",
         "codepoint": "F0173",
@@ -57433,17 +57444,6 @@
         ],
         "author": "GreenTurtwig",
         "version": "3.6.95"
-    },
-    {
-        "id": "496476A3-F614-4925-90E6-3BB83C1C4E37",
-        "name": "xing",
-        "codepoint": "F5BD",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "5415674F-E6F6-433D-9A9F-E976FD7245F8",
