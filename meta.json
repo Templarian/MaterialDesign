@@ -6265,17 +6265,6 @@
         "version": "3.4.93"
     },
     {
-        "id": "7701BECC-343D-4BE8-B33A-B88ABACA8F26",
-        "name": "azure",
-        "codepoint": "F804",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "2.1.19"
-    },
-    {
         "id": "67025D74-AB54-43B5-82EE-085CCDA019E6",
         "name": "azure-devops",
         "codepoint": "F0091",
@@ -36814,6 +36803,17 @@
         ],
         "author": "Contributors",
         "version": "1.5.54"
+    },
+    {
+        "id": "7701BECC-343D-4BE8-B33A-B88ABACA8F26",
+        "name": "microsoft-azure",
+        "codepoint": "F804",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "2.1.19"
     },
     {
         "id": "9846C329-0B20-40A4-9362-D350C063F53C",
