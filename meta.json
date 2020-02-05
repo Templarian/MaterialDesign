@@ -36884,8 +36884,10 @@
         "name": "microsoft-teams",
         "codepoint": "F2BB",
         "aliases": [],
-        "tags": [],
-        "author": "Google",
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
         "version": "1.5.54"
     },
     {
