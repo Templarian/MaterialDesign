@@ -1052,6 +1052,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "306F2F2C-4B76-40E9-9561-BC3AD271D6BA",
+        "name": "account-music",
+        "codepoint": "F802",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "2.1.19"
+    },
+    {
         "id": "8F49C741-4ED8-4DD3-A22E-310C039EDDA6",
         "name": "account-network",
         "codepoint": "F011",
@@ -5943,15 +5952,6 @@
         ],
         "author": "Michael Irigoyen",
         "version": "4.4.95"
-    },
-    {
-        "id": "306F2F2C-4B76-40E9-9561-BC3AD271D6BA",
-        "name": "artist",
-        "codepoint": "F802",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "2.1.19"
     },
     {
         "id": "A8CC9CFF-A5DE-4FC8-A4AC-BCE153F767F8",
