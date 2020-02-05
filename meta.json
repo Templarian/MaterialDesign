@@ -36913,6 +36913,15 @@
         "version": "3.3.92"
     },
     {
+        "id": "6EA8C442-3C67-4AC3-89F9-C628942CA8E0",
+        "name": "microsoft-powerpoint",
+        "codepoint": "F03BB",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.0.95"
+    },
+    {
         "id": "390FC04F-F2A9-44F5-9808-6370A647BAF0",
         "name": "microsoft-teams",
         "codepoint": "F2BB",
