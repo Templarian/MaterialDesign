@@ -11854,7 +11854,9 @@
         "id": "4C2DC909-0C3F-431F-A37B-5B66C9F33E37",
         "name": "cannabis",
         "codepoint": "F7A5",
-        "aliases": [],
+        "aliases": [
+            "weed"
+        ],
         "tags": [
             "Nature",
             "Medical \/ Hospital"
