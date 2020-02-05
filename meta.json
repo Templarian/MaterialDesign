@@ -8891,7 +8891,9 @@
         "id": "250BF541-072A-4773-8BC2-B1943DF1EDBB",
         "name": "book-alphabet",
         "codepoint": "F61D",
-        "aliases": [],
+        "aliases": [
+            "dictionary"
+        ],
         "tags": [],
         "author": "Christopher Schreiner",
         "version": "1.6.50"
