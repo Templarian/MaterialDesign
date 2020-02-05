@@ -199,17 +199,6 @@
         "version": "3.0.39"
     },
     {
-        "id": "99CC4A89-E39E-460D-B199-227045E4A57D",
-        "name": "account-badge-horizontal",
-        "codepoint": "FDF0",
-        "aliases": [],
-        "tags": [
-            "Account \/ User"
-        ],
-        "author": "Google",
-        "version": "3.6.95"
-    },
-    {
         "id": "089F503E-00BF-4103-9475-B0E3955CE09D",
         "name": "account-badge-horizontal-outline",
         "codepoint": "FDF1",
@@ -6596,6 +6585,17 @@
         ],
         "author": "Michael Richins",
         "version": "3.5.94"
+    },
+    {
+        "id": "99CC4A89-E39E-460D-B199-227045E4A57D",
+        "name": "badge-account-horizontal",
+        "codepoint": "FDF0",
+        "aliases": [],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Google",
+        "version": "3.6.95"
     },
     {
         "id": "37856000-4337-42D9-B273-9C9656E9CFCD",
