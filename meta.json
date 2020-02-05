@@ -36798,7 +36798,9 @@
         "name": "microsoft-access",
         "codepoint": "F03B9",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
         "author": "Contributors",
         "version": "5.0.95"
     },
