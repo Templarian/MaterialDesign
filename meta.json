@@ -29249,15 +29249,6 @@
         "version": "1.8.36"
     },
     {
-        "id": "390FC04F-F2A9-44F5-9808-6370A647BAF0",
-        "name": "google-physical-web",
-        "codepoint": "F2BB",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "5FE693A7-2A33-46A5-B502-D42588072E56",
         "name": "google-play",
         "codepoint": "F2BC",
@@ -36887,6 +36878,15 @@
         "tags": [],
         "author": "Contributors",
         "version": "3.3.92"
+    },
+    {
+        "id": "390FC04F-F2A9-44F5-9808-6370A647BAF0",
+        "name": "microsoft-teams",
+        "codepoint": "F2BB",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "1.5.54"
     },
     {
         "id": "B74213B2-B220-4D15-AFA5-CAE0E40D6CFE",
