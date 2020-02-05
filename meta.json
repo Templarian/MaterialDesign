@@ -199,25 +199,6 @@
         "version": "3.0.39"
     },
     {
-        "id": "610A9983-6737-4876-B1E2-09C22D3888D9",
-        "name": "account-badge-alert",
-        "codepoint": "FD84",
-        "aliases": [
-            "user-badge-alert",
-            "person-badge-alert",
-            "account-badge-warning",
-            "user-badge-warning",
-            "person-badge-warning"
-        ],
-        "tags": [
-            "Account \/ User",
-            "Alert \/ Error",
-            "Alert \/ Error"
-        ],
-        "author": "Michael Richins",
-        "version": "3.5.94"
-    },
-    {
         "id": "3F5E356C-AD32-46E2-835F-ECFC043C73AD",
         "name": "account-badge-alert-outline",
         "codepoint": "FD85",
@@ -6607,6 +6588,25 @@
         ],
         "tags": [
             "Account \/ User"
+        ],
+        "author": "Michael Richins",
+        "version": "3.5.94"
+    },
+    {
+        "id": "610A9983-6737-4876-B1E2-09C22D3888D9",
+        "name": "badge-account-alert",
+        "codepoint": "FD84",
+        "aliases": [
+            "user-badge-alert",
+            "person-badge-alert",
+            "account-badge-warning",
+            "user-badge-warning",
+            "person-badge-warning"
+        ],
+        "tags": [
+            "Account \/ User",
+            "Alert \/ Error",
+            "Alert \/ Error"
         ],
         "author": "Michael Richins",
         "version": "3.5.94"
