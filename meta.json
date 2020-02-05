@@ -1066,7 +1066,9 @@
         "id": "A8CC9CFF-A5DE-4FC8-A4AC-BCE153F767F8",
         "name": "account-music-outline",
         "codepoint": "FCC5",
-        "aliases": [],
+        "aliases": [
+            "artist-outline"
+        ],
         "tags": [],
         "author": "GreenTurtwig",
         "version": "3.3.92"
