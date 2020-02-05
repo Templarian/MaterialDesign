@@ -17182,7 +17182,9 @@
         "name": "contactless-payment-circle-outline",
         "codepoint": "F408",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Currency"
+        ],
         "author": "Michael Irigoyen",
         "version": "1.5.54"
     },
