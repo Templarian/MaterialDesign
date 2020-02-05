@@ -36314,6 +36314,17 @@
         "version": "1.8.36"
     },
     {
+        "id": "B4FCC7EE-5464-4713-A4F4-8C0CA0E9472E",
+        "name": "message-cog-outline",
+        "codepoint": "F019D",
+        "aliases": [],
+        "tags": [
+            "Settings"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.4.95"
+    },
+    {
         "id": "6434A4B3-F803-4C8B-A03C-BE39E947166B",
         "name": "message-draw",
         "codepoint": "F363",
@@ -36476,17 +36487,6 @@
         "id": "28C31415-ECC5-4192-A04A-C3C1F810019B",
         "name": "message-settings-outline",
         "codepoint": "F019C",
-        "aliases": [],
-        "tags": [
-            "Settings"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "4.4.95"
-    },
-    {
-        "id": "B4FCC7EE-5464-4713-A4F4-8C0CA0E9472E",
-        "name": "message-settings-variant-outline",
-        "codepoint": "F019D",
         "aliases": [],
         "tags": [
             "Settings"
