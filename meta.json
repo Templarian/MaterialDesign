@@ -48940,7 +48940,9 @@
         "id": "9F0F11BF-8F55-45CD-B185-7C8BC278954C",
         "name": "sort-bool-ascending-variant",
         "codepoint": "F03B1",
-        "aliases": [],
+        "aliases": [
+            "sort-checkbox-ascending"
+        ],
         "tags": [
             "Text \/ Content \/ Format"
         ],
