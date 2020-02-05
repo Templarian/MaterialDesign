@@ -36889,6 +36889,17 @@
         "version": "3.3.92"
     },
     {
+        "id": "B74213B2-B220-4D15-AFA5-CAE0E40D6CFE",
+        "name": "microsoft-yammer",
+        "codepoint": "F788",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.9.32"
+    },
+    {
         "id": "62F69C7A-4CBA-444A-8BFE-E5B7A891CF5D",
         "name": "microwave",
         "codepoint": "FC75",
@@ -57695,17 +57706,6 @@
         ],
         "author": "Contributors",
         "version": "2.8.94"
-    },
-    {
-        "id": "B74213B2-B220-4D15-AFA5-CAE0E40D6CFE",
-        "name": "yammer",
-        "codepoint": "F788",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.9.32"
     },
     {
         "id": "17C0DA66-AB24-4935-A928-26BE13FDC3C0",
