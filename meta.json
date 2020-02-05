@@ -48972,7 +48972,9 @@
         "name": "sort-numeric-ascending-variant",
         "codepoint": "F90C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Michael Irigoyen",
         "version": "2.3.50"
     },
