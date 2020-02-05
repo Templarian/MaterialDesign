@@ -16520,7 +16520,8 @@
         "aliases": [
             "gear-box",
             "cog-box",
-            "settings-applications"
+            "settings-applications",
+            "settings-box"
         ],
         "tags": [
             "Settings"
