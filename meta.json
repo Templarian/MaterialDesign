@@ -17172,6 +17172,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "E7D24172-A5A7-4BAE-A679-D2191E8E7F51",
+        "name": "contactless-payment-circle-outline",
+        "codepoint": "F408",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "1.5.54"
+    },
+    {
         "id": "5A68EA78-9792-4223-808D-17E5205765E6",
         "name": "contacts",
         "codepoint": "F6CA",
@@ -42339,15 +42348,6 @@
         "tags": [
             "Brand \/ Logo"
         ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
-        "id": "E7D24172-A5A7-4BAE-A679-D2191E8E7F51",
-        "name": "pinterest-box",
-        "codepoint": "F408",
-        "aliases": [],
-        "tags": [],
         "author": "Contributors",
         "version": "1.5.54"
     },
