@@ -36864,7 +36864,9 @@
         "name": "microsoft-excel",
         "codepoint": "F03BA",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
         "author": "Contributors",
         "version": "5.0.95"
     },
