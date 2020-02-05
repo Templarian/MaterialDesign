@@ -6091,17 +6091,6 @@
         "version": "4.5.95"
     },
     {
-        "id": "10BCB9E5-2E1F-4CD0-871F-B36FA0595004",
-        "name": "audiobook",
-        "codepoint": "F067",
-        "aliases": [],
-        "tags": [
-            "Audio"
-        ],
-        "author": "Austin Andrews",
-        "version": "1.5.54"
-    },
-    {
         "id": "FC29D627-D661-4F31-9BEC-2F4BE355DFE7",
         "name": "augmented-reality",
         "codepoint": "F84F",
@@ -9005,6 +8994,17 @@
         "aliases": [],
         "tags": [],
         "author": "Michael Richins",
+        "version": "1.5.54"
+    },
+    {
+        "id": "10BCB9E5-2E1F-4CD0-871F-B36FA0595004",
+        "name": "book-music",
+        "codepoint": "F067",
+        "aliases": [],
+        "tags": [
+            "Audio"
+        ],
+        "author": "Austin Andrews",
         "version": "1.5.54"
     },
     {
