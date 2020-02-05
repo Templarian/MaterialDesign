@@ -17836,6 +17836,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "00E657E0-F05A-423A-813F-3DC14C5E6439",
+        "name": "credit-card-wireless-off-outline",
+        "codepoint": "F57B",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "1.5.54"
+    },
+    {
         "id": "694399D0-1348-4EB0-BA34-ECD2FE4987C2",
         "name": "credit-card-wireless-outline",
         "codepoint": "FD48",
@@ -55344,15 +55353,6 @@
             "Brand \/ Logo"
         ],
         "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
-        "id": "00E657E0-F05A-423A-813F-3DC14C5E6439",
-        "name": "vk-circle",
-        "codepoint": "F57B",
-        "aliases": [],
-        "tags": [],
-        "author": "Cody",
         "version": "1.5.54"
     },
     {
