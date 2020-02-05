@@ -48826,7 +48826,9 @@
         "name": "sort",
         "codepoint": "F4BA",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Cody",
         "version": "1.5.54"
     },
