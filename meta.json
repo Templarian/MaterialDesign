@@ -1096,7 +1096,9 @@
         "aliases": [
             "artist-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "GreenTurtwig",
         "version": "3.3.92"
     },
