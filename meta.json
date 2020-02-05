@@ -36860,6 +36860,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "ACD47746-F44B-496D-990B-58FC729F372E",
+        "name": "microsoft-excel",
+        "codepoint": "F03BA",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.0.95"
+    },
+    {
         "id": "255BB365-7B2F-46C7-B85E-EFDAD527BB54",
         "name": "microsoft-internet-explorer",
         "codepoint": "F300",
