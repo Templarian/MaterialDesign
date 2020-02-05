@@ -1083,7 +1083,9 @@
         "aliases": [
             "artist"
         ],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Google",
         "version": "2.1.19"
     },
