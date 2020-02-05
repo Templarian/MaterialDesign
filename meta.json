@@ -40261,7 +40261,9 @@
         "name": "order-alphabetical-ascending",
         "codepoint": "F20D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Cody",
         "version": "1.5.54"
     },
