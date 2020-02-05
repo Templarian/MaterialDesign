@@ -52928,6 +52928,20 @@
         "version": "2.4.85"
     },
     {
+        "id": "BC8926AA-02C6-4755-B5A8-D3BD29C2CDE0",
+        "name": "tow-truck",
+        "codepoint": "F83B",
+        "aliases": [
+            "auto-towing",
+            "truck"
+        ],
+        "tags": [
+            "Transportation + Road"
+        ],
+        "author": "Google",
+        "version": "2.1.19"
+    },
+    {
         "id": "70D21CFE-DC3C-4615-9524-4CD2F2FDC44E",
         "name": "tower-beach",
         "codepoint": "F680",
@@ -52944,20 +52958,6 @@
         "tags": [],
         "author": "Thomas Hunsaker",
         "version": "1.7.12"
-    },
-    {
-        "id": "BC8926AA-02C6-4755-B5A8-D3BD29C2CDE0",
-        "name": "towing",
-        "codepoint": "F83B",
-        "aliases": [
-            "auto-towing",
-            "truck"
-        ],
-        "tags": [
-            "Transportation + Road"
-        ],
-        "author": "Google",
-        "version": "2.1.19"
     },
     {
         "id": "DDCE3E75-1E43-45A9-8D94-E24CFD8284B0",
