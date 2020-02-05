@@ -48837,7 +48837,9 @@
         "name": "sort-alphabetical-ascending",
         "codepoint": "F5BD",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "frankgrinaert",
         "version": "1.5.54"
     },
