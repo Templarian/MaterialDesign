@@ -48798,19 +48798,7 @@
         "codepoint": "F4BA",
         "aliases": [],
         "tags": [],
-        "author": "Austin Andrews",
-        "version": "1.5.54"
-    },
-    {
-        "id": "C2687EF2-6AEB-48BC-98E5-9A010C6E2BE7",
-        "name": "sort-alphabetical",
-        "codepoint": "F4BB",
-        "aliases": [
-            "sort-by-alpha",
-            "sort-alphabetically"
-        ],
-        "tags": [],
-        "author": "Google",
+        "author": "Cody",
         "version": "1.5.54"
     },
     {
@@ -48830,6 +48818,18 @@
         "tags": [],
         "author": "Contributors",
         "version": "4.4.95"
+    },
+    {
+        "id": "C2687EF2-6AEB-48BC-98E5-9A010C6E2BE7",
+        "name": "sort-alphabetical-variant",
+        "codepoint": "F4BB",
+        "aliases": [
+            "sort-by-alpha",
+            "sort-alphabetically"
+        ],
+        "tags": [],
+        "author": "Google",
+        "version": "1.5.54"
     },
     {
         "id": "F36D1111-54BF-4BB8-AE34-DE4809105551",
