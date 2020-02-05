@@ -8888,6 +8888,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "250BF541-072A-4773-8BC2-B1943DF1EDBB",
+        "name": "book-alphabet",
+        "codepoint": "F61D",
+        "aliases": [],
+        "tags": [],
+        "author": "Christopher Schreiner",
+        "version": "1.6.50"
+    },
+    {
         "id": "CC30F9D0-3076-4189-A00D-F570D5B0C5D1",
         "name": "book-cross",
         "codepoint": "F0A2",
@@ -19866,15 +19875,6 @@
         ],
         "author": "Michael Irigoyen",
         "version": "4.4.95"
-    },
-    {
-        "id": "250BF541-072A-4773-8BC2-B1943DF1EDBB",
-        "name": "dictionary",
-        "codepoint": "F61D",
-        "aliases": [],
-        "tags": [],
-        "author": "Christopher Schreiner",
-        "version": "1.6.50"
     },
     {
         "id": "58BA7D31-6B34-46E6-B325-080C95B32A6F",
