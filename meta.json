@@ -48853,6 +48853,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "BDB3C0CD-D017-4895-82AD-41FEE4351FA6",
+        "name": "sort-bool-ascending",
+        "codepoint": "F03B0",
+        "aliases": [],
+        "tags": [],
+        "author": "frankgrinaert",
+        "version": "5.0.95"
+    },
+    {
         "id": "F0028BDF-0589-400F-8596-100CCB029D6E",
         "name": "sort-descending",
         "codepoint": "F4BD",
