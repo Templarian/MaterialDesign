@@ -40283,7 +40283,9 @@
         "name": "order-bool-ascending",
         "codepoint": "F2BE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Cody",
         "version": "1.5.54"
     },
