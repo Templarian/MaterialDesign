@@ -48964,7 +48964,9 @@
         "id": "549371B9-36F9-45E7-918A-72EEB98F9572",
         "name": "sort-bool-descending-variant",
         "codepoint": "F03B3",
-        "aliases": [],
+        "aliases": [
+            "sort-checkbox-descending"
+        ],
         "tags": [
             "Text \/ Content \/ Format"
         ],
