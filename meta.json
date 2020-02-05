@@ -48851,7 +48851,7 @@
     },
     {
         "id": "2CD8E0F3-0AF4-4BBD-B1C8-EEF6391F62C3",
-        "name": "sort-numeric",
+        "name": "sort-numeric-variant",
         "codepoint": "F4BE",
         "aliases": [
             "sort-numerically"
