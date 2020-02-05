@@ -38274,15 +38274,6 @@
         "version": "3.2.89"
     },
     {
-        "id": "8CCE5060-8983-4F75-B672-32B7599F1082",
-        "name": "network-router",
-        "codepoint": "F00B2",
-        "aliases": [],
-        "tags": [],
-        "author": "Cody",
-        "version": "4.2.95"
-    },
-    {
         "id": "7AEB6E6A-4B4E-42C3-9AB2-1F47FE1BD29B",
         "name": "network-strength-1",
         "codepoint": "F8F3",
@@ -45499,6 +45490,15 @@
         "tags": [],
         "author": "Contributors",
         "version": "4.5.95"
+    },
+    {
+        "id": "8CCE5060-8983-4F75-B672-32B7599F1082",
+        "name": "router-network",
+        "codepoint": "F00B2",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "4.2.95"
     },
     {
         "id": "3244EAC8-8349-4CFB-BE35-A0812368CEDA",
