@@ -48983,7 +48983,9 @@
         "name": "sort-numeric-descending",
         "codepoint": "F03B5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "frankgrinaert",
         "version": "5.0.95"
     },
