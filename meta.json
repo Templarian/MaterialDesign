@@ -40283,6 +40283,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "3979C805-4C53-4F45-A6E5-9CAADE1C2D80",
+        "name": "order-numeric-descending",
+        "codepoint": "F546",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "1.5.54"
+    },
+    {
         "id": "E41855D5-FB0E-4FAD-8CD8-D085B1577D2F",
         "name": "origin",
         "codepoint": "FB2B",
@@ -53791,15 +53800,6 @@
             "Brand \/ Logo",
             "Social Media"
         ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
-        "id": "3979C805-4C53-4F45-A6E5-9CAADE1C2D80",
-        "name": "twitter-circle",
-        "codepoint": "F546",
-        "aliases": [],
-        "tags": [],
         "author": "Contributors",
         "version": "1.5.54"
     },
