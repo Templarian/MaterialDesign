@@ -6265,17 +6265,6 @@
         "version": "3.4.93"
     },
     {
-        "id": "67025D74-AB54-43B5-82EE-085CCDA019E6",
-        "name": "azure-devops",
-        "codepoint": "F0091",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "4.2.95"
-    },
-    {
         "id": "3F7EAFAC-7A39-4051-B58D-2CBA6687110C",
         "name": "babel",
         "codepoint": "FA24",
@@ -36814,6 +36803,17 @@
         ],
         "author": "Contributors",
         "version": "2.1.19"
+    },
+    {
+        "id": "67025D74-AB54-43B5-82EE-085CCDA019E6",
+        "name": "microsoft-azure-devops",
+        "codepoint": "F0091",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "4.2.95"
     },
     {
         "id": "9846C329-0B20-40A4-9362-D350C063F53C",
