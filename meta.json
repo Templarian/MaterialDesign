@@ -293,24 +293,6 @@
         "version": "4.8.95"
     },
     {
-        "id": "4ACD18FB-87D4-46F1-9231-8BD0A91867A9",
-        "name": "account-card-details",
-        "codepoint": "F5D2",
-        "aliases": [
-            "identification-card",
-            "user-card-details",
-            "id-card",
-            "person-card-details",
-            "drivers-license",
-            "business-card"
-        ],
-        "tags": [
-            "Account \/ User"
-        ],
-        "author": "Christopher Schreiner",
-        "version": "1.5.54"
-    },
-    {
         "id": "6BD2BC65-C99A-42FB-A37E-85F5E8C91D32",
         "name": "account-card-details-outline",
         "codepoint": "FD87",
@@ -12520,6 +12502,24 @@
         "tags": [],
         "author": "Rynco Li",
         "version": "3.0.39"
+    },
+    {
+        "id": "4ACD18FB-87D4-46F1-9231-8BD0A91867A9",
+        "name": "card-account-details",
+        "codepoint": "F5D2",
+        "aliases": [
+            "identification-card",
+            "user-card-details",
+            "id-card",
+            "person-card-details",
+            "drivers-license",
+            "business-card"
+        ],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Christopher Schreiner",
+        "version": "1.5.54"
     },
     {
         "id": "BFFB5C41-DA26-4980-8B25-1DCB21B4673E",
