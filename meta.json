@@ -48850,6 +48850,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "D3472197-9E32-440B-9F56-E84F2D35C657",
+        "name": "sort-numeric-ascending-variant",
+        "codepoint": "F90C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "2.3.50"
+    },
+    {
         "id": "2CD8E0F3-0AF4-4BBD-B1C8-EEF6391F62C3",
         "name": "sort-numeric-variant",
         "codepoint": "F4BE",
@@ -49780,15 +49789,6 @@
         ],
         "author": "Contributors",
         "version": "1.5.54"
-    },
-    {
-        "id": "D3472197-9E32-440B-9F56-E84F2D35C657",
-        "name": "steam-box",
-        "codepoint": "F90C",
-        "aliases": [],
-        "tags": [],
-        "author": "Contributors",
-        "version": "2.3.50"
     },
     {
         "id": "A2FE9DC5-BC17-4265-9D2C-4CA20135C4BB",
