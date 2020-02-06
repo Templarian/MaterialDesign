@@ -8547,17 +8547,6 @@
         "version": "3.0.39"
     },
     {
-        "id": "CB038F2A-85DE-4F59-B694-D4805D66322B",
-        "name": "bing",
-        "codepoint": "F0A4",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "75806AA4-294B-4A0A-8BDB-FC4CABCA1768",
         "name": "binoculars",
         "codepoint": "F0A5",
@@ -36825,6 +36814,17 @@
         ],
         "author": "Contributors",
         "version": "4.2.95"
+    },
+    {
+        "id": "CB038F2A-85DE-4F59-B694-D4805D66322B",
+        "name": "microsoft-bing",
+        "codepoint": "F0A4",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
     },
     {
         "id": "9846C329-0B20-40A4-9362-D350C063F53C",
