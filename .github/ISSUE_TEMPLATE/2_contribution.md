@@ -12,6 +12,7 @@ We are no longer accepting brand icons. Learn more: http://dev.materialdesignico
 
 I have:
 
+- [ ] [Searched the current library](https://materialdesignicons.com/) to make sure the icon doesn't exist.
 - [ ] Searched open issues to make sure there isn't a request for this icon.
 - [ ] Followed the [material guidelines](https://material.io/design/iconography/system-icons.html).
 
