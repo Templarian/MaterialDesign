@@ -36895,6 +36895,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "455893F6-D0C4-4257-ABE4-85B1D68F60FF",
+        "name": "microsoft-onedrive",
+        "codepoint": "F3CA",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "E95EC3DF-2A48-4167-9F22-F4E735D4F298",
         "name": "microsoft-onenote",
         "codepoint": "F746",
@@ -40379,17 +40390,6 @@
         ],
         "author": "Michael Irigoyen",
         "version": "3.0.39"
-    },
-    {
-        "id": "455893F6-D0C4-4257-ABE4-85B1D68F60FF",
-        "name": "onedrive",
-        "codepoint": "F3CA",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "2B9B64C7-B799-45C5-BDCC-BEC3B8672CFE",
