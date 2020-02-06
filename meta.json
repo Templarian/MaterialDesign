@@ -36961,6 +36961,19 @@
         "version": "1.5.54"
     },
     {
+        "id": "E009DA08-136C-465C-8481-308E99BCA3BF",
+        "name": "microsoft-visual-studio",
+        "codepoint": "F610",
+        "aliases": [
+            "visualstudio"
+        ],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "6E06B49E-5127-4D5A-9C8B-F58BA8943BC4",
         "name": "microsoft-windows",
         "codepoint": "F5B3",
@@ -55625,19 +55638,6 @@
         "tags": [],
         "author": "GreenTurtwig",
         "version": "2.1.99"
-    },
-    {
-        "id": "E009DA08-136C-465C-8481-308E99BCA3BF",
-        "name": "visual-studio",
-        "codepoint": "F610",
-        "aliases": [
-            "visualstudio"
-        ],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "6D1D5836-B731-41C4-A829-86E5741A0784",
