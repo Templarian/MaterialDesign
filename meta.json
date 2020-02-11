@@ -20450,7 +20450,9 @@
         "id": "E05A9EE4-A599-4195-93F9-0E4024670E81",
         "name": "dot-net",
         "codepoint": "FAAD",
-        "aliases": [],
+        "aliases": [
+            "microsoft-dot-net"
+        ],
         "tags": [
             "Developer \/ Languages"
         ],
