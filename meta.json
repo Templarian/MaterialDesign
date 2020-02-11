@@ -28624,7 +28624,9 @@
         "id": "5C6175DD-8549-4004-AB77-A545D721A0DE",
         "name": "github",
         "codepoint": "F2A4",
-        "aliases": [],
+        "aliases": [
+            "microsoft-github"
+        ],
         "tags": [
             "Developer \/ Languages",
             "Brand \/ Logo"
