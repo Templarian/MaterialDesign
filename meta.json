@@ -48653,7 +48653,9 @@
         "id": "07E9D89D-2D58-40C6-9D41-49722CFC0DAE",
         "name": "skype",
         "codepoint": "F4AF",
-        "aliases": [],
+        "aliases": [
+            "microsoft-skype"
+        ],
         "tags": [
             "Brand \/ Logo"
         ],
