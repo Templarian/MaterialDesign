@@ -37107,7 +37107,9 @@
         "id": "84402452-AA4A-43D6-A26C-A0946B48310C",
         "name": "minecraft",
         "codepoint": "F373",
-        "aliases": [],
+        "aliases": [
+            "microsoft-minecraft"
+        ],
         "tags": [
             "Brand \/ Logo"
         ],
