@@ -33741,6 +33741,18 @@
         "version": "1.8.36"
     },
     {
+        "id": "1AC4596D-76B2-4F11-AF23-157736CABB86",
+        "name": "language-xaml",
+        "codepoint": "F673",
+        "aliases": [
+            "xaml",
+            "microsoft-xaml"
+        ],
+        "tags": [],
+        "author": "Contributors",
+        "version": "1.6.50"
+    },
+    {
         "id": "A8B6481F-EE91-4F90-81AC-DEB8A096F45A",
         "name": "laptop",
         "codepoint": "F322",
@@ -57560,18 +57572,6 @@
         ],
         "author": "Contributors",
         "version": "2.1.19"
-    },
-    {
-        "id": "1AC4596D-76B2-4F11-AF23-157736CABB86",
-        "name": "xaml",
-        "codepoint": "F673",
-        "aliases": [
-            "xaml",
-            "microsoft-xaml"
-        ],
-        "tags": [],
-        "author": "Contributors",
-        "version": "1.6.50"
     },
     {
         "id": "B7B4ECD9-2895-4E36-88A9-5F3AC5D6C264",
