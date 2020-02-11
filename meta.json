@@ -37303,7 +37303,9 @@
         "id": "62F96579-80AE-4827-9C18-1C1FD239DE49",
         "name": "mixer",
         "codepoint": "F7DC",
-        "aliases": [],
+        "aliases": [
+            "microsoft-mixer"
+        ],
         "tags": [
             "Brand \/ Logo"
         ],
