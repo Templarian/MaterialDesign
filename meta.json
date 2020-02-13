@@ -33666,6 +33666,18 @@
         "version": "2.2.43"
     },
     {
+        "id": "42875A08-46EC-4077-95A9-86D16888F2D4",
+        "name": "language-markdown",
+        "codepoint": "F354",
+        "aliases": [],
+        "tags": [
+            "Developer \/ Languages",
+            "Brand \/ Logo"
+        ],
+        "author": "Austin Andrews",
+        "version": "1.5.54"
+    },
+    {
         "id": "2A153653-6727-4DE1-95DC-AC6801A7DC01",
         "name": "language-php",
         "codepoint": "F31F",
@@ -35839,18 +35851,6 @@
         "codepoint": "F353",
         "aliases": [],
         "tags": [],
-        "author": "Austin Andrews",
-        "version": "1.5.54"
-    },
-    {
-        "id": "42875A08-46EC-4077-95A9-86D16888F2D4",
-        "name": "markdown",
-        "codepoint": "F354",
-        "aliases": [],
-        "tags": [
-            "Developer \/ Languages",
-            "Brand \/ Logo"
-        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
