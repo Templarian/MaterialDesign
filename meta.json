@@ -1563,19 +1563,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "CD5DD59A-965F-455E-912B-9535BFD134E0",
-        "name": "airplay",
-        "codepoint": "F01F",
-        "aliases": [
-            "apple"
-        ],
-        "tags": [
-            "Home Automation"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "62C9DAA4-6718-44A9-BCD3-2401D96BE1E7",
         "name": "airport",
         "codepoint": "F84A",
@@ -4317,6 +4304,19 @@
         "aliases": [],
         "tags": [
             "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
+        "id": "CD5DD59A-965F-455E-912B-9535BFD134E0",
+        "name": "apple-airplay",
+        "codepoint": "F01F",
+        "aliases": [
+            "apple"
+        ],
+        "tags": [
+            "Home Automation"
         ],
         "author": "Contributors",
         "version": "1.5.54"
