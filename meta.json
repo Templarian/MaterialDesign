@@ -52060,7 +52060,8 @@
         "name": "text-box",
         "codepoint": "F21A",
         "aliases": [
-            "drive-document"
+            "drive-document",
+            "file-document-box"
         ],
         "tags": [
             "Files \/ Folders"
