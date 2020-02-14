@@ -52074,7 +52074,9 @@
         "id": "467C2198-D7C5-4B95-88F1-71B269D2AEAC",
         "name": "text-box-plus-outline",
         "codepoint": "FEC8",
-        "aliases": [],
+        "aliases": [
+            "file-document-box-plus-outline"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
