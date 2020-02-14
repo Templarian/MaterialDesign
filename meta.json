@@ -52070,7 +52070,9 @@
         "id": "E12AE178-0546-4CD3-81F6-BD1F17AA50EE",
         "name": "text-box-outline",
         "codepoint": "F9EC",
-        "aliases": [],
+        "aliases": [
+            "file-document-box-outline"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
