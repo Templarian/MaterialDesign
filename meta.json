@@ -52080,7 +52080,9 @@
         "id": "D32F390E-2888-4C63-99FA-9662902B6694",
         "name": "text-box-search-outline",
         "codepoint": "FECC",
-        "aliases": [],
+        "aliases": [
+            "file-document-box-search-outline"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
