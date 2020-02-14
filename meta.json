@@ -23085,17 +23085,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "60E9BECF-1FDF-4077-9BD7-F7B1863C2F66",
-        "name": "file-document-box-minus",
-        "codepoint": "FEC5",
-        "aliases": [],
-        "tags": [
-            "Files \/ Folders"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "3.7.94"
-    },
-    {
         "id": "89E44C7C-4A52-4BBE-8EF4-2127A320E444",
         "name": "file-document-box-minus-outline",
         "codepoint": "FEC6",
@@ -52069,6 +52058,17 @@
             "Files \/ Folders"
         ],
         "author": "Contributors",
+        "version": "3.7.94"
+    },
+    {
+        "id": "60E9BECF-1FDF-4077-9BD7-F7B1863C2F66",
+        "name": "text-box-minus",
+        "codepoint": "FEC5",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Michael Irigoyen",
         "version": "3.7.94"
     },
     {
