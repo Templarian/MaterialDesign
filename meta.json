@@ -38001,7 +38001,9 @@
         "name": "music-box-multiple-outline",
         "codepoint": "FF21",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Music"
+        ],
         "author": "Michael Irigoyen",
         "version": "3.8.95"
     },
