@@ -52043,7 +52043,9 @@
         "id": "B599787B-9A9F-45C1-AD76-45FB4B00EFFC",
         "name": "text-box-remove",
         "codepoint": "FEC9",
-        "aliases": [],
+        "aliases": [
+            "file-document-box-remove"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
