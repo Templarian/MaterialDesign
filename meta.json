@@ -36857,6 +36857,22 @@
         "version": "5.0.95"
     },
     {
+        "id": "B7B4ECD9-2895-4E36-88A9-5F3AC5D6C264",
+        "name": "microsoft-xbox",
+        "codepoint": "F5B9",
+        "aliases": [
+            "xbox-live",
+            "microsoft"
+        ],
+        "tags": [
+            "Social Media",
+            "Brand \/ Logo",
+            "Gaming \/ RPG"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "B74213B2-B220-4D15-AFA5-CAE0E40D6CFE",
         "name": "microsoft-yammer",
         "codepoint": "F788",
@@ -57605,22 +57621,6 @@
         ],
         "author": "Contributors",
         "version": "2.1.19"
-    },
-    {
-        "id": "B7B4ECD9-2895-4E36-88A9-5F3AC5D6C264",
-        "name": "xbox",
-        "codepoint": "F5B9",
-        "aliases": [
-            "xbox-live",
-            "microsoft"
-        ],
-        "tags": [
-            "Social Media",
-            "Brand \/ Logo",
-            "Gaming \/ RPG"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "74BB58AC-EF8B-447C-A15D-C444F1F67D93",
