@@ -36971,6 +36971,17 @@
         "version": "1.9.32"
     },
     {
+        "id": "03720A4C-EA6B-4D58-B7D8-5A8DA745B125",
+        "name": "microsoft-xbox-controller-menu",
+        "codepoint": "FE52",
+        "aliases": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
+        "author": "GreenTurtwig",
+        "version": "3.6.95"
+    },
+    {
         "id": "B74213B2-B220-4D15-AFA5-CAE0E40D6CFE",
         "name": "microsoft-yammer",
         "codepoint": "F788",
@@ -57719,17 +57730,6 @@
         ],
         "author": "Contributors",
         "version": "2.1.19"
-    },
-    {
-        "id": "03720A4C-EA6B-4D58-B7D8-5A8DA745B125",
-        "name": "xbox-controller-menu",
-        "codepoint": "FE52",
-        "aliases": [],
-        "tags": [
-            "Gaming \/ RPG"
-        ],
-        "author": "GreenTurtwig",
-        "version": "3.6.95"
     },
     {
         "id": "F73FF165-CE6C-4E27-B492-93F3B82C70EE",
