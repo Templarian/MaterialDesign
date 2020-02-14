@@ -23085,19 +23085,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "32E03B3D-EAFA-4483-AE94-E43944F0F0AE",
-        "name": "file-document-box",
-        "codepoint": "F21A",
-        "aliases": [
-            "drive-document"
-        ],
-        "tags": [
-            "Files \/ Folders"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "291424C4-8874-4D0D-8D89-0C3349C021ED",
         "name": "file-document-box-check",
         "codepoint": "FEC3",
@@ -52067,6 +52054,19 @@
         "tags": [],
         "author": "Google",
         "version": "2.4.85"
+    },
+    {
+        "id": "32E03B3D-EAFA-4483-AE94-E43944F0F0AE",
+        "name": "text-box",
+        "codepoint": "F21A",
+        "aliases": [
+            "drive-document"
+        ],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Google",
+        "version": "1.5.54"
     },
     {
         "id": "8F37BBCB-35D2-4FAF-88ED-59252659885D",
