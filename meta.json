@@ -34256,15 +34256,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "16F694B0-E5B4-4262-91AE-DB3D0C73EEC0",
-        "name": "library-music-outline",
-        "codepoint": "FF21",
-        "aliases": [],
-        "tags": [],
-        "author": "Michael Irigoyen",
-        "version": "3.8.95"
-    },
-    {
         "id": "282A591C-4D91-4AAF-B401-00F3AE4B73F2",
         "name": "library-shelves",
         "codepoint": "FB85",
@@ -38004,6 +37995,15 @@
         ],
         "author": "Google",
         "version": "1.5.54"
+    },
+    {
+        "id": "16F694B0-E5B4-4262-91AE-DB3D0C73EEC0",
+        "name": "music-box-multiple-outline",
+        "codepoint": "FF21",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "3.8.95"
     },
     {
         "id": "9E8ADF62-9136-40F3-BED9-54A2934B4B3B",
