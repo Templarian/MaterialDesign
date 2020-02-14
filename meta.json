@@ -24291,6 +24291,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "FB635DB5-18DA-448E-81C7-0602181EE21A",
+        "name": "filmstrip-box",
+        "codepoint": "F332",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "1.5.54"
+    },
+    {
         "id": "CB040E6C-85FD-4C09-9ACD-C41EE5FB770E",
         "name": "filmstrip-off",
         "codepoint": "F231",
@@ -52048,15 +52057,6 @@
         "tags": [],
         "author": "Google",
         "version": "2.4.85"
-    },
-    {
-        "id": "FB635DB5-18DA-448E-81C7-0602181EE21A",
-        "name": "text-box-multiple",
-        "codepoint": "F332",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "1.5.54"
     },
     {
         "id": "8F37BBCB-35D2-4FAF-88ED-59252659885D",
