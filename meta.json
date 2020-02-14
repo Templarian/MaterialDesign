@@ -52062,7 +52062,8 @@
         "name": "text-box-check-outline",
         "codepoint": "FEC4",
         "aliases": [
-            "file-document-box-tick-outline"
+            "file-document-box-tick-outline",
+            "file-document-box-check-outline"
         ],
         "tags": [
             "Files \/ Folders"
