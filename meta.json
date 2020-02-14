@@ -52067,7 +52067,8 @@
         "name": "text-box-multiple",
         "codepoint": "FAB6",
         "aliases": [
-            "file-document-boxes"
+            "file-document-boxes",
+            "file-document-box-multiple"
         ],
         "tags": [
             "Files \/ Folders"
