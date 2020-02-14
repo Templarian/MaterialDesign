@@ -23096,17 +23096,6 @@
         "version": "3.7.94"
     },
     {
-        "id": "D32F390E-2888-4C63-99FA-9662902B6694",
-        "name": "file-document-box-search-outline",
-        "codepoint": "FECC",
-        "aliases": [],
-        "tags": [
-            "Files \/ Folders"
-        ],
-        "author": "Austin Andrews",
-        "version": "3.7.94"
-    },
-    {
         "id": "83E06672-D36B-41FF-8463-080EB639F00F",
         "name": "file-document-edit",
         "codepoint": "FDA4",
@@ -52081,6 +52070,17 @@
         "aliases": [
             "file-document-box-search"
         ],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Austin Andrews",
+        "version": "3.7.94"
+    },
+    {
+        "id": "D32F390E-2888-4C63-99FA-9662902B6694",
+        "name": "text-box-search-outline",
+        "codepoint": "FECC",
+        "aliases": [],
         "tags": [
             "Files \/ Folders"
         ],
