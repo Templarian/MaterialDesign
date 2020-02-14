@@ -52078,7 +52078,9 @@
         "id": "08B85EF9-81EC-4DEE-B1C7-1C14D4CBECA5",
         "name": "text-box-search",
         "codepoint": "FECB",
-        "aliases": [],
+        "aliases": [
+            "file-document-box-search"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
