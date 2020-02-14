@@ -23085,19 +23085,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "A24C1161-73F2-43F0-B955-7D4E5F398372",
-        "name": "file-document-box-check-outline",
-        "codepoint": "FEC4",
-        "aliases": [
-            "file-document-box-tick-outline"
-        ],
-        "tags": [
-            "Files \/ Folders"
-        ],
-        "author": "Contributors",
-        "version": "3.7.94"
-    },
-    {
         "id": "60E9BECF-1FDF-4077-9BD7-F7B1863C2F66",
         "name": "file-document-box-minus",
         "codepoint": "FEC5",
@@ -52063,6 +52050,19 @@
         "aliases": [
             "file-document-box-tick",
             "file-document-box-check"
+        ],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Contributors",
+        "version": "3.7.94"
+    },
+    {
+        "id": "A24C1161-73F2-43F0-B955-7D4E5F398372",
+        "name": "text-box-check-outline",
+        "codepoint": "FEC4",
+        "aliases": [
+            "file-document-box-tick-outline"
         ],
         "tags": [
             "Files \/ Folders"
