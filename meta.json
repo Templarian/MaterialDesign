@@ -23096,17 +23096,6 @@
         "version": "3.7.94"
     },
     {
-        "id": "C822984D-33BC-4A48-A9A3-E679ABF13595",
-        "name": "file-document-box-remove-outline",
-        "codepoint": "FECA",
-        "aliases": [],
-        "tags": [
-            "Files \/ Folders"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "3.7.94"
-    },
-    {
         "id": "08B85EF9-81EC-4DEE-B1C7-1C14D4CBECA5",
         "name": "file-document-box-search",
         "codepoint": "FECB",
@@ -52077,6 +52066,17 @@
         "aliases": [
             "file-document-box-plus-outline"
         ],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "3.7.94"
+    },
+    {
+        "id": "C822984D-33BC-4A48-A9A3-E679ABF13595",
+        "name": "text-box-remove-outline",
+        "codepoint": "FECA",
+        "aliases": [],
         "tags": [
             "Files \/ Folders"
         ],
