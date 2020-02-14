@@ -36923,6 +36923,18 @@
         "version": "1.9.32"
     },
     {
+        "id": "CC73B4E7-6B14-459D-AED5-35E50655C05C",
+        "name": "microsoft-xbox-controller-battery-full",
+        "codepoint": "F74C",
+        "aliases": [],
+        "tags": [
+            "Battery",
+            "Gaming \/ RPG"
+        ],
+        "author": "Austin Andrews",
+        "version": "1.9.32"
+    },
+    {
         "id": "B74213B2-B220-4D15-AFA5-CAE0E40D6CFE",
         "name": "microsoft-yammer",
         "codepoint": "F788",
@@ -57671,18 +57683,6 @@
         ],
         "author": "Contributors",
         "version": "2.1.19"
-    },
-    {
-        "id": "CC73B4E7-6B14-459D-AED5-35E50655C05C",
-        "name": "xbox-controller-battery-full",
-        "codepoint": "F74C",
-        "aliases": [],
-        "tags": [
-            "Battery",
-            "Gaming \/ RPG"
-        ],
-        "author": "Austin Andrews",
-        "version": "1.9.32"
     },
     {
         "id": "B65873D1-4808-4C3C-8AD6-A242D61B1985",
