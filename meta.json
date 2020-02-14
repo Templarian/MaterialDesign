@@ -38000,7 +38000,9 @@
         "id": "16F694B0-E5B4-4262-91AE-DB3D0C73EEC0",
         "name": "music-box-multiple-outline",
         "codepoint": "FF21",
-        "aliases": [],
+        "aliases": [
+            "library-music-outline"
+        ],
         "tags": [
             "Music"
         ],
