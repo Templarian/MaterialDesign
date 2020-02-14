@@ -36982,6 +36982,17 @@
         "version": "3.6.95"
     },
     {
+        "id": "F73FF165-CE6C-4E27-B492-93F3B82C70EE",
+        "name": "microsoft-xbox-controller-off",
+        "codepoint": "F5BB",
+        "aliases": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
+        "author": "Austin Andrews",
+        "version": "1.5.54"
+    },
+    {
         "id": "B74213B2-B220-4D15-AFA5-CAE0E40D6CFE",
         "name": "microsoft-yammer",
         "codepoint": "F788",
@@ -57730,17 +57741,6 @@
         ],
         "author": "Contributors",
         "version": "2.1.19"
-    },
-    {
-        "id": "F73FF165-CE6C-4E27-B492-93F3B82C70EE",
-        "name": "xbox-controller-off",
-        "codepoint": "F5BB",
-        "aliases": [],
-        "tags": [
-            "Gaming \/ RPG"
-        ],
-        "author": "Austin Andrews",
-        "version": "1.5.54"
     },
     {
         "id": "38E0BCE2-2A91-4D68-B921-9854E18FFB20",
