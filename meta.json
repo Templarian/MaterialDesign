@@ -52061,7 +52061,8 @@
         "name": "text-box-check",
         "codepoint": "FEC3",
         "aliases": [
-            "file-document-box-tick"
+            "file-document-box-tick",
+            "file-document-box-check"
         ],
         "tags": [
             "Files \/ Folders"
