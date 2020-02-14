@@ -23096,17 +23096,6 @@
         "version": "3.7.94"
     },
     {
-        "id": "08B85EF9-81EC-4DEE-B1C7-1C14D4CBECA5",
-        "name": "file-document-box-search",
-        "codepoint": "FECB",
-        "aliases": [],
-        "tags": [
-            "Files \/ Folders"
-        ],
-        "author": "Austin Andrews",
-        "version": "3.7.94"
-    },
-    {
         "id": "D32F390E-2888-4C63-99FA-9662902B6694",
         "name": "file-document-box-search-outline",
         "codepoint": "FECC",
@@ -52083,6 +52072,17 @@
             "Files \/ Folders"
         ],
         "author": "Michael Irigoyen",
+        "version": "3.7.94"
+    },
+    {
+        "id": "08B85EF9-81EC-4DEE-B1C7-1C14D4CBECA5",
+        "name": "text-box-search",
+        "codepoint": "FECB",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Austin Andrews",
         "version": "3.7.94"
     },
     {
