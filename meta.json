@@ -24304,7 +24304,9 @@
         "name": "filmstrip-multiple",
         "codepoint": "FCF4",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "Google",
         "version": "3.3.92"
     },
