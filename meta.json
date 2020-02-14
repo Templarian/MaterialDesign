@@ -42821,21 +42821,6 @@
         "version": "3.5.94"
     },
     {
-        "id": "FF92F5A9-DE89-4E7D-BCAB-98920EA96FFE",
-        "name": "playstation",
-        "codepoint": "F414",
-        "aliases": [
-            "sony-playstation",
-            "playstation-network"
-        ],
-        "tags": [
-            "Brand \/ Logo",
-            "Gaming \/ RPG"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "D390D1E2-571E-49DB-BBB9-9D3821EAF819",
         "name": "plex",
         "codepoint": "F6B9",
@@ -48886,6 +48871,21 @@
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.7.12"
+    },
+    {
+        "id": "FF92F5A9-DE89-4E7D-BCAB-98920EA96FFE",
+        "name": "sony-playstation",
+        "codepoint": "F414",
+        "aliases": [
+            "sony-playstation",
+            "playstation-network"
+        ],
+        "tags": [
+            "Brand \/ Logo",
+            "Gaming \/ RPG"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
     },
     {
         "id": "3052FDE9-791A-43E8-ACF4-A5EB7DF8296F",
