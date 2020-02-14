@@ -24300,6 +24300,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "392DCBD5-0766-4719-B198-42A9A66C18B4",
+        "name": "filmstrip-multiple",
+        "codepoint": "FCF4",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "3.3.92"
+    },
+    {
         "id": "CB040E6C-85FD-4C09-9ACD-C41EE5FB770E",
         "name": "filmstrip-off",
         "codepoint": "F231",
@@ -34241,15 +34250,6 @@
         ],
         "author": "Google",
         "version": "1.5.54"
-    },
-    {
-        "id": "392DCBD5-0766-4719-B198-42A9A66C18B4",
-        "name": "library-movie",
-        "codepoint": "FCF4",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "3.3.92"
     },
     {
         "id": "56F24AF4-9E5B-4E53-89ED-3472E08C9466",
