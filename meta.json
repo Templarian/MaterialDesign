@@ -37989,7 +37989,9 @@
         "id": "56F24AF4-9E5B-4E53-89ED-3472E08C9466",
         "name": "music-box-multiple",
         "codepoint": "F333",
-        "aliases": [],
+        "aliases": [
+            "library-music"
+        ],
         "tags": [
             "Music"
         ],
