@@ -52076,7 +52076,9 @@
         "id": "C822984D-33BC-4A48-A9A3-E679ABF13595",
         "name": "text-box-remove-outline",
         "codepoint": "FECA",
-        "aliases": [],
+        "aliases": [
+            "file-document-box-remove-outline"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
