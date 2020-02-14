@@ -36899,6 +36899,18 @@
         "version": "1.9.32"
     },
     {
+        "id": "738FB781-E590-444B-85B8-1773DDC814E9",
+        "name": "microsoft-xbox-controller-battery-charging",
+        "codepoint": "FA21",
+        "aliases": [],
+        "tags": [
+            "Gaming \/ RPG",
+            "Battery"
+        ],
+        "author": "Contributors",
+        "version": "2.5.94"
+    },
+    {
         "id": "B74213B2-B220-4D15-AFA5-CAE0E40D6CFE",
         "name": "microsoft-yammer",
         "codepoint": "F788",
@@ -57647,18 +57659,6 @@
         ],
         "author": "Contributors",
         "version": "2.1.19"
-    },
-    {
-        "id": "738FB781-E590-444B-85B8-1773DDC814E9",
-        "name": "xbox-controller-battery-charging",
-        "codepoint": "FA21",
-        "aliases": [],
-        "tags": [
-            "Gaming \/ RPG",
-            "Battery"
-        ],
-        "author": "Contributors",
-        "version": "2.5.94"
     },
     {
         "id": "51BB7455-5893-4F47-92D1-B3FD408C2ADC",
