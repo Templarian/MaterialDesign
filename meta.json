@@ -24303,7 +24303,9 @@
         "id": "392DCBD5-0766-4719-B198-42A9A66C18B4",
         "name": "filmstrip-multiple",
         "codepoint": "FCF4",
-        "aliases": [],
+        "aliases": [
+            "library-movie"
+        ],
         "tags": [
             "Video \/ Movie"
         ],
