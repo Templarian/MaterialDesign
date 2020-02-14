@@ -52066,7 +52066,9 @@
         "id": "89E44C7C-4A52-4BBE-8EF4-2127A320E444",
         "name": "text-box-minus-outline",
         "codepoint": "FEC6",
-        "aliases": [],
+        "aliases": [
+            "file-document-box-minus-outline"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
