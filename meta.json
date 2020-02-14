@@ -52072,7 +52072,9 @@
         "id": "8979EEB0-B475-4229-A7D8-F5D48A58DB85",
         "name": "text-box-plus",
         "codepoint": "FEC7",
-        "aliases": [],
+        "aliases": [
+            "file-document-box-plus"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
