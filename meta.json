@@ -23085,19 +23085,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "02EF54D9-4D5D-463C-A3E8-0B44BDCB9523",
-        "name": "file-document-box-multiple-outline",
-        "codepoint": "FAB7",
-        "aliases": [
-            "file-document-boxes-outline"
-        ],
-        "tags": [
-            "Files \/ Folders"
-        ],
-        "author": "Austin Andrews",
-        "version": "2.7.94"
-    },
-    {
         "id": "E12AE178-0546-4CD3-81F6-BD1F17AA50EE",
         "name": "file-document-box-outline",
         "codepoint": "F9EC",
@@ -52074,6 +52061,19 @@
             "Files \/ Folders"
         ],
         "author": "Michael Irigoyen",
+        "version": "2.7.94"
+    },
+    {
+        "id": "02EF54D9-4D5D-463C-A3E8-0B44BDCB9523",
+        "name": "text-box-multiple-outline",
+        "codepoint": "FAB7",
+        "aliases": [
+            "file-document-boxes-outline"
+        ],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Austin Andrews",
         "version": "2.7.94"
     },
     {
