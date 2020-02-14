@@ -52068,7 +52068,8 @@
         "name": "text-box-multiple-outline",
         "codepoint": "FAB7",
         "aliases": [
-            "file-document-boxes-outline"
+            "file-document-boxes-outline",
+            "file-document-box-multiple-outline"
         ],
         "tags": [
             "Files \/ Folders"
