@@ -23085,17 +23085,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "8979EEB0-B475-4229-A7D8-F5D48A58DB85",
-        "name": "file-document-box-plus",
-        "codepoint": "FEC7",
-        "aliases": [],
-        "tags": [
-            "Files \/ Folders"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "3.7.94"
-    },
-    {
         "id": "467C2198-D7C5-4B95-88F1-71B269D2AEAC",
         "name": "file-document-box-plus-outline",
         "codepoint": "FEC8",
@@ -52078,6 +52067,17 @@
         ],
         "author": "GreenTurtwig",
         "version": "2.5.94"
+    },
+    {
+        "id": "8979EEB0-B475-4229-A7D8-F5D48A58DB85",
+        "name": "text-box-plus",
+        "codepoint": "FEC7",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "3.7.94"
     },
     {
         "id": "8F37BBCB-35D2-4FAF-88ED-59252659885D",
