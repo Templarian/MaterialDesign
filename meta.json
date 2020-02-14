@@ -38629,6 +38629,20 @@
         "version": "2.0.46"
     },
     {
+        "id": "AA2F2BCF-A9BD-4B3A-83A4-880E518F9428",
+        "name": "nintendo-wii",
+        "codepoint": "F5AB",
+        "aliases": [
+            "nintendo-wii"
+        ],
+        "tags": [
+            "Brand \/ Logo",
+            "Gaming \/ RPG"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "525A43D5-4292-4C31-9E7D-7B65DB386BF9",
         "name": "nix",
         "codepoint": "F0130",
@@ -57337,20 +57351,6 @@
         "tags": [],
         "author": "Cody",
         "version": "2.3.50"
-    },
-    {
-        "id": "AA2F2BCF-A9BD-4B3A-83A4-880E518F9428",
-        "name": "wii",
-        "codepoint": "F5AB",
-        "aliases": [
-            "nintendo-wii"
-        ],
-        "tags": [
-            "Brand \/ Logo",
-            "Gaming \/ RPG"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "7D322B2B-5B7D-46B4-ACC3-A8900CFED5C9",
