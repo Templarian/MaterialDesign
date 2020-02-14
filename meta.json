@@ -36935,6 +36935,18 @@
         "version": "1.9.32"
     },
     {
+        "id": "B65873D1-4808-4C3C-8AD6-A242D61B1985",
+        "name": "microsoft-xbox-controller-battery-low",
+        "codepoint": "F74D",
+        "aliases": [],
+        "tags": [
+            "Battery",
+            "Gaming \/ RPG"
+        ],
+        "author": "Austin Andrews",
+        "version": "1.9.32"
+    },
+    {
         "id": "B74213B2-B220-4D15-AFA5-CAE0E40D6CFE",
         "name": "microsoft-yammer",
         "codepoint": "F788",
@@ -57683,18 +57695,6 @@
         ],
         "author": "Contributors",
         "version": "2.1.19"
-    },
-    {
-        "id": "B65873D1-4808-4C3C-8AD6-A242D61B1985",
-        "name": "xbox-controller-battery-low",
-        "codepoint": "F74D",
-        "aliases": [],
-        "tags": [
-            "Battery",
-            "Gaming \/ RPG"
-        ],
-        "author": "Austin Andrews",
-        "version": "1.9.32"
     },
     {
         "id": "2B434E26-4ECE-4654-BBDC-4FE13CCCEE3E",
