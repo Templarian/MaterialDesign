@@ -34256,17 +34256,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "56F24AF4-9E5B-4E53-89ED-3472E08C9466",
-        "name": "library-music",
-        "codepoint": "F333",
-        "aliases": [],
-        "tags": [
-            "Music"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "16F694B0-E5B4-4262-91AE-DB3D0C73EEC0",
         "name": "library-music-outline",
         "codepoint": "FF21",
@@ -38003,6 +37992,17 @@
             "Music"
         ],
         "author": "Austin Andrews",
+        "version": "1.5.54"
+    },
+    {
+        "id": "56F24AF4-9E5B-4E53-89ED-3472E08C9466",
+        "name": "music-box-multiple",
+        "codepoint": "F333",
+        "aliases": [],
+        "tags": [
+            "Music"
+        ],
+        "author": "Google",
         "version": "1.5.54"
     },
     {
