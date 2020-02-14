@@ -34234,15 +34234,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "FB635DB5-18DA-448E-81C7-0602181EE21A",
-        "name": "library-books",
-        "codepoint": "F332",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "392DCBD5-0766-4719-B198-42A9A66C18B4",
         "name": "library-movie",
         "codepoint": "FCF4",
@@ -52057,6 +52048,15 @@
         "tags": [],
         "author": "Google",
         "version": "2.4.85"
+    },
+    {
+        "id": "FB635DB5-18DA-448E-81C7-0602181EE21A",
+        "name": "text-box-multiple",
+        "codepoint": "F332",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "1.5.54"
     },
     {
         "id": "8F37BBCB-35D2-4FAF-88ED-59252659885D",
