@@ -15046,6 +15046,15 @@
         "version": "5.0.95"
     },
     {
+        "id": "D066B111-84BC-4682-864B-CAFEE4A93F66",
+        "name": "circle-half-full",
+        "codepoint": "F03C1",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "5.0.95"
+    },
+    {
         "id": "AB8D0574-712C-4403-A5A5-51E16C081605",
         "name": "circle-medium",
         "codepoint": "F9DD",
