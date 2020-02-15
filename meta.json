@@ -10713,6 +10713,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "1D18C000-0A31-4A28-BA96-B47103D727DD",
+        "name": "cable-data",
+        "codepoint": "F03BF",
+        "aliases": [],
+        "tags": [],
+        "author": "GreenTurtwig",
+        "version": "5.0.95"
+    },
+    {
         "id": "7DFE345F-A336-43BC-89BE-18FE3C902BFC",
         "name": "cached",
         "codepoint": "F0E8",
