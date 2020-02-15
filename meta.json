@@ -15037,6 +15037,15 @@
         "version": "3.7.94"
     },
     {
+        "id": "901AA3C4-B9A4-4764-ABA4-FD51FA6D68ED",
+        "name": "circle-half",
+        "codepoint": "F03C0",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "5.0.95"
+    },
+    {
         "id": "AB8D0574-712C-4403-A5A5-51E16C081605",
         "name": "circle-medium",
         "codepoint": "F9DD",
