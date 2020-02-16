@@ -22050,6 +22050,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "B4972D96-B8A1-4964-8A58-FAEA2D0C5FF9",
+        "name": "escalator-box",
+        "codepoint": "F1399",
+        "aliases": [],
+        "tags": [],
+        "author": "Moma Design Studio",
+        "version": "5.0.95"
+    },
+    {
         "id": "F29A47AC-C3B6-4568-8ADA-94C5F92F0DC0",
         "name": "escalator-down",
         "codepoint": "F12C0",
