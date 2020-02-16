@@ -50064,6 +50064,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "58C2BC63-FCF5-445B-B351-23CF48253FEF",
+        "name": "stairs-box",
+        "codepoint": "F139E",
+        "aliases": [],
+        "tags": [],
+        "author": "Moma Design Studio",
+        "version": "5.0.95"
+    },
+    {
         "id": "5B344682-C177-40CC-97EC-418D010EAE07",
         "name": "stairs-down",
         "codepoint": "F12BE",
