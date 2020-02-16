@@ -15975,6 +15975,15 @@
         "version": "1.8.36"
     },
     {
+        "id": "C6B8442F-446D-4690-866F-AF0F27C1EAB2",
+        "name": "close-thick",
+        "codepoint": "F1398",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.0.95"
+    },
+    {
         "id": "5367B460-F7E5-46C5-A4F5-40B339BF9DAD",
         "name": "closed-caption",
         "codepoint": "F015E",
