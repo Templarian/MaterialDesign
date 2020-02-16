@@ -34756,6 +34756,15 @@
         "version": "5.0.95"
     },
     {
+        "id": "5ED06AF8-75C7-4AC3-962E-F742236AFDA6",
+        "name": "lock-open-check",
+        "codepoint": "F139C",
+        "aliases": [],
+        "tags": [],
+        "author": "Fran\u00e7ois Risoud",
+        "version": "5.0.95"
+    },
+    {
         "id": "DCE8B967-BCDE-4130-8BF3-DDA78A78326F",
         "name": "lock-open-outline",
         "codepoint": "F0340",
