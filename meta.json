@@ -44794,6 +44794,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "E4222CF9-9449-4325-A296-1E2897AF0720",
+        "name": "recycle-variant",
+        "codepoint": "F139D",
+        "aliases": [],
+        "tags": [],
+        "author": "Moma Design Studio",
+        "version": "5.0.95"
+    },
+    {
         "id": "8CDBB9B4-921B-47CC-9A06-D0F391666654",
         "name": "reddit",
         "codepoint": "F044D",
