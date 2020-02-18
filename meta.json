@@ -51430,6 +51430,15 @@
         "version": "2.6.95"
     },
     {
+        "id": "202CC1A0-B339-493E-99B0-607A209E8A53",
+        "name": "table-refresh",
+        "codepoint": "F13A0",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.0.95"
+    },
+    {
         "id": "E04307B8-EA93-41C0-B7B8-6AAC6C9B580F",
         "name": "table-remove",
         "codepoint": "F0A76",
