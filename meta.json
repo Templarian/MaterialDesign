@@ -51529,6 +51529,15 @@
         "version": "2.1.19"
     },
     {
+        "id": "DEC516BA-2102-4CE7-B77E-6D95A9A525EC",
+        "name": "table-sync",
+        "codepoint": "F13A1",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.0.95"
+    },
+    {
         "id": "4E13AA68-FF88-415B-A813-A9D5023F71E3",
         "name": "table-tennis",
         "codepoint": "F0E68",
