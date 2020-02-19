@@ -52972,19 +52972,6 @@
         "version": "3.0.39"
     },
     {
-        "id": "017E0965-CD2E-4B39-B0C5-410335848B12",
-        "name": "timer",
-        "codepoint": "F051B",
-        "aliases": [
-            "stopwatch"
-        ],
-        "tags": [
-            "Date \/ Time"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "BDC89918-A38F-41C6-997E-DE9F779D4435",
         "name": "timer-10",
         "codepoint": "F051C",
@@ -53016,6 +53003,19 @@
         "codepoint": "F051E",
         "aliases": [
             "stopwatch-off"
+        ],
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Google",
+        "version": "1.5.54"
+    },
+    {
+        "id": "017E0965-CD2E-4B39-B0C5-410335848B12",
+        "name": "timer-outline",
+        "codepoint": "F051B",
+        "aliases": [
+            "stopwatch"
         ],
         "tags": [
             "Date \/ Time"
