@@ -53015,7 +53015,8 @@
         "name": "timer-outline",
         "codepoint": "F051B",
         "aliases": [
-            "stopwatch"
+            "stopwatch",
+            "stopwatch-outline"
         ],
         "tags": [
             "Date \/ Time"
