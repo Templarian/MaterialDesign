@@ -48530,6 +48530,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "D0173A61-33D3-43A2-8DB3-2E95EEEF7D7E",
+        "name": "size-xs",
+        "codepoint": "F13A3",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.0.95"
+    },
+    {
         "id": "97AAC6A1-8F86-49CD-AAE2-3F9CFDDCBD82",
         "name": "size-xxs",
         "codepoint": "F13A2",
