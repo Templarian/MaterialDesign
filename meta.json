@@ -53055,6 +53055,17 @@
         "version": "3.0.39"
     },
     {
+        "id": "7F6AFDDE-8C90-44FB-A000-D5F6EF93A943",
+        "name": "timer",
+        "codepoint": "F13AB",
+        "aliases": [
+            "stopwatch"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.0.95"
+    },
+    {
         "id": "BDC89918-A38F-41C6-997E-DE9F779D4435",
         "name": "timer-10",
         "codepoint": "F051C",
