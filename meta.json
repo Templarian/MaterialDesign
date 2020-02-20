@@ -52880,6 +52880,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "A1B45743-22F5-49E8-B466-120024F2C4C3",
+        "name": "ticket-confirmation-outline",
+        "codepoint": "F13AA",
+        "aliases": [
+            "confirmation-number-outline"
+        ],
+        "tags": [],
+        "author": "Google",
+        "version": "5.0.95"
+    },
+    {
         "id": "6D7F0E99-A86F-4AAB-A468-F1D3214E1B60",
         "name": "ticket-outline",
         "codepoint": "F0913",
