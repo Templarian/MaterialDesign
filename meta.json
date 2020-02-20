@@ -48593,6 +48593,15 @@
         "version": "5.0.95"
     },
     {
+        "id": "3B3E6BCE-E0D1-4A4E-B720-D73C03C88C64",
+        "name": "size-xxxl",
+        "codepoint": "F13A9",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.0.95"
+    },
+    {
         "id": "CB0C6DC2-0A4E-41C8-9E6A-9A8531F754CF",
         "name": "skate",
         "codepoint": "F0D35",
