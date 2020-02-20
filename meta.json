@@ -53092,6 +53092,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "CC698648-1A71-4EC8-A1E3-B5ACC42F2FDB",
+        "name": "timer-off",
+        "codepoint": "F13AC",
+        "aliases": [
+            "stopwatch-off"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.0.95"
+    },
+    {
         "id": "BE74C70B-7E47-4E25-957C-C83CFEB73D6D",
         "name": "timer-off-outline",
         "codepoint": "F051E",
