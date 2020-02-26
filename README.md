@@ -16,6 +16,7 @@ View at [Material Design Icons](http://materialdesignicons.com/). This repo also
 | JavaScript / TypeScript  | `npm install @mdi/js`     | [MaterialDesign-JS](https://github.com/Templarian/MaterialDesign-JS) |
 | ReactJS  | `npm install @mdi/react`     | [MaterialDesign-React](https://github.com/Templarian/MaterialDesign-React) |
 | SVG / Meta.json | `npm install @mdi/svg` | [MaterialDesign-SVG](https://github.com/Templarian/MaterialDesign-SVG)     |
+| Desktop Font | n/a | [MaterialDesign-Font](https://github.com/Templarian/MaterialDesign-Font)     |
 
 [Upgrade Guide](https://dev.materialdesignicons.com/upgrade) | [Changelog Guide](https://dev.materialdesignicons.com/changelog)
 
