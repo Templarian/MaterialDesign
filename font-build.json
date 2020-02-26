@@ -25,5 +25,12 @@
         "major": 5,
         "minor": 0,
         "patch": 36
+    },
+    "date": {
+        "year": 2020,
+        "month": 0,
+        "day": 26,
+        "hour": 4,
+        "minute": 48
     }
 }
