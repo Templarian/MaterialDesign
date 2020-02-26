@@ -48573,7 +48573,9 @@
         "id": "D0173A61-33D3-43A2-8DB3-2E95EEEF7D7E",
         "name": "size-xs",
         "codepoint": "F13A3",
-        "aliases": [],
+        "aliases": [
+            "size-extra-small"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "5.0.95"
