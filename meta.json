@@ -8855,6 +8855,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "D4247A9D-BD96-40AC-8C4E-A9A255DF5160",
+        "name": "book-account",
+        "codepoint": "F13AD",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "5.0.95"
+    },
+    {
         "id": "250BF541-072A-4773-8BC2-B1943DF1EDBB",
         "name": "book-alphabet",
         "codepoint": "F061D",
