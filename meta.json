@@ -31212,6 +31212,15 @@
         "version": "5.0.95"
     },
     {
+        "id": "D261AFB1-2C65-41D6-AE5A-E25D2FC120ED",
+        "name": "home-search-outline",
+        "codepoint": "F13B1",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.0.95"
+    },
+    {
         "id": "833E3484-3C40-4F98-96CB-537FB6225711",
         "name": "home-thermometer",
         "codepoint": "F0F54",
