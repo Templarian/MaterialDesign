@@ -34697,6 +34697,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "95390315-999E-4E82-8D89-CDF89AE6478F",
+        "name": "lipstick",
+        "codepoint": "F13B5",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.0.95"
+    },
+    {
         "id": "1EB3C314-463F-488D-9DC6-3589C661984E",
         "name": "litecoin",
         "codepoint": "F0A61",
