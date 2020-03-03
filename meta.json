@@ -45509,6 +45509,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "934FA95E-C5B3-4A5E-B99D-85B0E65CBDBA",
+        "name": "rocket-outline",
+        "codepoint": "F13AF",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.0.95"
+    },
+    {
         "id": "AA8B7EA9-2DB2-4591-94E0-A457373E64C1",
         "name": "rodent",
         "codepoint": "F1327",
