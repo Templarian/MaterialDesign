@@ -11930,6 +11930,15 @@
         "version": "5.0.95"
     },
     {
+        "id": "04AA17AE-F0E4-4B44-9440-812E1F875884",
+        "name": "car-arrow-right",
+        "codepoint": "F13B3",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.0.95"
+    },
+    {
         "id": "E41B22B2-CAC1-4D56-877B-2DC4E5E4BEC2",
         "name": "car-back",
         "codepoint": "F0E1B",
