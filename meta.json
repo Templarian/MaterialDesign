@@ -11921,6 +11921,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "F647E77D-3416-4DFD-8E9C-0BB1A1FDA6A8",
+        "name": "car-arrow-left",
+        "codepoint": "F13B2",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.0.95"
+    },
+    {
         "id": "E41B22B2-CAC1-4D56-877B-2DC4E5E4BEC2",
         "name": "car-back",
         "codepoint": "F0E1B",
