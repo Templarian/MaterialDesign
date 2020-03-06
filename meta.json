@@ -16763,6 +16763,19 @@
         "version": "4.5.95"
     },
     {
+        "id": "7251B1CF-41C8-46F7-991D-83F5996CF0C1",
+        "name": "cog-off",
+        "codepoint": "F13CE",
+        "aliases": [
+            "settings-off"
+        ],
+        "tags": [
+            "Settings"
+        ],
+        "author": "Cody",
+        "version": "5.1.45"
+    },
+    {
         "id": "D29B92ED-BC81-44F0-8031-2E48A90ABAD8",
         "name": "cog-outline",
         "codepoint": "F08BB",
