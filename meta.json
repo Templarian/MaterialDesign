@@ -51455,6 +51455,18 @@
         "version": "5.1.45"
     },
     {
+        "id": "A4A68FD7-82B8-4BE8-8110-DA54D1A888D4",
+        "name": "table-arrow-right",
+        "codepoint": "F13BD",
+        "aliases": [
+            "table-share",
+            "table-export"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "4AB13D38-7B5C-49E6-B41C-C48C0F8E7DA3",
         "name": "table-border",
         "codepoint": "F0A18",
