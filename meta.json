@@ -16776,6 +16776,19 @@
         "version": "5.1.45"
     },
     {
+        "id": "83E26995-9267-4A7B-8271-885FEF6303D8",
+        "name": "cog-off-outline",
+        "codepoint": "F13CF",
+        "aliases": [
+            "settings-off-outline"
+        ],
+        "tags": [
+            "Settings"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "D29B92ED-BC81-44F0-8031-2E48A90ABAD8",
         "name": "cog-outline",
         "codepoint": "F08BB",
