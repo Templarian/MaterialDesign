@@ -50584,7 +50584,9 @@
         "name": "sticker-alert-outline",
         "codepoint": "F1366",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Colton Wiscombe",
         "version": "4.9.95"
     },
