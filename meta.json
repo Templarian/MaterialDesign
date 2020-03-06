@@ -25665,7 +25665,9 @@
         "name": "folder-move-outline",
         "codepoint": "F1246",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Sascha Wohlgemuth",
         "version": "4.6.95"
     },
