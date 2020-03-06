@@ -25851,7 +25851,9 @@
         "name": "folder-refresh-outline",
         "codepoint": "F0542",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
