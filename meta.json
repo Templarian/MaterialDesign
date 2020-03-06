@@ -25713,7 +25713,9 @@
         "name": "folder-music",
         "codepoint": "F1359",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "\u00d6zg\u00fcr G\u00f6rg\u00fcl\u00fc",
         "version": "4.9.95"
     },
