@@ -51624,6 +51624,15 @@
         "version": "4.2.95"
     },
     {
+        "id": "2F3C45C9-277B-4751-8F5C-4356739AC3A4",
+        "name": "table-eye-off",
+        "codepoint": "F13C3",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "9A7A9F69-9BC4-4619-981D-DF8423A22FF2",
         "name": "table-furniture",
         "codepoint": "F05BC",
