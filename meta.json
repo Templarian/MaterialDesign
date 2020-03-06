@@ -17871,6 +17871,17 @@
         "version": "5.1.45"
     },
     {
+        "id": "96023451-FCAA-40E0-839C-A7F98C3553F1",
+        "name": "credit-card-check-outline",
+        "codepoint": "F13D1",
+        "aliases": [],
+        "tags": [
+            "Banking"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "0FBFF192-59C3-447E-A987-4BE568865C8E",
         "name": "credit-card-clock",
         "codepoint": "F0EE1",
