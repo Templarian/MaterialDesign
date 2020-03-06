@@ -8859,7 +8859,9 @@
         "name": "book-account",
         "codepoint": "F13AD",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Michael Richins",
         "version": "5.0.45"
     },
