@@ -31367,6 +31367,17 @@
         "version": "4.6.95"
     },
     {
+        "id": "CD3129FD-EDCB-4B65-85F8-900E59E308B7",
+        "name": "home-remove-outline",
+        "codepoint": "F13D7",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "32EF139A-14EB-4767-ADDD-08120FB530A0",
         "name": "home-roof",
         "codepoint": "F112B",
