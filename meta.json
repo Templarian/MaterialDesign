@@ -8870,7 +8870,9 @@
         "name": "book-account-outline",
         "codepoint": "F13AE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Michael Richins",
         "version": "5.0.45"
     },
