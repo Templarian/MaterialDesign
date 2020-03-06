@@ -46444,6 +46444,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "C74BA4DC-A838-471E-AA2D-A5C2D0B74BF3",
+        "name": "scan-helper",
+        "codepoint": "F13D8",
+        "aliases": [],
+        "tags": [],
+        "author": "Peter Noble",
+        "version": "5.1.45"
+    },
+    {
         "id": "BE9A1BD3-1DF7-407F-98B7-24070994D472",
         "name": "scanner",
         "codepoint": "F06AB",
