@@ -25842,7 +25842,9 @@
         "name": "folder-refresh",
         "codepoint": "F0749",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Austin Andrews",
         "version": "1.9.32"
     },
