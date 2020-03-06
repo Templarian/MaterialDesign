@@ -51533,6 +51533,17 @@
         "version": "5.1.45"
     },
     {
+        "id": "540E0DD7-BA28-46B1-A0A7-2A0820E73432",
+        "name": "table-cog",
+        "codepoint": "F13C2",
+        "aliases": [
+            "table-settings"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "D45D7513-AA4C-43CA-8435-CA6AD2B7F868",
         "name": "table-column",
         "codepoint": "F0835",
