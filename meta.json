@@ -26050,6 +26050,17 @@
         "version": "5.1.45"
     },
     {
+        "id": "C7DD0CB0-EEA4-4D24-BCE2-8184382EF419",
+        "name": "folder-star-multiple-outline",
+        "codepoint": "F13D4",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "3CE11413-D500-4DFA-8913-A22A16D6DAD5",
         "name": "folder-star-outline",
         "codepoint": "F0B9F",
