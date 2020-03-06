@@ -18066,7 +18066,9 @@
         "name": "credit-card-wireless-off",
         "codepoint": "F057A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Cody",
         "version": "1.5.54"
     },
