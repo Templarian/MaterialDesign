@@ -18077,7 +18077,9 @@
         "name": "credit-card-wireless-off-outline",
         "codepoint": "F057B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Cody",
         "version": "1.5.54"
     },
