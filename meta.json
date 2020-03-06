@@ -12059,6 +12059,20 @@
         "version": "4.1.95"
     },
     {
+        "id": "B854CD8C-6731-4C70-917F-9033015E94F4",
+        "name": "car-cog",
+        "codepoint": "F13CC",
+        "aliases": [
+            "car-settings"
+        ],
+        "tags": [
+            "Automotive",
+            "Settings"
+        ],
+        "author": "Cody",
+        "version": "5.1.45"
+    },
+    {
         "id": "8C8468C7-8A41-42A1-8C33-4AAE55FF9E2A",
         "name": "car-connected",
         "codepoint": "F010D",
