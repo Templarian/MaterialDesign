@@ -51559,7 +51559,9 @@
         "aliases": [
             "table-settings"
         ],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.1.45"
     },
