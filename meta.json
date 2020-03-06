@@ -51409,6 +51409,19 @@
         "version": "1.5.54"
     },
     {
+        "id": "4E3E7C78-5217-4B8A-8B95-9DE8433CFADA",
+        "name": "table-account",
+        "codepoint": "F13B9",
+        "aliases": [
+            "table-user"
+        ],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "4AB13D38-7B5C-49E6-B41C-C48C0F8E7DA3",
         "name": "table-border",
         "codepoint": "F0A18",
