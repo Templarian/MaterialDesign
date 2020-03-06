@@ -12585,7 +12585,9 @@
         "aliases": [
             "contact-phone"
         ],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Google",
         "version": "3.7.94"
     },
