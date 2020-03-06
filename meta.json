@@ -51522,6 +51522,17 @@
         "version": "5.1.45"
     },
     {
+        "id": "8C3DCF5F-7E50-48A6-A596-0BA2D299B37F",
+        "name": "table-clock",
+        "codepoint": "F13C1",
+        "aliases": [],
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "D45D7513-AA4C-43CA-8435-CA6AD2B7F868",
         "name": "table-column",
         "codepoint": "F0835",
