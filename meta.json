@@ -31345,6 +31345,17 @@
         "version": "2.4.85"
     },
     {
+        "id": "CDAF170C-BB2C-4217-9B96-D99EE9B725F9",
+        "name": "home-plus-outline",
+        "codepoint": "F13D6",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "FEF8AC85-F9E6-4C9B-B0C2-A5158AAD8A8B",
         "name": "home-remove",
         "codepoint": "F1247",
