@@ -11929,7 +11929,9 @@
         "name": "car-arrow-left",
         "codepoint": "F13B2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.0.45"
     },
