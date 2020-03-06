@@ -11940,7 +11940,9 @@
         "name": "car-arrow-right",
         "codepoint": "F13B3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.0.45"
     },
