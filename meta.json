@@ -50573,7 +50573,9 @@
         "name": "sticker-alert",
         "codepoint": "F1365",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Colton Wiscombe",
         "version": "4.9.95"
     },
