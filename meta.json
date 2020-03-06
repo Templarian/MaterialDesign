@@ -24169,6 +24169,15 @@
         "version": "1.6.50"
     },
     {
+        "id": "86EB0B3A-E46E-4439-B7BA-67A88B280961",
+        "name": "file-tree-outline",
+        "codepoint": "F13D2",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "5CCC54A4-04AF-4241-80AB-177C8365A905",
         "name": "file-undo",
         "codepoint": "F08DC",
