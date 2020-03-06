@@ -51738,6 +51738,15 @@
         "version": "2.4.85"
     },
     {
+        "id": "C40DA2CA-4FCA-4144-AD38-0DD457D6D6CF",
+        "name": "table-minus",
+        "codepoint": "F13C7",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "70A0953D-9FEF-4858-8ACB-A90C5613360A",
         "name": "table-of-contents",
         "codepoint": "F0836",
