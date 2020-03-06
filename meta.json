@@ -51718,6 +51718,15 @@
         "version": "3.9.97"
     },
     {
+        "id": "370E7D91-6ACA-464F-A30C-DCB35B8DFC55",
+        "name": "table-lock",
+        "codepoint": "F13C6",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "BE891E33-2018-4619-BF4C-C006B4063785",
         "name": "table-merge-cells",
         "codepoint": "F09A6",
