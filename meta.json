@@ -31257,7 +31257,9 @@
         "name": "home-search",
         "codepoint": "F13B0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.0.45"
     },
