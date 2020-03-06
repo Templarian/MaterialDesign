@@ -51433,6 +51433,17 @@
         "version": "5.1.45"
     },
     {
+        "id": "846F0539-E30D-40E8-BC00-3F10A0C0321E",
+        "name": "table-arrow-down",
+        "codepoint": "F13BB",
+        "aliases": [
+            "table-download"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "4AB13D38-7B5C-49E6-B41C-C48C0F8E7DA3",
         "name": "table-border",
         "codepoint": "F0A18",
