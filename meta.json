@@ -51897,6 +51897,17 @@
         "version": "2.1.19"
     },
     {
+        "id": "646B67D0-16F5-429C-93ED-C57131031B63",
+        "name": "table-star",
+        "codepoint": "F13CB",
+        "aliases": [
+            "table-favorite"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "DEC516BA-2102-4CE7-B77E-6D95A9A525EC",
         "name": "table-sync",
         "codepoint": "F13A1",
