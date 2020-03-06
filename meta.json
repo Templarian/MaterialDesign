@@ -51489,6 +51489,15 @@
         "version": "2.5.94"
     },
     {
+        "id": "989D1B4B-5D28-4335-B410-8DAF917F788F",
+        "name": "table-cancel",
+        "codepoint": "F13BF",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "6EB52FC2-32D9-427D-80DE-32C60C8F78AD",
         "name": "table-chair",
         "codepoint": "F1061",
