@@ -17860,6 +17860,17 @@
         "version": "4.0.96"
     },
     {
+        "id": "1CE6C99F-BA66-4069-B014-67E4FB6E5EB9",
+        "name": "credit-card-check",
+        "codepoint": "F13D0",
+        "aliases": [],
+        "tags": [
+            "Banking"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "0FBFF192-59C3-447E-A987-4BE568865C8E",
         "name": "credit-card-clock",
         "codepoint": "F0EE1",
