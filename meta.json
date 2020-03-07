@@ -34446,15 +34446,6 @@
         "version": "3.0.39"
     },
     {
-        "id": "9700DCD7-8658-479A-A817-1241A09F9654",
-        "name": "library-video",
-        "codepoint": "F0D19",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "3.3.92"
-    },
-    {
         "id": "8398466C-F905-444F-81E6-B5B2103BD873",
         "name": "license",
         "codepoint": "F0FC3",
@@ -43210,6 +43201,15 @@
         "tags": [],
         "author": "frankgrinaert",
         "version": "4.7.95"
+    },
+    {
+        "id": "9700DCD7-8658-479A-A817-1241A09F9654",
+        "name": "play-box-multiple",
+        "codepoint": "F0D19",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "3.3.92"
     },
     {
         "id": "D0431F42-A1C2-409B-9D44-2EDDEF3F9AB3",
