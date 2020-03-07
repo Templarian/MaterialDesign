@@ -8365,7 +8365,9 @@
         "name": "bell-minus-outline",
         "codepoint": "F13EA",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Notification"
+        ],
         "author": "Cody",
         "version": "5.1.45"
     },
