@@ -8310,7 +8310,9 @@
         "name": "bell-check",
         "codepoint": "F11E5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Notification"
+        ],
         "author": "Contributors",
         "version": "4.5.95"
     },
