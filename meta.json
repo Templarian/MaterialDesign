@@ -6309,6 +6309,21 @@
         "version": "3.9.97"
     },
     {
+        "id": "46AF3844-1F3F-43B5-A93B-424EC83BCADB",
+        "name": "baby-buggy",
+        "codepoint": "F13E0",
+        "aliases": [
+            "stroller",
+            "pram",
+            "carriage"
+        ],
+        "tags": [
+            "People \/ Family"
+        ],
+        "author": "Moma Design Studio",
+        "version": "5.1.45"
+    },
+    {
         "id": "FA711E97-6083-45AA-9C92-FCCDABC57D37",
         "name": "baby-carriage",
         "codepoint": "F068F",
