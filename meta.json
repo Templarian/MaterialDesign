@@ -55973,6 +55973,17 @@
         "version": "2.0.46"
     },
     {
+        "id": "F9B5EF59-C66B-445A-B37D-0CD3FDD5F47A",
+        "name": "video-3d-off",
+        "codepoint": "F13D9",
+        "aliases": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
+        "author": "Contributors",
+        "version": "5.1.45"
+    },
+    {
         "id": "29FC25BE-88B2-4311-ACD7-F85EFB43D0E9",
         "name": "video-3d-variant",
         "codepoint": "F0ED1",
