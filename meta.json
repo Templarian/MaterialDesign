@@ -8435,6 +8435,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "BFCC1A57-A94F-4104-BCBF-980E9D8B2B6C",
+        "name": "bell-remove-outline",
+        "codepoint": "F13EC",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "5.1.45"
+    },
+    {
         "id": "CD75C484-B1AD-492B-8CAA-9F002398C3CA",
         "name": "bell-ring",
         "codepoint": "F009E",
