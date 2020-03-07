@@ -8342,6 +8342,15 @@
         "version": "3.4.93"
     },
     {
+        "id": "C25507E4-8865-47BF-A6AB-D97978AB4397",
+        "name": "bell-minus",
+        "codepoint": "F13E9",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "5.1.45"
+    },
+    {
         "id": "69686D8F-75FE-4091-9061-88DB64D95C01",
         "name": "bell-off",
         "codepoint": "F009B",
