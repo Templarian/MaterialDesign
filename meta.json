@@ -26379,6 +26379,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "C24FE6CB-D1AA-4BAB-BB6B-956307D28D1D",
+        "name": "food-variant-off",
+        "codepoint": "F13E5",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "5.1.45"
+    },
+    {
         "id": "DAAA09E2-055A-4D74-BF60-C46DC6019035",
         "name": "foot-print",
         "codepoint": "F0F52",
