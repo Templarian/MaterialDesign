@@ -8351,6 +8351,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "7344702F-0680-4095-BF7E-D9AFDE650703",
+        "name": "bell-minus-outline",
+        "codepoint": "F13EA",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "5.1.45"
+    },
+    {
         "id": "69686D8F-75FE-4091-9061-88DB64D95C01",
         "name": "bell-off",
         "codepoint": "F009B",
