@@ -8209,7 +8209,9 @@
         "id": "667E2F2C-B896-48EF-B5F9-EF9436A8BE4B",
         "name": "beehive-outline",
         "codepoint": "F10CE",
-        "aliases": [],
+        "aliases": [
+            "honey-outline"
+        ],
         "tags": [
             "Nature"
         ],
