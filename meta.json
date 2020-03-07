@@ -26453,7 +26453,9 @@
         "name": "food-variant-off",
         "codepoint": "F13E5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Cody",
         "version": "5.1.45"
     },
