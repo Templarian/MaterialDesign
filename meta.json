@@ -8321,7 +8321,9 @@
         "name": "bell-check-outline",
         "codepoint": "F11E6",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Notification"
+        ],
         "author": "Contributors",
         "version": "4.5.95"
     },
