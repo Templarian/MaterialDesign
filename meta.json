@@ -8293,6 +8293,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "5CA70271-00B4-4412-B082-FED05EFF165A",
+        "name": "bell-cancel-outline",
+        "codepoint": "F13E8",
+        "aliases": [],
+        "tags": [],
+        "author": "Cody",
+        "version": "5.1.45"
+    },
+    {
         "id": "A00A7DBE-44BB-4843-B740-FAAB76357B03",
         "name": "bell-check",
         "codepoint": "F11E5",
