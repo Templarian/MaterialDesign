@@ -47807,6 +47807,17 @@
         "version": "5.1.45"
     },
     {
+        "id": "DCD9B7FB-8730-4C65-8805-50B6B51A5EF7",
+        "name": "shield-bug-outline",
+        "codepoint": "F13DB",
+        "aliases": [
+            "antivirus-outline"
+        ],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.1.45"
+    },
+    {
         "id": "2A7B43E0-4BA1-41EB-9040-F943AA9FD02C",
         "name": "shield-car",
         "codepoint": "F0F83",
