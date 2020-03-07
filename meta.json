@@ -8299,7 +8299,9 @@
         "name": "bell-cancel-outline",
         "codepoint": "F13E8",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Notification"
+        ],
         "author": "Cody",
         "version": "5.1.45"
     },
