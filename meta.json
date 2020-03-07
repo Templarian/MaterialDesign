@@ -57519,7 +57519,9 @@
         "name": "water-off",
         "codepoint": "F058D",
         "aliases": [
-            "format-color-reset"
+            "format-color-reset",
+            "trans-fat-off",
+            "blood-off"
         ],
         "tags": [],
         "author": "Google",
