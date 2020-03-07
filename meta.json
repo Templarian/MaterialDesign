@@ -47796,6 +47796,17 @@
         "version": "3.7.94"
     },
     {
+        "id": "1FB00AC4-94AE-4677-8F7F-0B6A47F7382C",
+        "name": "shield-bug",
+        "codepoint": "F13DA",
+        "aliases": [
+            "antivirus"
+        ],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "5.1.45"
+    },
+    {
         "id": "2A7B43E0-4BA1-41EB-9040-F943AA9FD02C",
         "name": "shield-car",
         "codepoint": "F0F83",
