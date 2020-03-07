@@ -22619,6 +22619,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "F4A65E44-6B1F-4E9C-954A-B05FAAB3EE6D",
+        "name": "eyedropper-off",
+        "codepoint": "F13DF",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "FF767930-F19C-4935-8ABB-566DD8B8CF0D",
         "name": "eyedropper-plus",
         "codepoint": "F13DC",
