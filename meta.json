@@ -21441,6 +21441,15 @@
         "version": "4.0.96"
     },
     {
+        "id": "D14EAB52-8253-40C3-AABC-43267D588B01",
+        "name": "email-off",
+        "codepoint": "F13E3",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "1E550A45-9D97-4918-9DEC-F536EC5C7A1C",
         "name": "email-open",
         "codepoint": "F01EF",
