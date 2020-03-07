@@ -55298,7 +55298,9 @@
         "name": "umbrella-closed-outline",
         "codepoint": "F13E2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Weather"
+        ],
         "author": "Cody",
         "version": "5.1.45"
     },
