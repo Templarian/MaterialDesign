@@ -8453,7 +8453,9 @@
         "name": "bell-remove-outline",
         "codepoint": "F13EC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Notification"
+        ],
         "author": "Cody",
         "version": "5.1.45"
     },
