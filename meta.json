@@ -55294,6 +55294,15 @@
         "version": "2.4.85"
     },
     {
+        "id": "B17B3489-56A4-490D-828E-61A64754EB1A",
+        "name": "umbrella-closed-variant",
+        "codepoint": "F13E1",
+        "aliases": [],
+        "tags": [],
+        "author": "Moma Design Studio",
+        "version": "5.1.45"
+    },
+    {
         "id": "7E42C11A-74C3-4C0F-BE6B-9794F343925A",
         "name": "umbrella-outline",
         "codepoint": "F054B",
