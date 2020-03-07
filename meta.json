@@ -8354,7 +8354,9 @@
         "name": "bell-minus",
         "codepoint": "F13E9",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Notification"
+        ],
         "author": "Cody",
         "version": "5.1.45"
     },
