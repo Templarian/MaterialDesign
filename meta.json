@@ -22628,6 +22628,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "1224B69E-00A5-422C-A358-61201346175F",
+        "name": "eyedropper-remove",
+        "codepoint": "F13DE",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "24A1E7A8-D8A4-4216-B467-72C144972358",
         "name": "eyedropper-variant",
         "codepoint": "F020B",
