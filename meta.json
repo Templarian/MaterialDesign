@@ -55309,7 +55309,9 @@
         "name": "umbrella-closed-variant",
         "codepoint": "F13E1",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Weather"
+        ],
         "author": "Moma Design Studio",
         "version": "5.1.45"
     },
