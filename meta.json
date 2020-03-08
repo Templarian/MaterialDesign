@@ -7973,7 +7973,9 @@
         "name": "beaker-minus",
         "codepoint": "F122D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Austin Andrews",
         "version": "4.6.95"
     },
