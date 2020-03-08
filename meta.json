@@ -22807,7 +22807,9 @@
         "name": "eyedropper-off",
         "codepoint": "F13DF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.1.45"
     },
