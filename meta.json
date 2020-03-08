@@ -21266,7 +21266,9 @@
         "name": "egg-off-outline",
         "codepoint": "F13F1",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.1.45"
     },
