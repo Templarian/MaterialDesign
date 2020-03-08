@@ -28032,7 +28032,9 @@
         "name": "fruit-citrus-off",
         "codepoint": "F13F9",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.1.45"
     },
