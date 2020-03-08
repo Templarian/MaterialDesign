@@ -38560,7 +38560,9 @@
         "name": "mushroom-off-outline",
         "codepoint": "F13FB",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.1.45"
     },
