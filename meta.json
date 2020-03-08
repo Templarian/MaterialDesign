@@ -27964,6 +27964,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "AA24652D-2BA2-4C09-87A4-9E71C1A18CA9",
+        "name": "fruit-citrus-off",
+        "codepoint": "F13F9",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "C2A76F16-19FC-4D88-B131-B90E5B3ED517",
         "name": "fruit-grapes",
         "codepoint": "F1044",
