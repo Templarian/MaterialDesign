@@ -7962,7 +7962,9 @@
         "name": "beaker-check-outline",
         "codepoint": "F122C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Austin Andrews",
         "version": "4.6.95"
     },
