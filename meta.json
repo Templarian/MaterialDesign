@@ -22818,7 +22818,9 @@
         "name": "eyedropper-plus",
         "codepoint": "F13DC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.1.45"
     },
