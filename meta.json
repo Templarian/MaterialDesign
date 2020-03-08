@@ -47325,7 +47325,9 @@
         "name": "seed-off-outline",
         "codepoint": "F13FE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Nature"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.1.45"
     },
