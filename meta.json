@@ -50247,6 +50247,15 @@
         "version": "2.0.46"
     },
     {
+        "id": "31D89882-A6D2-4E79-B441-582B1497C3D2",
+        "name": "soy-sauce-off",
+        "codepoint": "F13FC",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "84F00C86-0380-4554-B142-286C3B80BA3A",
         "name": "spa",
         "codepoint": "F0CD1",
