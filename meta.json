@@ -14663,6 +14663,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "7EF3B22A-CA40-400B-AA25-00B9A6777651",
+        "name": "cheese-off",
+        "codepoint": "F13EE",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "E22BD22B-9748-4CA8-A748-B5598B08A7DE",
         "name": "chef-hat",
         "codepoint": "F0B7C",
