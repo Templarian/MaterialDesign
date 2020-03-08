@@ -21255,7 +21255,9 @@
         "name": "egg-off",
         "codepoint": "F13F0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.1.45"
     },
