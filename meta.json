@@ -8207,6 +8207,15 @@
         "version": "4.0.96"
     },
     {
+        "id": "47006F8F-3A47-4D8A-9224-CF1F823E1B35",
+        "name": "beehive-off-outline",
+        "codepoint": "F13ED",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "667E2F2C-B896-48EF-B5F9-EF9436A8BE4B",
         "name": "beehive-outline",
         "codepoint": "F10CE",
