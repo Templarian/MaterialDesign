@@ -25278,7 +25278,9 @@
         "name": "flask-empty-remove",
         "codepoint": "F123E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Austin Andrews",
         "version": "4.6.95"
     },
