@@ -14691,7 +14691,9 @@
         "name": "cheese-off",
         "codepoint": "F13EE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.1.45"
     },
