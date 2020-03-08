@@ -21233,7 +21233,9 @@
         "name": "egg",
         "codepoint": "F0AAF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Michael Richins",
         "version": "2.7.94"
     },
