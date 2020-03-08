@@ -47319,6 +47319,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "372ACCAF-E322-40AC-8CE9-1F2066D3BF97",
+        "name": "seed-off-outline",
+        "codepoint": "F13FE",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "80AE8DF8-0E9B-4A56-B2EF-2CA1244D99D3",
         "name": "seed-outline",
         "codepoint": "F0E63",
