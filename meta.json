@@ -37983,6 +37983,20 @@
         "version": "4.8.95"
     },
     {
+        "id": "6F7A0011-054A-4805-A970-A48BEAA9454B",
+        "name": "molecule-co2",
+        "codepoint": "F07E4",
+        "aliases": [
+            "periodic-table-carbon-dioxide"
+        ],
+        "tags": [
+            "Science",
+            "Home Automation"
+        ],
+        "author": "GreenTurtwig",
+        "version": "2.0.46"
+    },
+    {
         "id": "35091AEB-2AF7-4F92-A249-2955F01404A3",
         "name": "monitor",
         "codepoint": "F0379",
@@ -42517,20 +42531,6 @@
         ],
         "author": "Cody",
         "version": "2.2.43"
-    },
-    {
-        "id": "6F7A0011-054A-4805-A970-A48BEAA9454B",
-        "name": "periodic-table-co2",
-        "codepoint": "F07E4",
-        "aliases": [
-            "periodic-table-carbon-dioxide"
-        ],
-        "tags": [
-            "Science",
-            "Home Automation"
-        ],
-        "author": "GreenTurtwig",
-        "version": "2.0.46"
     },
     {
         "id": "408FA22D-2054-4579-A991-DF061CDE5A00",
