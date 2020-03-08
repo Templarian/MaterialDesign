@@ -24874,6 +24874,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "4F854008-B48E-4134-829A-9D3086C8F1E9",
+        "name": "fish-off",
+        "codepoint": "F13F3",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "50A773A8-4349-4B7F-A211-6CB14E9C090B",
         "name": "fishbowl",
         "codepoint": "F0EF3",
