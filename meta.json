@@ -25429,7 +25429,9 @@
         "name": "flask-round-bottom-outline",
         "codepoint": "F124E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Austin Andrews",
         "version": "4.6.95"
     },
