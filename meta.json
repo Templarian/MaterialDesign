@@ -21230,6 +21230,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "1813E684-616A-403C-9D59-B1ED3373B750",
+        "name": "egg-off-outline",
+        "codepoint": "F13F1",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "589595AF-C8FF-451B-A623-2A22D0D2A181",
         "name": "eight-track",
         "codepoint": "F09EA",
