@@ -8044,7 +8044,9 @@
         "name": "beaker-remove-outline",
         "codepoint": "F1234",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Austin Andrews",
         "version": "4.6.95"
     },
