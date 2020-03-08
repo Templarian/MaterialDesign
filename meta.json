@@ -24908,7 +24908,9 @@
         "name": "fish-off",
         "codepoint": "F13F3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.1.45"
     },
