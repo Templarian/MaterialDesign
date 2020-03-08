@@ -25256,7 +25256,9 @@
         "name": "flask-empty-plus",
         "codepoint": "F123C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Austin Andrews",
         "version": "4.6.95"
     },
