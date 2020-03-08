@@ -25379,7 +25379,9 @@
         "name": "flask-remove-outline",
         "codepoint": "F1245",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Austin Andrews",
         "version": "4.6.95"
     },
