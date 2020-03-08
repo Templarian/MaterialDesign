@@ -8233,7 +8233,9 @@
         "name": "beehive-off-outline",
         "codepoint": "F13ED",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Nature"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.1.45"
     },
