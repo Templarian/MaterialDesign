@@ -37969,6 +37969,20 @@
         "version": "3.0.39"
     },
     {
+        "id": "F3FDFD25-C4F6-4ECF-8F8B-C460E4C6BD7C",
+        "name": "molecule-co",
+        "codepoint": "F12FE",
+        "aliases": [
+            "carbon-monoxide"
+        ],
+        "tags": [
+            "Home Automation",
+            "Science"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.8.95"
+    },
+    {
         "id": "35091AEB-2AF7-4F92-A249-2955F01404A3",
         "name": "monitor",
         "codepoint": "F0379",
@@ -42503,20 +42517,6 @@
         ],
         "author": "Cody",
         "version": "2.2.43"
-    },
-    {
-        "id": "F3FDFD25-C4F6-4ECF-8F8B-C460E4C6BD7C",
-        "name": "periodic-table-co",
-        "codepoint": "F12FE",
-        "aliases": [
-            "carbon-monoxide"
-        ],
-        "tags": [
-            "Home Automation",
-            "Science"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "4.8.95"
     },
     {
         "id": "6F7A0011-054A-4805-A970-A48BEAA9454B",
