@@ -38483,6 +38483,15 @@
         "version": "2.0.46"
     },
     {
+        "id": "F061399A-D4F9-49C6-B70A-B4D2603699AC",
+        "name": "mushroom-off",
+        "codepoint": "F13FA",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "D6C17EB7-0A54-4ECA-81AA-86311E311934",
         "name": "mushroom-outline",
         "codepoint": "F07E0",
