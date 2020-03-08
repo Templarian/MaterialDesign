@@ -27941,6 +27941,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "693BA957-6E56-406A-B061-CCA1B916E408",
+        "name": "fruit-cherries-off",
+        "codepoint": "F13F8",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "1F2DF3F1-F380-491D-BC09-B3262612DF23",
         "name": "fruit-citrus",
         "codepoint": "F1043",
