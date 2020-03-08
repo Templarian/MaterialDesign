@@ -25372,7 +25372,9 @@
         "name": "flask-remove",
         "codepoint": "F1244",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Austin Andrews",
         "version": "4.6.95"
     },
