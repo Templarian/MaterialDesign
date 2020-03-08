@@ -25227,6 +25227,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "E04A35A9-0B00-4FCF-A524-CB3331FFA346",
+        "name": "flask-empty-off-outline",
+        "codepoint": "F13F5",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.1.45"
+    },
+    {
         "id": "E9FFE6A9-C641-47BE-988B-A94B34A90CED",
         "name": "flask-empty-outline",
         "codepoint": "F0095",
