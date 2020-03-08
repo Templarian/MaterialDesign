@@ -7951,7 +7951,9 @@
         "name": "beaker-check",
         "codepoint": "F122B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Austin Andrews",
         "version": "4.6.95"
     },
