@@ -6687,7 +6687,9 @@
         "aliases": [
             "party-balloon"
         ],
-        "tags": [],
+        "tags": [
+            "Holiday"
+        ],
         "author": "Michael Richins",
         "version": "2.6.95"
     },
