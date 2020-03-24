@@ -6684,7 +6684,9 @@
         "id": "31D1D255-3E73-41A8-93E2-12DF16DA0C40",
         "name": "balloon",
         "codepoint": "F0A26",
-        "aliases": [],
+        "aliases": [
+            "party-balloon"
+        ],
         "tags": [],
         "author": "Michael Richins",
         "version": "2.6.95"
