@@ -10892,7 +10892,9 @@
         "id": "E5BFDCE4-1033-4062-9677-94B95E028B6E",
         "name": "cake",
         "codepoint": "F00E9",
-        "aliases": [],
+        "aliases": [
+            "birthday-cake"
+        ],
         "tags": [
             "Holiday",
             "Food \/ Drink"
