@@ -10906,7 +10906,9 @@
         "id": "934C9B6C-0DA5-4D71-9283-C960ED537D02",
         "name": "cake-layered",
         "codepoint": "F00EA",
-        "aliases": [],
+        "aliases": [
+            "birthday-cake"
+        ],
         "tags": [
             "Holiday",
             "Food \/ Drink"
