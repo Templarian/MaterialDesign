@@ -44869,6 +44869,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "4FDD16EB-0E78-46BF-B077-A9C077C3C1B8",
+        "name": "pump",
+        "codepoint": "F1402",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.1.45"
+    },
+    {
         "id": "CAA05089-AC62-40FF-96F1-82E34B93F18F",
         "name": "pumpkin",
         "codepoint": "F0BBF",
