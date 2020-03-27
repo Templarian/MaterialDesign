@@ -26714,6 +26714,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "09F44862-B3EA-4F67-8C4F-67C830FC8CF3",
+        "name": "form-select",
+        "codepoint": "F1401",
+        "aliases": [],
+        "tags": [],
+        "author": "Charlie Davis",
+        "version": "5.1.45"
+    },
+    {
         "id": "CF22AACF-228D-4C3A-9BE7-D5DE853A0139",
         "name": "format-align-bottom",
         "codepoint": "F0753",
