@@ -47674,7 +47674,8 @@
         "name": "send",
         "codepoint": "F048A",
         "aliases": [
-            "paper-airplane"
+            "paper-airplane",
+            "paper-plane"
         ],
         "tags": [],
         "author": "Google",
