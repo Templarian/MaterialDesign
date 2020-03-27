@@ -21228,6 +21228,15 @@
         "version": "1.8.36"
     },
     {
+        "id": "1C8EADAE-667F-4048-A393-B05980A7CA11",
+        "name": "earth-minus",
+        "codepoint": "F1404",
+        "aliases": [],
+        "tags": [],
+        "author": "Muhammet Balsoy",
+        "version": "5.1.45"
+    },
+    {
         "id": "519E0041-FD5F-4DAD-96A4-BED1EDE9A20B",
         "name": "earth-off",
         "codepoint": "F01E8",
