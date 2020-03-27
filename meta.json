@@ -21228,6 +21228,15 @@
         "version": "1.8.36"
     },
     {
+        "id": "5CEC6008-A993-410B-985A-4E41291BE614",
+        "name": "earth-box-plus",
+        "codepoint": "F1406",
+        "aliases": [],
+        "tags": [],
+        "author": "Muhammet Balsoy",
+        "version": "5.1.45"
+    },
+    {
         "id": "1C8EADAE-667F-4048-A393-B05980A7CA11",
         "name": "earth-minus",
         "codepoint": "F1404",
