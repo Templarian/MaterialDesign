@@ -28644,6 +28644,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "7C77CE4A-4C13-4853-8F4D-0F6F99EC0248",
+        "name": "gas-station-off-outline",
+        "codepoint": "F140A",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.1.45"
+    },
+    {
         "id": "E489326F-90B9-43E6-91CF-9123E914E84F",
         "name": "gas-station-outline",
         "codepoint": "F0EB8",
