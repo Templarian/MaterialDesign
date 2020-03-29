@@ -35161,6 +35161,15 @@
         "version": "2.5.94"
     },
     {
+        "id": "A4A9C031-02B0-45C7-B9C8-EA1541DB9A38",
+        "name": "lightning-bolt",
+        "codepoint": "F140B",
+        "aliases": [],
+        "tags": [],
+        "author": "Brooke Clifton",
+        "version": "5.1.45"
+    },
+    {
         "id": "462769C2-0A30-4B31-B66C-55168B10D705",
         "name": "link",
         "codepoint": "F0337",
