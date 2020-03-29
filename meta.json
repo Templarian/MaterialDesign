@@ -49915,6 +49915,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "8F75261A-E650-4B58-84AE-C805677DCC44",
+        "name": "smoking-pipe",
+        "codepoint": "F140D",
+        "aliases": [],
+        "tags": [],
+        "author": "Haley Halcyon",
+        "version": "5.1.45"
+    },
+    {
         "id": "6DA57C23-2ADA-4CA1-8D1D-AFBBFA59C4FA",
         "name": "snapchat",
         "codepoint": "F04B6",
