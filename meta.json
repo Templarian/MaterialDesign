@@ -6103,6 +6103,15 @@
         "version": "3.4.93"
     },
     {
+        "id": "FCB87FD8-4522-47AF-AC10-2DF8A59F632D",
+        "name": "axis-arrow-info",
+        "codepoint": "F140E",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.1.45"
+    },
+    {
         "id": "1EE0C03F-9BCA-4AB4-92C3-209EA92FA54F",
         "name": "axis-arrow-lock",
         "codepoint": "F0D4A",
