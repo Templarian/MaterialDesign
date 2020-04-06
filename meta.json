@@ -14208,6 +14208,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "69E4B1D9-C479-47CB-8354-A61FCCC51A0B",
+        "name": "chat-minus-outline",
+        "codepoint": "F1413",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.1.45"
+    },
+    {
         "id": "E6394813-3C45-4D08-A207-9008A2E5CECB",
         "name": "chat-outline",
         "codepoint": "F0EDE",
