@@ -14248,6 +14248,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "3C021F95-3463-45CD-9908-A0D84B2793FB",
+        "name": "chat-remove",
+        "codepoint": "F1411",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.1.45"
+    },
+    {
         "id": "4B555315-27A3-4DD2-8A85-0F05260CDA33",
         "name": "chat-sleep",
         "codepoint": "F12D1",
