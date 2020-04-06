@@ -14226,6 +14226,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "F9BDF971-6385-4B8F-98AD-B3FE8D376855",
+        "name": "chat-plus-outline",
+        "codepoint": "F1412",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.1.45"
+    },
+    {
         "id": "95003FC4-C655-4687-AF82-660A49B95978",
         "name": "chat-processing",
         "codepoint": "F0B7B",
