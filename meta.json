@@ -14275,6 +14275,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "4D147E9B-52BB-446B-8355-0CEA377C0631",
+        "name": "chat-remove-outline",
+        "codepoint": "F1414",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.1.45"
+    },
+    {
         "id": "4B555315-27A3-4DD2-8A85-0F05260CDA33",
         "name": "chat-sleep",
         "codepoint": "F12D1",
