@@ -14208,6 +14208,15 @@
         "version": "3.8.95"
     },
     {
+        "id": "25FEEB21-3351-4743-994B-1DA08DEAB2B7",
+        "name": "chat-plus",
+        "codepoint": "F140F",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.1.45"
+    },
+    {
         "id": "95003FC4-C655-4687-AF82-660A49B95978",
         "name": "chat-processing",
         "codepoint": "F0B7B",
