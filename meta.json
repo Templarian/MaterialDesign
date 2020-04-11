@@ -47717,18 +47717,18 @@
         "version": "4.7.95"
     },
     {
-        "id": "5B06BC81-DA70-41F2-B05C-31E9BD7F571E",
-        "name": "selection-multiple-marker",
-        "codepoint": "F1284",
+        "id": "31DDE08D-A49D-4B2D-9D90-3E79FDDF49C9",
+        "name": "selection-multiple",
+        "codepoint": "F1285",
         "aliases": [],
         "tags": [],
         "author": "Austin Andrews",
         "version": "4.7.95"
     },
     {
-        "id": "31DDE08D-A49D-4B2D-9D90-3E79FDDF49C9",
-        "name": "selection-mutliple",
-        "codepoint": "F1285",
+        "id": "5B06BC81-DA70-41F2-B05C-31E9BD7F571E",
+        "name": "selection-multiple-marker",
+        "codepoint": "F1284",
         "aliases": [],
         "tags": [],
         "author": "Austin Andrews",
