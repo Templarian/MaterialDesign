@@ -10515,6 +10515,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "1A620C83-4D7F-4175-998B-E3460C77510D",
+        "name": "bucket-outline",
+        "codepoint": "F1416",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.1.45"
+    },
+    {
         "id": "18A94F7F-1BC5-48EC-9CAF-6D2D663287DC",
         "name": "buddhism",
         "codepoint": "F094B",
