@@ -32982,6 +32982,15 @@
         "version": "2.1.99"
     },
     {
+        "id": "95B5A056-E7FE-4C3F-95A6-1E826DD80076",
+        "name": "image-remove",
+        "codepoint": "F1418",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.1.45"
+    },
+    {
         "id": "F00F5E5A-AD8A-440B-9B31-00D266A538A8",
         "name": "image-search",
         "codepoint": "F0977",
