@@ -26862,6 +26862,19 @@
         "version": "5.1.45"
     },
     {
+        "id": "BB7E18FD-F473-4A80-B6A9-A17D3648E0A4",
+        "name": "form-textbox",
+        "codepoint": "F060E",
+        "aliases": [
+            "rename"
+        ],
+        "tags": [
+            "Form"
+        ],
+        "author": "Austin Andrews",
+        "version": "1.5.54"
+    },
+    {
         "id": "CF22AACF-228D-4C3A-9BE7-D5DE853A0139",
         "name": "format-align-bottom",
         "codepoint": "F0753",
@@ -53750,19 +53763,6 @@
         ],
         "author": "Michael Richins",
         "version": "4.2.95"
-    },
-    {
-        "id": "BB7E18FD-F473-4A80-B6A9-A17D3648E0A4",
-        "name": "textbox",
-        "codepoint": "F060E",
-        "aliases": [
-            "rename"
-        ],
-        "tags": [
-            "Form"
-        ],
-        "author": "Austin Andrews",
-        "version": "1.5.54"
     },
     {
         "id": "32C3C391-9B80-4659-BCB3-6653FE4E5108",
