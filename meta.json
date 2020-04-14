@@ -22772,7 +22772,9 @@
         "id": "670C2CEA-D9B1-4126-89F4-C881D032F3AD",
         "name": "export",
         "codepoint": "F0207",
-        "aliases": [],
+        "aliases": [
+            "output"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.5.54"
