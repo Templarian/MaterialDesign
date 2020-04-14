@@ -26862,6 +26862,17 @@
         "version": "5.1.45"
     },
     {
+        "id": "9C901687-3535-4B54-B963-7E92EB9CE229",
+        "name": "form-textarea",
+        "codepoint": "F1095",
+        "aliases": [],
+        "tags": [
+            "Form"
+        ],
+        "author": "Michael Richins",
+        "version": "4.2.95"
+    },
+    {
         "id": "BB7E18FD-F473-4A80-B6A9-A17D3648E0A4",
         "name": "form-textbox",
         "codepoint": "F060E",
@@ -53772,17 +53783,6 @@
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.5.54"
-    },
-    {
-        "id": "9C901687-3535-4B54-B963-7E92EB9CE229",
-        "name": "textarea",
-        "codepoint": "F1095",
-        "aliases": [],
-        "tags": [
-            "Form"
-        ],
-        "author": "Michael Richins",
-        "version": "4.2.95"
     },
     {
         "id": "E3A06403-51B5-4D00-9349-53517553A324",
