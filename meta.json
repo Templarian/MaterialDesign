@@ -26884,6 +26884,17 @@
         "version": "4.9.95"
     },
     {
+        "id": "F35B5B3C-762F-473C-B229-B6818D50E045",
+        "name": "form-textbox-password",
+        "codepoint": "F07F5",
+        "aliases": [],
+        "tags": [
+            "Form"
+        ],
+        "author": "Michael Richins",
+        "version": "2.0.46"
+    },
+    {
         "id": "CF22AACF-228D-4C3A-9BE7-D5DE853A0139",
         "name": "format-align-bottom",
         "codepoint": "F0753",
@@ -53772,17 +53783,6 @@
         ],
         "author": "Michael Richins",
         "version": "4.2.95"
-    },
-    {
-        "id": "F35B5B3C-762F-473C-B229-B6818D50E045",
-        "name": "textbox-password",
-        "codepoint": "F07F5",
-        "aliases": [],
-        "tags": [
-            "Form"
-        ],
-        "author": "Michael Richins",
-        "version": "2.0.46"
     },
     {
         "id": "E3A06403-51B5-4D00-9349-53517553A324",
