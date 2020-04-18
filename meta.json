@@ -54268,7 +54268,9 @@
         "aliases": [
             "stopwatch"
         ],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.0.45"
     },
