@@ -16939,6 +16939,7 @@
         "name": "cog",
         "codepoint": "F0493",
         "aliases": [
+            "settings",
             "gear"
         ],
         "tags": [
