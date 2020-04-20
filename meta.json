@@ -44873,7 +44873,8 @@
         "name": "printer-alert",
         "codepoint": "F042C",
         "aliases": [
-            "printer-warning"
+            "printer-warning",
+            "paper-jam"
         ],
         "tags": [
             "Printer",
