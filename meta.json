@@ -52220,6 +52220,7 @@
         "name": "syllabary-katakana-halfwidth",
         "codepoint": "F1336",
         "aliases": [
+            "writing-system-katakana-half-width",
             "writing-system-katakana-half-width"
         ],
         "tags": [
