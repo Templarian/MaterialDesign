@@ -43743,7 +43743,9 @@
         "id": "5767EA8C-592F-4CEF-A01D-52F3CD0D111E",
         "name": "pipe-wrench",
         "codepoint": "F1354",
-        "aliases": [],
+        "aliases": [
+            "monkey-wrench"
+        ],
         "tags": [
             "Hardware \/ Tools"
         ],
