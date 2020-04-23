@@ -52217,7 +52217,7 @@
     },
     {
         "id": "BEDFC0D3-5AC2-46E4-BD69-07048CC47710",
-        "name": "syllabary-katakana-half-width",
+        "name": "syllabary-katakana-halfwidth",
         "codepoint": "F1336",
         "aliases": [
             "writing-system-katakana-half-width"
