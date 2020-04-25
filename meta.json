@@ -36905,7 +36905,8 @@
         "name": "menu-down",
         "codepoint": "F035D",
         "aliases": [
-            "arrow-drop-down"
+            "arrow-drop-down",
+            "caret-down"
         ],
         "tags": [
             "Arrow"
