@@ -70,7 +70,7 @@
             "wireless"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -79,7 +79,7 @@
         "codepoint": "F0002",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -273,7 +273,7 @@
         "tags": [
             "Account \/ User"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.8.95"
     },
     {
@@ -289,7 +289,7 @@
         "tags": [
             "Account \/ User"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.8.95"
     },
     {
@@ -501,7 +501,7 @@
         "tags": [
             "Account \/ User"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.8.95"
     },
     {
@@ -542,7 +542,7 @@
             "Account \/ User",
             "Settings"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.9.95"
     },
     {
@@ -996,7 +996,7 @@
         "tags": [
             "Account \/ User"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -1277,7 +1277,7 @@
         "tags": [
             "Account \/ User"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -1410,7 +1410,7 @@
             "Home Automation",
             "Automotive"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -1892,7 +1892,7 @@
         "tags": [
             "Alert \/ Error"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -3993,7 +3993,7 @@
         "codepoint": "F05D7",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -4081,7 +4081,7 @@
         "tags": [
             "Transportation + Water"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -6891,7 +6891,7 @@
             "barcode-scanner"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -6920,7 +6920,7 @@
             "wheat-off"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.0.39"
     },
     {
@@ -8011,7 +8011,7 @@
         "tags": [
             "Science"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.7.12"
     },
     {
@@ -8198,7 +8198,7 @@
             "Home Automation",
             "Holiday"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.2.95"
     },
     {
@@ -8210,7 +8210,7 @@
             "Home Automation",
             "Holiday"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.2.95"
     },
     {
@@ -8288,7 +8288,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.8.95"
     },
     {
@@ -8317,7 +8317,7 @@
             "Alert \/ Error",
             "Notification"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.4.93"
     },
     {
@@ -8329,7 +8329,7 @@
             "Alert \/ Error",
             "Notification"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.7.94"
     },
     {
@@ -8340,7 +8340,7 @@
         "tags": [
             "Notification"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "5.1.45"
     },
     {
@@ -8351,7 +8351,7 @@
         "tags": [
             "Notification"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "5.1.45"
     },
     {
@@ -8406,7 +8406,7 @@
         "tags": [
             "Notification"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "5.1.45"
     },
     {
@@ -8417,7 +8417,7 @@
         "tags": [
             "Notification"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "5.1.45"
     },
     {
@@ -8469,7 +8469,7 @@
         "tags": [
             "Notification"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -8483,7 +8483,7 @@
         "tags": [
             "Notification"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.7.94"
     },
     {
@@ -8494,7 +8494,7 @@
         "tags": [
             "Notification"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "5.1.45"
     },
     {
@@ -8505,7 +8505,7 @@
         "tags": [
             "Notification"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "5.1.45"
     },
     {
@@ -9077,7 +9077,7 @@
         "codepoint": "F05D9",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -9210,7 +9210,7 @@
             "book-add"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -9332,7 +9332,7 @@
         "codepoint": "F137B",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.9.95"
     },
     {
@@ -9386,7 +9386,7 @@
         "codepoint": "F1379",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.9.95"
     },
     {
@@ -9456,7 +9456,7 @@
         "codepoint": "F137A",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.9.95"
     },
     {
@@ -9880,7 +9880,7 @@
         "codepoint": "F1363",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.9.95"
     },
     {
@@ -9992,7 +9992,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.8.95"
     },
     {
@@ -10040,7 +10040,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -10084,7 +10084,7 @@
             "stanley-knife"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -10102,7 +10102,7 @@
         "codepoint": "F0637",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -10646,7 +10646,7 @@
             "notice-board"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -10683,7 +10683,7 @@
         "tags": [
             "Sport"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -10696,7 +10696,7 @@
         "tags": [
             "Sport"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -10719,7 +10719,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.8.95"
     },
     {
@@ -10728,7 +10728,7 @@
         "codepoint": "F0097",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -11033,7 +11033,7 @@
             "Date \/ Time",
             "Alert \/ Error"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.6.95"
     },
     {
@@ -11316,7 +11316,7 @@
         "tags": [
             "Date \/ Time"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.7.12"
     },
     {
@@ -11504,7 +11504,7 @@
         "tags": [
             "Date \/ Time"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.6.95"
     },
     {
@@ -11517,7 +11517,7 @@
         "tags": [
             "Date \/ Time"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.6.95"
     },
     {
@@ -12125,7 +12125,7 @@
             "Battery",
             "Automotive"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -12227,7 +12227,7 @@
             "Automotive",
             "Settings"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "5.1.45"
     },
     {
@@ -12239,7 +12239,7 @@
             "Transportation + Road",
             "Automotive"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -12537,7 +12537,7 @@
             "Automotive",
             "Settings"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "5.1.45"
     },
     {
@@ -12925,7 +12925,7 @@
         "tags": [
             "Gaming \/ RPG"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -12994,7 +12994,7 @@
         "tags": [
             "Gaming \/ RPG"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -13005,7 +13005,7 @@
         "tags": [
             "Gaming \/ RPG"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -13070,7 +13070,7 @@
         "tags": [
             "Shopping"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.4.93"
     },
     {
@@ -13098,7 +13098,7 @@
         "tags": [
             "Shopping"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.4.93"
     },
     {
@@ -13112,7 +13112,7 @@
         "tags": [
             "Shopping"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.4.93"
     },
     {
@@ -13173,7 +13173,7 @@
         "tags": [
             "Shopping"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.4.93"
     },
     {
@@ -13388,7 +13388,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.9.32"
     },
     {
@@ -13499,7 +13499,7 @@
             "Cellphone \/ Phone",
             "Device \/ Tech"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -13833,7 +13833,7 @@
             "seal"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -14097,7 +14097,7 @@
         "tags": [
             "Math"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.9.95"
     },
     {
@@ -14630,7 +14630,7 @@
         "tags": [
             "Form"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -14643,7 +14643,7 @@
         "tags": [
             "Form"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -14682,7 +14682,7 @@
         "tags": [
             "Form"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -14695,7 +14695,7 @@
         "tags": [
             "Form"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -14799,7 +14799,7 @@
         "tags": [
             "Clothing"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.0.39"
     },
     {
@@ -14808,7 +14808,7 @@
         "codepoint": "F013B",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -15352,7 +15352,7 @@
         "codepoint": "F1395",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "5.0.45"
     },
     {
@@ -15361,7 +15361,7 @@
         "codepoint": "F1396",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "5.0.45"
     },
     {
@@ -15410,7 +15410,7 @@
             "null-off"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.3.95"
     },
     {
@@ -15892,7 +15892,7 @@
         "tags": [
             "Medical \/ Hospital"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.1.99"
     },
     {
@@ -15905,7 +15905,7 @@
         "tags": [
             "Medical \/ Hospital"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.1.99"
     },
     {
@@ -15997,7 +15997,7 @@
             "Date \/ Time",
             "Alert \/ Error"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.4.85"
     },
     {
@@ -16011,7 +16011,7 @@
             "Date \/ Time",
             "Alert \/ Error"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16051,7 +16051,7 @@
         "tags": [
             "Date \/ Time"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16073,7 +16073,7 @@
         "tags": [
             "Date \/ Time"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16084,7 +16084,7 @@
         "tags": [
             "Date \/ Time"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16110,7 +16110,7 @@
         "tags": [
             "Date \/ Time"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16254,7 +16254,7 @@
             "multiply-octagon"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16263,7 +16263,7 @@
         "codepoint": "F015D",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16465,7 +16465,7 @@
             "Printer",
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16478,7 +16478,7 @@
             "Printer",
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16646,7 +16646,7 @@
             "Developer \/ Languages",
             "Math"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16671,7 +16671,7 @@
             "Developer \/ Languages",
             "Math"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16682,7 +16682,7 @@
         "tags": [
             "Developer \/ Languages"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16694,7 +16694,7 @@
             "Developer \/ Languages",
             "Math"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16706,7 +16706,7 @@
             "Developer \/ Languages",
             "Math"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16727,7 +16727,7 @@
             "Developer \/ Languages",
             "Math"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16739,7 +16739,7 @@
             "Developer \/ Languages",
             "Math"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16750,7 +16750,7 @@
         "tags": [
             "Developer \/ Languages"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16761,7 +16761,7 @@
         "tags": [
             "Developer \/ Languages"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16772,7 +16772,7 @@
         "tags": [
             "Developer \/ Languages"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -16818,7 +16818,7 @@
         "tags": [
             "Developer \/ Languages"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.7.12"
     },
     {
@@ -16920,7 +16920,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.8.95"
     },
     {
@@ -16995,7 +16995,7 @@
         "tags": [
             "Settings"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "5.1.45"
     },
     {
@@ -17412,7 +17412,7 @@
         "codepoint": "F0186",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -17873,7 +17873,7 @@
         "tags": [
             "Settings"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -17958,7 +17958,7 @@
         "tags": [
             "Automotive"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -18381,7 +18381,7 @@
         "tags": [
             "Banking"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -18392,7 +18392,7 @@
         "tags": [
             "Banking"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -18613,7 +18613,7 @@
         "codepoint": "F01A8",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -18653,7 +18653,7 @@
         "codepoint": "F137D",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.9.95"
     },
     {
@@ -18664,7 +18664,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.8.95"
     },
     {
@@ -19186,7 +19186,7 @@
         "tags": [
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -19267,7 +19267,7 @@
         "tags": [
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -19280,7 +19280,7 @@
         "tags": [
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -19487,7 +19487,7 @@
         "tags": [
             "Math"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -19498,7 +19498,7 @@
         "tags": [
             "Math"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -19952,7 +19952,7 @@
             "jewel"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -20315,7 +20315,7 @@
         "tags": [
             "Music"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -21695,7 +21695,7 @@
         "tags": [
             "Lock"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -21912,7 +21912,7 @@
             "email-resend"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.8.95"
     },
     {
@@ -21924,7 +21924,7 @@
             "email-resend-outline"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.8.95"
     },
     {
@@ -22398,7 +22398,7 @@
         "tags": [
             "Automotive"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -22437,7 +22437,7 @@
         "tags": [
             "Automotive"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -22593,7 +22593,7 @@
         "codepoint": "F0200",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -22602,7 +22602,7 @@
         "codepoint": "F0201",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -22611,7 +22611,7 @@
         "codepoint": "F0202",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -22680,7 +22680,7 @@
             "emergency-exit"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.6.95"
     },
     {
@@ -23235,7 +23235,7 @@
             "Printer",
             "Cellphone \/ Phone"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -23248,7 +23248,7 @@
         "tags": [
             "Nature"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.8.36"
     },
     {
@@ -23260,7 +23260,7 @@
             "box-search"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.6.95"
     },
     {
@@ -23273,7 +23273,7 @@
             "box-search-outline"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.6.95"
     },
     {
@@ -23479,7 +23479,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -23503,7 +23503,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -23525,7 +23525,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.8.95"
     },
     {
@@ -23536,7 +23536,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.8.95"
     },
     {
@@ -23597,7 +23597,7 @@
             "Settings",
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.2.95"
     },
     {
@@ -23611,7 +23611,7 @@
             "Settings",
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.2.95"
     },
     {
@@ -23799,7 +23799,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -23901,7 +23901,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -24015,7 +24015,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -24402,7 +24402,7 @@
             "Settings",
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.2.95"
     },
     {
@@ -24414,7 +24414,7 @@
             "Settings",
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.2.95"
     },
     {
@@ -24952,7 +24952,7 @@
         "tags": [
             "Hardware \/ Tools"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.8.95"
     },
     {
@@ -25828,7 +25828,7 @@
         "tags": [
             "Photography"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.9.97"
     },
     {
@@ -25839,7 +25839,7 @@
         "tags": [
             "Photography"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.9.97"
     },
     {
@@ -25850,7 +25850,7 @@
         "tags": [
             "Photography"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.9.97"
     },
     {
@@ -25861,7 +25861,7 @@
         "tags": [
             "Photography"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.9.97"
     },
     {
@@ -25968,7 +25968,7 @@
             "Settings",
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.2.95"
     },
     {
@@ -25982,7 +25982,7 @@
             "Settings",
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.2.95"
     },
     {
@@ -26129,7 +26129,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.2.43"
     },
     {
@@ -26140,7 +26140,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.2.43"
     },
     {
@@ -26305,7 +26305,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.1.99"
     },
     {
@@ -26483,7 +26483,7 @@
             "Settings",
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.2.95"
     },
     {
@@ -26495,7 +26495,7 @@
             "Settings",
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.2.95"
     },
     {
@@ -26602,7 +26602,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.8.95"
     },
     {
@@ -26613,7 +26613,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.8.95"
     },
     {
@@ -26787,7 +26787,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "5.1.45"
     },
     {
@@ -27404,7 +27404,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.0.96"
     },
     {
@@ -27415,7 +27415,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.0.96"
     },
     {
@@ -27426,7 +27426,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.0.96"
     },
     {
@@ -27641,7 +27641,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.5.95"
     },
     {
@@ -27663,7 +27663,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.5.95"
     },
     {
@@ -28129,7 +28129,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -28167,7 +28167,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -28217,7 +28217,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -28743,7 +28743,7 @@
             "oxygen-tank"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -28806,7 +28806,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -28828,7 +28828,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.4.95"
     },
     {
@@ -28872,7 +28872,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.4.95"
     },
     {
@@ -29018,7 +29018,7 @@
             "mercury"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.4.95"
     },
     {
@@ -29231,7 +29231,7 @@
         "tags": [
             "Gaming \/ RPG"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -29262,7 +29262,7 @@
         "tags": [
             "Holiday"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.6.95"
     },
     {
@@ -29368,7 +29368,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.3.95"
     },
     {
@@ -29379,7 +29379,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.8.95"
     },
     {
@@ -29427,7 +29427,7 @@
         "tags": [
             "Clothing"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -29447,7 +29447,7 @@
         "codepoint": "F08E9",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -29738,7 +29738,7 @@
             "Animal",
             "Gaming \/ RPG"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.9.95"
     },
     {
@@ -29963,7 +29963,7 @@
             "dependencies"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.1.95"
     },
     {
@@ -29975,7 +29975,7 @@
             "dependencies"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.1.95"
     },
     {
@@ -30103,7 +30103,7 @@
         "codepoint": "F02C3",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -31585,7 +31585,7 @@
             "Home Automation",
             "Edit \/ Modify"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.4.95"
     },
     {
@@ -31597,7 +31597,7 @@
             "Home Automation",
             "Edit \/ Modify"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.4.95"
     },
     {
@@ -31871,7 +31871,7 @@
             "Home Automation",
             "Navigation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -32546,7 +32546,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.6.95"
     },
     {
@@ -32568,7 +32568,7 @@
         "codepoint": "F0FC0",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.0.96"
     },
     {
@@ -33270,7 +33270,7 @@
             "about-variant"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -33439,7 +33439,7 @@
         "tags": [
             "Animal"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.8.95"
     },
     {
@@ -33450,7 +33450,7 @@
         "tags": [
             "Animal"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.8.95"
     },
     {
@@ -33564,7 +33564,7 @@
             "Home Automation",
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -34091,7 +34091,7 @@
         "tags": [
             "Gaming \/ RPG"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.5.94"
     },
     {
@@ -34252,7 +34252,7 @@
             "local-area-network"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -34272,7 +34272,7 @@
             "local-area-network-connect"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -34283,7 +34283,7 @@
             "local-area-network-disconnect"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -34294,7 +34294,7 @@
             "local-area-network-pending"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -34864,7 +34864,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -34875,7 +34875,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -34886,7 +34886,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -34923,7 +34923,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -34934,7 +34934,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -34945,7 +34945,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -34956,7 +34956,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.4.95"
     },
     {
@@ -35029,7 +35029,7 @@
         "tags": [
             "Transportation + Water"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.1.99"
     },
     {
@@ -35574,7 +35574,7 @@
             "Lock",
             "Alert \/ Error"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -35714,7 +35714,7 @@
         "tags": [
             "Lock"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -35872,7 +35872,7 @@
         "codepoint": "F0347",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -35881,7 +35881,7 @@
         "codepoint": "F0348",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -36317,7 +36317,7 @@
             "Navigation",
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -36419,7 +36419,7 @@
             "Navigation",
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -37004,7 +37004,8 @@
         "name": "menu-up",
         "codepoint": "F0360",
         "aliases": [
-            "arrow-drop-up"
+            "arrow-drop-up",
+            "caret-up"
         ],
         "tags": [
             "Arrow"
@@ -37196,7 +37197,7 @@
         "tags": [
             "Lock"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.0.96"
     },
     {
@@ -37247,7 +37248,7 @@
             "message-add"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -37364,7 +37365,7 @@
         "tags": [
             "Lock"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.0.96"
     },
     {
@@ -37554,7 +37555,7 @@
         "tags": [
             "Science"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -38595,7 +38596,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.4.93"
     },
     {
@@ -38663,7 +38664,7 @@
         "codepoint": "F0655",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -38672,7 +38673,7 @@
         "codepoint": "F0656",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -39107,7 +39108,7 @@
         "tags": [
             "Audio"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -39118,7 +39119,7 @@
         "tags": [
             "Audio"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -39370,7 +39371,7 @@
             "network-attached-storage"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -39512,7 +39513,7 @@
         "tags": [
             "Cellphone \/ Phone"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -39526,7 +39527,7 @@
             "Cellphone \/ Phone",
             "Alert \/ Error"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -39537,7 +39538,7 @@
         "tags": [
             "Cellphone \/ Phone"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -39551,7 +39552,7 @@
             "Cellphone \/ Phone",
             "Alert \/ Error"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -39562,7 +39563,7 @@
         "tags": [
             "Cellphone \/ Phone"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -39576,7 +39577,7 @@
             "Cellphone \/ Phone",
             "Alert \/ Error"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -39587,7 +39588,7 @@
         "tags": [
             "Cellphone \/ Phone"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -39601,7 +39602,7 @@
             "Cellphone \/ Phone",
             "Alert \/ Error"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -39612,7 +39613,7 @@
         "tags": [
             "Cellphone \/ Phone"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -39623,7 +39624,7 @@
         "tags": [
             "Cellphone \/ Phone"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -39636,7 +39637,7 @@
         "tags": [
             "Cellphone \/ Phone"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -41250,7 +41251,7 @@
         "tags": [
             "Hardware \/ Tools"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.8.36"
     },
     {
@@ -41319,7 +41320,7 @@
             "optical-character-recognition"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.4.95"
     },
     {
@@ -41331,7 +41332,7 @@
             "Shape",
             "Transportation + Road"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -41343,7 +41344,7 @@
             "Shape",
             "Transportation + Road"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -41391,7 +41392,7 @@
         "codepoint": "F121B",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.6.95"
     },
     {
@@ -41570,7 +41571,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -41581,7 +41582,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.3.92"
     },
     {
@@ -41592,7 +41593,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -41605,7 +41606,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.4.85"
     },
     {
@@ -41618,7 +41619,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "5.0.45"
     },
     {
@@ -41629,7 +41630,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.4.85"
     },
     {
@@ -41640,7 +41641,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -41651,7 +41652,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -41719,7 +41720,7 @@
         "tags": [
             "Animal"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -42002,7 +42003,7 @@
         "codepoint": "F0BB4",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.0.39"
     },
     {
@@ -42013,7 +42014,7 @@
             "pan-down-left"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.0.39"
     },
     {
@@ -42024,7 +42025,7 @@
             "pan-down-right"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.0.39"
     },
     {
@@ -42033,7 +42034,7 @@
         "codepoint": "F0BB7",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.0.39"
     },
     {
@@ -42042,7 +42043,7 @@
         "codepoint": "F0BB8",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.0.39"
     },
     {
@@ -42051,7 +42052,7 @@
         "codepoint": "F0BB9",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.0.39"
     },
     {
@@ -42060,7 +42061,7 @@
         "codepoint": "F0BBA",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.0.39"
     },
     {
@@ -42071,7 +42072,7 @@
             "pan-up-left"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.0.39"
     },
     {
@@ -42082,7 +42083,7 @@
             "pan-up-right"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.0.39"
     },
     {
@@ -42091,7 +42092,7 @@
         "codepoint": "F0BBD",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.0.39"
     },
     {
@@ -42100,7 +42101,7 @@
         "codepoint": "F0BBE",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.0.39"
     },
     {
@@ -42197,7 +42198,7 @@
             "Home Automation",
             "Printer"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.4.95"
     },
     {
@@ -42216,7 +42217,7 @@
             "Home Automation",
             "Printer"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.4.95"
     },
     {
@@ -42396,7 +42397,7 @@
             "Animal",
             "Nature"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -42407,7 +42408,7 @@
         "tags": [
             "Animal"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -42640,7 +42641,7 @@
         "tags": [
             "Lock"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -42680,7 +42681,7 @@
             "edit-off"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -42804,7 +42805,7 @@
         "tags": [
             "Math"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -42824,7 +42825,7 @@
         "tags": [
             "Science"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.2.43"
     },
     {
@@ -42985,7 +42986,7 @@
         "tags": [
             "Cellphone \/ Phone"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -43083,7 +43084,7 @@
         "tags": [
             "Cellphone \/ Phone"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -43133,7 +43134,7 @@
         "tags": [
             "Cellphone \/ Phone"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -43144,7 +43145,7 @@
         "tags": [
             "Cellphone \/ Phone"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.5.95"
     },
     {
@@ -43243,7 +43244,7 @@
         "tags": [
             "Cellphone \/ Phone"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -43254,7 +43255,7 @@
         "tags": [
             "Cellphone \/ Phone"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.5.95"
     },
     {
@@ -43417,7 +43418,7 @@
         "tags": [
             "Cellphone \/ Phone"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -43428,7 +43429,7 @@
         "tags": [
             "Math"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -43439,7 +43440,7 @@
         "tags": [
             "Math"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -43910,7 +43911,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -44014,7 +44015,7 @@
         "codepoint": "F0413",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -44444,7 +44445,7 @@
         "codepoint": "F0CBB",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.2.89"
     },
     {
@@ -44455,7 +44456,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -44466,7 +44467,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -44477,7 +44478,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.7.12"
     },
     {
@@ -44488,7 +44489,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -44499,7 +44500,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -44510,7 +44511,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -44608,7 +44609,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.7.12"
     },
     {
@@ -44643,7 +44644,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -44941,7 +44942,7 @@
             "Settings",
             "Printer"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.8.36"
     },
     {
@@ -45066,7 +45067,7 @@
             "Device \/ Tech",
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -45078,7 +45079,7 @@
             "Device \/ Tech",
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -45265,7 +45266,7 @@
         "codepoint": "F0433",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -45450,7 +45451,7 @@
         "tags": [
             "Device \/ Tech"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -45670,7 +45671,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -45710,7 +45711,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -45918,7 +45919,7 @@
         "codepoint": "F08B9",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.2.43"
     },
     {
@@ -46311,7 +46312,7 @@
         "tags": [
             "Hardware \/ Tools"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.6.95"
     },
     {
@@ -46323,7 +46324,7 @@
             "Transportation + Road",
             "Transportation + Road"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -46741,7 +46742,7 @@
         "codepoint": "F1087",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.2.95"
     },
     {
@@ -47004,7 +47005,7 @@
             "discount"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -47045,7 +47046,7 @@
         "codepoint": "F0909",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -47110,7 +47111,7 @@
         "tags": [
             "Science"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -47341,7 +47342,7 @@
         "tags": [
             "Hardware \/ Tools"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -47895,7 +47896,7 @@
         "codepoint": "F1161",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.4.95"
     },
     {
@@ -47904,7 +47905,7 @@
         "codepoint": "F1162",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.4.95"
     },
     {
@@ -47976,7 +47977,7 @@
             "paper-plane-outline"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.4.95"
     },
     {
@@ -47985,7 +47986,7 @@
         "codepoint": "F065C",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -48077,7 +48078,7 @@
             "sql-full-outer-join"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.9.32"
     },
     {
@@ -48092,7 +48093,7 @@
             "sql-inner-join"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.9.32"
     },
     {
@@ -48105,7 +48106,7 @@
             "sql-right-outer-join"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.9.32"
     },
     {
@@ -48116,7 +48117,7 @@
             "difference-left"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.9.32"
     },
     {
@@ -48129,7 +48130,7 @@
             "sql-left-outer-join"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.9.32"
     },
     {
@@ -48141,7 +48142,7 @@
             "set-xor"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.9.32"
     },
     {
@@ -48153,7 +48154,7 @@
             "set-not"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.9.32"
     },
     {
@@ -48164,7 +48165,7 @@
             "difference-right"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.9.32"
     },
     {
@@ -49042,7 +49043,7 @@
         "codepoint": "F049C",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -49064,7 +49065,7 @@
         "tags": [
             "Arrow"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -49075,7 +49076,7 @@
         "tags": [
             "Arrow"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -49194,7 +49195,7 @@
         "tags": [
             "Cellphone \/ Phone"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -49418,7 +49419,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.0.96"
     },
     {
@@ -49540,7 +49541,7 @@
             "flowchart"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -49712,7 +49713,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -49735,7 +49736,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -49764,7 +49765,7 @@
         "codepoint": "F0661",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -49773,7 +49774,7 @@
         "codepoint": "F0662",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -49802,7 +49803,7 @@
         "codepoint": "F0663",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -49811,7 +49812,7 @@
         "codepoint": "F0664",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -49953,7 +49954,7 @@
         "codepoint": "F04B3",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -50042,7 +50043,7 @@
         "codepoint": "F0A71",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.6.95"
     },
     {
@@ -50216,7 +50217,7 @@
             "couch"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -50252,7 +50253,7 @@
         "codepoint": "F1092",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.2.95"
     },
     {
@@ -50287,7 +50288,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -50483,7 +50484,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -50800,7 +50801,7 @@
             "Audio",
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.8.36"
     },
     {
@@ -51187,7 +51188,7 @@
         "tags": [
             "Transportation + Other"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -51354,7 +51355,7 @@
         "tags": [
             "Shape"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -51463,7 +51464,7 @@
         "codepoint": "F04D5",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -51474,7 +51475,7 @@
             "frame-backward"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -51483,7 +51484,7 @@
         "codepoint": "F04D7",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -51494,7 +51495,7 @@
             "frame-forward"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -51505,7 +51506,7 @@
         "tags": [
             "Medical \/ Hospital"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -51677,7 +51678,7 @@
         "codepoint": "F0666",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -51686,7 +51687,7 @@
         "codepoint": "F0667",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -51742,7 +51743,7 @@
             "awning"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.0.46"
     },
     {
@@ -51945,7 +51946,7 @@
         "tags": [
             "Clothing"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -53754,7 +53755,7 @@
         "codepoint": "F0669",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.6.50"
     },
     {
@@ -54700,7 +54701,7 @@
         "tags": [
             "Medical \/ Hospital"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.4.95"
     },
     {
@@ -54714,7 +54715,7 @@
         "tags": [
             "Medical \/ Hospital"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.3.95"
     },
     {
@@ -54969,7 +54970,7 @@
         "tags": [
             "Lock"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.54"
     },
     {
@@ -55106,7 +55107,7 @@
         "codepoint": "F1065",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.1.95"
     },
     {
@@ -55398,7 +55399,7 @@
         "tags": [
             "Nature"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "3.6.95"
     },
     {
@@ -55449,7 +55450,7 @@
         "tags": [
             "Shape"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -55460,7 +55461,7 @@
         "tags": [
             "Shape"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -55523,7 +55524,7 @@
         "tags": [
             "Sport"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -55549,7 +55550,7 @@
         "tags": [
             "Sport"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -55599,7 +55600,7 @@
         "tags": [
             "Transportation + Road"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -55937,7 +55938,7 @@
         "tags": [
             "Weather"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -55948,7 +55949,7 @@
         "tags": [
             "Weather"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.4.85"
     },
     {
@@ -55959,7 +55960,7 @@
         "tags": [
             "Weather"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "5.1.45"
     },
     {
@@ -55981,7 +55982,7 @@
         "tags": [
             "Weather"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -56358,7 +56359,7 @@
             "Arrange",
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -56371,7 +56372,7 @@
             "Arrange",
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -56394,7 +56395,7 @@
             "Vector",
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -56405,7 +56406,7 @@
         "tags": [
             "Vector"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -56417,7 +56418,7 @@
             "Vector",
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -56443,7 +56444,7 @@
             "Vector",
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -56455,7 +56456,7 @@
             "Vector",
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -56467,7 +56468,7 @@
             "Vector",
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -56491,7 +56492,7 @@
             "Vector",
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -56503,7 +56504,7 @@
             "Vector",
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -56515,7 +56516,7 @@
             "Vector",
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.0.96"
     },
     {
@@ -56539,7 +56540,7 @@
             "Vector",
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -56625,7 +56626,7 @@
             "Vector",
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -56651,7 +56652,7 @@
             "Vector",
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -56663,7 +56664,7 @@
             "Vector",
             "Geographic Information System"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -57196,7 +57197,7 @@
         "tags": [
             "View"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -57594,7 +57595,7 @@
             "Cellphone \/ Phone",
             "Audio"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "4.3.95"
     },
     {
@@ -57845,7 +57846,7 @@
             "wide-area-network"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -58098,7 +58099,7 @@
             "Weather",
             "Home Automation"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -58831,7 +58832,7 @@
         "codepoint": "F05AA",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -58852,7 +58853,7 @@
         "codepoint": "F091F",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -58865,7 +58866,7 @@
         "tags": [
             "Alert \/ Error"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -58876,7 +58877,7 @@
         "tags": [
             "Lock"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -58885,7 +58886,7 @@
         "codepoint": "F0922",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -58898,7 +58899,7 @@
         "tags": [
             "Alert \/ Error"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -58909,7 +58910,7 @@
         "tags": [
             "Lock"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -58918,7 +58919,7 @@
         "codepoint": "F0925",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -58931,7 +58932,7 @@
         "tags": [
             "Alert \/ Error"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -58942,7 +58943,7 @@
         "tags": [
             "Lock"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -58951,7 +58952,7 @@
         "codepoint": "F0928",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -58964,7 +58965,7 @@
         "tags": [
             "Alert \/ Error"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -58975,7 +58976,7 @@
         "tags": [
             "Lock"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -58990,7 +58991,7 @@
         "tags": [
             "Alert \/ Error"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -59003,7 +59004,7 @@
         "tags": [
             "Lock"
         ],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -59012,7 +59013,7 @@
         "codepoint": "F092D",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -59021,7 +59022,7 @@
         "codepoint": "F092E",
         "aliases": [],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
@@ -59032,7 +59033,7 @@
             "wifi-strength-0"
         ],
         "tags": [],
-        "author": "Cody",
+        "author": "Simran",
         "version": "2.3.50"
     },
     {
