@@ -37020,7 +37020,9 @@
         "id": "33B1FB6B-D4F4-4B76-820C-4A2B075DB1B3",
         "name": "menu-up-outline",
         "codepoint": "F06B7",
-        "aliases": [],
+        "aliases": [
+            "caret-up-outline"
+        ],
         "tags": [
             "Arrow"
         ],
