@@ -36918,7 +36918,9 @@
         "id": "EE6F8AAE-7856-4E4C-AC01-3589A2C66D98",
         "name": "menu-down-outline",
         "codepoint": "F06B6",
-        "aliases": [],
+        "aliases": [
+            "caret-down-outline"
+        ],
         "tags": [
             "Arrow"
         ],
