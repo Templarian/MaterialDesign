@@ -44743,6 +44743,17 @@
         "version": "5.2.45"
     },
     {
+        "id": "E439723C-E8DA-4BD6-8AE8-F944FD96B31D",
+        "name": "power-plug-outline",
+        "codepoint": "F1425",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "B5587844-E70A-4F55-A2DA-CE85D8F79689",
         "name": "power-settings",
         "codepoint": "F0426",
