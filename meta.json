@@ -18588,7 +18588,10 @@
         "id": "11B7F7B5-8813-48DE-9469-B1159355DDC3",
         "name": "cube-outline",
         "codepoint": "F01A7",
-        "aliases": [],
+        "aliases": [
+            "sugar",
+            "sugar-cube"
+        ],
         "tags": [
             "Shape"
         ],
