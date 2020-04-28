@@ -33289,6 +33289,18 @@
         "version": "1.5.54"
     },
     {
+        "id": "80DE3C45-2A19-412F-9FA2-DCFB853F60ED",
+        "name": "incognito-circle",
+        "codepoint": "F1421",
+        "aliases": [
+            "anonymous-circle",
+            "spy-circle"
+        ],
+        "tags": [],
+        "author": "Google",
+        "version": "5.2.45"
+    },
+    {
         "id": "26B94EEC-5090-4DF4-99FC-C4A90830720A",
         "name": "incognito-off",
         "codepoint": "F0075",
