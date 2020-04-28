@@ -26806,6 +26806,20 @@
         "version": "5.2.45"
     },
     {
+        "id": "D60C4F90-EE53-4A92-84F7-076DAC23FD31",
+        "name": "food-drumstick-outline",
+        "codepoint": "F1420",
+        "aliases": [
+            "chicken-leg-outline",
+            "turkey-leg-outline"
+        ],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "4CE93EC4-0938-4CB2-AB0E-0DCA0AF27B91",
         "name": "food-fork-drink",
         "codepoint": "F05F2",
