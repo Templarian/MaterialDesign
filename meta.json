@@ -38088,6 +38088,17 @@
         "version": "3.2.89"
     },
     {
+        "id": "8A96C224-F70E-4DBC-996C-57B8591A0D85",
+        "name": "microwave-off",
+        "codepoint": "F1423",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "EF5AA157-F8E2-47FB-9A9C-8ACC66A9C2FB",
         "name": "middleware",
         "codepoint": "F0F5D",
