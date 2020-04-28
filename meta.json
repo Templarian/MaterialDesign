@@ -31179,6 +31179,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "E84E6A73-A238-4F6D-9A63-658358BB4A06",
+        "name": "heart-off-outline",
+        "codepoint": "F1434",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "9BCD22D2-7304-4BB3-9C41-3431ED13542A",
         "name": "heart-outline",
         "codepoint": "F02D5",
