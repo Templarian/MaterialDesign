@@ -20809,6 +20809,15 @@
         "version": "4.2.95"
     },
     {
+        "id": "E17E8B8F-361D-4467-97BE-71C3ABE9355A",
+        "name": "dome-light",
+        "codepoint": "F141E",
+        "aliases": [],
+        "tags": [],
+        "author": "Tim Grelka",
+        "version": "5.2.45"
+    },
+    {
         "id": "4621ACB1-6F3D-414D-8724-B276982DB087",
         "name": "domino-mask",
         "codepoint": "F1023",
