@@ -44732,6 +44732,17 @@
         "version": "1.7.12"
     },
     {
+        "id": "D4F5AEAB-DD00-4101-8661-13260BE9D087",
+        "name": "power-plug-off-outline",
+        "codepoint": "F1424",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "B5587844-E70A-4F55-A2DA-CE85D8F79689",
         "name": "power-settings",
         "codepoint": "F0426",
