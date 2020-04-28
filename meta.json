@@ -31209,6 +31209,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "B01C8EB2-7765-4858-846F-078ADBFDD33B",
+        "name": "heart-remove",
+        "codepoint": "F1430",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "47397A0C-273D-4D13-A4FD-61572F3E4953",
         "name": "helicopter",
         "codepoint": "F0AC2",
