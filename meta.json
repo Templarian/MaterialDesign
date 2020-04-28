@@ -45323,6 +45323,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "034B7820-702C-45F8-ABE3-473AC1770BB2",
+        "name": "puzzle-check",
+        "codepoint": "F1426",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.2.45"
+    },
+    {
         "id": "BBAC40CD-6A3A-4EEF-A381-DB7C8950995E",
         "name": "puzzle-outline",
         "codepoint": "F0A66",
