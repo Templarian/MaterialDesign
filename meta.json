@@ -31139,6 +31139,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "12C099C0-0232-49B7-A909-F91594FD7FBA",
+        "name": "heart-minus-outline",
+        "codepoint": "F1432",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "BDAF5217-358E-4673-BF16-FFFBD09EAD8F",
         "name": "heart-multiple",
         "codepoint": "F0A56",
