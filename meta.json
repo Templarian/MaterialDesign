@@ -18603,6 +18603,21 @@
         "version": "5.2.45"
     },
     {
+        "id": "0A2F7725-8D0E-4C67-8EC3-03D8F92EEB33",
+        "name": "cube-off-outline",
+        "codepoint": "F141D",
+        "aliases": [
+            "sugar-off",
+            "sugar-cube-off",
+            "sugar-free"
+        ],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "11B7F7B5-8813-48DE-9469-B1159355DDC3",
         "name": "cube-outline",
         "codepoint": "F01A7",
