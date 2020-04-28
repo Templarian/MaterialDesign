@@ -33222,7 +33222,10 @@
         "id": "26B94EEC-5090-4DF4-99FC-C4A90830720A",
         "name": "incognito-off",
         "codepoint": "F0075",
-        "aliases": [],
+        "aliases": [
+            "spy-off",
+            "anonymous-off"
+        ],
         "tags": [],
         "author": "nilsfast",
         "version": "1.5.54"
