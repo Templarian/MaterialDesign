@@ -28470,7 +28470,9 @@
         "name": "fuse",
         "codepoint": "F0C85",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Michael Irigoyen",
         "version": "3.2.89"
     },
