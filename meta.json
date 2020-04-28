@@ -33301,6 +33301,18 @@
         "version": "5.2.45"
     },
     {
+        "id": "3F362E64-C60F-416B-834D-E5C2A88ED23F",
+        "name": "incognito-circle-off",
+        "codepoint": "F1422",
+        "aliases": [
+            "anonymous-circle-off",
+            "spy-circle-off"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "26B94EEC-5090-4DF4-99FC-C4A90830720A",
         "name": "incognito-off",
         "codepoint": "F0075",
