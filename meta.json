@@ -28477,6 +28477,17 @@
         "version": "3.2.89"
     },
     {
+        "id": "EDE0F403-427B-468D-9CCA-75608159964C",
+        "name": "fuse-alert",
+        "codepoint": "F142D",
+        "aliases": [],
+        "tags": [
+            "Automotive"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "84BD762F-B0EC-4195-A6E2-7BF1E9386AE6",
         "name": "fuse-blade",
         "codepoint": "F0C86",
