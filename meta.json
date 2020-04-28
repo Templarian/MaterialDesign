@@ -45332,6 +45332,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "BA363BBC-F40B-4D14-B677-6FEFD1D48B87",
+        "name": "puzzle-check-outline",
+        "codepoint": "F1427",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.2.45"
+    },
+    {
         "id": "BBAC40CD-6A3A-4EEF-A381-DB7C8950995E",
         "name": "puzzle-outline",
         "codepoint": "F0A66",
