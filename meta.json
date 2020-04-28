@@ -53017,6 +53017,17 @@
         "version": "2.1.19"
     },
     {
+        "id": "6E502BA0-5D71-4607-BA94-CDEF31BBF07C",
+        "name": "table-split-cell",
+        "codepoint": "F142A",
+        "aliases": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
+        "author": "Contributors",
+        "version": "5.2.45"
+    },
+    {
         "id": "646B67D0-16F5-429C-93ED-C57131031B63",
         "name": "table-star",
         "codepoint": "F13CB",
