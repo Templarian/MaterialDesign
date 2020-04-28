@@ -51057,6 +51057,17 @@
         "version": "3.0.39"
     },
     {
+        "id": "D68EF8DE-C9F5-47FB-BCD4-C0DD4D7FCBFD",
+        "name": "spoon-sugar",
+        "codepoint": "F1429",
+        "aliases": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "51C1DE39-1C25-49B7-A295-DD13B874C48B",
         "name": "spotify",
         "codepoint": "F04C7",
