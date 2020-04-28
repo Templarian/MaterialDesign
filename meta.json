@@ -33211,7 +33211,8 @@
         "name": "incognito",
         "codepoint": "F05F9",
         "aliases": [
-            "anonymous"
+            "anonymous",
+            "spy"
         ],
         "tags": [],
         "author": "Christopher Schreiner",
