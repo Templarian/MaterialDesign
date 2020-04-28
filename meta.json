@@ -28488,6 +28488,17 @@
         "version": "3.2.89"
     },
     {
+        "id": "174BB611-F232-474B-B563-DCC770985930",
+        "name": "fuse-off",
+        "codepoint": "F142C",
+        "aliases": [],
+        "tags": [
+            "Automotive"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "5C29EFA9-0FF3-4101-BC87-C9C15ACBA7AB",
         "name": "gamepad",
         "codepoint": "F0296",
