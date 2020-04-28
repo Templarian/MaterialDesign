@@ -50258,6 +50258,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "D43EF949-5B56-488A-91AE-1B19CDE64ED8",
+        "name": "smoking-pipe-off",
+        "codepoint": "F1428",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "6DA57C23-2ADA-4CA1-8D1D-AFBBFA59C4FA",
         "name": "snapchat",
         "codepoint": "F04B6",
