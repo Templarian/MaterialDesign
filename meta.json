@@ -31178,6 +31178,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "412C8571-A7A4-4029-B5D4-7C67D2B243CC",
+        "name": "heart-plus",
+        "codepoint": "F142E",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "5.2.45"
+    },
+    {
         "id": "389486F3-5A73-4C65-8EA6-43D432F6490E",
         "name": "heart-pulse",
         "codepoint": "F05F6",
