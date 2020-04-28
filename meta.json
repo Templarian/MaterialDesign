@@ -15303,6 +15303,15 @@
         "version": "4.4.95"
     },
     {
+        "id": "BC451ECE-B21F-43F6-AE1C-D9E3614E4406",
+        "name": "cigar-off",
+        "codepoint": "F141B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "59803983-F6CE-4D40-B83C-36D42C9464A9",
         "name": "circle",
         "codepoint": "F0765",
