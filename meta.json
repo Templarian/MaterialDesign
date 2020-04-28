@@ -18594,6 +18594,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "C2D996BC-2459-44E7-94FB-EE181E03B8C3",
+        "name": "cube-off",
+        "codepoint": "F141C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "11B7F7B5-8813-48DE-9469-B1159355DDC3",
         "name": "cube-outline",
         "codepoint": "F01A7",
