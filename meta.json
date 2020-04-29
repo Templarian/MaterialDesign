@@ -42205,7 +42205,9 @@
         "id": "63B16204-CDD1-425F-8DDD-7DD80F2639D9",
         "name": "pail-plus-outline",
         "codepoint": "F143B",
-        "aliases": [],
+        "aliases": [
+            "bucket-plus-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
