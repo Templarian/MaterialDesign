@@ -42208,7 +42208,9 @@
         "id": "FC5A2451-43C6-40D1-905D-7E473ACA134C",
         "name": "pail-remove",
         "codepoint": "F1438",
-        "aliases": [],
+        "aliases": [
+            "bucket-remove"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
