@@ -42152,6 +42152,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "02152202-9609-4E5D-A6C5-1C7FE35F97E8",
+        "name": "pail-outline",
+        "codepoint": "F143A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "ED64CE31-8F78-4383-A3BF-2AFBE5485E38",
         "name": "pail-plus",
         "codepoint": "F1436",
