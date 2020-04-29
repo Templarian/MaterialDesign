@@ -42172,7 +42172,9 @@
         "id": "896E500B-797D-4687-917C-063906BB503F",
         "name": "pail-off-outline",
         "codepoint": "F143E",
-        "aliases": [],
+        "aliases": [
+            "bucket-off-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
