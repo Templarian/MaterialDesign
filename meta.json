@@ -42143,6 +42143,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "599354BE-5249-40F9-8E62-466F89203E5B",
+        "name": "pail-minus-outline",
+        "codepoint": "F143C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "2F1D4972-0025-4EB4-ADFC-2ACBEF34C7EA",
         "name": "pail-off",
         "codepoint": "F1439",
