@@ -42227,7 +42227,9 @@
         "id": "48413062-A335-454F-9349-04CD2B7BC628",
         "name": "pail-remove-outline",
         "codepoint": "F143D",
-        "aliases": [],
+        "aliases": [
+            "bucket-remove-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
