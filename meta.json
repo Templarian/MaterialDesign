@@ -42197,6 +42197,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "48413062-A335-454F-9349-04CD2B7BC628",
+        "name": "pail-remove-outline",
+        "codepoint": "F143D",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "954CCE2B-7FEE-4F9C-9923-4E1D567607C3",
         "name": "palette",
         "codepoint": "F03D8",
