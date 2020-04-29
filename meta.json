@@ -42161,7 +42161,9 @@
         "id": "2F1D4972-0025-4EB4-ADFC-2ACBEF34C7EA",
         "name": "pail-off",
         "codepoint": "F1439",
-        "aliases": [],
+        "aliases": [
+            "bucket-off"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
