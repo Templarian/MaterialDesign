@@ -42188,7 +42188,9 @@
         "id": "ED64CE31-8F78-4383-A3BF-2AFBE5485E38",
         "name": "pail-plus",
         "codepoint": "F1436",
-        "aliases": [],
+        "aliases": [
+            "bucket-plus"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
