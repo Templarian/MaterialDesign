@@ -38806,6 +38806,15 @@
         "version": "3.4.93"
     },
     {
+        "id": "94EEC5E7-5BF7-456E-8A9C-970E3CD46F55",
+        "name": "motion-sensor-off",
+        "codepoint": "F1435",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "D6AADAF8-D44E-44C0-8647-E578B277441D",
         "name": "motorbike",
         "codepoint": "F037C",
