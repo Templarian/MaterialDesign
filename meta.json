@@ -42152,6 +42152,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "FC5A2451-43C6-40D1-905D-7E473ACA134C",
+        "name": "pail-remove",
+        "codepoint": "F1438",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "954CCE2B-7FEE-4F9C-9923-4E1D567607C3",
         "name": "palette",
         "codepoint": "F03D8",
