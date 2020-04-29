@@ -42152,7 +42152,9 @@
         "id": "599354BE-5249-40F9-8E62-466F89203E5B",
         "name": "pail-minus-outline",
         "codepoint": "F143C",
-        "aliases": [],
+        "aliases": [
+            "bucket-minus-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
