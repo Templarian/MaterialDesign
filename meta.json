@@ -42130,7 +42130,9 @@
         "id": "C4C17ED6-0DB6-4A13-9C6F-0C3146B0CD80",
         "name": "pail",
         "codepoint": "F1417",
-        "aliases": [],
+        "aliases": [
+            "bucket"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "5.1.45"
