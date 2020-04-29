@@ -42141,7 +42141,9 @@
         "id": "ECD25F41-E1C8-438E-BFF3-54F529504071",
         "name": "pail-minus",
         "codepoint": "F1437",
-        "aliases": [],
+        "aliases": [
+            "bucket-minus"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
