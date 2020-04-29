@@ -42134,6 +42134,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "ECD25F41-E1C8-438E-BFF3-54F529504071",
+        "name": "pail-minus",
+        "codepoint": "F1437",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "ED64CE31-8F78-4383-A3BF-2AFBE5485E38",
         "name": "pail-plus",
         "codepoint": "F1436",
