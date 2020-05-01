@@ -18151,7 +18151,8 @@
         "codepoint": "F0EE2",
         "aliases": [],
         "tags": [
-            "Banking"
+            "Banking",
+            "Date \/ Time"
         ],
         "author": "Michael Richins",
         "version": "3.8.95"
