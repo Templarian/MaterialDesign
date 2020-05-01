@@ -16135,6 +16135,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "5850EAB7-9808-4FC7-B107-ECBC0D74321A",
+        "name": "clock-time-four",
+        "codepoint": "F1442",
+        "aliases": [],
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "FE16FC41-411F-423D-96AC-835A334051DF",
         "name": "clock-time-one",
         "codepoint": "F143F",
