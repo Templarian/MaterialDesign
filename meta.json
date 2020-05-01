@@ -16168,6 +16168,17 @@
         "version": "5.2.45"
     },
     {
+        "id": "814B2984-F25E-40EE-98E7-9CDCE300AA0C",
+        "name": "clock-time-seven",
+        "codepoint": "F1445",
+        "aliases": [],
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "58E0112F-0E05-4C53-8AF2-663009045010",
         "name": "clock-time-six",
         "codepoint": "F1444",
