@@ -16245,6 +16245,17 @@
         "version": "5.2.45"
     },
     {
+        "id": "CEA21098-6201-4E2F-A24E-865B4FFD7870",
+        "name": "clock-time-twelve",
+        "codepoint": "F144A",
+        "aliases": [],
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "3F6D9697-9536-4D51-87D3-839E7579451B",
         "name": "clock-time-two",
         "codepoint": "F1440",
