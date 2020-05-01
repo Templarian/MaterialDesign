@@ -40482,7 +40482,8 @@
         "name": "notebook-multiple",
         "codepoint": "F0E55",
         "aliases": [
-            "journal-multiple"
+            "journal-multiple",
+            "planner-multiple"
         ],
         "tags": [],
         "author": "Contributors",
