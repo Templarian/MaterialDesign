@@ -54628,7 +54628,9 @@
         "name": "timeline-clock-outline",
         "codepoint": "F11FC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Austin Andrews",
         "version": "4.6.95"
     },
