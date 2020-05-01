@@ -40493,7 +40493,8 @@
         "name": "notebook-outline",
         "codepoint": "F0EBF",
         "aliases": [
-            "journal-outline"
+            "journal-outline",
+            "planner-outline"
         ],
         "tags": [],
         "author": "Austin Andrews",
