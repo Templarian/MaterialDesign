@@ -37562,7 +37562,9 @@
         "name": "message-text-clock-outline",
         "codepoint": "F1174",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.4.95"
     },
