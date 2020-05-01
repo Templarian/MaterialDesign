@@ -16045,7 +16045,9 @@
         "name": "clock-check-outline",
         "codepoint": "F0FA9",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.0.96"
     },
