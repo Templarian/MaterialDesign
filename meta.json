@@ -10246,7 +10246,9 @@
         "name": "briefcase-clock-outline",
         "codepoint": "F10D1",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Michael Richins",
         "version": "4.3.95"
     },
