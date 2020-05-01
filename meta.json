@@ -40471,7 +40471,8 @@
         "name": "notebook",
         "codepoint": "F082E",
         "aliases": [
-            "journal"
+            "journal",
+            "planner"
         ],
         "tags": [],
         "author": "Contributors",
