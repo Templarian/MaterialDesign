@@ -40492,7 +40492,9 @@
         "id": "71D72BE3-C04C-40EF-87B7-A08E74045DC0",
         "name": "notebook-outline",
         "codepoint": "F0EBF",
-        "aliases": [],
+        "aliases": [
+            "journal-outline"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "3.7.94"
