@@ -16034,7 +16034,9 @@
         "name": "clock-check",
         "codepoint": "F0FA8",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.0.96"
     },
