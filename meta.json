@@ -40470,7 +40470,9 @@
         "id": "2D28230E-DAF3-4A49-ACB6-7D9C3E9E6495",
         "name": "notebook",
         "codepoint": "F082E",
-        "aliases": [],
+        "aliases": [
+            "journal"
+        ],
         "tags": [],
         "author": "Contributors",
         "version": "2.1.19"
