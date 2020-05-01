@@ -431,7 +431,8 @@
             "person-clock"
         ],
         "tags": [
-            "Account \/ User"
+            "Account \/ User",
+            "Date \/ Time"
         ],
         "author": "Coffeemate",
         "version": "3.0.39"
