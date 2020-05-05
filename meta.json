@@ -45567,6 +45567,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "18383BEA-BF9A-43AD-87BB-F47CEC92F9C3",
+        "name": "printer-search",
+        "codepoint": "F1457",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "33E4D9A3-F8C1-4C58-9E88-977AE4F4E4CA",
         "name": "printer-settings",
         "codepoint": "F0707",
