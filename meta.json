@@ -17337,7 +17337,9 @@
         "name": "cog-sync",
         "codepoint": "F1460",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
     },
