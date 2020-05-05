@@ -17314,7 +17314,9 @@
         "id": "5F716B9D-4A30-4D1A-B452-B6B0D8B27EDE",
         "name": "cog-refresh",
         "codepoint": "F145E",
-        "aliases": [],
+        "aliases": [
+            "setting-refresh"
+        ],
         "tags": [
             "Settings"
         ],
