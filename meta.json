@@ -18111,6 +18111,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "A145BFEF-B18C-49C5-B24C-7918C878307E",
+        "name": "content-save-cog-outline",
+        "codepoint": "F145C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "12E2DE0D-BF3F-402D-8044-B18E269D32C2",
         "name": "content-save-edit",
         "codepoint": "F0CFB",
