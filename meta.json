@@ -18102,6 +18102,15 @@
         "version": "3.9.97"
     },
     {
+        "id": "E909F872-44CC-4D23-8AD2-95BFE02A5E2D",
+        "name": "content-save-cog",
+        "codepoint": "F145B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "12E2DE0D-BF3F-402D-8044-B18E269D32C2",
         "name": "content-save-edit",
         "codepoint": "F0CFB",
