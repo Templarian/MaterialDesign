@@ -48895,6 +48895,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "C57170BC-B363-470F-B209-D713700B7C89",
+        "name": "set-square",
+        "codepoint": "F145D",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.2.45"
+    },
+    {
         "id": "944304C3-3513-4544-8DC2-B14307049311",
         "name": "set-top-box",
         "codepoint": "F099F",
