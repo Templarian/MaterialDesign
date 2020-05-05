@@ -17320,6 +17320,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "C9E15196-FEB0-4F26-96C2-0E050F959806",
+        "name": "cog-refresh-outline",
+        "codepoint": "F145F",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "17CD5A77-2809-4DDC-B876-877D8B913217",
         "name": "cog-transfer",
         "codepoint": "F105B",
