@@ -45577,7 +45577,9 @@
             "printer-preview",
             "printer-view"
         ],
-        "tags": [],
+        "tags": [
+            "Printer"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
     },
