@@ -45597,7 +45597,10 @@
         "id": "18383BEA-BF9A-43AD-87BB-F47CEC92F9C3",
         "name": "printer-search",
         "codepoint": "F1457",
-        "aliases": [],
+        "aliases": [
+            "printer-preview",
+            "printer-magnify"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
