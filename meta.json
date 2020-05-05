@@ -17336,7 +17336,9 @@
         "id": "BEC36759-CFB0-4475-A65B-B10F860E850A",
         "name": "cog-sync",
         "codepoint": "F1460",
-        "aliases": [],
+        "aliases": [
+            "settings-sync"
+        ],
         "tags": [
             "Settings"
         ],
