@@ -17315,7 +17315,9 @@
         "name": "cog-refresh",
         "codepoint": "F145E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
     },
