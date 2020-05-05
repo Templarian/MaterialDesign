@@ -38670,7 +38670,11 @@
         "id": "2A82D040-8856-437D-B478-DF448C7BE6A6",
         "name": "minus-circle-off-outline",
         "codepoint": "F145A",
-        "aliases": [],
+        "aliases": [
+            "do-not-disturb-off-outline",
+            "remove-circle-off-outline",
+            "do-not-enter-off-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
