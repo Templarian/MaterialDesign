@@ -17327,7 +17327,9 @@
         "id": "C9E15196-FEB0-4F26-96C2-0E050F959806",
         "name": "cog-refresh-outline",
         "codepoint": "F145F",
-        "aliases": [],
+        "aliases": [
+            "setting-refresh-outline"
+        ],
         "tags": [
             "Settings"
         ],
