@@ -48899,7 +48899,9 @@
         "name": "set-square",
         "codepoint": "F145D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Hardware \/ Tools"
+        ],
         "author": "Google",
         "version": "5.2.45"
     },
