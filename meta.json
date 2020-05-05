@@ -45564,7 +45564,10 @@
         "id": "22BB79BD-B17E-4002-923E-5B6766B967DC",
         "name": "printer-eye",
         "codepoint": "F1458",
-        "aliases": [],
+        "aliases": [
+            "printer-preview",
+            "printer-view"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
