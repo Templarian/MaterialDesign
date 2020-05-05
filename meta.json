@@ -17349,7 +17349,9 @@
         "id": "204F6FF9-EFD1-4B79-9DDF-2642984189F0",
         "name": "cog-sync-outline",
         "codepoint": "F1461",
-        "aliases": [],
+        "aliases": [
+            "settings-sync-outline"
+        ],
         "tags": [
             "Settings"
         ],
