@@ -17338,6 +17338,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "204F6FF9-EFD1-4B79-9DDF-2642984189F0",
+        "name": "cog-sync-outline",
+        "codepoint": "F1461",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "17CD5A77-2809-4DDC-B876-877D8B913217",
         "name": "cog-transfer",
         "codepoint": "F105B",
