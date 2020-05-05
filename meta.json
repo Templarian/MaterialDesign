@@ -45615,7 +45615,9 @@
             "printer-preview",
             "printer-magnify"
         ],
-        "tags": [],
+        "tags": [
+            "Printer"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
     },
