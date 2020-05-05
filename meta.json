@@ -38654,6 +38654,15 @@
         "version": "2.7.94"
     },
     {
+        "id": "6A57F7D9-D5F6-42B2-A5E2-D160F7E0DB4B",
+        "name": "minus-circle-off",
+        "codepoint": "F1459",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "E1568BA6-EA0E-478F-933F-102F76996D6C",
         "name": "minus-circle-outline",
         "codepoint": "F0377",
