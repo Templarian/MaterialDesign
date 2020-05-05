@@ -17348,7 +17348,9 @@
         "name": "cog-sync-outline",
         "codepoint": "F1461",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
     },
