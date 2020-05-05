@@ -18150,7 +18150,9 @@
         "name": "content-save-cog",
         "codepoint": "F145B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
     },
