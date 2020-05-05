@@ -45543,6 +45543,15 @@
         "version": "4.4.95"
     },
     {
+        "id": "22BB79BD-B17E-4002-923E-5B6766B967DC",
+        "name": "printer-eye",
+        "codepoint": "F1458",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "328D470F-EEB4-486D-953B-6F84CE809C3C",
         "name": "printer-off",
         "codepoint": "F0E5D",
