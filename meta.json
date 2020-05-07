@@ -21389,6 +21389,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "B4B33DFC-4361-478D-A3A3-3FD224B95C16",
+        "name": "download-circle",
+        "codepoint": "F1464",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.2.45"
+    },
+    {
         "id": "F70D7D6A-B496-4182-A423-939E2CCF21AC",
         "name": "download-lock",
         "codepoint": "F1320",
