@@ -21371,6 +21371,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "49E1E432-8C28-43AA-818C-EB62ACF5EC06",
+        "name": "download-box",
+        "codepoint": "F1462",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.2.45"
+    },
+    {
         "id": "F70D7D6A-B496-4182-A423-939E2CCF21AC",
         "name": "download-lock",
         "codepoint": "F1320",
