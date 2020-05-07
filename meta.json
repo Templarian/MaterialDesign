@@ -21380,6 +21380,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "48A14899-8641-40E7-BF9D-06BD6AE9BB54",
+        "name": "download-box-outline",
+        "codepoint": "F1463",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.2.45"
+    },
+    {
         "id": "F70D7D6A-B496-4182-A423-939E2CCF21AC",
         "name": "download-lock",
         "codepoint": "F1320",
