@@ -27310,7 +27310,10 @@
         "id": "A0482E2B-FA1E-4478-BA16-A7EF749920B3",
         "name": "food-steak-off",
         "codepoint": "F146B",
-        "aliases": [],
+        "aliases": [
+            "meat-off",
+            "beef-off"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
