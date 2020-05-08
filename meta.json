@@ -23725,7 +23725,9 @@
         "name": "fan-speed-2",
         "codepoint": "F1473",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Contributors",
         "version": "5.2.45"
     },
