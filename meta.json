@@ -59266,7 +59266,11 @@
         "id": "06862D93-608A-4B21-9193-83FA8C6BBDCD",
         "name": "water-pump",
         "codepoint": "F058F",
-        "aliases": [],
+        "aliases": [
+            "tap",
+            "kitchen-tap",
+            "faucet"
+        ],
         "tags": [
             "Agriculture",
             "Home Automation"
