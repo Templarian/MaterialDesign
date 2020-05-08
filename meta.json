@@ -27308,7 +27308,9 @@
         "name": "food-steak-off",
         "codepoint": "F146B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
     },
