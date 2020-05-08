@@ -59282,7 +59282,11 @@
         "id": "A66B4E6E-70F9-4136-BE33-D02C002F7B30",
         "name": "water-pump-off",
         "codepoint": "F0F93",
-        "aliases": [],
+        "aliases": [
+            "tap-off",
+            "kitchen-tap-off",
+            "faucet-off"
+        ],
         "tags": [
             "Agriculture",
             "Home Automation"
