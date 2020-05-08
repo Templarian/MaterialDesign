@@ -23661,6 +23661,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "FB53FDB5-A8D0-42F6-882F-63C1A683577E",
+        "name": "fan-minus",
+        "codepoint": "F1470",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "BB761A30-6F3C-484D-A0C9-501972F544AB",
         "name": "fan-off",
         "codepoint": "F081D",
