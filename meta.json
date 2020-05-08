@@ -19506,7 +19506,9 @@
             "wave",
             "analog"
         ],
-        "tags": [],
+        "tags": [
+            "Audio"
+        ],
         "author": "Nick",
         "version": "2.4.85"
     },
