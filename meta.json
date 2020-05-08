@@ -15266,6 +15266,21 @@
         "version": "2.0.46"
     },
     {
+        "id": "F92E010E-F45D-44CE-8F13-F6419010B0D2",
+        "name": "chili-off",
+        "codepoint": "F1467",
+        "aliases": [
+            "chilli-off",
+            "pepper-off",
+            "spicy-off"
+        ],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "A535271B-1114-44AD-9D9D-1984905026FF",
         "name": "chip",
         "codepoint": "F061A",
