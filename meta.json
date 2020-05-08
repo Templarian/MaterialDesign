@@ -23657,7 +23657,9 @@
         "id": "1FC6584B-6B87-40C8-BA9D-C18E221A247D",
         "name": "fan-chevron-up",
         "codepoint": "F146E",
-        "aliases": [],
+        "aliases": [
+            "fan-speed-up"
+        ],
         "tags": [
             "Home Automation"
         ],
