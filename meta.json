@@ -23673,6 +23673,15 @@
         "version": "2.1.19"
     },
     {
+        "id": "DD3CD93C-5877-4234-9944-61C10457FDCE",
+        "name": "fan-plus",
+        "codepoint": "F146F",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "98B9D071-70A9-422B-BCC1-55DC4C2E0744",
         "name": "fast-forward",
         "codepoint": "F0211",
