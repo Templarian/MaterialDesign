@@ -18393,6 +18393,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "4969E6E7-4311-4F1E-B9ED-070DE4473A65",
+        "name": "cosine-wave",
+        "codepoint": "F1479",
+        "aliases": [],
+        "tags": [],
+        "author": "Haley Halcyon",
+        "version": "5.2.45"
+    },
+    {
         "id": "F789F2E4-022E-4A5A-B548-30D21BC3A7F6",
         "name": "counter",
         "codepoint": "F0199",
