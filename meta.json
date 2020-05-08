@@ -36122,7 +36122,9 @@
             "bra",
             "panties"
         ],
-        "tags": [],
+        "tags": [
+            "Clothing"
+        ],
         "author": "Contributors",
         "version": "5.2.45"
     },
