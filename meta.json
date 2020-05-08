@@ -27293,6 +27293,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "1A357DD0-01F0-4FF9-83D3-41B9AA22E5D1",
+        "name": "food-steak",
+        "codepoint": "F146A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "1D25DDEC-2656-4729-BEBD-BB17F972DD09",
         "name": "food-variant",
         "codepoint": "F025C",
