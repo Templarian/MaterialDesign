@@ -18397,7 +18397,9 @@
         "name": "cosine-wave",
         "codepoint": "F1479",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Audio"
+        ],
         "author": "Haley Halcyon",
         "version": "5.2.45"
     },
