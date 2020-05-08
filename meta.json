@@ -56605,6 +56605,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "59CAC75D-7028-4672-9EC2-1B9E797BA9D1",
+        "name": "triangle-wave",
+        "codepoint": "F147C",
+        "aliases": [],
+        "tags": [],
+        "author": "Haley Halcyon",
+        "version": "5.2.45"
+    },
+    {
         "id": "835C3AA9-800B-4767-BDED-97FB875B19DF",
         "name": "triforce",
         "codepoint": "F0BD9",
