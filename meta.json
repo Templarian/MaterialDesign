@@ -27302,6 +27302,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "A0482E2B-FA1E-4478-BA16-A7EF749920B3",
+        "name": "food-steak-off",
+        "codepoint": "F146B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "1D25DDEC-2656-4729-BEBD-BB17F972DD09",
         "name": "food-variant",
         "codepoint": "F025C",
