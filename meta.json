@@ -23718,6 +23718,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "0EA7825B-6236-40D5-A8D9-858B2B4DB595",
+        "name": "fan-speed-3",
+        "codepoint": "F1474",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.2.45"
+    },
+    {
         "id": "98B9D071-70A9-422B-BCC1-55DC4C2E0744",
         "name": "fast-forward",
         "codepoint": "F0211",
