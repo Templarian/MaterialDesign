@@ -23700,6 +23700,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "F01D5822-D36A-4A41-9544-3B1E8702582F",
+        "name": "fan-speed-1",
+        "codepoint": "F1472",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.2.45"
+    },
+    {
         "id": "98B9D071-70A9-422B-BCC1-55DC4C2E0744",
         "name": "fast-forward",
         "codepoint": "F0211",
