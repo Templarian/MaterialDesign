@@ -56617,7 +56617,9 @@
         "name": "triangle-wave",
         "codepoint": "F147C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Audio"
+        ],
         "author": "Haley Halcyon",
         "version": "5.2.45"
     },
