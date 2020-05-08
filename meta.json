@@ -23692,7 +23692,9 @@
         "name": "fan-plus",
         "codepoint": "F146F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
     },
