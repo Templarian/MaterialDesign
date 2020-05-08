@@ -23726,7 +23726,9 @@
         "id": "AFC8D4DB-4196-41E6-8EBC-A6509F96EA71",
         "name": "fan-speed-2",
         "codepoint": "F1473",
-        "aliases": [],
+        "aliases": [
+            "fan-speed-medium"
+        ],
         "tags": [
             "Home Automation"
         ],
