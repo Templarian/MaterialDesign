@@ -59341,7 +59341,9 @@
         "name": "waveform",
         "codepoint": "F147D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Audio"
+        ],
         "author": "Haley Halcyon",
         "version": "5.2.45"
     },
