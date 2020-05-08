@@ -27296,7 +27296,9 @@
         "id": "1A357DD0-01F0-4FF9-83D3-41B9AA22E5D1",
         "name": "food-steak",
         "codepoint": "F146A",
-        "aliases": [],
+        "aliases": [
+            "meat"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
