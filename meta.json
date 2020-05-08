@@ -26877,7 +26877,9 @@
         "name": "folder-multiple-plus-outline",
         "codepoint": "F147F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Terren",
         "version": "5.3.45"
     },
