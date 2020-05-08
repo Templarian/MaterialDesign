@@ -23658,7 +23658,9 @@
         "name": "fan-chevron-up",
         "codepoint": "F146E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "GreenTurtwig",
         "version": "5.2.45"
     },
