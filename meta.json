@@ -52212,6 +52212,15 @@
         "version": "2.5.94"
     },
     {
+        "id": "F55F6161-5EE4-4168-881C-A50E671AC25F",
+        "name": "square-wave",
+        "codepoint": "F147B",
+        "aliases": [],
+        "tags": [],
+        "author": "Haley Halcyon",
+        "version": "5.2.45"
+    },
+    {
         "id": "363A0CD3-194D-4F7F-9287-82B8D565B064",
         "name": "squeegee",
         "codepoint": "F0AE1",
