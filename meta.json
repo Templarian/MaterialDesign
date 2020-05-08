@@ -23652,6 +23652,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "1FC6584B-6B87-40C8-BA9D-C18E221A247D",
+        "name": "fan-chevron-up",
+        "codepoint": "F146E",
+        "aliases": [],
+        "tags": [],
+        "author": "GreenTurtwig",
+        "version": "5.2.45"
+    },
+    {
         "id": "BB761A30-6F3C-484D-A0C9-501972F544AB",
         "name": "fan-off",
         "codepoint": "F081D",
