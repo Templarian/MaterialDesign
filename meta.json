@@ -32944,7 +32944,9 @@
         "name": "hours-24",
         "codepoint": "F1478",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Haley Halcyon",
         "version": "5.2.45"
     },
