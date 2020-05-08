@@ -26866,7 +26866,9 @@
         "name": "folder-multiple-plus",
         "codepoint": "F147E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Terren",
         "version": "5.3.45"
     },
