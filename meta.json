@@ -23646,7 +23646,9 @@
         "id": "33DAA830-9E16-4AF0-A1B8-F44EA4EF9787",
         "name": "fan-chevron-down",
         "codepoint": "F146D",
-        "aliases": [],
+        "aliases": [
+            "fan-speed-down"
+        ],
         "tags": [
             "Home Automation"
         ],
