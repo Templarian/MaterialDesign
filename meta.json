@@ -52222,7 +52222,9 @@
         "name": "square-wave",
         "codepoint": "F147B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Audio"
+        ],
         "author": "Haley Halcyon",
         "version": "5.2.45"
     },
