@@ -27239,6 +27239,21 @@
         "version": "5.2.45"
     },
     {
+        "id": "CC221369-59E9-45B7-9CBD-79AB2828689A",
+        "name": "food-drumstick-off-outline",
+        "codepoint": "F1469",
+        "aliases": [
+            "chicken-leg-off-outline",
+            "turkey-leg-off-outline",
+            "meat-off-outline"
+        ],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "D60C4F90-EE53-4A92-84F7-076DAC23FD31",
         "name": "food-drumstick-outline",
         "codepoint": "F1420",
