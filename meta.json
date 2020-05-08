@@ -1450,6 +1450,19 @@
         "version": "4.2.95"
     },
     {
+        "id": "9B86205A-73F4-4DB6-9F2C-73654EDF4D52",
+        "name": "air-humidifier-off",
+        "codepoint": "F1466",
+        "aliases": [
+            "air-dehumidifier"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "C1621283-2EDC-43C5-9108-812DCAD0BC12",
         "name": "air-purifier",
         "codepoint": "F0D44",
