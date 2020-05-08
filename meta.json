@@ -60294,6 +60294,18 @@
         "version": "3.4.93"
     },
     {
+        "id": "464D9AC5-8A79-4E35-89E3-D84DDC0056A3",
+        "name": "wizard-hat",
+        "codepoint": "F1477",
+        "aliases": [],
+        "tags": [
+            "Clothing",
+            "Gaming \/ RPG"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "0059A2CA-E266-4A57-9EE8-4520B7330D5C",
         "name": "wordpress",
         "codepoint": "F05B4",
