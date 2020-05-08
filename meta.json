@@ -48156,7 +48156,9 @@
         "name": "sawtooth-wave",
         "codepoint": "F147A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Audio"
+        ],
         "author": "Haley Halcyon",
         "version": "5.2.45"
     },
