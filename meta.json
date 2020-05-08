@@ -23739,7 +23739,9 @@
         "id": "0EA7825B-6236-40D5-A8D9-858B2B4DB595",
         "name": "fan-speed-3",
         "codepoint": "F1474",
-        "aliases": [],
+        "aliases": [
+            "fan-speed-high"
+        ],
         "tags": [
             "Home Automation"
         ],
