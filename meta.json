@@ -36117,7 +36117,11 @@
         "id": "F718A4A1-9D7B-45E5-B0AD-50FDA06BA3C3",
         "name": "lingerie",
         "codepoint": "F1476",
-        "aliases": [],
+        "aliases": [
+            "underwear",
+            "bra",
+            "panties"
+        ],
         "tags": [],
         "author": "Contributors",
         "version": "5.2.45"
