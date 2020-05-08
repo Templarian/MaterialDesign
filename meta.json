@@ -59329,6 +59329,15 @@
         "version": "3.8.95"
     },
     {
+        "id": "B677F1CB-606B-4DB5-9A9D-73E4FC0AC3F0",
+        "name": "waveform",
+        "codepoint": "F147D",
+        "aliases": [],
+        "tags": [],
+        "author": "Haley Halcyon",
+        "version": "5.2.45"
+    },
+    {
         "id": "547979BF-6FF4-4CFF-BD55-1E5793C9DAA3",
         "name": "waves",
         "codepoint": "F078D",
