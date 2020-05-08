@@ -27297,7 +27297,8 @@
         "name": "food-steak",
         "codepoint": "F146A",
         "aliases": [
-            "meat"
+            "meat",
+            "beef"
         ],
         "tags": [
             "Food \/ Drink"
