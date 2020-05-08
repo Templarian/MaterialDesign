@@ -23632,6 +23632,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "94B156B3-7C70-4C0A-B1A8-99BEEA9C6357",
+        "name": "fan-alert",
+        "codepoint": "F146C",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.2.45"
+    },
+    {
         "id": "BB761A30-6F3C-484D-A0C9-501972F544AB",
         "name": "fan-off",
         "codepoint": "F081D",
