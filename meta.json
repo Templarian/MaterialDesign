@@ -27297,7 +27297,9 @@
         "name": "food-steak",
         "codepoint": "F146A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
     },
