@@ -48148,6 +48148,15 @@
         "version": "3.6.95"
     },
     {
+        "id": "2C8473E2-22E8-4E6E-B929-99D2FCE9937B",
+        "name": "sawtooth-wave",
+        "codepoint": "F147A",
+        "aliases": [],
+        "tags": [],
+        "author": "Haley Halcyon",
+        "version": "5.2.45"
+    },
+    {
         "id": "64F494E1-5B39-488D-B46E-0FC1B9567478",
         "name": "saxophone",
         "codepoint": "F0609",
