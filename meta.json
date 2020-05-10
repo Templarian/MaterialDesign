@@ -19497,22 +19497,6 @@
         "version": "1.7.12"
     },
     {
-        "id": "2099C23C-E6F6-4C9B-AA3C-49A693E73E2E",
-        "name": "current-ac",
-        "codepoint": "F095B",
-        "aliases": [
-            "alternating-current",
-            "sine-wave",
-            "wave",
-            "analog"
-        ],
-        "tags": [
-            "Audio"
-        ],
-        "author": "Nick",
-        "version": "2.4.85"
-    },
-    {
         "id": "2A23AD1A-C4F1-47B1-B482-05836097CE51",
         "name": "current-dc",
         "codepoint": "F095C",
@@ -50648,6 +50632,22 @@
         ],
         "author": "Contributors",
         "version": "2.7.94"
+    },
+    {
+        "id": "2099C23C-E6F6-4C9B-AA3C-49A693E73E2E",
+        "name": "sine-wave",
+        "codepoint": "F095B",
+        "aliases": [
+            "alternating-current",
+            "sine-wave",
+            "wave",
+            "analog"
+        ],
+        "tags": [
+            "Audio"
+        ],
+        "author": "Nick",
+        "version": "2.4.85"
     },
     {
         "id": "673CE0A7-8AA2-4BFD-9308-B51589FBF520",
