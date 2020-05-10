@@ -10415,6 +10415,15 @@
         "version": "3.2.89"
     },
     {
+        "id": "1BB4FAD5-B3AE-47FD-95C4-B1713FE05FF2",
+        "name": "briefcase-variant",
+        "codepoint": "F1494",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.3.45"
+    },
+    {
         "id": "B3FF12D1-1C76-4E1D-BAD0-468E424BADA7",
         "name": "brightness-1",
         "codepoint": "F00DA",
