@@ -58434,6 +58434,15 @@
         "version": "2.1.19"
     },
     {
+        "id": "F05DF9FC-A193-444F-8B6E-24862443BA63",
+        "name": "view-dashboard-variant-outline",
+        "codepoint": "F1489",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "AD31242E-143E-475E-822B-E363C9E9F2F4",
         "name": "view-day",
         "codepoint": "F056F",
