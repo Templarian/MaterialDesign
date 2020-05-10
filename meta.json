@@ -58673,6 +58673,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "163700DD-5F95-4BEC-82AC-7E5F1FD20BC8",
+        "name": "view-week-outline",
+        "codepoint": "F1491",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.3.45"
+    },
+    {
         "id": "0FF21C45-66B4-492A-829C-9F46778323A9",
         "name": "vimeo",
         "codepoint": "F0577",
