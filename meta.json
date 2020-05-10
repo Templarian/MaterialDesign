@@ -39308,6 +39308,15 @@
         "version": "3.6.95"
     },
     {
+        "id": "905C2321-6A99-46C7-8EE7-D7193A95E5E7",
+        "name": "monitor-share",
+        "codepoint": "F1483",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.3.45"
+    },
+    {
         "id": "0D49AB2B-17E4-43B8-B72E-05C4A11500F6",
         "name": "monitor-speaker",
         "codepoint": "F0F5F",
