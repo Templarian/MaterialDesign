@@ -58653,6 +58653,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "26CE4165-E7A4-425A-8175-8A8C392F08D3",
+        "name": "view-stream-outline",
+        "codepoint": "F1490",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.3.45"
+    },
+    {
         "id": "8ED74862-BA7D-43FC-91EA-283D655B451F",
         "name": "view-week",
         "codepoint": "F0576",
