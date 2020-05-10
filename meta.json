@@ -35438,6 +35438,15 @@
         "version": "2.7.94"
     },
     {
+        "id": "D202901C-7C33-48DF-925A-BB3506158E99",
+        "name": "laser-pointer",
+        "codepoint": "F1484",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.3.45"
+    },
+    {
         "id": "5A1E325C-36BD-4BAC-BF4F-E349D9016B28",
         "name": "lasso",
         "codepoint": "F0F03",
