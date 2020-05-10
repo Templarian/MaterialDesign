@@ -47037,6 +47037,15 @@
         "version": "5.3.45"
     },
     {
+        "id": "0389409A-7A71-49DC-8296-2F38C2A6E7FE",
+        "name": "relation-many-to-zero-or-one",
+        "codepoint": "F149B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "5.3.45"
+    },
+    {
         "id": "912AD329-9B77-4959-9407-0F64BABFAC7D",
         "name": "relative-scale",
         "codepoint": "F0452",
