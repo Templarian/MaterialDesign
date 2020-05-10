@@ -19516,7 +19516,9 @@
         "aliases": [
             "direct-current"
         ],
-        "tags": [],
+        "tags": [
+            "Battery"
+        ],
         "author": "Nick",
         "version": "2.4.85"
     },
