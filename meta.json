@@ -59374,6 +59374,19 @@
         "version": "5.3.45"
     },
     {
+        "id": "67419E50-B2CE-4B36-A137-705FD6404252",
+        "name": "watering-can-outline",
+        "codepoint": "F1482",
+        "aliases": [
+            "watering-pot-outline"
+        ],
+        "tags": [
+            "Agriculture"
+        ],
+        "author": "Contributors",
+        "version": "5.3.45"
+    },
+    {
         "id": "20907A4A-11CA-447E-A4F5-D0F0901D197E",
         "name": "watermark",
         "codepoint": "F0612",
