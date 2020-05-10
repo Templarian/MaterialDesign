@@ -58350,6 +58350,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "73732965-3E0C-4746-8D18-785E318F005D",
+        "name": "view-column-outline",
+        "codepoint": "F1487",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.3.45"
+    },
+    {
         "id": "CBBB6642-EA10-4B28-8D7B-7FD2E5252A2C",
         "name": "view-comfy",
         "codepoint": "F0E6A",
