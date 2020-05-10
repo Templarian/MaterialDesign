@@ -58571,6 +58571,15 @@
         "version": "1.8.36"
     },
     {
+        "id": "C14FCE1C-4ACB-4876-94AA-93C2E5DB362B",
+        "name": "view-parallel-outline",
+        "codepoint": "F148D",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "F3640F38-D10F-42C8-8A68-751D965B1F65",
         "name": "view-quilt",
         "codepoint": "F0574",
