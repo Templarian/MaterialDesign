@@ -59361,6 +59361,19 @@
         "version": "4.1.95"
     },
     {
+        "id": "5B017D32-0BE9-4A6A-999C-32777F995FBB",
+        "name": "watering-can",
+        "codepoint": "F1481",
+        "aliases": [
+            "watering-pot"
+        ],
+        "tags": [
+            "Agriculture"
+        ],
+        "author": "Contributors",
+        "version": "5.3.45"
+    },
+    {
         "id": "20907A4A-11CA-447E-A4F5-D0F0901D197E",
         "name": "watermark",
         "codepoint": "F0612",
