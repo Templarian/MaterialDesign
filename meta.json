@@ -58611,6 +58611,15 @@
         "version": "1.8.36"
     },
     {
+        "id": "1B8CD437-1CE6-4493-9C57-5E367B47A0BF",
+        "name": "view-sequential-outline",
+        "codepoint": "F148F",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "7FE1CF30-B16F-4626-8450-1881934D2FDF",
         "name": "view-split-horizontal",
         "codepoint": "F0BCB",
