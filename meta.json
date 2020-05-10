@@ -58531,6 +58531,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "FA9A5868-724C-429E-897B-72AD25186E2D",
+        "name": "view-list-outline",
+        "codepoint": "F148B",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.3.45"
+    },
+    {
         "id": "467C52AB-0DEA-43AF-BAE4-76FD66D6C7F0",
         "name": "view-module",
         "codepoint": "F0573",
