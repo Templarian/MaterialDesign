@@ -17892,6 +17892,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "C2F3461E-363D-42B9-AEF0-3E8A92EB2569",
+        "name": "compare-horizontal",
+        "codepoint": "F1492",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.3.45"
+    },
+    {
         "id": "8FE64B61-0FD6-4056-9A4F-E62408CE70FE",
         "name": "compass",
         "codepoint": "F018B",
