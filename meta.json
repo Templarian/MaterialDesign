@@ -58551,6 +58551,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "69AAF987-9993-4E5D-952D-ED815244B1F6",
+        "name": "view-module-outline",
+        "codepoint": "F148C",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.3.45"
+    },
+    {
         "id": "A085C7C7-F5C5-441C-84C0-05EB3B6A8767",
         "name": "view-parallel",
         "codepoint": "F0728",
