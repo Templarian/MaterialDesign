@@ -47100,6 +47100,15 @@
         "version": "5.3.45"
     },
     {
+        "id": "9FCECCB1-41CC-4569-9912-58256B627F37",
+        "name": "relation-one-to-many",
+        "codepoint": "F14A2",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "5.3.45"
+    },
+    {
         "id": "912AD329-9B77-4959-9407-0F64BABFAC7D",
         "name": "relative-scale",
         "codepoint": "F0452",
