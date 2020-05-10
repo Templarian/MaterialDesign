@@ -58591,6 +58591,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "2797C36A-5A29-4679-AAB7-4F4832FA7DC5",
+        "name": "view-quilt-outline",
+        "codepoint": "F148E",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.3.45"
+    },
+    {
         "id": "350F115F-0C20-4AB3-8206-81D2A25A2EF4",
         "name": "view-sequential",
         "codepoint": "F0729",
