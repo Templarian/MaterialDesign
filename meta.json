@@ -19499,6 +19499,17 @@
         "version": "1.7.12"
     },
     {
+        "id": "BB0EDAF7-B538-4DAA-8406-36470F472EA1",
+        "name": "current-ac",
+        "codepoint": "F1480",
+        "aliases": [
+            "alternating-current"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "2A23AD1A-C4F1-47B1-B482-05836097CE51",
         "name": "current-dc",
         "codepoint": "F095C",
