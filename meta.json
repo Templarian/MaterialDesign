@@ -23649,7 +23649,8 @@
         "codepoint": "F146C",
         "aliases": [],
         "tags": [
-            "Home Automation"
+            "Home Automation",
+            "Alert \/ Error"
         ],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
