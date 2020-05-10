@@ -58310,6 +58310,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "C9B8EF68-CB6B-4B4E-BEEC-4BC30C04BE5F",
+        "name": "view-array-outline",
+        "codepoint": "F1485",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.3.45"
+    },
+    {
         "id": "99C269BA-B1CD-4BC0-9BCC-7C5D95F881AC",
         "name": "view-carousel",
         "codepoint": "F056C",
