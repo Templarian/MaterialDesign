@@ -58772,7 +58772,9 @@
         "name": "view-column-outline",
         "codepoint": "F1487",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "View"
+        ],
         "author": "Google",
         "version": "5.3.45"
     },
