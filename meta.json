@@ -1952,7 +1952,9 @@
         "name": "alert-plus-outline",
         "codepoint": "F14BD",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Contributors",
         "version": "5.3.45"
     },
