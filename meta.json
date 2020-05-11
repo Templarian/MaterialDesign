@@ -12768,6 +12768,20 @@
         "version": "4.1.95"
     },
     {
+        "id": "077EABE1-1DBC-4AC9-AA0E-B45386391968",
+        "name": "carabiner",
+        "codepoint": "F14C0",
+        "aliases": [
+            "karabiner",
+            "rock-climbing"
+        ],
+        "tags": [
+            "Sport"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "2E5B9249-0FFB-48D0-8A61-2019FD9ED32F",
         "name": "caravan",
         "codepoint": "F07AD",
