@@ -17968,7 +17968,9 @@
         "name": "compare-horizontal",
         "codepoint": "F1492",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Arrow"
+        ],
         "author": "Google",
         "version": "5.3.45"
     },
