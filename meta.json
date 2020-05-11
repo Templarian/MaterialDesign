@@ -51252,6 +51252,17 @@
         "version": "3.3.92"
     },
     {
+        "id": "56BF6222-BEC1-44B6-845C-AD6F84552D90",
+        "name": "skateboard",
+        "codepoint": "F14C2",
+        "aliases": [],
+        "tags": [
+            "Sport"
+        ],
+        "author": "Google",
+        "version": "5.3.45"
+    },
+    {
         "id": "43E5E22F-AEEB-406D-BEF3-898BE3C91FC1",
         "name": "skew-less",
         "codepoint": "F0D36",
