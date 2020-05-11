@@ -50589,7 +50589,9 @@
         "id": "16D35D19-90C2-42DD-9E83-8F47E21A53DF",
         "name": "shovel",
         "codepoint": "F0710",
-        "aliases": [],
+        "aliases": [
+            "gardening"
+        ],
         "tags": [
             "Hardware \/ Tools"
         ],
