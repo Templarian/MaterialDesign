@@ -19784,7 +19784,8 @@
         "codepoint": "F095D",
         "aliases": [],
         "tags": [
-            "Geographic Information System"
+            "Geographic Information System",
+            "Database"
         ],
         "author": "Michael Richins",
         "version": "2.4.85"
