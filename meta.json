@@ -1849,6 +1849,15 @@
         "version": "3.3.92"
     },
     {
+        "id": "233D24FC-6BAE-44C4-BE98-7178560C4A32",
+        "name": "alert-minus",
+        "codepoint": "F14BB",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "9BC1A338-CD03-4D39-BE46-E9DE5EE51A2F",
         "name": "alert-octagon",
         "codepoint": "F0029",
