@@ -59035,7 +59035,9 @@
         "name": "view-sequential-outline",
         "codepoint": "F148F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "View"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
