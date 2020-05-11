@@ -59013,7 +59013,9 @@
         "name": "view-quilt-outline",
         "codepoint": "F148E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "View"
+        ],
         "author": "Google",
         "version": "5.3.45"
     },
