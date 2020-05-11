@@ -58750,7 +58750,9 @@
         "name": "view-carousel-outline",
         "codepoint": "F1486",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "View"
+        ],
         "author": "Google",
         "version": "5.3.45"
     },
