@@ -58991,7 +58991,9 @@
         "name": "view-parallel-outline",
         "codepoint": "F148D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "View"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
