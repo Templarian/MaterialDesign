@@ -19828,7 +19828,8 @@
             "database-add"
         ],
         "tags": [
-            "Geographic Information System"
+            "Geographic Information System",
+            "Database"
         ],
         "author": "Simran",
         "version": "1.5.54"
