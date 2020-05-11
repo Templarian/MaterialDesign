@@ -1853,7 +1853,9 @@
         "name": "alert-minus",
         "codepoint": "F14BB",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
