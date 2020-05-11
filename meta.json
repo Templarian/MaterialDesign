@@ -47190,7 +47190,9 @@
         "name": "relation-one-or-many-to-only-one",
         "codepoint": "F149F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Michael Richins",
         "version": "5.3.45"
     },
