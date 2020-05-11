@@ -19797,7 +19797,8 @@
         "aliases": [],
         "tags": [
             "Lock",
-            "Geographic Information System"
+            "Geographic Information System",
+            "Database"
         ],
         "author": "Andrew Nenakhov",
         "version": "2.7.94"
