@@ -19872,7 +19872,8 @@
             "sql-query"
         ],
         "tags": [
-            "Geographic Information System"
+            "Geographic Information System",
+            "Database"
         ],
         "author": "GreenTurtwig",
         "version": "2.1.99"
