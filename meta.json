@@ -1974,7 +1974,9 @@
         "name": "alert-remove-outline",
         "codepoint": "F14BF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
