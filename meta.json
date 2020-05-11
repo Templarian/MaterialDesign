@@ -1941,7 +1941,9 @@
         "name": "alert-plus",
         "codepoint": "F14BA",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Austin Andrews",
         "version": "5.3.45"
     },
