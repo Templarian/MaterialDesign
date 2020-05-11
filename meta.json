@@ -19839,7 +19839,9 @@
         "name": "database-refresh",
         "codepoint": "F05C2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Contributors",
         "version": "1.5.54"
     },
