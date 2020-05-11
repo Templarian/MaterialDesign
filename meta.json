@@ -1915,6 +1915,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "6D804890-36C6-43DC-B93D-B289A4C04D8F",
+        "name": "alert-plus",
+        "codepoint": "F14BA",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.3.45"
+    },
+    {
         "id": "C8354F93-0DA4-48B4-97B3-4BDE2C0046AB",
         "name": "alert-rhombus",
         "codepoint": "F11CE",
