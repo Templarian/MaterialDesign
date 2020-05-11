@@ -1963,7 +1963,9 @@
         "name": "alert-remove",
         "codepoint": "F14BC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
