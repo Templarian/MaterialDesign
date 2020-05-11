@@ -19809,7 +19809,8 @@
         "codepoint": "F12F6",
         "aliases": [],
         "tags": [
-            "Geographic Information System"
+            "Geographic Information System",
+            "Database"
         ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
