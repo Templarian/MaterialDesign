@@ -17979,7 +17979,9 @@
         "name": "compare-vertical",
         "codepoint": "F1493",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Arrow"
+        ],
         "author": "Google",
         "version": "5.3.45"
     },
