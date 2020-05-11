@@ -47201,7 +47201,9 @@
         "name": "relation-one-or-many-to-zero-or-many",
         "codepoint": "F14A0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Michael Richins",
         "version": "5.3.45"
     },
