@@ -58882,7 +58882,9 @@
         "name": "view-day-outline",
         "codepoint": "F148A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "View"
+        ],
         "author": "Google",
         "version": "5.3.45"
     },
