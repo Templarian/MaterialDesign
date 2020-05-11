@@ -47364,7 +47364,9 @@
         "name": "relation-zero-or-many-to-one",
         "codepoint": "F14AF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Michael Richins",
         "version": "5.3.45"
     },
