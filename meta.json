@@ -56762,6 +56762,19 @@
         "version": "2.1.99"
     },
     {
+        "id": "C80B9924-A19D-440E-8543-E1E232FAA90B",
+        "name": "tractor-variant",
+        "codepoint": "F14C4",
+        "aliases": [
+            "agriculture"
+        ],
+        "tags": [
+            "Agriculture"
+        ],
+        "author": "Google",
+        "version": "5.3.45"
+    },
+    {
         "id": "E1849947-175A-4347-BFC7-D8C7811F0B2B",
         "name": "trademark",
         "codepoint": "F0A78",
