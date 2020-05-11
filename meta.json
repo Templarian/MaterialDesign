@@ -58971,7 +58971,9 @@
         "name": "view-module-outline",
         "codepoint": "F148C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "View"
+        ],
         "author": "Google",
         "version": "5.3.45"
     },
