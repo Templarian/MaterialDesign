@@ -1933,6 +1933,15 @@
         "version": "5.3.45"
     },
     {
+        "id": "EF9A06FC-5167-4AE0-AB4E-FAD8C705E8C2",
+        "name": "alert-remove",
+        "codepoint": "F14BC",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "C8354F93-0DA4-48B4-97B3-4BDE2C0046AB",
         "name": "alert-rhombus",
         "codepoint": "F11CE",
