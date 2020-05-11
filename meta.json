@@ -23992,6 +23992,17 @@
         "version": "2.3.50"
     },
     {
+        "id": "325210DA-E889-4CBD-B0A7-8A32D706322B",
+        "name": "fencing",
+        "codepoint": "F14C1",
+        "aliases": [],
+        "tags": [
+            "Sport"
+        ],
+        "author": "Google",
+        "version": "5.3.45"
+    },
+    {
         "id": "AD285056-9A97-4C52-8D7D-06D4D1DA4213",
         "name": "ferris-wheel",
         "codepoint": "F0EA4",
