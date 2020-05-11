@@ -59101,7 +59101,9 @@
         "name": "view-week-outline",
         "codepoint": "F1491",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "View"
+        ],
         "author": "Google",
         "version": "5.3.45"
     },
