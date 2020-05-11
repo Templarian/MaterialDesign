@@ -58790,7 +58790,9 @@
         "name": "view-comfy-outline",
         "codepoint": "F1488",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "View"
+        ],
         "author": "Google",
         "version": "5.3.45"
     },
