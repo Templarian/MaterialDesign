@@ -58728,7 +58728,9 @@
         "name": "view-array-outline",
         "codepoint": "F1485",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "View"
+        ],
         "author": "Google",
         "version": "5.3.45"
     },
