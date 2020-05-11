@@ -47113,7 +47113,9 @@
         "name": "relation-many-to-one-or-many",
         "codepoint": "F1498",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Michael Richins",
         "version": "5.3.45"
     },
