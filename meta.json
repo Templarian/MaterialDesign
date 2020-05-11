@@ -1858,6 +1858,15 @@
         "version": "5.3.45"
     },
     {
+        "id": "044D1C2C-2EA5-4058-A3B0-0550BD2E3170",
+        "name": "alert-minus-outline",
+        "codepoint": "F14BE",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.3.45"
+    },
+    {
         "id": "9BC1A338-CD03-4D39-BE46-E9DE5EE51A2F",
         "name": "alert-octagon",
         "codepoint": "F0029",
