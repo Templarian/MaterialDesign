@@ -59079,7 +59079,9 @@
         "name": "view-stream-outline",
         "codepoint": "F1490",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "View"
+        ],
         "author": "Google",
         "version": "5.3.45"
     },
