@@ -12778,7 +12778,7 @@
         "tags": [
             "Sport"
         ],
-        "author": "Michael Irigoyen",
+        "author": "Google",
         "version": "5.3.45"
     },
     {
@@ -47091,7 +47091,9 @@
         "name": "relation-many-to-many",
         "codepoint": "F1496",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Michael Richins",
         "version": "5.3.45"
     },
