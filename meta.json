@@ -1864,7 +1864,9 @@
         "name": "alert-minus-outline",
         "codepoint": "F14BE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Contributors",
         "version": "5.3.45"
     },
