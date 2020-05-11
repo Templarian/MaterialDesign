@@ -58860,7 +58860,9 @@
         "name": "view-dashboard-variant-outline",
         "codepoint": "F1489",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "View"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
