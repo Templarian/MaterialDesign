@@ -45560,6 +45560,17 @@
         "version": "4.7.95"
     },
     {
+        "id": "5ACE4E72-9576-405A-A17F-314A1FF864C8",
+        "name": "polo",
+        "codepoint": "F14C3",
+        "aliases": [],
+        "tags": [
+            "Sport"
+        ],
+        "author": "Google",
+        "version": "5.3.45"
+    },
+    {
         "id": "528FF16A-C55C-43F9-8E0B-3879A209AEDE",
         "name": "polymer",
         "codepoint": "F0421",
