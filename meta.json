@@ -19889,7 +19889,8 @@
         "codepoint": "F0CFF",
         "aliases": [],
         "tags": [
-            "Geographic Information System"
+            "Geographic Information System",
+            "Database"
         ],
         "author": "Michael Richins",
         "version": "3.3.92"
