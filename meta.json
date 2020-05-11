@@ -1933,6 +1933,15 @@
         "version": "5.3.45"
     },
     {
+        "id": "C5512AAF-943C-4025-8FAB-F14D896F2C14",
+        "name": "alert-plus-outline",
+        "codepoint": "F14BD",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.3.45"
+    },
+    {
         "id": "EF9A06FC-5167-4AE0-AB4E-FAD8C705E8C2",
         "name": "alert-remove",
         "codepoint": "F14BC",
