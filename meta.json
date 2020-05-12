@@ -52413,7 +52413,9 @@
         "name": "source-branch-remove",
         "codepoint": "F14CC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
