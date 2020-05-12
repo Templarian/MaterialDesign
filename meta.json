@@ -51652,6 +51652,20 @@
         "version": "5.3.45"
     },
     {
+        "id": "FFA72D4C-C2EE-4492-B556-95C873FF1677",
+        "name": "skull-scan-outline",
+        "codepoint": "F14C8",
+        "aliases": [
+            "x-ray-outline",
+            "radiology-outline"
+        ],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "07E9D89D-2D58-40C6-9D41-49722CFC0DAE",
         "name": "skype",
         "codepoint": "F04AF",
