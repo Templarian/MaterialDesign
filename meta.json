@@ -52380,7 +52380,9 @@
         "name": "source-branch-minus",
         "codepoint": "F14CB",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
