@@ -46438,7 +46438,9 @@
         "name": "puzzle-check",
         "codepoint": "F1426",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Austin Andrews",
         "version": "5.2.45"
     },
