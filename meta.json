@@ -52542,7 +52542,9 @@
         "aliases": [
             "source-repositories"
         ],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Austin Andrews",
         "version": "3.2.89"
     },
