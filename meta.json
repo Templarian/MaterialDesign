@@ -46469,7 +46469,9 @@
         "name": "puzzle-edit-outline",
         "codepoint": "F14D9",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
