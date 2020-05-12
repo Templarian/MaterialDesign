@@ -49808,7 +49808,9 @@
             "outer-join-left",
             "sql-left-outer-join"
         ],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Simran",
         "version": "1.9.32"
     },
