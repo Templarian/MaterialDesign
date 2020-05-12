@@ -52363,6 +52363,15 @@
         "version": "1.6.50"
     },
     {
+        "id": "D5EAA72B-6FF0-4520-8207-A7E3E47B35F5",
+        "name": "source-branch-plus",
+        "codepoint": "F14CA",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "B0400135-C84A-47D8-AD30-B6BD8292E6A4",
         "name": "source-commit",
         "codepoint": "F0718",
