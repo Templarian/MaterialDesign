@@ -52531,7 +52531,9 @@
         "name": "source-repository",
         "codepoint": "F0CCF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Austin Andrews",
         "version": "3.2.89"
     },
