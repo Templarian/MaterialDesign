@@ -46480,6 +46480,15 @@
         "version": "5.3.45"
     },
     {
+        "id": "29CE71EA-2734-48D2-9FFD-FEB8ADF50C12",
+        "name": "puzzle-remove",
+        "codepoint": "F14D2",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "1F897ED3-17CC-43F5-9A0B-F7804A8DFABF",
         "name": "qi",
         "codepoint": "F0999",
