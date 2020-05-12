@@ -46528,7 +46528,9 @@
         "name": "puzzle-plus",
         "codepoint": "F14D0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
