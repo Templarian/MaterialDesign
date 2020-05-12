@@ -52518,7 +52518,9 @@
         "name": "source-pull",
         "codepoint": "F04C2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
