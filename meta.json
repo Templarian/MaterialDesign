@@ -52402,7 +52402,9 @@
         "name": "source-branch-refresh",
         "codepoint": "F14CD",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
