@@ -46460,7 +46460,9 @@
         "name": "puzzle-edit",
         "codepoint": "F14D3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
