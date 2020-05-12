@@ -46546,7 +46546,9 @@
         "name": "puzzle-remove",
         "codepoint": "F14D2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
