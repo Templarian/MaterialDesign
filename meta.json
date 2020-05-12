@@ -46557,7 +46557,9 @@
         "name": "puzzle-remove-outline",
         "codepoint": "F14D8",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
