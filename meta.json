@@ -49773,7 +49773,9 @@
             "inner-join",
             "sql-inner-join"
         ],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Simran",
         "version": "1.9.32"
     },
