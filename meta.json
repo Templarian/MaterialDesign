@@ -51638,6 +51638,20 @@
         "version": "3.0.39"
     },
     {
+        "id": "3FF20BCB-0BFF-4F46-ABE9-954C8F2EB154",
+        "name": "skull-scan",
+        "codepoint": "F14C7",
+        "aliases": [
+            "x-ray",
+            "radiology"
+        ],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
+        "author": "Simran",
+        "version": "5.3.45"
+    },
+    {
         "id": "07E9D89D-2D58-40C6-9D41-49722CFC0DAE",
         "name": "skype",
         "codepoint": "F04AF",
