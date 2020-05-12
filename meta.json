@@ -46487,7 +46487,9 @@
         "name": "puzzle-heart-outline",
         "codepoint": "F14DA",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
