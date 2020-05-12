@@ -52358,7 +52358,9 @@
         "name": "source-branch",
         "codepoint": "F062C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Austin Andrews",
         "version": "1.6.50"
     },
