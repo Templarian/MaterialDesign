@@ -49756,7 +49756,9 @@
             "full-outer-join",
             "sql-full-outer-join"
         ],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Simran",
         "version": "1.9.32"
     },
