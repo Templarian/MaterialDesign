@@ -46577,7 +46577,9 @@
         "name": "puzzle-star-outline",
         "codepoint": "F14DB",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
