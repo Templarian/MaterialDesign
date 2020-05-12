@@ -52424,7 +52424,9 @@
         "name": "source-branch-sync",
         "codepoint": "F14CE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
