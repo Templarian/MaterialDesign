@@ -10170,7 +10170,9 @@
         "aliases": [
             "stanley-knife"
         ],
-        "tags": [],
+        "tags": [
+            "Hardware \/ Tools"
+        ],
         "author": "Simran",
         "version": "1.5.54"
     },
