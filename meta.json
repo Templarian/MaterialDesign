@@ -46482,7 +46482,9 @@
         "name": "puzzle-heart",
         "codepoint": "F14D4",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
