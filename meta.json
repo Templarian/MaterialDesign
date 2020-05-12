@@ -45347,6 +45347,15 @@
         "version": "2.4.85"
     },
     {
+        "id": "D86C99FA-DFA7-4DD2-9EB8-CBB094BD1366",
+        "name": "plus-minus-variant",
+        "codepoint": "F14C9",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.3.45"
+    },
+    {
         "id": "14F6A9EC-BD40-4181-B084-05A9FCFA3973",
         "name": "plus-network",
         "codepoint": "F041A",
