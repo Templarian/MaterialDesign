@@ -46525,6 +46525,15 @@
         "version": "5.3.45"
     },
     {
+        "id": "05B602BB-4734-4D4B-A268-FE31171DBD66",
+        "name": "puzzle-remove-outline",
+        "codepoint": "F14D8",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "0DA18E4C-075B-4DE5-A428-31FB0BA791E4",
         "name": "puzzle-star",
         "codepoint": "F14D5",
