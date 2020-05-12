@@ -52369,7 +52369,9 @@
         "name": "source-branch-check",
         "codepoint": "F14CF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
