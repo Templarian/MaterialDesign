@@ -52381,6 +52381,15 @@
         "version": "5.3.45"
     },
     {
+        "id": "EB47CC8C-8EF2-4FE2-9530-2360C26378B6",
+        "name": "source-branch-remove",
+        "codepoint": "F14CC",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "B0400135-C84A-47D8-AD30-B6BD8292E6A4",
         "name": "source-commit",
         "codepoint": "F0718",
