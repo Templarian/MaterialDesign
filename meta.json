@@ -46462,6 +46462,15 @@
         "version": "2.6.95"
     },
     {
+        "id": "72A20545-216C-4CD8-B1E4-808B8B2B96B6",
+        "name": "puzzle-plus",
+        "codepoint": "F14D0",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "1F897ED3-17CC-43F5-9A0B-F7804A8DFABF",
         "name": "qi",
         "codepoint": "F0999",
