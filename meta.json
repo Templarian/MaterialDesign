@@ -46561,6 +46561,15 @@
         "version": "5.3.45"
     },
     {
+        "id": "72BEE187-7B9C-4106-92EA-CD040D56815F",
+        "name": "puzzle-star-outline",
+        "codepoint": "F14DB",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "1F897ED3-17CC-43F5-9A0B-F7804A8DFABF",
         "name": "qi",
         "codepoint": "F0999",
