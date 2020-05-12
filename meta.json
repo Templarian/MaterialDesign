@@ -46513,7 +46513,9 @@
             "jigsaw-outline",
             "extension-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Google",
         "version": "2.6.95"
     },
