@@ -46568,7 +46568,9 @@
         "name": "puzzle-star",
         "codepoint": "F14D5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
