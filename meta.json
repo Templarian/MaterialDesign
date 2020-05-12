@@ -46450,6 +46450,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "8DAE6108-0411-473A-B835-528DC330D1DF",
+        "name": "puzzle-minus",
+        "codepoint": "F14D1",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "BBAC40CD-6A3A-4EEF-A381-DB7C8950995E",
         "name": "puzzle-outline",
         "codepoint": "F0A66",
