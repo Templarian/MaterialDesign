@@ -49788,7 +49788,9 @@
             "outer-join-right",
             "sql-right-outer-join"
         ],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Simran",
         "version": "1.9.32"
     },
