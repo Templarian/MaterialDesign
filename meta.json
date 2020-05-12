@@ -46505,7 +46505,9 @@
         "name": "puzzle-minus-outline",
         "codepoint": "F14D7",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
