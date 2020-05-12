@@ -46796,6 +46796,19 @@
         "version": "5.3.45"
     },
     {
+        "id": "75708207-7E52-443D-B1DE-5BA088AED95E",
+        "name": "radiology-box-outline",
+        "codepoint": "F14C6",
+        "aliases": [
+            "x-ray-box-outline"
+        ],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "DFD4C66B-CD4A-4524-A6DB-E3C2331C5DC6",
         "name": "radius",
         "codepoint": "F0CC0",
