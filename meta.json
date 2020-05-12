@@ -52507,7 +52507,9 @@
         "name": "source-merge",
         "codepoint": "F062D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Austin Andrews",
         "version": "1.6.50"
     },
