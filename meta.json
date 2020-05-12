@@ -45351,7 +45351,9 @@
         "name": "plus-minus-variant",
         "codepoint": "F14C9",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Math"
+        ],
         "author": "Austin Andrews",
         "version": "5.3.45"
     },
