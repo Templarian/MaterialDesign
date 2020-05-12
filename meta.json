@@ -46477,6 +46477,15 @@
         "version": "5.3.45"
     },
     {
+        "id": "B588380E-4BAD-4787-B699-906B8926068D",
+        "name": "puzzle-heart-outline",
+        "codepoint": "F14DA",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "8DAE6108-0411-473A-B835-528DC330D1DF",
         "name": "puzzle-minus",
         "codepoint": "F14D1",
