@@ -52498,7 +52498,9 @@
         "name": "source-fork",
         "codepoint": "F04C1",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
