@@ -52391,7 +52391,9 @@
         "name": "source-branch-plus",
         "codepoint": "F14CA",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
