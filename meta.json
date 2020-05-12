@@ -46783,6 +46783,19 @@
         "version": "1.5.54"
     },
     {
+        "id": "17B9888B-F36F-4D44-9318-BBB6ADA0F61B",
+        "name": "radiology-box",
+        "codepoint": "F14C5",
+        "aliases": [
+            "x-ray-box"
+        ],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
+        "author": "Simran",
+        "version": "5.3.45"
+    },
+    {
         "id": "DFD4C66B-CD4A-4524-A6DB-E3C2331C5DC6",
         "name": "radius",
         "codepoint": "F0CC0",
