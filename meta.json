@@ -52194,7 +52194,9 @@
         "name": "snowflake-off",
         "codepoint": "F14E3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Weather"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.45"
     },
