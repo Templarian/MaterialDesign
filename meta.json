@@ -48079,7 +48079,9 @@
         "name": "rhombus-medium",
         "codepoint": "F0A10",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Michael Irigoyen",
         "version": "2.5.94"
     },
