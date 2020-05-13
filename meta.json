@@ -48314,7 +48314,9 @@
         "name": "rocket-outline",
         "codepoint": "F13AF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Google",
         "version": "5.0.45"
     },
