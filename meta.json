@@ -48088,7 +48088,9 @@
         "name": "rhombus-medium-outline",
         "codepoint": "F14DC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Simran",
         "version": "5.3.45"
     },
