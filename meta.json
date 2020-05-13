@@ -48292,7 +48292,9 @@
         "name": "rocket-launch",
         "codepoint": "F14DE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.3.45"
     },
