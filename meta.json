@@ -48297,6 +48297,15 @@
         "version": "5.3.45"
     },
     {
+        "id": "F6DA21B8-C4AD-48D1-9F97-9A59F721956B",
+        "name": "rocket-launch-outline",
+        "codepoint": "F14DF",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
+    },
+    {
         "id": "934FA95E-C5B3-4A5E-B99D-85B0E65CBDBA",
         "name": "rocket-outline",
         "codepoint": "F13AF",
