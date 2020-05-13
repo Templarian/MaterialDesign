@@ -4166,7 +4166,7 @@
         "tags": [
             "Transportation + Water"
         ],
-        "author": "Simran",
+        "author": "Google",
         "version": "1.5.54"
     },
     {
@@ -48286,6 +48286,15 @@
         ],
         "author": "Google",
         "version": "1.5.54"
+    },
+    {
+        "id": "E2791217-9CAB-41CA-9899-9BD0964B4DF9",
+        "name": "rocket-launch",
+        "codepoint": "F14DE",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.3.45"
     },
     {
         "id": "934FA95E-C5B3-4A5E-B99D-85B0E65CBDBA",
