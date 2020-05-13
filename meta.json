@@ -50092,6 +50092,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "7100DDA3-3A7A-4A02-A717-D33D1A170E41",
+        "name": "set-split",
+        "codepoint": "F14E1",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.3.45"
+    },
+    {
         "id": "C57170BC-B363-470F-B209-D713700B7C89",
         "name": "set-square",
         "codepoint": "F145D",
