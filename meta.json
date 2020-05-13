@@ -50056,6 +50056,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "414C136F-7BB5-47BB-BB58-136C5E1C2E5B",
+        "name": "set-merge",
+        "codepoint": "F14E0",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.3.45"
+    },
+    {
         "id": "9674B809-B544-45E8-BBD8-4E8D9E1A966E",
         "name": "set-none",
         "codepoint": "F077E",
