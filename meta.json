@@ -56060,7 +56060,8 @@
         "codepoint": "F10C2",
         "aliases": [],
         "tags": [
-            "Home Automation"
+            "Home Automation",
+            "Weather"
         ],
         "author": "Michael Richins",
         "version": "4.2.95"
