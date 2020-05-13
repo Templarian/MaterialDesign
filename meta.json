@@ -8353,6 +8353,15 @@
         "version": "4.3.95"
     },
     {
+        "id": "520FBDF0-4EB1-4413-89F9-AB4E3518FA38",
+        "name": "beekeeper",
+        "codepoint": "F14E2",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.4.45"
+    },
+    {
         "id": "9D9A73D2-0780-4141-95A3-CDFE21E6D4D6",
         "name": "beer",
         "codepoint": "F0098",
