@@ -60865,6 +60865,15 @@
         "version": "3.8.95"
     },
     {
+        "id": "2C884CEC-BA06-491D-9A7D-17B8B2E74CA6",
+        "name": "weather-sunny-off",
+        "codepoint": "F14E4",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "5EF29669-A342-46D1-AE1B-47917E44311D",
         "name": "weather-sunset",
         "codepoint": "F059A",
