@@ -48117,6 +48117,15 @@
         "version": "2.5.94"
     },
     {
+        "id": "E9499838-BF7F-48DB-843A-F98796B0D8BB",
+        "name": "rhombus-split-outline",
+        "codepoint": "F14DD",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "5.3.45"
+    },
+    {
         "id": "1C09CB9B-162B-486B-966C-1FCB18C0F633",
         "name": "ribbon",
         "codepoint": "F0460",
