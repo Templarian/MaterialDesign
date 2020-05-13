@@ -52183,7 +52183,9 @@
         "aliases": [
             "defrost"
         ],
-        "tags": [],
+        "tags": [
+            "Weather"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
