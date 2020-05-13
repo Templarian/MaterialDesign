@@ -60876,7 +60876,9 @@
         "name": "weather-sunny-off",
         "codepoint": "F14E4",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Weather"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.45"
     },
