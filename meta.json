@@ -53104,7 +53104,9 @@
         "name": "square-medium-outline",
         "codepoint": "F0A14",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Michael Irigoyen",
         "version": "2.5.94"
     },
