@@ -52185,6 +52185,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "C80A9F84-F736-4E92-8D93-05F9F72D32B8",
+        "name": "snowflake-off",
+        "codepoint": "F14E3",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "50B6D484-E7DC-4B88-9981-9C962C9A9EB6",
         "name": "snowflake-variant",
         "codepoint": "F0F2A",
