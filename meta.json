@@ -42149,10 +42149,7 @@
             "numeric-9-boxes-outline",
             "number-9-box-multiple-outline"
         ],
-        "tags": [
-            "Alpha \/ Numeric",
-            "Alpha \/ Numeric"
-        ],
+        "tags": [],
         "author": "Google",
         "version": "1.5.54"
     },
