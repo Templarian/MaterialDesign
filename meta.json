@@ -14142,7 +14142,9 @@
         "name": "chart-histogram",
         "codepoint": "F0129",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Math"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
