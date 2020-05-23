@@ -39389,7 +39389,9 @@
         "name": "monitor-dashboard",
         "codepoint": "F0A07",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Device \/ Tech"
+        ],
         "author": "Austin Andrews",
         "version": "2.5.94"
     },
