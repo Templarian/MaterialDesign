@@ -41356,7 +41356,9 @@
         "name": "numeric-10-box",
         "codepoint": "F0F7D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
         "author": "Michael Irigoyen",
         "version": "3.9.97"
     },
