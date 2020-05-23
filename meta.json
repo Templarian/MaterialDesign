@@ -3133,7 +3133,9 @@
             "alphabet-o-box-outline",
             "letter-o-box-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
         "author": "Contributors",
         "version": "3.2.89"
     },
