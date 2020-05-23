@@ -58884,10 +58884,7 @@
         "name": "video-3d",
         "codepoint": "F07FD",
         "aliases": [],
-        "tags": [
-            "Video \/ Movie",
-            "Video \/ Movie"
-        ],
+        "tags": [],
         "author": "Austin Andrews",
         "version": "2.0.46"
     },
