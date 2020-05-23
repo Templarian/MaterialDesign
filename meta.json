@@ -41781,7 +41781,9 @@
             "number-5-circle",
             "number-five-circle"
         ],
-        "tags": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
         "author": "Contributors",
         "version": "3.2.89"
     },
