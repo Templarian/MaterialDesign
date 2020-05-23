@@ -48159,10 +48159,7 @@
         "name": "road",
         "codepoint": "F0461",
         "aliases": [],
-        "tags": [
-            "Transportation + Road",
-            "Transportation + Road"
-        ],
+        "tags": [],
         "author": "Simran",
         "version": "1.5.54"
     },
