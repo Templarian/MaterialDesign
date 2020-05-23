@@ -6576,7 +6576,8 @@
             "person-badge-warning"
         ],
         "tags": [
-            "Account \/ User"
+            "Account \/ User",
+            "Alert \/ Error"
         ],
         "author": "Michael Richins",
         "version": "3.5.94"
