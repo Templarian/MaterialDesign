@@ -41356,11 +41356,7 @@
         "name": "numeric-10-box",
         "codepoint": "F0F7D",
         "aliases": [],
-        "tags": [
-            "Alpha \/ Numeric",
-            "Alpha \/ Numeric",
-            "Alpha \/ Numeric"
-        ],
+        "tags": [],
         "author": "Michael Irigoyen",
         "version": "3.9.97"
     },
@@ -54369,7 +54365,6 @@
         "name": "syllabary-katakana-halfwidth",
         "codepoint": "F1336",
         "aliases": [
-            "writing-system-katakana-half-width",
             "writing-system-katakana-half-width"
         ],
         "tags": [
