@@ -60257,7 +60257,9 @@
         "name": "watch-export-variant",
         "codepoint": "F0895",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Device \/ Tech"
+        ],
         "author": "Contributors",
         "version": "2.1.99"
     },
