@@ -42133,7 +42133,9 @@
         "name": "numeric-9-box-multiple",
         "codepoint": "F0F17",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
         "author": "Contributors",
         "version": "3.8.95"
     },
