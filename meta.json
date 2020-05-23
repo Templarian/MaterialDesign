@@ -26650,7 +26650,8 @@
             "folder-warning"
         ],
         "tags": [
-            "Files \/ Folders"
+            "Files \/ Folders",
+            "Alert \/ Error"
         ],
         "author": "Michael Irigoyen",
         "version": "3.5.94"
