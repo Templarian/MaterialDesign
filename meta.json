@@ -27473,7 +27473,9 @@
         "name": "food-apple",
         "codepoint": "F025B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
