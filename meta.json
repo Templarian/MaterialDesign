@@ -42023,7 +42023,9 @@
             "numeric-eight-box",
             "number-8-box"
         ],
-        "tags": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
