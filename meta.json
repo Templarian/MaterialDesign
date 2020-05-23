@@ -42050,7 +42050,9 @@
             "numeric-8-boxes-outline",
             "number-8-box-multiple-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
