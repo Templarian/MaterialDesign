@@ -41681,7 +41681,9 @@
             "number-4-circle",
             "number-four-circle"
         ],
-        "tags": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
         "author": "Contributors",
         "version": "3.2.89"
     },
