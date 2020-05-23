@@ -42163,7 +42163,9 @@
             "numeric-nine-box-outline",
             "number-9-box-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
