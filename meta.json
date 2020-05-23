@@ -42009,7 +42009,9 @@
             "number-8",
             "numeric-eight"
         ],
-        "tags": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
         "author": "GreenTurtwig",
         "version": "2.8.94"
     },
