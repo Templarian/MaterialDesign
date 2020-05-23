@@ -9773,7 +9773,9 @@
         "name": "border-bottom-variant",
         "codepoint": "F08A2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Austin Andrews",
         "version": "2.2.43"
     },
