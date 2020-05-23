@@ -18398,7 +18398,9 @@
         "name": "content-save-settings-outline",
         "codepoint": "F0B2E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Contributors",
         "version": "2.8.94"
     },
