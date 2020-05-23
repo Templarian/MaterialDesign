@@ -42023,10 +42023,7 @@
             "numeric-eight-box",
             "number-8-box"
         ],
-        "tags": [
-            "Alpha \/ Numeric",
-            "Alpha \/ Numeric"
-        ],
+        "tags": [],
         "author": "Google",
         "version": "1.5.54"
     },
