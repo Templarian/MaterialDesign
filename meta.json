@@ -41259,7 +41259,9 @@
         "name": "numeric-1-box-multiple",
         "codepoint": "F0F0F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
         "author": "Contributors",
         "version": "3.8.95"
     },
