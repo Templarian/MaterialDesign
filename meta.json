@@ -58033,7 +58033,9 @@
         "aliases": [
             "uplay"
         ],
-        "tags": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
         "author": "Contributors",
         "version": "3.0.39"
     },
