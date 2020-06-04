@@ -50836,7 +50836,8 @@
         "name": "ship-wheel",
         "codepoint": "F0833",
         "aliases": [
-            "voyager"
+            "voyager",
+            "helm"
         ],
         "tags": [
             "Transportation + Water"
