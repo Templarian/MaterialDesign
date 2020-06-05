@@ -1,5 +1,5 @@
 ---
-name: Request Documentation or Guide ❓
+name: Request Documentation or Guide 📃
 about: Request documentation for a framework or how to guide
 title: ''
 labels: Documentation
