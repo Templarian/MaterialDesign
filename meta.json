@@ -15908,6 +15908,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "E316EB8B-FF99-4B85-AE09-C7E5A9656738",
+        "name": "clipboard-edit-outline",
+        "codepoint": "F14E6",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.4.45"
+    },
+    {
         "id": "CE6923D5-218F-4817-B904-E03A842CE696",
         "name": "clipboard-file",
         "codepoint": "F1265",
