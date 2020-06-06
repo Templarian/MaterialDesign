@@ -15899,6 +15899,15 @@
         "version": "2.2.43"
     },
     {
+        "id": "BA08B631-B169-4C0F-A99B-BBECC9F18CAA",
+        "name": "clipboard-edit",
+        "codepoint": "F14E5",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.4.45"
+    },
+    {
         "id": "CE6923D5-218F-4817-B904-E03A842CE696",
         "name": "clipboard-file",
         "codepoint": "F1265",
