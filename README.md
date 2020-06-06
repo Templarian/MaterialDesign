@@ -4,18 +4,18 @@ This repo contains all the planning for current and work-in-progress Material De
 
 [Getting Started for Bootstrap](http://materialdesignicons.com/bootstrap) - [Getting Started for Other Platforms](http://materialdesignicons.com/getting-started)
 
-[![npm](https://img.shields.io/npm/v/@mdi/font.svg)](https://www.npmjs.com/package/@mdi/svg) [![GitHub issues](https://img.shields.io/github/issues/Templarian/MaterialDesign.svg)](https://github.com/Templarian/MaterialDesign/issues) [![npm](https://img.shields.io/npm/dm/@mdi/font.svg)](https://github.com/Templarian/MaterialDesign-Webfont) + (renamed `mdi` [![npm](https://img.shields.io/npm/dm/mdi.svg)](https://github.com/Templarian/MaterialDesign-Webfont))
+[![npm](https://img.shields.io/npm/v/@mdi/font.svg)](https://www.npmjs.com/package/@mdi/svg) [![GitHub issues](https://img.shields.io/github/issues/Templarian/MaterialDesign.svg)](https://github.com/Templarian/MaterialDesign/issues)
 
 ## Icons
 
 View at [Material Design Icons](http://materialdesignicons.com/). This repo also contains converted icons from [Google's official icon set](https://github.com/google/material-design-icons).
 
-|                 | NPM                   | Dist Repo |
-|-----------------|-----------------------|-----------|
-| Webfont / SCSS  | `npm install @mdi/font`     | [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) |
-| JavaScript / TypeScript  | `npm install @mdi/js`     | [MaterialDesign-JS](https://github.com/Templarian/MaterialDesign-JS) |
-| ReactJS  | `npm install @mdi/react`     | [MaterialDesign-React](https://github.com/Templarian/MaterialDesign-React) |
-| SVG / Meta.json | `npm install @mdi/svg` | [MaterialDesign-SVG](https://github.com/Templarian/MaterialDesign-SVG)     |
+|                 | NPM                   | Dist Repo |   |
+|-----------------|-----------------------|-----------|---|
+| Webfont / SCSS  | `npm install @mdi/font`     | [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) | [![npm](https://img.shields.io/npm/dm/@mdi/font.svg)](https://github.com/Templarian/MaterialDesign-Webfont) |
+| JavaScript / TypeScript  | `npm install @mdi/js`     | [MaterialDesign-JS](https://github.com/Templarian/MaterialDesign-JS) | [![npm](https://img.shields.io/npm/dm/@mdi/js.svg)](https://github.com/Templarian/MaterialDesign-JS) |
+| ReactJS  | `npm install @mdi/react`     | [MaterialDesign-React](https://github.com/Templarian/MaterialDesign-React) | [![npm](https://img.shields.io/npm/dm/@mdi/react.svg)](https://github.com/Templarian/MaterialDesign-React) |
+| SVG / Meta.json | `npm install @mdi/svg` | [MaterialDesign-SVG](https://github.com/Templarian/MaterialDesign-SVG)     | [![npm](https://img.shields.io/npm/dm/@mdi/svg.svg)](https://github.com/Templarian/MaterialDesign-SVG) |
 | Desktop Font | n/a | [MaterialDesign-Font](https://github.com/Templarian/MaterialDesign-Font)     |
 
 [Upgrade Guide](https://dev.materialdesignicons.com/upgrade) | [Changelog Guide](https://dev.materialdesignicons.com/changelog)
