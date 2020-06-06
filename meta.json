@@ -33209,6 +33209,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "1B83707C-D3DF-4181-93D5-5B513B649E1C",
+        "name": "human-edit",
+        "codepoint": "F14E8",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.4.45"
+    },
+    {
         "id": "059421A9-4F27-493A-8835-4B49B5286366",
         "name": "human-female",
         "codepoint": "F0649",
