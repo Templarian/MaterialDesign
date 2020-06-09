@@ -41082,6 +41082,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "31A232F5-6134-4A8D-A9D1-41DC4404922D",
+        "name": "notebook-edit-outline",
+        "codepoint": "F14E9",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.4.45"
+    },
+    {
         "id": "3F75C3D8-9360-4C31-AF58-1C01321620F0",
         "name": "notebook-multiple",
         "codepoint": "F0E55",
