@@ -13345,6 +13345,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "03BA1D57-6374-41F7-A781-C0615B91178B",
+        "name": "cash-lock",
+        "codepoint": "F14EA",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.4.45"
+    },
+    {
         "id": "080E0DBC-A7E4-40C0-A126-9CE83BDE2FDF",
         "name": "cash-marker",
         "codepoint": "F0DB8",
