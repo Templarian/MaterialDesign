@@ -13354,6 +13354,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "C9CB2DC9-3F57-4D99-81D8-154F348746E5",
+        "name": "cash-lock-open",
+        "codepoint": "F14EB",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.4.45"
+    },
+    {
         "id": "080E0DBC-A7E4-40C0-A126-9CE83BDE2FDF",
         "name": "cash-marker",
         "codepoint": "F0DB8",
