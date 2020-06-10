@@ -12602,7 +12602,9 @@
         "name": "car-outline",
         "codepoint": "F14ED",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Google",
         "version": "5.4.45"
     },
