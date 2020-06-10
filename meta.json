@@ -53093,7 +53093,9 @@
         "name": "spirit-level",
         "codepoint": "F14F1",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Hardware \/ Tools"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.45"
     },
