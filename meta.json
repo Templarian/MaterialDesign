@@ -13363,6 +13363,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "4AF1798E-6400-40B9-8DAB-4482C07C62E9",
+        "name": "cash-check",
+        "codepoint": "F14EE",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.4.45"
+    },
+    {
         "id": "03BA1D57-6374-41F7-A781-C0615B91178B",
         "name": "cash-lock",
         "codepoint": "F14EA",
