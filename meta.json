@@ -25607,6 +25607,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "156D4779-7EC6-4BD9-A7B1-F123A387B109",
+        "name": "filter-off-outline",
+        "codepoint": "F14F0",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.4.45"
+    },
+    {
         "id": "524BE3DE-F5C8-4E2E-A329-8480136DCBDB",
         "name": "filter-outline",
         "codepoint": "F0233",
