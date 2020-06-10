@@ -1244,6 +1244,15 @@
         "version": "2.7.94"
     },
     {
+        "id": "51B2A4EF-1F20-44EA-BC57-D1B3129C496C",
+        "name": "account-supervisor-circle-outlined",
+        "codepoint": "F14EC",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.4.45"
+    },
+    {
         "id": "B640886A-F3F0-4FE4-AC74-4AE1407E264F",
         "name": "account-supervisor-outline",
         "codepoint": "F112D",
