@@ -12598,6 +12598,15 @@
         "version": "3.6.95"
     },
     {
+        "id": "8EDBF463-60A3-4F49-9198-B52F8E6FB68B",
+        "name": "car-outline",
+        "codepoint": "F14ED",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.4.45"
+    },
+    {
         "id": "03116932-7E19-45C7-9E34-02308FCDD7F4",
         "name": "car-parking-lights",
         "codepoint": "F0D63",
