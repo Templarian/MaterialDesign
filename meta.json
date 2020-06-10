@@ -61204,7 +61204,9 @@
         "name": "wheel-barrow",
         "codepoint": "F14F2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Hardware \/ Tools"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.45"
     },
