@@ -53089,6 +53089,15 @@
         "version": "3.0.39"
     },
     {
+        "id": "B647E730-0D7E-4F13-A051-74D92C2A6F0A",
+        "name": "spirit-level",
+        "codepoint": "F14F1",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "D68EF8DE-C9F5-47FB-BCD4-C0DD4D7FCBFD",
         "name": "spoon-sugar",
         "codepoint": "F1429",
