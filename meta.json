@@ -61198,6 +61198,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "2D35B573-0B04-4E72-84CA-6BE431EE5AE5",
+        "name": "wheel-barrow",
+        "codepoint": "F14F2",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "FB4E1390-EFB1-4364-B6EE-F936C5715163",
         "name": "wheelchair-accessibility",
         "codepoint": "F05A4",
