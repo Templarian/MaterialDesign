@@ -9135,6 +9135,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "32A94643-61F6-4F21-BB4D-68932CB98FB4",
+        "name": "book-check-outline",
+        "codepoint": "F14F4",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.4.45"
+    },
+    {
         "id": "CC30F9D0-3076-4189-A00D-F570D5B0C5D1",
         "name": "book-cross",
         "codepoint": "F00A2",
