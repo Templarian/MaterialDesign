@@ -9126,6 +9126,15 @@
         "version": "1.6.50"
     },
     {
+        "id": "ADF6BB0F-12F3-498F-B31A-07F6BFFFDF9D",
+        "name": "book-check",
+        "codepoint": "F14F3",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.4.45"
+    },
+    {
         "id": "CC30F9D0-3076-4189-A00D-F570D5B0C5D1",
         "name": "book-cross",
         "codepoint": "F00A2",
