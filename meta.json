@@ -41165,6 +41165,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "0C11F6D4-B9DE-4927-AB54-B17695167B25",
+        "name": "notebook-check-outline",
+        "codepoint": "F14F6",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.4.45"
+    },
+    {
         "id": "EFBA00EA-395F-47DF-A0B9-8F42C1A697E1",
         "name": "notebook-edit",
         "codepoint": "F14E7",
