@@ -41156,6 +41156,15 @@
         "version": "2.1.19"
     },
     {
+        "id": "7DBD97BD-376C-45C2-85BA-74BE45C03F2E",
+        "name": "notebook-check",
+        "codepoint": "F14F5",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.4.45"
+    },
+    {
         "id": "EFBA00EA-395F-47DF-A0B9-8F42C1A697E1",
         "name": "notebook-edit",
         "codepoint": "F14E7",
