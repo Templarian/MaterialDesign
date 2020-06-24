@@ -9267,6 +9267,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "08C8BAF9-6B91-458D-BE03-F6A7AABEA2AB",
+        "name": "book-open-blank-variant",
+        "codepoint": "F00BE",
+        "aliases": [
+            "import-contacts"
+        ],
+        "tags": [],
+        "author": "Google",
+        "version": "1.5.54"
+    },
+    {
         "id": "BA5E15E3-923B-464B-ACEA-F2958F6782F7",
         "name": "book-open-outline",
         "codepoint": "F0B63",
@@ -9281,17 +9292,6 @@
         "codepoint": "F05DA",
         "aliases": [
             "auto-stories"
-        ],
-        "tags": [],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
-        "id": "08C8BAF9-6B91-458D-BE03-F6A7AABEA2AB",
-        "name": "book-open-variant",
-        "codepoint": "F00BE",
-        "aliases": [
-            "import-contacts"
         ],
         "tags": [],
         "author": "Google",
