@@ -51082,6 +51082,15 @@
         "version": "3.9.97"
     },
     {
+        "id": "9F0501F0-7F2C-4806-8AC4-F8D76AA194CD",
+        "name": "shore",
+        "codepoint": "F14F9",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Hilnbrand",
+        "version": "5.4.45"
+    },
+    {
         "id": "16D35D19-90C2-42DD-9E83-8F47E21A53DF",
         "name": "shovel",
         "codepoint": "F0710",
