@@ -23329,7 +23329,8 @@
             "charging-station",
             "ev-charger",
             "wall-charger",
-            "wallbox"
+            "wallbox",
+            "electric-vehicle-charger"
         ],
         "tags": [
             "Places",
