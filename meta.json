@@ -23327,7 +23327,8 @@
         "codepoint": "F05F1",
         "aliases": [
             "charging-station",
-            "ev-charger"
+            "ev-charger",
+            "wall-charger"
         ],
         "tags": [
             "Places",
