@@ -23330,7 +23330,8 @@
             "ev-charger",
             "wall-charger",
             "wallbox",
-            "electric-vehicle-charger"
+            "electric-vehicle-charger",
+            "evse"
         ],
         "tags": [
             "Places",
