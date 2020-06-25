@@ -51260,6 +51260,15 @@
         "version": "4.0.96"
     },
     {
+        "id": "AE565EF0-BC09-44FB-B94A-A5F2CF2B2CB2",
+        "name": "sign-pole",
+        "codepoint": "F14F8",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Hilnbrand",
+        "version": "5.4.45"
+    },
+    {
         "id": "A24BD314-F1AF-4BAF-A33B-F9BAD9D54089",
         "name": "sign-real-estate",
         "codepoint": "F1118",
