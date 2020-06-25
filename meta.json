@@ -23326,7 +23326,8 @@
         "name": "ev-station",
         "codepoint": "F05F1",
         "aliases": [
-            "charging-station"
+            "charging-station",
+            "ev-charger"
         ],
         "tags": [
             "Places",
