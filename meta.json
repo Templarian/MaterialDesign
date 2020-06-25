@@ -23328,7 +23328,8 @@
         "aliases": [
             "charging-station",
             "ev-charger",
-            "wall-charger"
+            "wall-charger",
+            "wallbox"
         ],
         "tags": [
             "Places",
