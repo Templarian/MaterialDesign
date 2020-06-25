@@ -50408,6 +50408,15 @@
         "version": "1.6.50"
     },
     {
+        "id": "783621A3-B8D0-4340-BE29-0399B02EAE6B",
+        "name": "shape-square-rounded-plus",
+        "codepoint": "F14FA",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Hilnbrand",
+        "version": "5.4.45"
+    },
+    {
         "id": "F0053E35-64B2-45D5-92D6-EE9F8A8839A1",
         "name": "share",
         "codepoint": "F0496",
