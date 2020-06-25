@@ -53392,6 +53392,15 @@
         "version": "2.4.85"
     },
     {
+        "id": "56B32490-2AEB-4EF7-B0F8-72D918829BE2",
+        "name": "square-rounded",
+        "codepoint": "F14FB",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Hilnbrand",
+        "version": "5.4.45"
+    },
+    {
         "id": "E4490267-ACAE-4E86-8747-8D2D620DC707",
         "name": "square-small",
         "codepoint": "F0A15",
