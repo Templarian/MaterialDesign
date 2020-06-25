@@ -23819,6 +23819,19 @@
         "version": "1.5.54"
     },
     {
+        "id": "62F96579-80AE-4827-9C18-1C1FD239DE49",
+        "name": "facebook-gaming",
+        "codepoint": "F07DD",
+        "aliases": [
+            "microsoft-mixer"
+        ],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "2.0.46"
+    },
+    {
         "id": "1989DA16-DAA9-4C95-A61F-BA512FE5592D",
         "name": "facebook-messenger",
         "codepoint": "F020E",
@@ -39387,19 +39400,6 @@
         "tags": [],
         "author": "GreenTurtwig",
         "version": "2.1.99"
-    },
-    {
-        "id": "62F96579-80AE-4827-9C18-1C1FD239DE49",
-        "name": "mixer",
-        "codepoint": "F07DD",
-        "aliases": [
-            "microsoft-mixer"
-        ],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "2.0.46"
     },
     {
         "id": "9DD7B3EE-91B8-4D42-A781-2B12B0343C0B",
