@@ -23331,7 +23331,8 @@
             "wall-charger",
             "wallbox",
             "electric-vehicle-charger",
-            "evse"
+            "evse",
+            "electric-charger"
         ],
         "tags": [
             "Places",
