@@ -56485,7 +56485,10 @@
         "id": "43EDCFCF-4AFB-45E7-8F83-56CC40FC93B7",
         "name": "ticket-percent-outline",
         "codepoint": "F142B",
-        "aliases": [],
+        "aliases": [
+            "coupon-outline",
+            "voucher-outline"
+        ],
         "tags": [],
         "author": "\u00d6zg\u00fcr G\u00f6rg\u00fcl\u00fc",
         "version": "5.2.45"
