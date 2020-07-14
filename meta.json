@@ -57696,7 +57696,9 @@
         "name": "transit-skip",
         "codepoint": "F1515",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Other"
+        ],
         "author": "Jeff Hilnbrand",
         "version": "5.4.45"
     },
