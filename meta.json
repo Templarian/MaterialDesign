@@ -60772,7 +60772,9 @@
         "id": "55C44783-89D5-4A31-86B8-863B719EC876",
         "name": "water-percent-alert",
         "codepoint": "F1509",
-        "aliases": [],
+        "aliases": [
+            "humidity-alert"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.4.45"
