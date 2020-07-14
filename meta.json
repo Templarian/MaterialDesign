@@ -60671,6 +60671,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "E555BA93-F6A7-4B19-A4F8-132585E14850",
+        "name": "water-check-outline",
+        "codepoint": "F1505",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "6C9777A0-967D-4242-91B2-E4D6B5596498",
         "name": "water-off",
         "codepoint": "F058D",
