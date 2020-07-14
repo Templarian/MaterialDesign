@@ -23391,6 +23391,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "C2C4C1DC-0FB1-4A1A-AA85-8FD1D8DF4532",
+        "name": "ev-plug-chademo",
+        "codepoint": "F151B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "7C859DE1-16F6-4EF2-9097-A1D0C14CC3A2",
         "name": "ev-station",
         "codepoint": "F05F1",
