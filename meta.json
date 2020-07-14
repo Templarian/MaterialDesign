@@ -23417,7 +23417,9 @@
         "id": "04B5C8D6-9732-4D4D-AC1B-0C9ED9E3B8DF",
         "name": "ev-plug-tesla",
         "codepoint": "F151C",
-        "aliases": [],
+        "aliases": [
+            "ev-charger-tesla"
+        ],
         "tags": [
             "Automotive"
         ],
