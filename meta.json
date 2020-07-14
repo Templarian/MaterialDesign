@@ -23382,6 +23382,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "4FE92E92-170B-495E-A16E-0897AD787E02",
+        "name": "ev-plug-ccs2",
+        "codepoint": "F151A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "7C859DE1-16F6-4EF2-9097-A1D0C14CC3A2",
         "name": "ev-station",
         "codepoint": "F05F1",
