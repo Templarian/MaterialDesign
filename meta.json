@@ -60683,7 +60683,10 @@
         "id": "C3824C0D-87B1-4577-A060-EDE628A694BC",
         "name": "water-minus",
         "codepoint": "F1506",
-        "aliases": [],
+        "aliases": [
+            "drop-minus",
+            "blood-minus"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.4.45"
