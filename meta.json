@@ -60844,7 +60844,10 @@
         "id": "C90739A3-CEDE-4524-A736-BA5A5B5F0CCB",
         "name": "water-remove-outline",
         "codepoint": "F150D",
-        "aliases": [],
+        "aliases": [
+            "drop-remove-outline",
+            "blood-remove-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.4.45"
