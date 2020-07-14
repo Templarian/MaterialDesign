@@ -60756,6 +60756,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "B7B4ACBA-F24A-48D7-A409-965A32860CE9",
+        "name": "water-plus",
+        "codepoint": "F150A",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "09C341A8-067F-4CE2-96BC-D96E18334AB3",
         "name": "water-polo",
         "codepoint": "F12A0",
