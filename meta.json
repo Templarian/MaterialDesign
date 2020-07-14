@@ -23400,6 +23400,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "04B5C8D6-9732-4D4D-AC1B-0C9ED9E3B8DF",
+        "name": "ev-plug-tesla",
+        "codepoint": "F151C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "7C859DE1-16F6-4EF2-9097-A1D0C14CC3A2",
         "name": "ev-station",
         "codepoint": "F05F1",
