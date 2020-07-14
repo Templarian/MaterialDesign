@@ -60732,7 +60732,11 @@
         "id": "8B8E5074-5348-4856-BBF0-461BA5022BF3",
         "name": "water-off-outline",
         "codepoint": "F1508",
-        "aliases": [],
+        "aliases": [
+            "drop-off-outline",
+            "blood-off-outline",
+            "trans-fat-off-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.4.45"
