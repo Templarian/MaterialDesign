@@ -4597,6 +4597,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "41367FBC-DCE3-4202-AF33-3AD576C3FD7C",
+        "name": "archive-alert",
+        "codepoint": "F14FD",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.4.45"
+    },
+    {
         "id": "237B205E-C03C-424A-93F9-8C771FE01A38",
         "name": "archive-arrow-down",
         "codepoint": "F1259",
