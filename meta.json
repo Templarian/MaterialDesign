@@ -46096,6 +46096,15 @@
         "version": "4.3.95"
     },
     {
+        "id": "D7106221-1ABC-4E8E-9345-E2B23D5D74B9",
+        "name": "power-socket-it",
+        "codepoint": "F14FF",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.4.45"
+    },
+    {
         "id": "98D7A146-D68E-4E80-B8F1-5235DAECD976",
         "name": "power-socket-jp",
         "codepoint": "F1109",
