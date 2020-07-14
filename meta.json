@@ -60765,7 +60765,10 @@
         "id": "B7B4ACBA-F24A-48D7-A409-965A32860CE9",
         "name": "water-plus",
         "codepoint": "F150A",
-        "aliases": [],
+        "aliases": [
+            "drop-plus",
+            "blood-plus"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.4.45"
