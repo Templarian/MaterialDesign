@@ -60777,7 +60777,10 @@
         "id": "74B7C41B-554D-453A-8646-FFAFDF78C3CA",
         "name": "water-plus-outline",
         "codepoint": "F150B",
-        "aliases": [],
+        "aliases": [
+            "drop-plus-outline",
+            "blood-plus-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.4.45"
