@@ -60826,6 +60826,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "C90739A3-CEDE-4524-A736-BA5A5B5F0CCB",
+        "name": "water-remove-outline",
+        "codepoint": "F150D",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "4EE62E99-C30B-4A90-B89D-ADF4C26EF888",
         "name": "water-well",
         "codepoint": "F106B",
