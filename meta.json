@@ -23433,7 +23433,9 @@
         "id": "F5687378-A23D-4D4C-98A2-55E95642FD06",
         "name": "ev-plug-type2",
         "codepoint": "F151E",
-        "aliases": [],
+        "aliases": [
+            "ev-plug-mennekes"
+        ],
         "tags": [
             "Automotive"
         ],
