@@ -60680,6 +60680,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "C3824C0D-87B1-4577-A060-EDE628A694BC",
+        "name": "water-minus",
+        "codepoint": "F1506",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "6C9777A0-967D-4242-91B2-E4D6B5596498",
         "name": "water-off",
         "codepoint": "F058D",
