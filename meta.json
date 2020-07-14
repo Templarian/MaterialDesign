@@ -24597,6 +24597,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "F0545588-B29A-454E-B023-4FC4ED30BCDD",
+        "name": "file-document-multiple-outline",
+        "codepoint": "F1518",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "5CB4D11F-6B3A-465D-A2CD-F4172AD287B0",
         "name": "file-document-outline",
         "codepoint": "F09EE",
