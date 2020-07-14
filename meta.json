@@ -53345,6 +53345,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "F49668FC-6B0F-43E9-BB4E-044C3C9229AA",
+        "name": "square-circle",
+        "codepoint": "F1500",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "22469E65-F1CB-408D-B6B5-1E599A85E368",
         "name": "square-edit-outline",
         "codepoint": "F090C",
