@@ -60695,7 +60695,10 @@
         "id": "8536A2D7-1203-44B5-BBBE-6C37AABAD5B6",
         "name": "water-minus-outline",
         "codepoint": "F1507",
-        "aliases": [],
+        "aliases": [
+            "drop-minus-outline",
+            "blood-minus-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.4.45"
