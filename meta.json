@@ -60832,7 +60832,10 @@
         "id": "2B0BAF1E-C9B8-42E9-84EB-D095EE2B0C39",
         "name": "water-remove",
         "codepoint": "F150C",
-        "aliases": [],
+        "aliases": [
+            "drop-remove",
+            "blood-remove"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.4.45"
