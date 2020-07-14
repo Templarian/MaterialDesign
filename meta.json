@@ -23404,7 +23404,9 @@
         "id": "C2C4C1DC-0FB1-4A1A-AA85-8FD1D8DF4532",
         "name": "ev-plug-chademo",
         "codepoint": "F151B",
-        "aliases": [],
+        "aliases": [
+            "ev-charger-chademo"
+        ],
         "tags": [
             "Automotive"
         ],
