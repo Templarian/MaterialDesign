@@ -23376,7 +23376,9 @@
         "id": "7C687673-B2F0-43B6-A5E3-E25B9FFA0F8E",
         "name": "ev-plug-ccs1",
         "codepoint": "F1519",
-        "aliases": [],
+        "aliases": [
+            "ev-plug-ccs-combo-1"
+        ],
         "tags": [
             "Automotive"
         ],
