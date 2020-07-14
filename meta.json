@@ -23377,7 +23377,8 @@
         "name": "ev-plug-ccs1",
         "codepoint": "F1519",
         "aliases": [
-            "ev-plug-ccs-combo-1"
+            "ev-plug-ccs-combo-1",
+            "ev-charger-ccs1"
         ],
         "tags": [
             "Automotive"
