@@ -60611,7 +60611,10 @@
         "id": "DDBEC0DB-97A9-439B-9FC0-5A05F51ED5E3",
         "name": "water-alert",
         "codepoint": "F1502",
-        "aliases": [],
+        "aliases": [
+            "drop-alert",
+            "blood-alert"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.4.45"
