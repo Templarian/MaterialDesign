@@ -23431,7 +23431,8 @@
         "name": "ev-plug-type1",
         "codepoint": "F151D",
         "aliases": [
-            "ev-plug-j1772"
+            "ev-plug-j1772",
+            "ev-charger-type1"
         ],
         "tags": [
             "Automotive"
