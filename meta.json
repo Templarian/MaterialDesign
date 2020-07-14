@@ -24588,6 +24588,15 @@
         "version": "3.5.94"
     },
     {
+        "id": "05A5AF1D-055E-4FBB-BDD4-D20F3EF105DC",
+        "name": "file-document-multiple",
+        "codepoint": "F1517",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.4.45"
+    },
+    {
         "id": "5CB4D11F-6B3A-465D-A2CD-F4172AD287B0",
         "name": "file-document-outline",
         "codepoint": "F09EE",
