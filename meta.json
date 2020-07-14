@@ -60662,6 +60662,15 @@
         "version": "4.5.95"
     },
     {
+        "id": "30A9ED7F-3D06-476B-A4F1-B9F85786FF00",
+        "name": "water-check",
+        "codepoint": "F1504",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "6C9777A0-967D-4242-91B2-E4D6B5596498",
         "name": "water-off",
         "codepoint": "F058D",
