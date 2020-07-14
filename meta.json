@@ -60617,6 +60617,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "4741B9A5-3E15-45B5-BD7B-B812C7E7644F",
+        "name": "water-alert-outline",
+        "codepoint": "F1503",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "02A9C002-3B54-415E-8199-067139DF771A",
         "name": "water-boiler",
         "codepoint": "F0F92",
