@@ -23420,7 +23420,9 @@
         "id": "781567F7-B41B-4CB2-BDD8-DDF3AB75CC57",
         "name": "ev-plug-type1",
         "codepoint": "F151D",
-        "aliases": [],
+        "aliases": [
+            "ev-plug-j1772"
+        ],
         "tags": [
             "Automotive"
         ],
