@@ -23418,6 +23418,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "F5687378-A23D-4D4C-98A2-55E95642FD06",
+        "name": "ev-plug-type2",
+        "codepoint": "F151E",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "7C859DE1-16F6-4EF2-9097-A1D0C14CC3A2",
         "name": "ev-station",
         "codepoint": "F05F1",
