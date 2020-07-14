@@ -60711,6 +60711,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "8B8E5074-5348-4856-BBF0-461BA5022BF3",
+        "name": "water-off-outline",
+        "codepoint": "F1508",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "DC3CFDE4-8FA9-497A-A937-6F7182B560E1",
         "name": "water-outline",
         "codepoint": "F0E0A",
