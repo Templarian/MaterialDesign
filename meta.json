@@ -62318,6 +62318,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "9BCCFDB1-42DE-4807-BF9B-36AD3B40B996",
+        "name": "yurt",
+        "codepoint": "F1516",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "6A2E5A75-34CC-4B32-A1F6-156803328935",
         "name": "z-wave",
         "codepoint": "F0AEA",
