@@ -57689,6 +57689,15 @@
         "version": "3.9.97"
     },
     {
+        "id": "A52E6E56-7AE7-45E3-B854-A2DF41F3141B",
+        "name": "transit-skip",
+        "codepoint": "F1515",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Hilnbrand",
+        "version": "5.4.45"
+    },
+    {
         "id": "CE6451FA-EF46-40B4-B87B-BCF93DDE6E54",
         "name": "transit-transfer",
         "codepoint": "F06AE",
