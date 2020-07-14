@@ -92,6 +92,15 @@
         "version": "3.2.89"
     },
     {
+        "id": "ED942A44-4B13-47E6-A674-E376C338F671",
+        "name": "access-point-off",
+        "codepoint": "F1511",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "E76EC23F-AB71-49B3-9173-841544527A20",
         "name": "account",
         "codepoint": "F0004",
