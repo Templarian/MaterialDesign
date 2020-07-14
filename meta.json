@@ -52319,7 +52319,9 @@
         "name": "snake",
         "codepoint": "F150E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Animal"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.4.45"
     },
