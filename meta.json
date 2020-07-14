@@ -60623,7 +60623,10 @@
         "id": "4741B9A5-3E15-45B5-BD7B-B812C7E7644F",
         "name": "water-alert-outline",
         "codepoint": "F1503",
-        "aliases": [],
+        "aliases": [
+            "drop-alert-outline",
+            "blood-alert-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.4.45"
