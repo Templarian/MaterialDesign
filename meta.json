@@ -54605,6 +54605,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "6A604429-C9A6-45F3-8042-D29AB7828789",
+        "name": "symbol",
+        "codepoint": "F1501",
+        "aliases": [],
+        "tags": [],
+        "author": "Haley Halcyon",
+        "version": "5.4.45"
+    },
+    {
         "id": "2BCCEE64-583D-4EC7-9BBA-72FF58354181",
         "name": "symfony",
         "codepoint": "F0AE6",
