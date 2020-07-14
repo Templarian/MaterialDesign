@@ -53349,7 +53349,9 @@
         "name": "square-circle",
         "codepoint": "F1500",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.45"
     },
