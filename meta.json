@@ -23421,7 +23421,9 @@
         "name": "ev-plug-type1",
         "codepoint": "F151D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.45"
     },
