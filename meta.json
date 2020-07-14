@@ -23377,7 +23377,9 @@
         "name": "ev-plug-ccs1",
         "codepoint": "F1519",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.45"
     },
