@@ -60665,7 +60665,10 @@
         "id": "30A9ED7F-3D06-476B-A4F1-B9F85786FF00",
         "name": "water-check",
         "codepoint": "F1504",
-        "aliases": [],
+        "aliases": [
+            "drop-check",
+            "blood-check"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.4.45"
