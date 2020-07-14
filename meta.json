@@ -19586,6 +19586,15 @@
         "version": "2.1.99"
     },
     {
+        "id": "D0B20B31-ADBD-4F8A-9B72-52CC2FE4C3F4",
+        "name": "currency-mnt",
+        "codepoint": "F1512",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "2F091499-4472-423E-A0C5-8C96CDDE1ABF",
         "name": "currency-ngn",
         "codepoint": "F01B0",
