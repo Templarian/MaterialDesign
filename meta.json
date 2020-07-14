@@ -19590,7 +19590,9 @@
         "name": "currency-mnt",
         "codepoint": "F1512",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Currency"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.4.45"
     },
