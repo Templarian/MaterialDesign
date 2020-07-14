@@ -52315,6 +52315,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "C525609F-8CAF-40A8-A3FC-724F6C699E0A",
+        "name": "snake",
+        "codepoint": "F150E",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "6DA57C23-2ADA-4CA1-8D1D-AFBBFA59C4FA",
         "name": "snapchat",
         "codepoint": "F04B6",
