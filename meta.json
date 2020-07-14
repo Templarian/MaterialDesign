@@ -53348,7 +53348,9 @@
         "id": "F49668FC-6B0F-43E9-BB4E-044C3C9229AA",
         "name": "square-circle",
         "codepoint": "F1500",
-        "aliases": [],
+        "aliases": [
+            "vegetarian"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
