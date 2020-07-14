@@ -50597,6 +50597,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "82009437-57EA-4B83-97A2-A6AA6F305CBE",
+        "name": "share-variant-outline",
+        "codepoint": "F1514",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "DEA01DF4-6FBD-45B7-AC58-CBF70545FBBA",
         "name": "sheep",
         "codepoint": "F0CC6",
