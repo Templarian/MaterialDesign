@@ -60608,6 +60608,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "DDBEC0DB-97A9-439B-9FC0-5A05F51ED5E3",
+        "name": "water-alert",
+        "codepoint": "F1502",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "02A9C002-3B54-415E-8199-067139DF771A",
         "name": "water-boiler",
         "codepoint": "F0F92",
