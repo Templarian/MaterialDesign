@@ -23373,6 +23373,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "7C687673-B2F0-43B6-A5E3-E25B9FFA0F8E",
+        "name": "ev-plug-ccs1",
+        "codepoint": "F1519",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "7C859DE1-16F6-4EF2-9097-A1D0C14CC3A2",
         "name": "ev-station",
         "codepoint": "F05F1",
