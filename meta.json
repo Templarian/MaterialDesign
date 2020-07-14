@@ -60747,6 +60747,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "55C44783-89D5-4A31-86B8-863B719EC876",
+        "name": "water-percent-alert",
+        "codepoint": "F1509",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "09C341A8-067F-4CE2-96BC-D96E18334AB3",
         "name": "water-polo",
         "codepoint": "F12A0",
