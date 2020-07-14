@@ -23390,7 +23390,8 @@
         "name": "ev-plug-ccs2",
         "codepoint": "F151A",
         "aliases": [
-            "ev-plug-ccs-combo-2"
+            "ev-plug-ccs-combo-2",
+            "ev-charger-ccs2"
         ],
         "tags": [
             "Automotive"
