@@ -23388,7 +23388,9 @@
         "name": "ev-plug-ccs2",
         "codepoint": "F151A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.45"
     },
