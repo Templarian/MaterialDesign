@@ -31018,6 +31018,19 @@
         "version": "2.1.99"
     },
     {
+        "id": "8688646A-F06F-421F-83B1-8AA8FABF7BD8",
+        "name": "grass",
+        "codepoint": "F1510",
+        "aliases": [
+            "lawn"
+        ],
+        "tags": [
+            "Nature"
+        ],
+        "author": "Google",
+        "version": "5.4.45"
+    },
+    {
         "id": "4986CAC4-4886-4868-8D81-28F00376536A",
         "name": "grave-stone",
         "codepoint": "F0BA2",
