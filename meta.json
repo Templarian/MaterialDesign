@@ -28845,6 +28845,17 @@
         "version": "3.6.95"
     },
     {
+        "id": "98078792-391E-4CB0-8C7A-8F76868FA289",
+        "name": "format-text-variant-outline",
+        "codepoint": "F150F",
+        "aliases": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
+        "author": "Haley Halcyon",
+        "version": "5.4.45"
+    },
+    {
         "id": "DD6BADDA-B656-424C-AF6D-509CB7E382D2",
         "name": "format-text-wrapping-clip",
         "codepoint": "F0D0E",
