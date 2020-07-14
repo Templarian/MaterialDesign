@@ -23399,7 +23399,9 @@
         "name": "ev-plug-chademo",
         "codepoint": "F151B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.45"
     },
