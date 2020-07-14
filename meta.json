@@ -23410,7 +23410,9 @@
         "name": "ev-plug-tesla",
         "codepoint": "F151C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.45"
     },
