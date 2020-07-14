@@ -19589,7 +19589,9 @@
         "id": "D0B20B31-ADBD-4F8A-9B72-52CC2FE4C3F4",
         "name": "currency-mnt",
         "codepoint": "F1512",
-        "aliases": [],
+        "aliases": [
+            "currency-mongolian-tugrug"
+        ],
         "tags": [
             "Currency"
         ],
