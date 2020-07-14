@@ -23389,7 +23389,9 @@
         "id": "4FE92E92-170B-495E-A16E-0897AD787E02",
         "name": "ev-plug-ccs2",
         "codepoint": "F151A",
-        "aliases": [],
+        "aliases": [
+            "ev-plug-ccs-combo-2"
+        ],
         "tags": [
             "Automotive"
         ],
