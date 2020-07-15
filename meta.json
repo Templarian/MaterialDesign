@@ -7210,7 +7210,9 @@
         "id": "C730C431-5377-4B0E-933B-5307E736B75A",
         "name": "basket-remove",
         "codepoint": "F1529",
-        "aliases": [],
+        "aliases": [
+            "shopping-basket-remove"
+        ],
         "tags": [
             "Shopping"
         ],
