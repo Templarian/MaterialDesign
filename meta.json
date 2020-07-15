@@ -7123,7 +7123,9 @@
         "id": "C41B2071-6BBF-458A-B73A-409D231A9F4D",
         "name": "basket-minus",
         "codepoint": "F1523",
-        "aliases": [],
+        "aliases": [
+            "shopping-basket-minus"
+        ],
         "tags": [
             "Shopping"
         ],
