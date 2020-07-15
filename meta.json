@@ -7135,7 +7135,9 @@
         "name": "basket-minus-outline",
         "codepoint": "F1524",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shopping"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.45"
     },
