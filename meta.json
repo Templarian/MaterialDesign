@@ -7192,7 +7192,9 @@
         "name": "basket-plus-outline",
         "codepoint": "F1528",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shopping"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.45"
     },
