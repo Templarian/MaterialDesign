@@ -7129,6 +7129,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "8F4899A8-07F0-4C00-90EE-1509BE7A0D4C",
+        "name": "basket-minus-outline",
+        "codepoint": "F1524",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "A9AC5A33-FD7D-49C8-9C5E-C41335F6E833",
         "name": "basket-outline",
         "codepoint": "F1181",
