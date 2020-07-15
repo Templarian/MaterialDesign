@@ -7147,6 +7147,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "2D28FB7D-8AEA-4ED6-BB7D-DA76EC3DA4EB",
+        "name": "basket-off-outline",
+        "codepoint": "F1526",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "A9AC5A33-FD7D-49C8-9C5E-C41335F6E833",
         "name": "basket-outline",
         "codepoint": "F1181",
