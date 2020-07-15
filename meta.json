@@ -7223,7 +7223,9 @@
         "id": "8DB42CB2-5A41-489E-BC04-1DFADF917DE6",
         "name": "basket-remove-outline",
         "codepoint": "F152A",
-        "aliases": [],
+        "aliases": [
+            "shopping-basket-remove-outline"
+        ],
         "tags": [
             "Shopping"
         ],
