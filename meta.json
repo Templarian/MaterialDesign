@@ -7146,7 +7146,9 @@
         "name": "basket-off",
         "codepoint": "F1525",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shopping"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.45"
     },
