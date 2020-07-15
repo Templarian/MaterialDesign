@@ -7170,7 +7170,9 @@
         "aliases": [
             "shopping-basket-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Shopping"
+        ],
         "author": "Google",
         "version": "4.4.95"
     },
