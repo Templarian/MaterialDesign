@@ -7185,6 +7185,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "C730C431-5377-4B0E-933B-5307E736B75A",
+        "name": "basket-remove",
+        "codepoint": "F1529",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "D46B98B3-4045-4EAD-A26E-659195B5CC65",
         "name": "basket-unfill",
         "codepoint": "F0078",
