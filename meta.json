@@ -7194,6 +7194,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "8DB42CB2-5A41-489E-BC04-1DFADF917DE6",
+        "name": "basket-remove-outline",
+        "codepoint": "F152A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "D46B98B3-4045-4EAD-A26E-659195B5CC65",
         "name": "basket-unfill",
         "codepoint": "F0078",
