@@ -7136,7 +7136,9 @@
         "id": "8F4899A8-07F0-4C00-90EE-1509BE7A0D4C",
         "name": "basket-minus-outline",
         "codepoint": "F1524",
-        "aliases": [],
+        "aliases": [
+            "shopping-basket-minus-outline"
+        ],
         "tags": [
             "Shopping"
         ],
