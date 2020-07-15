@@ -42816,6 +42816,17 @@
         "version": "5.4.45"
     },
     {
+        "id": "B9C8DF7B-34D7-4D58-B769-B3ABAD0990FC",
+        "name": "office-building-marker-outline",
+        "codepoint": "F1521",
+        "aliases": [
+            "office-building-location-outline"
+        ],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.4.45"
+    },
+    {
         "id": "1171525F-C510-44B9-9E5C-0F5CAC7A71D2",
         "name": "office-building-outline",
         "codepoint": "F151F",
