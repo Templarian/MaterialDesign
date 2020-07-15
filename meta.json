@@ -7203,7 +7203,9 @@
         "name": "basket-remove",
         "codepoint": "F1529",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shopping"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.45"
     },
