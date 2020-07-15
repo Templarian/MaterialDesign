@@ -7162,7 +7162,9 @@
         "id": "2D28FB7D-8AEA-4ED6-BB7D-DA76EC3DA4EB",
         "name": "basket-off-outline",
         "codepoint": "F1526",
-        "aliases": [],
+        "aliases": [
+            "shopping-basket-off-outline"
+        ],
         "tags": [
             "Shopping"
         ],
