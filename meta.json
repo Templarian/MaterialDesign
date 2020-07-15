@@ -7167,6 +7167,15 @@
         "version": "4.4.95"
     },
     {
+        "id": "3B02F0C6-F80B-479B-ABA7-CFBDBA843EB4",
+        "name": "basket-plus",
+        "codepoint": "F1527",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "D46B98B3-4045-4EAD-A26E-659195B5CC65",
         "name": "basket-unfill",
         "codepoint": "F0078",
