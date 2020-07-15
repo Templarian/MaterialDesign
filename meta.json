@@ -7214,7 +7214,9 @@
         "name": "basket-remove-outline",
         "codepoint": "F152A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shopping"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.45"
     },
