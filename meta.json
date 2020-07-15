@@ -7157,7 +7157,9 @@
         "name": "basket-off-outline",
         "codepoint": "F1526",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shopping"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.45"
     },
