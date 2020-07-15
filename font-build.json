@@ -24,13 +24,13 @@
     "version": {
         "major": 5,
         "minor": 4,
-        "patch": 6
+        "patch": 7
     },
     "date": {
         "year": 2020,
         "month": 6,
         "day": 15,
         "hour": 2,
-        "minute": 3
+        "minute": 16
     }
 }
