@@ -7149,7 +7149,9 @@
         "id": "FC2C74AA-57B1-4E13-A499-AA81CBE6670A",
         "name": "basket-off",
         "codepoint": "F1525",
-        "aliases": [],
+        "aliases": [
+            "shopping-basket-off"
+        ],
         "tags": [
             "Shopping"
         ],
