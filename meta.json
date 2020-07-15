@@ -7181,7 +7181,9 @@
         "name": "basket-plus",
         "codepoint": "F1527",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shopping"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.45"
     },
