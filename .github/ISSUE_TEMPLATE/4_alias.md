@@ -1,5 +1,5 @@
 ---
-name: Add an Alias 🔃
+name: Suggest an Icon Alias 🔃
 about: Make it easier to find the icons you need by suggesting alternative names.
 title: ''
 labels: Alias
