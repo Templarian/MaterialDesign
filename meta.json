@@ -14368,6 +14368,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "4115E465-01E5-4F3F-929A-81C239289B21",
+        "name": "chart-box-outline",
+        "codepoint": "F154E",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.4.45"
+    },
+    {
         "id": "9D79A433-CF5A-45A2-971F-4FBF72DB9821",
         "name": "chart-bubble",
         "codepoint": "F05E3",
