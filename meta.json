@@ -1315,7 +1315,9 @@
         "name": "account-supervisor-circle-outline",
         "codepoint": "F14EC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Google",
         "version": "5.4.55"
     },
