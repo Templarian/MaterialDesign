@@ -53133,7 +53133,9 @@
         "id": "87CE4E85-7911-415C-89AB-133A2AB8BC57",
         "name": "sort-calendar-ascending",
         "codepoint": "F1547",
-        "aliases": [],
+        "aliases": [
+            "sort-date-ascending"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "5.4.55"
