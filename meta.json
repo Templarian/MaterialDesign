@@ -59966,7 +59966,9 @@
         "name": "video-high-definition",
         "codepoint": "F152E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.55"
     },
