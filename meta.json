@@ -60780,7 +60780,9 @@
         "id": "DEAC0604-6FD1-496C-99E1-74068FC27713",
         "name": "wall-sconce-flat-variant",
         "codepoint": "F041C",
-        "aliases": [],
+        "aliases": [
+            "pot-light-flat-variant"
+        ],
         "tags": [
             "Home Automation"
         ],
