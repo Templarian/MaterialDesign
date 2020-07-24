@@ -12702,6 +12702,15 @@
         "version": "3.0.39"
     },
     {
+        "id": "10F38BAD-F9E1-4715-9BE9-3784C788D59A",
+        "name": "car-lifted-pickup",
+        "codepoint": "F152D",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.4.45"
+    },
+    {
         "id": "DA708BEF-4826-49CF-8872-C42996C9616F",
         "name": "car-light-dimmed",
         "codepoint": "F0C4A",
