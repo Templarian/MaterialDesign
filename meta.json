@@ -53173,7 +53173,9 @@
         "id": "8064DE58-939A-4179-A65E-0F5FA4AD6A18",
         "name": "sort-clock-descending",
         "codepoint": "F154B",
-        "aliases": [],
+        "aliases": [
+            "sort-time-descending"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.4.55"
