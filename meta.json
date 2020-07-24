@@ -53151,7 +53151,9 @@
         "aliases": [
             "sort-date-descending"
         ],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Austin Andrews",
         "version": "5.4.55"
     },
