@@ -59621,6 +59621,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "C8098652-E839-4E39-8465-8488B2D6502E",
+        "name": "video-high-definition",
+        "codepoint": "F152E",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "1A06058D-FA25-4AAE-A7C8-225CD0D79F06",
         "name": "video-image",
         "codepoint": "F091A",
