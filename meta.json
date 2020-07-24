@@ -57093,6 +57093,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "748EF30E-992C-41C9-94DA-A95F4F80A4EF",
+        "name": "timeline-remove-outline",
+        "codepoint": "F1537",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "DBC01596-0759-4095-9BAA-3D582324A836",
         "name": "timeline-text",
         "codepoint": "F0BD3",
