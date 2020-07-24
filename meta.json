@@ -44982,6 +44982,15 @@
         "version": "4.5.95"
     },
     {
+        "id": "7AE0A1C1-0FFD-4182-93B5-95F2419AEE8E",
+        "name": "phone-remove",
+        "codepoint": "F152F",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "B0FC2BB4-6C44-42CA-8F90-52CBCD0F1AD4",
         "name": "phone-return",
         "codepoint": "F082F",
