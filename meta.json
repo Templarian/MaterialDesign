@@ -60767,7 +60767,8 @@
         "name": "wall-sconce-flat",
         "codepoint": "F091D",
         "aliases": [
-            "ceiling-light-flat"
+            "ceiling-light-flat",
+            "pot-light-flat"
         ],
         "tags": [
             "Home Automation"
