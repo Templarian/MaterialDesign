@@ -53103,6 +53103,15 @@
         "version": "5.0.45"
     },
     {
+        "id": "87CE4E85-7911-415C-89AB-133A2AB8BC57",
+        "name": "sort-calendar-ascending",
+        "codepoint": "F1547",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.4.45"
+    },
+    {
         "id": "F0028BDF-0589-400F-8596-100CCB029D6E",
         "name": "sort-descending",
         "codepoint": "F04BD",
