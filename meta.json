@@ -59514,6 +59514,15 @@
         "version": "2.0.46"
     },
     {
+        "id": "2BEF3471-36F9-4813-AC45-3C3FF9FC329C",
+        "name": "vanish-quarter",
+        "codepoint": "F1554",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "D8231C86-FA8B-4450-96FC-5C2820DD7DCC",
         "name": "vanity-light",
         "codepoint": "F11E1",
