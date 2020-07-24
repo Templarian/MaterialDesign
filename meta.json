@@ -45114,7 +45114,9 @@
         "name": "phone-remove-outline",
         "codepoint": "F1530",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.55"
     },
