@@ -45103,7 +45103,9 @@
         "name": "phone-remove",
         "codepoint": "F152F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.55"
     },
