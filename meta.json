@@ -74,6 +74,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "45F0D360-E817-4152-A66E-EF019E10ED47",
+        "name": "access-point-check",
+        "codepoint": "F1538",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "06048943-9EE5-4FE2-91D7-7DA162E55203",
         "name": "access-point-network",
         "codepoint": "F0002",
