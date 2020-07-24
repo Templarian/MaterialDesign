@@ -45634,6 +45634,15 @@
         "version": "2.1.99"
     },
     {
+        "id": "BD8E12AD-25AA-42FA-9C9C-EA023794A93D",
+        "name": "pitchfork",
+        "codepoint": "F1553",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "E617E8BD-2C63-4E59-B1F4-EB3F9F3916D3",
         "name": "pizza",
         "codepoint": "F0409",
