@@ -14382,7 +14382,9 @@
         "name": "chart-box-outline",
         "codepoint": "F154E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Math"
+        ],
         "author": "Google",
         "version": "5.4.55"
     },
