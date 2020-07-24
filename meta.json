@@ -53162,7 +53162,9 @@
         "id": "85579FDA-7E54-483B-B1DD-A1920DFBEED6",
         "name": "sort-clock-ascending-outline",
         "codepoint": "F154A",
-        "aliases": [],
+        "aliases": [
+            "sort-time-ascending-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.4.55"
