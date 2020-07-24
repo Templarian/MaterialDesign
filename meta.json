@@ -58760,6 +58760,15 @@
         "version": "1.6.50"
     },
     {
+        "id": "FF706504-28DF-4752-BD75-E50FFE794421",
+        "name": "tune-vertical-variant",
+        "codepoint": "F1543",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "40E06CC0-82EE-4EE0-976B-C6388BBFDD9D",
         "name": "turnstile",
         "codepoint": "F0CD5",
