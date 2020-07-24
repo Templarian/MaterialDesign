@@ -56930,7 +56930,9 @@
         "name": "thermometer-off",
         "codepoint": "F1531",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Weather"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.4.55"
     },
