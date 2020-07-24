@@ -47642,7 +47642,9 @@
         "name": "rake",
         "codepoint": "F1544",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Hardware \/ Tools"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.55"
     },
