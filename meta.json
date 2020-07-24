@@ -58864,7 +58864,9 @@
         "name": "tune-variant",
         "codepoint": "F1542",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Audio"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.4.55"
     },
