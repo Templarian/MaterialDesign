@@ -57039,6 +57039,15 @@
         "version": "3.9.97"
     },
     {
+        "id": "4086C75B-4BB4-4307-A953-22F4F7AEDE9F",
+        "name": "timeline-minus",
+        "codepoint": "F1534",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "82363A48-4E61-4594-A3DA-AA94FBBA4BE8",
         "name": "timeline-outline",
         "codepoint": "F0BD2",
