@@ -53162,7 +53162,9 @@
         "aliases": [
             "sort-time-ascending"
         ],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.55"
     },
