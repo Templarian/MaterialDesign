@@ -53184,7 +53184,9 @@
         "aliases": [
             "sort-time-descending"
         ],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.55"
     },
