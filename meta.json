@@ -56871,7 +56871,8 @@
         "codepoint": "F0E03",
         "aliases": [],
         "tags": [
-            "Home Automation"
+            "Home Automation",
+            "Weather"
         ],
         "author": "Michael Richins",
         "version": "3.5.94"
