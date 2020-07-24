@@ -60148,7 +60148,9 @@
         "aliases": [
             "video-stabilisation"
         ],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "Google",
         "version": "2.3.50"
     },
