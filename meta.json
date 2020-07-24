@@ -56708,6 +56708,15 @@
         "version": "3.5.94"
     },
     {
+        "id": "BF73A396-DB1C-46BC-8078-3CF0D7E0277F",
+        "name": "thermometer-off",
+        "codepoint": "F1531",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "511387A0-FD3A-4335-B82E-9C68E02BABDD",
         "name": "thermometer-plus",
         "codepoint": "F0E05",
