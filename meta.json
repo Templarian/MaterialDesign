@@ -56983,6 +56983,15 @@
         "version": "3.9.97"
     },
     {
+        "id": "56EABFF0-9689-4078-98F6-8E0EDAAD6A19",
+        "name": "timeline-check",
+        "codepoint": "F1532",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "2671B127-348C-47F5-B016-F30389D649CF",
         "name": "timeline-clock",
         "codepoint": "F11FB",
