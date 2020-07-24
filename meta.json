@@ -83,6 +83,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "AAFAB208-B7D5-44A0-915F-761A83D295A3",
+        "name": "access-point-minus",
+        "codepoint": "F1539",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "06048943-9EE5-4FE2-91D7-7DA162E55203",
         "name": "access-point-network",
         "codepoint": "F0002",
