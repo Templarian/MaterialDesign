@@ -40274,6 +40274,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "63B2417B-4DCD-4DE3-A899-10851795B46F",
+        "name": "mouse-move-up",
+        "codepoint": "F1551",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "2FB92E91-9B25-46BF-85D2-BC0A2DB877B1",
         "name": "mouse-off",
         "codepoint": "F037E",
