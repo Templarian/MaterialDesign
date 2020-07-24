@@ -53148,6 +53148,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "B574E857-7AE0-493E-82E1-36DC10882508",
+        "name": "sort-clock-descending-outline",
+        "codepoint": "F154C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.4.45"
+    },
+    {
         "id": "F0028BDF-0589-400F-8596-100CCB029D6E",
         "name": "sort-descending",
         "codepoint": "F04BD",
