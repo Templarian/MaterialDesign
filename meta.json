@@ -56944,7 +56944,8 @@
             "thermometer-add"
         ],
         "tags": [
-            "Home Automation"
+            "Home Automation",
+            "Weather"
         ],
         "author": "Michael Richins",
         "version": "3.5.94"
