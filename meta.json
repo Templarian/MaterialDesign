@@ -58737,6 +58737,15 @@
         "version": "1.6.50"
     },
     {
+        "id": "B0AFC3B0-B718-407F-A51C-F4D932D7FCB2",
+        "name": "tune-variant",
+        "codepoint": "F1542",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "AB147073-9D20-4DA1-A108-3856FC1764C1",
         "name": "tune-vertical",
         "codepoint": "F066A",
