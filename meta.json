@@ -1155,7 +1155,9 @@
         "name": "account-reactivate",
         "codepoint": "F152B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Fran\u00e7ois Risoud",
         "version": "5.4.55"
     },
