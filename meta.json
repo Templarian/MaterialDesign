@@ -128,6 +128,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "2E102C4D-6301-46CA-A3D8-35270CE751C5",
+        "name": "access-point-remove",
+        "codepoint": "F153B",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.4.45"
+    },
+    {
         "id": "E76EC23F-AB71-49B3-9173-841544527A20",
         "name": "account",
         "codepoint": "F0004",
