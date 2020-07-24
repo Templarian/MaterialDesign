@@ -12742,7 +12742,9 @@
         "name": "car-lifted-pickup",
         "codepoint": "F152D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Austin Andrews",
         "version": "5.4.55"
     },
