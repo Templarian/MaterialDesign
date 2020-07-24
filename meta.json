@@ -1115,6 +1115,15 @@
         "version": "3.0.39"
     },
     {
+        "id": "AD1CDB51-AAD9-411A-A81F-8D718A843FDE",
+        "name": "account-reactivate",
+        "codepoint": "F152B",
+        "aliases": [],
+        "tags": [],
+        "author": "Fran\u00e7ois Risoud",
+        "version": "5.4.45"
+    },
+    {
         "id": "0A1FDBBB-9E1C-480E-BC1D-725778D0851B",
         "name": "account-remove",
         "codepoint": "F0015",
