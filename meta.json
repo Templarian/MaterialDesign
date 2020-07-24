@@ -60793,7 +60793,9 @@
         "id": "05EDCFBB-803B-4DA9-BDC5-17A4E43DE584",
         "name": "wall-sconce-round",
         "codepoint": "F0748",
-        "aliases": [],
+        "aliases": [
+            "pot-light-round"
+        ],
         "tags": [
             "Home Automation"
         ],
