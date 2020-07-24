@@ -53517,6 +53517,15 @@
         "version": "3.6.95"
     },
     {
+        "id": "C09567B5-B5C0-4C51-A246-0CA46C928F96",
+        "name": "sparkles",
+        "codepoint": "F1545",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.4.45"
+    },
+    {
         "id": "43C37FC5-E271-40FA-BB50-C139DDD5B15B",
         "name": "speaker",
         "codepoint": "F04C3",
