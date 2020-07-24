@@ -20053,6 +20053,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "EA63161B-B010-4BEC-A5B0-774C2007C0D0",
+        "name": "data-matrix-minus",
+        "codepoint": "F153E",
+        "aliases": [],
+        "tags": [],
+        "author": "David Kon\u00ed\u0159",
+        "version": "5.4.45"
+    },
+    {
         "id": "C8FC48A7-AE19-4BD8-B57E-14B76D93937B",
         "name": "database",
         "codepoint": "F01BC",
