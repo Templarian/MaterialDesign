@@ -20044,6 +20044,15 @@
         "version": "5.4.45"
     },
     {
+        "id": "7D6DC2D9-EDDF-4C82-AA10-CEC85C4DF7BF",
+        "name": "data-matrix-edit",
+        "codepoint": "F153D",
+        "aliases": [],
+        "tags": [],
+        "author": "David Kon\u00ed\u0159",
+        "version": "5.4.45"
+    },
+    {
         "id": "C8FC48A7-AE19-4BD8-B57E-14B76D93937B",
         "name": "database",
         "codepoint": "F01BC",
