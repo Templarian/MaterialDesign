@@ -14371,7 +14371,9 @@
         "name": "chart-box",
         "codepoint": "F154D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Math"
+        ],
         "author": "Google",
         "version": "5.4.55"
     },
