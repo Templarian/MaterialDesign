@@ -58130,6 +58130,15 @@
         "version": "3.3.92"
     },
     {
+        "id": "5F428B0A-E91D-48E5-8896-0CE072C919E4",
+        "name": "transit-connection-horizontal",
+        "codepoint": "F1546",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Hilnbrand",
+        "version": "5.4.45"
+    },
+    {
         "id": "9E27C6FE-B44C-4A92-BDD7-A546A4F83E9D",
         "name": "transit-connection-variant",
         "codepoint": "F0D3D",
