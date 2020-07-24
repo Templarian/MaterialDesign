@@ -40283,6 +40283,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "FD9503DC-1ADF-4E78-B0E9-DC3831C6B849",
+        "name": "mouse-move-vertical",
+        "codepoint": "F1552",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "2FB92E91-9B25-46BF-85D2-BC0A2DB877B1",
         "name": "mouse-off",
         "codepoint": "F037E",
