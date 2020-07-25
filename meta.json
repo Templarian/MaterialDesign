@@ -8557,7 +8557,9 @@
         "name": "beekeeper",
         "codepoint": "F14E2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Nature"
+        ],
         "author": "Contributors",
         "version": "5.4.55"
     },
