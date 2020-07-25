@@ -8556,7 +8556,9 @@
         "id": "520FBDF0-4EB1-4413-89F9-AB4E3518FA38",
         "name": "beekeeper",
         "codepoint": "F14E2",
-        "aliases": [],
+        "aliases": [
+            "apiarists"
+        ],
         "tags": [
             "Nature"
         ],
