@@ -6166,7 +6166,9 @@
         "id": "09FB4D77-A411-4CBF-9E88-21807D804CB3",
         "name": "audio-video-off",
         "codepoint": "F11B6",
-        "aliases": [],
+        "aliases": [
+            "av-receiver-off"
+        ],
         "tags": [
             "Home Automation"
         ],
