@@ -15714,7 +15714,9 @@
         "id": "A535271B-1114-44AD-9D9D-1984905026FF",
         "name": "chip",
         "codepoint": "F061A",
-        "aliases": [],
+        "aliases": [
+            "integrated-circuit"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.6.50"
