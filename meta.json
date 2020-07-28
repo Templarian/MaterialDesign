@@ -20572,6 +20572,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "7544FA9D-AFFB-4038-8D9F-FEE3EB918342",
+        "name": "delete-clock-outline",
+        "codepoint": "F1557",
+        "aliases": [],
+        "tags": [],
+        "author": "Corey Vidal",
+        "version": "5.5.55"
+    },
+    {
         "id": "E39FB607-9058-4C00-840C-AF666F372071",
         "name": "delete-empty",
         "codepoint": "F06CC",
