@@ -35115,6 +35115,17 @@
         "version": "3.4.93"
     },
     {
+        "id": "70EC6F3B-31E9-4F1A-8E48-408CEB706FB8",
+        "name": "kangaroo",
+        "codepoint": "F1558",
+        "aliases": [],
+        "tags": [
+            "Animal"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.5.55"
+    },
+    {
         "id": "85144563-B019-4B8A-AB76-3DE0797D517E",
         "name": "karate",
         "codepoint": "F082C",
