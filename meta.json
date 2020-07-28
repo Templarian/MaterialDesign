@@ -53347,7 +53347,8 @@
             "sort-time-descending-outline"
         ],
         "tags": [
-            "Text \/ Content \/ Format"
+            "Text \/ Content \/ Format",
+            "Date \/ Time"
         ],
         "author": "Michael Irigoyen",
         "version": "5.4.55"
