@@ -38986,7 +38986,9 @@
         "name": "message-text-clock",
         "codepoint": "F1173",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.4.95"
     },
