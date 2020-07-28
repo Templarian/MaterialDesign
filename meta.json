@@ -57814,6 +57814,17 @@
         "version": "3.0.39"
     },
     {
+        "id": "A8D3907B-9528-4EB0-AB75-EA6013F042F1",
+        "name": "tooltip-minus",
+        "codepoint": "F155E",
+        "aliases": [],
+        "tags": [
+            "Tooltip"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.5.55"
+    },
+    {
         "id": "C14A3C70-357F-4AE8-963C-B45ED543A4DB",
         "name": "tooltip-outline",
         "codepoint": "F0526",
