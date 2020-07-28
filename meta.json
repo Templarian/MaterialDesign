@@ -1789,7 +1789,9 @@
         "aliases": [
             "alarm-clock-snooze"
         ],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Google",
         "version": "1.7.12"
     },
