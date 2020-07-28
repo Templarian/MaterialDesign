@@ -57698,7 +57698,8 @@
         "codepoint": "F12C5",
         "aliases": [],
         "tags": [
-            "Edit \/ Modify"
+            "Edit \/ Modify",
+            "Tooltip"
         ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
