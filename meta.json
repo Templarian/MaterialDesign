@@ -57746,6 +57746,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "B2FDABD3-4E66-461C-8DC0-10D9A18441B8",
+        "name": "tooltip-check",
+        "codepoint": "F155C",
+        "aliases": [],
+        "tags": [
+            "Tooltip"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.5.55"
+    },
+    {
         "id": "C1684CDD-9C71-4A10-B3BA-5B26706B3B28",
         "name": "tooltip-edit",
         "codepoint": "F0524",
