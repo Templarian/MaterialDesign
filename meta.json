@@ -44905,7 +44905,9 @@
         "name": "phone-dial-outline",
         "codepoint": "F155A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
         "author": "Fran\u00e7ois Risoud",
         "version": "5.5.55"
     },
