@@ -49442,7 +49442,9 @@
         "name": "routes-clock",
         "codepoint": "F1059",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Fran\u00e7ois Risoud",
         "version": "4.1.95"
     },
