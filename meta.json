@@ -57379,7 +57379,9 @@
         "name": "timeline-clock",
         "codepoint": "F11FB",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Austin Andrews",
         "version": "4.6.95"
     },
