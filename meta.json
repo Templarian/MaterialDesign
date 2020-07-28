@@ -57885,6 +57885,17 @@
         "version": "5.5.55"
     },
     {
+        "id": "192D99F7-B04B-476A-B638-70F27A7FF1E6",
+        "name": "tooltip-remove-outline",
+        "codepoint": "F1561",
+        "aliases": [],
+        "tags": [
+            "Tooltip"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.5.55"
+    },
+    {
         "id": "B608ACE2-279D-4C66-9169-32BD86BDF5F3",
         "name": "tooltip-text",
         "codepoint": "F0528",
