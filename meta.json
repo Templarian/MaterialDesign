@@ -44906,7 +44906,9 @@
         "id": "90BA0013-C6A8-47E9-960C-A1DE13516B25",
         "name": "phone-dial-outline",
         "codepoint": "F155A",
-        "aliases": [],
+        "aliases": [
+            "phone-keypad-outline"
+        ],
         "tags": [
             "Cellphone \/ Phone"
         ],
