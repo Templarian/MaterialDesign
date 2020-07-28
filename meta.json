@@ -1766,7 +1766,9 @@
         "aliases": [
             "alarm-clock-off"
         ],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
