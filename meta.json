@@ -4604,6 +4604,15 @@
         "version": "3.5.94"
     },
     {
+        "id": "EB7E0628-A5CC-4E23-9AD1-CC35CC4E3722",
+        "name": "application-settings",
+        "codepoint": "F1555",
+        "aliases": [],
+        "tags": [],
+        "author": "Corey Vidal",
+        "version": "5.5.55"
+    },
+    {
         "id": "B5A9F91C-21A0-415A-AC77-B4318137C32D",
         "name": "approximately-equal",
         "codepoint": "F0F9E",
