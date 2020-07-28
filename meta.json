@@ -1702,7 +1702,9 @@
             "alarm-clock-check",
             "alarm-clock-tick"
         ],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
