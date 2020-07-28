@@ -44893,7 +44893,9 @@
         "id": "8F4DBE23-BD53-447F-917D-5343B4DDE8B8",
         "name": "phone-dial",
         "codepoint": "F1559",
-        "aliases": [],
+        "aliases": [
+            "phone-keypad"
+        ],
         "tags": [
             "Cellphone \/ Phone"
         ],
