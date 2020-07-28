@@ -20569,7 +20569,9 @@
         "name": "delete-clock",
         "codepoint": "F1556",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Corey Vidal",
         "version": "5.5.55"
     },
