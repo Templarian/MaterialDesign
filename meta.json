@@ -28305,7 +28305,9 @@
         "name": "form-select",
         "codepoint": "F1401",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Form"
+        ],
         "author": "Charlie Davis",
         "version": "5.1.45"
     },
