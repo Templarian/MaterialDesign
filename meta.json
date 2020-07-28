@@ -19001,7 +19001,8 @@
         "codepoint": "F0EE1",
         "aliases": [],
         "tags": [
-            "Banking"
+            "Banking",
+            "Date \/ Time"
         ],
         "author": "Michael Richins",
         "version": "3.8.95"
