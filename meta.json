@@ -50618,7 +50618,9 @@
         "name": "send-clock",
         "codepoint": "F1163",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Google",
         "version": "4.4.95"
     },
