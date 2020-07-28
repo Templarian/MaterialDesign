@@ -62841,7 +62841,10 @@
         "id": "0CB92EB7-2EE0-401C-9113-7D52E78DB51E",
         "name": "window-close",
         "codepoint": "F05AD",
-        "aliases": [],
+        "aliases": [
+            "cancel",
+            "close"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.5.54"
