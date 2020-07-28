@@ -46823,6 +46823,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "607F7E94-DBF5-4D5D-8F3A-5E1F90E1FF61",
+        "name": "pretzel",
+        "codepoint": "F1562",
+        "aliases": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Contributors",
+        "version": "5.5.55"
+    },
+    {
         "id": "7365D689-4C10-4EBA-AD9A-09189B8091EE",
         "name": "printer",
         "codepoint": "F042A",
