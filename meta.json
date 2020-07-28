@@ -20563,6 +20563,15 @@
         "version": "3.0.39"
     },
     {
+        "id": "3B615510-4D78-4743-9FB0-A3D45F267B04",
+        "name": "delete-clock",
+        "codepoint": "F1556",
+        "aliases": [],
+        "tags": [],
+        "author": "Corey Vidal",
+        "version": "5.5.55"
+    },
+    {
         "id": "E39FB607-9058-4C00-840C-AF666F372071",
         "name": "delete-empty",
         "codepoint": "F06CC",
