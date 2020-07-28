@@ -62322,7 +62322,9 @@
         "name": "web-clock",
         "codepoint": "F124A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "frankgrinaert",
         "version": "4.6.95"
     },
