@@ -44894,7 +44894,9 @@
         "name": "phone-dial",
         "codepoint": "F1559",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
         "author": "Fran\u00e7ois Risoud",
         "version": "5.5.55"
     },
