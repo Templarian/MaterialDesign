@@ -28340,7 +28340,9 @@
         "name": "form-textbox-lock",
         "codepoint": "F135D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Form"
+        ],
         "author": "Austin Andrews",
         "version": "4.9.95"
     },
