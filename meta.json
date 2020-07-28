@@ -44879,6 +44879,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "90BA0013-C6A8-47E9-960C-A1DE13516B25",
+        "name": "phone-dial-outline",
+        "codepoint": "F155A",
+        "aliases": [],
+        "tags": [],
+        "author": "Fran\u00e7ois Risoud",
+        "version": "5.5.55"
+    },
+    {
         "id": "5EF77B27-31D7-47F8-8D72-8BC040CD154E",
         "name": "phone-forward",
         "codepoint": "F03F4",
