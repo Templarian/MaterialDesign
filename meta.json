@@ -54507,6 +54507,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "CA24758C-3B0C-44DE-9395-C5CAF2981E5D",
+        "name": "star-minus",
+        "codepoint": "F1564",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "3CE96C58-D12F-474D-916F-D0509E3BA408",
         "name": "star-off",
         "codepoint": "F04D1",
