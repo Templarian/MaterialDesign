@@ -4628,7 +4628,7 @@
         "codepoint": "F1555",
         "aliases": [],
         "tags": [],
-        "author": "Corey Vidal",
+        "author": "CoreyVidal",
         "version": "5.5.55"
     },
     {
@@ -11286,7 +11286,8 @@
         "aliases": [
             "counterclockwise-arrows",
             "circular-arrows",
-            "circle-arrows"
+            "circle-arrows",
+            "sync"
         ],
         "tags": [],
         "author": "Google",
@@ -20592,7 +20593,7 @@
         "tags": [
             "Date \/ Time"
         ],
-        "author": "Corey Vidal",
+        "author": "CoreyVidal",
         "version": "5.5.55"
     },
     {
@@ -20603,7 +20604,7 @@
         "tags": [
             "Date \/ Time"
         ],
-        "author": "Corey Vidal",
+        "author": "CoreyVidal",
         "version": "5.5.55"
     },
     {
