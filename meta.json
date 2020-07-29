@@ -33860,7 +33860,9 @@
         "name": "human-edit",
         "codepoint": "F14E8",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "People \/ Family"
+        ],
         "author": "Austin Andrews",
         "version": "5.4.55"
     },
