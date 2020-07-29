@@ -28200,7 +28200,9 @@
         "name": "food-kosher",
         "codepoint": "F1573",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Haley Halcyon",
         "version": "5.5.55"
     },
