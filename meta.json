@@ -35404,6 +35404,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "01B0561A-56B4-4215-A811-1572D35331F6",
+        "name": "key-chain-variant",
+        "codepoint": "F1575",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.5.55"
+    },
+    {
         "id": "FEEA71CA-4810-46DD-B459-6D9327720D17",
         "name": "key-change",
         "codepoint": "F0307",
