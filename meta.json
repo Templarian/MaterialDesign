@@ -55114,6 +55114,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "C6D1D0D8-7FEF-4F4B-B0E8-1B87B9413209",
+        "name": "submarine",
+        "codepoint": "F156C",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.5.55"
+    },
+    {
         "id": "9808EEC5-35FB-45B1-AFCB-065E9CF469E4",
         "name": "subtitles",
         "codepoint": "F0A16",
