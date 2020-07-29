@@ -22515,7 +22515,9 @@
             "paris",
             "france"
         ],
-        "tags": [],
+        "tags": [
+            "Places"
+        ],
         "author": "Contributors",
         "version": "5.5.55"
     },
