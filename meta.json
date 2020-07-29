@@ -35949,6 +35949,15 @@
         "version": "1.7.22"
     },
     {
+        "id": "9AC5919E-2271-42D0-A5FA-ACB9BE022547",
+        "name": "lamps",
+        "codepoint": "F1576",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "A20B1B0B-DC60-4ED1-A7E6-F390BA31D613",
         "name": "lan",
         "codepoint": "F0317",
