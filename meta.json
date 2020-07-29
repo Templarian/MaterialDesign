@@ -6252,7 +6252,8 @@
         "aliases": [
             "clockwise-arrows",
             "circular-arrows",
-            "circle-arrows"
+            "circle-arrows",
+            "sync"
         ],
         "tags": [],
         "author": "Google",
