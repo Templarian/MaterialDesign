@@ -22508,6 +22508,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "2E11359F-82B1-469C-9A51-F7B0EFAA3171",
+        "name": "eiffel-tower",
+        "codepoint": "F156B",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.5.55"
+    },
+    {
         "id": "589595AF-C8FF-451B-A623-2A22D0D2A181",
         "name": "eight-track",
         "codepoint": "F09EA",
