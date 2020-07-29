@@ -28199,7 +28199,10 @@
         "id": "BC887CBF-E298-4E05-8C7D-B13539C4BA15",
         "name": "food-kosher",
         "codepoint": "F1573",
-        "aliases": [],
+        "aliases": [
+            "food-jewish",
+            "dietary-restriction"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
