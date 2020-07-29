@@ -28188,7 +28188,10 @@
         "id": "F576B145-F06D-49FA-9616-2423C5D322AD",
         "name": "food-halal",
         "codepoint": "F1572",
-        "aliases": [],
+        "aliases": [
+            "food-muslim",
+            "dietary-restriction"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
