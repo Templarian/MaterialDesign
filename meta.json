@@ -54615,7 +54615,9 @@
         "name": "star-remove-outline",
         "codepoint": "F1569",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
     },
