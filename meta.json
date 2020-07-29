@@ -54589,7 +54589,9 @@
         "name": "star-plus-outline",
         "codepoint": "F1567",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
     },
