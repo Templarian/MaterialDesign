@@ -56860,6 +56860,20 @@
         "version": "2.4.85"
     },
     {
+        "id": "15B2BA3F-53A2-4151-9B90-20000264FE54",
+        "name": "text-account",
+        "codepoint": "F1570",
+        "aliases": [
+            "biography",
+            "text-user"
+        ],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Brooke Clifton",
+        "version": "5.5.55"
+    },
+    {
         "id": "32E03B3D-EAFA-4483-AE94-E43944F0F0AE",
         "name": "text-box",
         "codepoint": "F021A",
