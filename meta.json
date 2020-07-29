@@ -53135,7 +53135,9 @@
         "id": "37B31F21-3190-4E2D-A824-C5CC4FF66493",
         "name": "sofa-outline",
         "codepoint": "F156D",
-        "aliases": [],
+        "aliases": [
+            "couch-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
