@@ -28194,6 +28194,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "BC887CBF-E298-4E05-8C7D-B13539C4BA15",
+        "name": "food-kosher",
+        "codepoint": "F1573",
+        "aliases": [],
+        "tags": [],
+        "author": "Haley Halcyon",
+        "version": "5.5.55"
+    },
+    {
         "id": "3731F58E-CAEA-4B54-87A6-7F4E039F2B31",
         "name": "food-off",
         "codepoint": "F05F3",
