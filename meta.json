@@ -35962,7 +35962,9 @@
         "name": "lamps",
         "codepoint": "F1576",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
     },
