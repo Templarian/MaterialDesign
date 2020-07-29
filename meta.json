@@ -54441,6 +54441,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "94E37A05-1F0E-49EE-92D8-5FE57B54123F",
+        "name": "star-check-outline",
+        "codepoint": "F156A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "76D19C8B-0302-436A-A19F-5AC5EE8AC88C",
         "name": "star-circle",
         "codepoint": "F04CF",
