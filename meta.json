@@ -34078,7 +34078,9 @@
         "name": "human-queue",
         "codepoint": "F1571",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "People \/ Family"
+        ],
         "author": "Haley Halcyon",
         "version": "5.5.55"
     },
