@@ -54556,6 +54556,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "49254980-CD72-42B5-A87B-F24EFC2E4EA5",
+        "name": "star-remove",
+        "codepoint": "F1565",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "815B35DE-0C4D-46AD-90EC-2AFEE0A5FC17",
         "name": "star-three-points",
         "codepoint": "F0AE4",
