@@ -53141,6 +53141,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "61A9F431-1946-4F8F-9DB4-19E75151D397",
+        "name": "sofa-single",
+        "codepoint": "F156E",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "46CD8278-94CE-46F4-B2A5-01D4595E48A0",
         "name": "solar-panel",
         "codepoint": "F0D9B",
