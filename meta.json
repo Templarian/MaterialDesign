@@ -28189,7 +28189,9 @@
         "name": "food-halal",
         "codepoint": "F1572",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Haley Halcyon",
         "version": "5.5.55"
     },
