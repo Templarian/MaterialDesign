@@ -35770,6 +35770,15 @@
         "version": "4.3.95"
     },
     {
+        "id": "45E2144E-5240-4557-B9A9-45DD7B514738",
+        "name": "kho-kho",
+        "codepoint": "F1578",
+        "aliases": [],
+        "tags": [],
+        "author": "Haley Halcyon",
+        "version": "5.5.55"
+    },
+    {
         "id": "D881D589-79F0-4255-B050-13E396293D1F",
         "name": "kickstarter",
         "codepoint": "F0745",
