@@ -54529,7 +54529,9 @@
         "name": "star-minus",
         "codepoint": "F1564",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
     },
