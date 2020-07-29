@@ -54447,7 +54447,9 @@
         "name": "star-check-outline",
         "codepoint": "F156A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
     },
