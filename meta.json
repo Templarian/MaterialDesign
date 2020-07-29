@@ -53157,7 +53157,11 @@
         "id": "C4595FA1-E495-4BFE-900A-A1D764B6019E",
         "name": "sofa-single-outline",
         "codepoint": "F156F",
-        "aliases": [],
+        "aliases": [
+            "loveseat-outline",
+            "love-seat-outline",
+            "couch-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
