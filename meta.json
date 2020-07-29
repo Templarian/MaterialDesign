@@ -54525,6 +54525,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "24A0E7F1-32AA-4B4B-B0BC-93AD9F7E2F8A",
+        "name": "star-minus-outline",
+        "codepoint": "F1568",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "3CE96C58-D12F-474D-916F-D0509E3BA408",
         "name": "star-off",
         "codepoint": "F04D1",
