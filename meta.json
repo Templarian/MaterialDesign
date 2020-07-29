@@ -54565,6 +54565,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "0CBFD9AD-12B1-4AAF-A9CC-9CA46FEB47FD",
+        "name": "star-plus-outline",
+        "codepoint": "F1567",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "49254980-CD72-42B5-A87B-F24EFC2E4EA5",
         "name": "star-remove",
         "codepoint": "F1565",
