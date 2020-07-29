@@ -34085,7 +34085,9 @@
         "id": "FAD84EF2-E1C0-4834-8FFD-677E424F2693",
         "name": "human-queue",
         "codepoint": "F1571",
-        "aliases": [],
+        "aliases": [
+            "human-line"
+        ],
         "tags": [
             "People \/ Family"
         ],
