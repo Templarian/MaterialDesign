@@ -29026,7 +29026,9 @@
         "id": "2B19EECF-71BF-41F3-B62A-468607BA0B47",
         "name": "format-list-checks",
         "codepoint": "F0756",
-        "aliases": [],
+        "aliases": [
+            "to-do"
+        ],
         "tags": [
             "Text \/ Content \/ Format"
         ],
