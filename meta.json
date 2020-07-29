@@ -4594,6 +4594,15 @@
         "version": "1.6.50"
     },
     {
+        "id": "A3B1663D-87F0-4E57-BAF4-5CB9D0CC6B17",
+        "name": "application-cog",
+        "codepoint": "F1577",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "19852AF4-396B-4BA7-B9A1-3E412D49290A",
         "name": "application-export",
         "codepoint": "F0DAD",
