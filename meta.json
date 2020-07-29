@@ -28185,6 +28185,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "F576B145-F06D-49FA-9616-2423C5D322AD",
+        "name": "food-halal",
+        "codepoint": "F1572",
+        "aliases": [],
+        "tags": [],
+        "author": "Haley Halcyon",
+        "version": "5.5.55"
+    },
+    {
         "id": "3731F58E-CAEA-4B54-87A6-7F4E039F2B31",
         "name": "food-off",
         "codepoint": "F05F3",
