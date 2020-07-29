@@ -22511,7 +22511,9 @@
         "id": "2E11359F-82B1-469C-9A51-F7B0EFAA3171",
         "name": "eiffel-tower",
         "codepoint": "F156B",
-        "aliases": [],
+        "aliases": [
+            "paris"
+        ],
         "tags": [],
         "author": "Contributors",
         "version": "5.5.55"
