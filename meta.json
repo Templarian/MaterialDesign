@@ -54538,6 +54538,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "A782B3BE-28DC-4BF8-A209-42DC8F1CE287",
+        "name": "star-plus",
+        "codepoint": "F1563",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "815B35DE-0C4D-46AD-90EC-2AFEE0A5FC17",
         "name": "star-three-points",
         "codepoint": "F0AE4",
