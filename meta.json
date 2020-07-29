@@ -34052,6 +34052,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "FAD84EF2-E1C0-4834-8FFD-677E424F2693",
+        "name": "human-queue",
+        "codepoint": "F1571",
+        "aliases": [],
+        "tags": [],
+        "author": "Haley Halcyon",
+        "version": "5.5.55"
+    },
+    {
         "id": "B0529853-AE3D-475C-94EB-0C775E934806",
         "name": "human-wheelchair",
         "codepoint": "F138D",
