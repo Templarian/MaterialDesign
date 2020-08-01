@@ -23332,7 +23332,9 @@
         "name": "emoticon-lol",
         "codepoint": "F1214",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Emoji"
+        ],
         "author": "Michael Richins",
         "version": "4.6.95"
     },
