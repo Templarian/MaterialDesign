@@ -37714,6 +37714,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "8DD7B5D3-1361-460A-8029-6948337CC153",
+        "name": "lotion",
+        "codepoint": "F1582",
+        "aliases": [],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "DB75FD27-01F6-4232-AA23-86C115751A0C",
         "name": "loupe",
         "codepoint": "F0345",
