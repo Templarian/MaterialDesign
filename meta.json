@@ -23480,6 +23480,18 @@
         "version": "1.5.54"
     },
     {
+        "id": "523F5AB1-3598-40F1-AAB5-6DF361FF6970",
+        "name": "emoticon-sick",
+        "codepoint": "F157C",
+        "aliases": [],
+        "tags": [
+            "Emoji",
+            "Medical \/ Hospital"
+        ],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "57288378-59EE-4705-ACD5-3B424ACA70C1",
         "name": "emoticon-tongue",
         "codepoint": "F01F9",
