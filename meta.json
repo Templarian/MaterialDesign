@@ -18730,7 +18730,9 @@
             "scissors",
             "clip"
         ],
-        "tags": [],
+        "tags": [
+            "Health \/ Beauty"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
