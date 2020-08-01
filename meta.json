@@ -6348,7 +6348,9 @@
         "name": "axis-arrow-info",
         "codepoint": "F140E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Arrow"
+        ],
         "author": "Austin Andrews",
         "version": "5.1.45"
     },
