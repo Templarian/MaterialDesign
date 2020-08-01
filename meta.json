@@ -32011,6 +32011,17 @@
         "version": "5.5.55"
     },
     {
+        "id": "C5EA3223-8736-4F38-82A1-B3FC5F206879",
+        "name": "hand-wash-outline",
+        "codepoint": "F1580",
+        "aliases": [],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "C3BBE9FF-7FF7-4C8F-8185-A8F3825F3CAE",
         "name": "hand-water",
         "codepoint": "F139F",
