@@ -6929,6 +6929,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "4977C376-1E6B-41F4-92F4-3410E9699F2D",
+        "name": "bag-suitcase-outline",
+        "codepoint": "F158C",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "B6469241-E347-42D8-BF71-8DF29F1CA897",
         "name": "baguette",
         "codepoint": "F0F3E",
