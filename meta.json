@@ -24304,6 +24304,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "0143A0CC-E3FA-485F-B3CA-6B61EE86F066",
+        "name": "face-mask-outline",
+        "codepoint": "F1587",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "CFDA13BC-C61A-4FE0-8094-7B51E8EB3F82",
         "name": "face-outline",
         "codepoint": "F0B96",
