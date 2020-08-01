@@ -6938,6 +6938,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "E89335F8-3A20-489F-A974-FF591F8A147E",
+        "name": "bag-suitcase-off-outline",
+        "codepoint": "F158E",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "4977C376-1E6B-41F4-92F4-3410E9699F2D",
         "name": "bag-suitcase-outline",
         "codepoint": "F158C",
