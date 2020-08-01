@@ -23492,6 +23492,18 @@
         "version": "5.5.55"
     },
     {
+        "id": "CBB4F1C3-3479-4F94-9F15-3D844889609A",
+        "name": "emoticon-sick-outline",
+        "codepoint": "F157D",
+        "aliases": [],
+        "tags": [
+            "Emoji",
+            "Medical \/ Hospital"
+        ],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "57288378-59EE-4705-ACD5-3B424ACA70C1",
         "name": "emoticon-tongue",
         "codepoint": "F01F9",
