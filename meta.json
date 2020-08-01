@@ -35783,7 +35783,9 @@
         "aliases": [
             "pole-dance"
         ],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Haley Halcyon",
         "version": "5.5.55"
     },
