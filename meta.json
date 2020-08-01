@@ -6920,6 +6920,15 @@
         "version": "3.6.95"
     },
     {
+        "id": "0DBD5DC4-4D5B-48B9-951C-249BB05C3E7E",
+        "name": "bag-suitcase",
+        "codepoint": "F158B",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "B6469241-E347-42D8-BF71-8DF29F1CA897",
         "name": "baguette",
         "codepoint": "F0F3E",
