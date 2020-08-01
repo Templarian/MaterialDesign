@@ -31912,7 +31912,9 @@
         "name": "hair-dryer-outline",
         "codepoint": "F10F0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Health \/ Beauty"
+        ],
         "author": "Michael Richins",
         "version": "4.3.95"
     },
