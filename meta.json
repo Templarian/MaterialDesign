@@ -32000,6 +32000,17 @@
         "version": "3.6.95"
     },
     {
+        "id": "4C201756-1101-4C58-9FBE-5F781347F535",
+        "name": "hand-wash",
+        "codepoint": "F157F",
+        "aliases": [],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "C3BBE9FF-7FF7-4C8F-8185-A8F3825F3CAE",
         "name": "hand-water",
         "codepoint": "F139F",
