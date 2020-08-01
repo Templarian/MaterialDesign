@@ -24310,7 +24310,9 @@
         "name": "face-mask-outline",
         "codepoint": "F1587",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
     },
