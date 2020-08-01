@@ -11306,6 +11306,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "CC37A3EE-B084-4CD4-AF41-1E5C6D83D839",
+        "name": "butterfly",
+        "codepoint": "F1589",
+        "aliases": [],
+        "tags": [],
+        "author": "Nicolas Gres",
+        "version": "5.5.55"
+    },
+    {
         "id": "1D18C000-0A31-4A28-BA96-B47103D727DD",
         "name": "cable-data",
         "codepoint": "F1394",
