@@ -11310,7 +11310,9 @@
         "name": "butterfly",
         "codepoint": "F1589",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Nature"
+        ],
         "author": "Nicolas Gres",
         "version": "5.5.55"
     },
