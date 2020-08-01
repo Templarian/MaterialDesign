@@ -37736,6 +37736,19 @@
         "version": "5.5.55"
     },
     {
+        "id": "74C0DC3D-4DE3-4E67-9100-0B59F2B9A6B2",
+        "name": "lotion-plus",
+        "codepoint": "F1584",
+        "aliases": [
+            "hand-sanitizer"
+        ],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "DB75FD27-01F6-4232-AA23-86C115751A0C",
         "name": "loupe",
         "codepoint": "F0345",
