@@ -6924,7 +6924,9 @@
         "name": "bag-suitcase",
         "codepoint": "F158B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Flying"
+        ],
         "author": "Google",
         "version": "5.5.55"
     },
