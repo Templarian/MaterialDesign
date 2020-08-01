@@ -11321,7 +11321,9 @@
         "name": "butterfly-outline",
         "codepoint": "F158A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Nature"
+        ],
         "author": "Nicolas Gres",
         "version": "5.5.55"
     },
