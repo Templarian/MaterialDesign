@@ -11315,6 +11315,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "6BD6BDCD-0C73-40DF-9A9B-127C1DDFF467",
+        "name": "butterfly-outline",
+        "codepoint": "F158A",
+        "aliases": [],
+        "tags": [],
+        "author": "Nicolas Gres",
+        "version": "5.5.55"
+    },
+    {
         "id": "1D18C000-0A31-4A28-BA96-B47103D727DD",
         "name": "cable-data",
         "codepoint": "F1394",
