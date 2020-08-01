@@ -6281,7 +6281,9 @@
             "circle-arrows",
             "sync"
         ],
-        "tags": [],
+        "tags": [
+            "Arrow"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
