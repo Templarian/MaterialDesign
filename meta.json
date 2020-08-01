@@ -33963,6 +33963,19 @@
         "version": "5.0.45"
     },
     {
+        "id": "40DD914F-1089-4A7B-AA3D-630C643E8FFF",
+        "name": "human-cane",
+        "codepoint": "F1581",
+        "aliases": [
+            "elderly"
+        ],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "ABBC3761-B437-4800-9C57-BCBE5AC8FA31",
         "name": "human-child",
         "codepoint": "F02E7",
