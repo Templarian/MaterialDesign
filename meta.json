@@ -6935,7 +6935,9 @@
         "name": "bag-suitcase-off",
         "codepoint": "F158D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Flying"
+        ],
         "author": "Google",
         "version": "5.5.55"
     },
