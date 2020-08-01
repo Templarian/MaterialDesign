@@ -6957,7 +6957,9 @@
         "name": "bag-suitcase-outline",
         "codepoint": "F158C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Flying"
+        ],
         "author": "Google",
         "version": "5.5.55"
     },
