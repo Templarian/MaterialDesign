@@ -35780,7 +35780,9 @@
         "id": "45E2144E-5240-4557-B9A9-45DD7B514738",
         "name": "kho-kho",
         "codepoint": "F1578",
-        "aliases": [],
+        "aliases": [
+            "pole-dance"
+        ],
         "tags": [],
         "author": "Haley Halcyon",
         "version": "5.5.55"
