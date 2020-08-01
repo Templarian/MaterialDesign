@@ -11561,6 +11561,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "A5F0BBFB-DA5E-4068-B2D5-3C0F3EB26B14",
+        "name": "calendar-cursor",
+        "codepoint": "F157B",
+        "aliases": [],
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "2976EA1B-60A3-46FB-97E2-95BB74B0DD22",
         "name": "calendar-edit",
         "codepoint": "F08A7",
