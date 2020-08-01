@@ -22568,7 +22568,7 @@
         "tags": [
             "Places"
         ],
-        "author": "Contributors",
+        "author": "Nicolas Gres",
         "version": "5.5.55"
     },
     {
@@ -47124,7 +47124,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Contributors",
+        "author": "Nicolas Gres",
         "version": "5.5.55"
     },
     {
@@ -48402,6 +48402,15 @@
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "2.6.95"
+    },
+    {
+        "id": "DBD21D6F-818C-46D0-860A-89257B1BAB90",
+        "name": "reiterate",
+        "codepoint": "F1588",
+        "aliases": [],
+        "tags": [],
+        "author": "Nicolas Gres",
+        "version": "5.5.55"
     },
     {
         "id": "FF422947-C9DA-45C1-BEBF-47A450A035CA",
