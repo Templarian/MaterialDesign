@@ -31901,7 +31901,9 @@
         "name": "hair-dryer",
         "codepoint": "F10EF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Health \/ Beauty"
+        ],
         "author": "Michael Richins",
         "version": "4.3.95"
     },
