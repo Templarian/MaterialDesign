@@ -37481,7 +37481,9 @@
         "name": "lipstick",
         "codepoint": "F13B5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Health \/ Beauty"
+        ],
         "author": "Contributors",
         "version": "5.0.45"
     },
