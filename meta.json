@@ -805,6 +805,19 @@
         "version": "1.5.54"
     },
     {
+        "id": "D6384EF6-9386-4287-BE34-7038841AABD5",
+        "name": "account-multiple-2-meters",
+        "codepoint": "F1579",
+        "aliases": [
+            "social-distance-2-meters"
+        ],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "3B3E2DF7-1E21-476A-8473-7F1EAA514D1F",
         "name": "account-multiple-check",
         "codepoint": "F08C5",
