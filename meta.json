@@ -24299,7 +24299,9 @@
         "name": "face-mask",
         "codepoint": "F1586",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
     },
