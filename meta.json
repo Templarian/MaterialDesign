@@ -48412,7 +48412,9 @@
         "name": "reiterate",
         "codepoint": "F1588",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Arrow"
+        ],
         "author": "Nicolas Gres",
         "version": "5.5.55"
     },
