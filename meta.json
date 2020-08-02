@@ -40644,6 +40644,15 @@
         "version": "3.3.92"
     },
     {
+        "id": "B0DBB2D0-8C87-4DD3-AB7A-4BF35A9BFC6C",
+        "name": "motion-pause",
+        "codepoint": "F1590",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "04CF9E56-DAFA-474B-8405-2F554F66AEEC",
         "name": "motion-play",
         "codepoint": "F158F",
