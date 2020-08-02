@@ -4912,6 +4912,15 @@
         "version": "2.5.94"
     },
     {
+        "id": "26479C31-47EF-4EDA-B11E-323B136B7A6B",
+        "name": "arrow-bottom-right-thin-circle-outline",
+        "codepoint": "F1595",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "86BB43B4-910B-4174-8455-661875054171",
         "name": "arrow-collapse",
         "codepoint": "F0615",
