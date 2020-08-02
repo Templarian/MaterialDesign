@@ -805,19 +805,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "D6384EF6-9386-4287-BE34-7038841AABD5",
-        "name": "account-multiple-2-meters",
-        "codepoint": "F1579",
-        "aliases": [
-            "social-distance-2-meters"
-        ],
-        "tags": [
-            "Medical \/ Hospital"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "5.5.55"
-    },
-    {
         "id": "59F69A6A-5DB4-4938-A90A-B186655409C5",
         "name": "account-multiple-6-feet",
         "codepoint": "F157A",
@@ -53506,6 +53493,19 @@
         ],
         "author": "GreenTurtwig",
         "version": "2.1.19"
+    },
+    {
+        "id": "D6384EF6-9386-4287-BE34-7038841AABD5",
+        "name": "social-distance-2-meters",
+        "codepoint": "F1579",
+        "aliases": [
+            "social-distance-2-meters"
+        ],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
     },
     {
         "id": "5560ABF9-E635-4D73-A39B-5404443F099F",
