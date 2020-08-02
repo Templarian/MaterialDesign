@@ -40662,6 +40662,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "520E825E-1F91-4EFA-B16F-488E61C02091",
+        "name": "motion-play-outline",
+        "codepoint": "F1591",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "2607909D-AA27-448A-B0E5-E5898790414A",
         "name": "motion-sensor",
         "codepoint": "F0D91",
