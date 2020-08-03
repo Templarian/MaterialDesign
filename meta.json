@@ -35779,7 +35779,9 @@
         "name": "key-chain-variant",
         "codepoint": "F1575",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Contributors",
         "version": "5.5.55"
     },
