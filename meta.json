@@ -4698,7 +4698,9 @@
         "name": "archive-alert",
         "codepoint": "F14FD",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Austin Andrews",
         "version": "5.4.55"
     },
