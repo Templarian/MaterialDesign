@@ -4600,7 +4600,9 @@
         "aliases": [
             "application-settings"
         ],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
     },
