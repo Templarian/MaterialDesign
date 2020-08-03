@@ -6141,7 +6141,9 @@
         "name": "arrow-up-thin-circle-outline",
         "codepoint": "F1597",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Arrow"
+        ],
         "author": "Google",
         "version": "5.5.55"
     },
