@@ -4877,7 +4877,9 @@
         "name": "arrow-bottom-left-thin-circle-outline",
         "codepoint": "F1596",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Arrow"
+        ],
         "author": "Google",
         "version": "5.5.55"
     },
