@@ -34249,6 +34249,20 @@
         "version": "1.6.50"
     },
     {
+        "id": "200F7489-F20F-4506-A27A-081A0CA8A312",
+        "name": "human-greeting-proximity",
+        "codepoint": "F159D",
+        "aliases": [
+            "connect-without-contact"
+        ],
+        "tags": [
+            "Account \/ User",
+            "People \/ Family"
+        ],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "10E7CAB4-7B15-4F73-82B1-E42562B9103C",
         "name": "human-handsdown",
         "codepoint": "F064B",
