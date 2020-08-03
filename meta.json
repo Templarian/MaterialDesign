@@ -34144,6 +34144,19 @@
         "version": "5.5.55"
     },
     {
+        "id": "AFFFC442-E5B7-4D2C-9B87-81D2AD52997A",
+        "name": "human-capacity-increase",
+        "codepoint": "F159C",
+        "aliases": [],
+        "tags": [
+            "Account \/ User",
+            "Transportation + Other",
+            "People \/ Family"
+        ],
+        "author": "Simran",
+        "version": "5.5.55"
+    },
+    {
         "id": "ABBC3761-B437-4800-9C57-BCBE5AC8FA31",
         "name": "human-child",
         "codepoint": "F02E7",
