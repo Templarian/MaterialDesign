@@ -56570,7 +56570,9 @@
         "name": "table-lock",
         "codepoint": "F13C6",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.1.45"
     },
