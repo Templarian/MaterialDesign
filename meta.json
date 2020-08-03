@@ -40840,7 +40840,9 @@
         "name": "motion-play-outline",
         "codepoint": "F1591",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "Google",
         "version": "5.5.55"
     },
