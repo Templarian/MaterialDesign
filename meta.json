@@ -5720,6 +5720,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "5ADB8DD0-2F9D-4F1B-ABC9-093579E960A0",
+        "name": "arrow-right-thin-circle-outline",
+        "codepoint": "F1598",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "ED7981BC-0B25-4657-BB7C-FB14A3D91D99",
         "name": "arrow-split-horizontal",
         "codepoint": "F093B",
