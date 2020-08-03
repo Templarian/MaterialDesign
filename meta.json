@@ -34452,6 +34452,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "30019019-F955-40EE-B811-C634718E6FAD",
+        "name": "hvac-off",
+        "codepoint": "F159E",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "FBFEC6FC-C311-4B53-8445-18B604AA7C12",
         "name": "hydraulic-oil-level",
         "codepoint": "F1324",
