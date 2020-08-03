@@ -7279,7 +7279,9 @@
             "grain-off",
             "wheat-off"
         ],
-        "tags": [],
+        "tags": [
+            "Agriculture"
+        ],
         "author": "Simran",
         "version": "3.0.39"
     },
