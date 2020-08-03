@@ -62513,7 +62513,9 @@
         "aliases": [
             "humidity-alert"
         ],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.4.55"
     },
