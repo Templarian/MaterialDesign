@@ -34129,6 +34129,21 @@
         "version": "5.5.55"
     },
     {
+        "id": "98227CA7-A56F-4C3F-85FC-0FAD616B9762",
+        "name": "human-capacity-decrease",
+        "codepoint": "F159B",
+        "aliases": [
+            "human-capacity-reduce"
+        ],
+        "tags": [
+            "Account \/ User",
+            "Transportation + Other",
+            "People \/ Family"
+        ],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "ABBC3761-B437-4800-9C57-BCBE5AC8FA31",
         "name": "human-child",
         "codepoint": "F02E7",
