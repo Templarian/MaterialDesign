@@ -40831,7 +40831,9 @@
         "name": "motion-play",
         "codepoint": "F158F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "Google",
         "version": "5.5.55"
     },
