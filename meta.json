@@ -4627,7 +4627,9 @@
         "name": "application-settings",
         "codepoint": "F1555",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "CoreyVidal",
         "version": "5.5.55"
     },
