@@ -5270,7 +5270,9 @@
         "name": "arrow-down-thin-circle-outline",
         "codepoint": "F1599",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Arrow"
+        ],
         "author": "Google",
         "version": "5.5.55"
     },
