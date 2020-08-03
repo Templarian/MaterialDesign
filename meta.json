@@ -35861,7 +35861,9 @@
         "name": "key-variant",
         "codepoint": "F030B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
