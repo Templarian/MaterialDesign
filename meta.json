@@ -6102,6 +6102,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "9733F983-7DD1-4230-B792-413D46E0B422",
+        "name": "arrow-up-thin-circle-outline",
+        "codepoint": "F1597",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "8B00DF03-0754-4D7F-B0C9-8CF21D42989F",
         "name": "arrow-vertical-lock",
         "codepoint": "F115C",
