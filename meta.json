@@ -40809,7 +40809,9 @@
         "name": "motion-pause",
         "codepoint": "F1590",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "Google",
         "version": "5.5.55"
     },
