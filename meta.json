@@ -13843,7 +13843,9 @@
         "name": "cash-lock-open",
         "codepoint": "F14EB",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Austin Andrews",
         "version": "5.4.55"
     },
