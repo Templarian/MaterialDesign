@@ -49838,6 +49838,18 @@
         "version": "2.0.46"
     },
     {
+        "id": "5B4966BE-753B-4777-A8D8-B67B3BC57C0D",
+        "name": "rickshaw",
+        "codepoint": "F15BB",
+        "aliases": [],
+        "tags": [
+            "Transportation + Road",
+            "Transportation + Other"
+        ],
+        "author": "nilsfast",
+        "version": "5.6.55"
+    },
+    {
         "id": "7D845AED-5EA2-44C0-8F38-6A2C4E08C8A3",
         "name": "ring",
         "codepoint": "F07EB",
