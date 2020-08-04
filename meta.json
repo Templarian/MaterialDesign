@@ -50851,6 +50851,17 @@
         "version": "2.6.95"
     },
     {
+        "id": "0299DD49-341B-4979-91A9-FB3BF6AEFB87",
+        "name": "scooter",
+        "codepoint": "F15BD",
+        "aliases": [],
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Google",
+        "version": "5.6.55"
+    },
+    {
         "id": "C20508AC-CC67-48DF-9B05-72DE40E417AF",
         "name": "scoreboard",
         "codepoint": "F127E",
