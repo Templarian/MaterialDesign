@@ -40982,6 +40982,21 @@
         "version": "4.2.95"
     },
     {
+        "id": "5DA43EA9-3DE7-49D8-8884-BB4D8ED31305",
+        "name": "moped-electric",
+        "codepoint": "F15B7",
+        "aliases": [
+            "scooter-electric",
+            "vespa-electric",
+            "delivery-dining-electric"
+        ],
+        "tags": [
+            "Transportation + Road"
+        ],
+        "author": "Google",
+        "version": "5.6.55"
+    },
+    {
         "id": "6284690E-A12C-4209-A779-18284E241DE3",
         "name": "more",
         "codepoint": "F037B",
