@@ -42461,7 +42461,9 @@
         "name": "notebook-edit",
         "codepoint": "F14E7",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Edit \/ Modify"
+        ],
         "author": "Austin Andrews",
         "version": "5.4.55"
     },
