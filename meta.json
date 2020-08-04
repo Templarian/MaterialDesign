@@ -36325,6 +36325,15 @@
         "version": "2.7.94"
     },
     {
+        "id": "F2C62DAD-9011-4495-B542-87407FFB7EA1",
+        "name": "ladder",
+        "codepoint": "F15A2",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "97AFF594-E421-4757-BE72-1D6C428E27AE",
         "name": "ladybug",
         "codepoint": "F082D",
