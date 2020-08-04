@@ -52008,7 +52008,9 @@
         "name": "shield-account-variant",
         "codepoint": "F15A7",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Google",
         "version": "5.5.55"
     },
