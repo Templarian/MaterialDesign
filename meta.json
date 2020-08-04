@@ -53038,7 +53038,9 @@
         "id": "57F11CAE-4E4B-4406-A5A8-2F5A283ABF99",
         "name": "silverware-clean",
         "codepoint": "F0FDE",
-        "aliases": [],
+        "aliases": [
+            "silverware-shimmer"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
