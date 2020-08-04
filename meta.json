@@ -18416,7 +18416,9 @@
         "id": "68AA7A36-BF66-4F18-8BEE-78448FDBF5B9",
         "name": "comment-flash-outline",
         "codepoint": "F15B1",
-        "aliases": [],
+        "aliases": [
+            "comment-quick-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
