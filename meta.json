@@ -50072,6 +50072,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "E6CF3E53-C5EF-48AF-BA3B-AD339E6A3FA3",
+        "name": "router-wireless-off",
+        "codepoint": "F15A3",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.5.55"
+    },
+    {
         "id": "3881E4FA-15D1-4051-991C-B4B4F0791576",
         "name": "router-wireless-settings",
         "codepoint": "F0A69",
