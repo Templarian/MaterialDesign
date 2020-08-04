@@ -39492,7 +39492,9 @@
         "id": "DA7B2430-9A55-42D5-AE19-92E108303E79",
         "name": "message-flash-outline",
         "codepoint": "F15AA",
-        "aliases": [],
+        "aliases": [
+            "message-quick-outline"
+        ],
         "tags": [],
         "author": "Google",
         "version": "5.5.55"
