@@ -36374,7 +36374,9 @@
         "name": "ladder",
         "codepoint": "F15A2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Hardware \/ Tools"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
     },
