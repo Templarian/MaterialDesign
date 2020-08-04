@@ -40937,6 +40937,15 @@
         "version": "3.3.92"
     },
     {
+        "id": "D5136ED4-FC45-44D8-9DE4-C266844D5131",
+        "name": "motion",
+        "codepoint": "F15B2",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "B0DBB2D0-8C87-4DD3-AB7A-4BF35A9BFC6C",
         "name": "motion-pause",
         "codepoint": "F1590",
