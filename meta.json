@@ -16465,7 +16465,9 @@
         "name": "clipboard-edit",
         "codepoint": "F14E5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Edit \/ Modify"
+        ],
         "author": "Contributors",
         "version": "5.4.55"
     },
