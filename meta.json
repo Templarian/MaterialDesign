@@ -37674,6 +37674,15 @@
         "version": "5.0.45"
     },
     {
+        "id": "CC9CEDB3-55DE-4CCA-B31F-888383F6C69E",
+        "name": "list-status",
+        "codepoint": "F15AB",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "1EB3C314-463F-488D-9DC6-3589C661984E",
         "name": "litecoin",
         "codepoint": "F0A61",
