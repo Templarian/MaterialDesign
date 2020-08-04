@@ -51912,6 +51912,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "8229B887-45A8-496A-9A8D-0140F438CB65",
+        "name": "shield-account-variant-outline",
+        "codepoint": "F15A8",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "B8FB8784-2E21-4D35-9DE8-95E8E2A42591",
         "name": "shield-airplane",
         "codepoint": "F06BB",
