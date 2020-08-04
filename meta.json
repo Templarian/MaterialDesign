@@ -60658,7 +60658,9 @@
         "name": "unicorn-variant",
         "codepoint": "F15C3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Animal"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.6.55"
     },
