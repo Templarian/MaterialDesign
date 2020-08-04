@@ -12939,6 +12939,17 @@
         "version": "3.0.39"
     },
     {
+        "id": "D97919E2-BB44-4ABE-86AB-68CD49AC4BE7",
+        "name": "car-electric-outline",
+        "codepoint": "F15B5",
+        "aliases": [],
+        "tags": [
+            "Transportation + Road"
+        ],
+        "author": "Google",
+        "version": "5.6.55"
+    },
+    {
         "id": "5BF118F1-1115-4928-8755-34AF926CF13D",
         "name": "car-esp",
         "codepoint": "F0C49",
