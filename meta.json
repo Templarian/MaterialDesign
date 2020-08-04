@@ -16476,7 +16476,9 @@
         "name": "clipboard-edit-outline",
         "codepoint": "F14E6",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Edit \/ Modify"
+        ],
         "author": "Contributors",
         "version": "5.4.55"
     },
