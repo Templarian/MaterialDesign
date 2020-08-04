@@ -50862,6 +50862,17 @@
         "version": "5.6.55"
     },
     {
+        "id": "09653048-04BF-4EDE-A6F5-7DAAE4157D21",
+        "name": "scooter-electric",
+        "codepoint": "F15BE",
+        "aliases": [],
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Google",
+        "version": "5.6.55"
+    },
+    {
         "id": "C20508AC-CC67-48DF-9B05-72DE40E417AF",
         "name": "scoreboard",
         "codepoint": "F127E",
