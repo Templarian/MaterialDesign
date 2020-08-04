@@ -34137,7 +34137,8 @@
         "name": "horse-human",
         "codepoint": "F15C0",
         "aliases": [
-            "horseback-riding"
+            "horseback-riding",
+            "horse-riding"
         ],
         "tags": [
             "Transportation + Other"
