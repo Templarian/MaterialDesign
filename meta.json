@@ -34136,7 +34136,9 @@
         "id": "784CE1E7-3523-4E04-910C-3E969FEA4E55",
         "name": "horse-human",
         "codepoint": "F15C0",
-        "aliases": [],
+        "aliases": [
+            "horseback-riding"
+        ],
         "tags": [
             "Transportation + Other"
         ],
