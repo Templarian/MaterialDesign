@@ -11546,8 +11546,17 @@
         "tags": [
             "Math"
         ],
-        "author": "Michael Richins",
+        "author": "Google",
         "version": "2.7.94"
+    },
+    {
+        "id": "87123F5D-C9AC-43B3-9E97-10EE3F9C1158",
+        "name": "calculator-variant-outline",
+        "codepoint": "F15A6",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.5.55"
     },
     {
         "id": "23C8742A-612C-4C55-B184-2A0ABB387746",
