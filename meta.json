@@ -42472,7 +42472,9 @@
         "name": "notebook-edit-outline",
         "codepoint": "F14E9",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Edit \/ Modify"
+        ],
         "author": "Austin Andrews",
         "version": "5.4.55"
     },
