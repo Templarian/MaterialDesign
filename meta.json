@@ -9097,7 +9097,9 @@
         "aliases": [
             "bike-basket"
         ],
-        "tags": [],
+        "tags": [
+            "Transportation + Other"
+        ],
         "author": "Fran\u00e7ois Risoud",
         "version": "4.6.95"
     },
