@@ -39405,6 +39405,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "DA7B2430-9A55-42D5-AE19-92E108303E79",
+        "name": "message-flash-outline",
+        "codepoint": "F15AA",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "C4C9B194-78C3-47FB-ABF6-5129230527AC",
         "name": "message-image",
         "codepoint": "F0364",
