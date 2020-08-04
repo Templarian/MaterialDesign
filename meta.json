@@ -34130,6 +34130,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "784CE1E7-3523-4E04-910C-3E969FEA4E55",
+        "name": "horse-human",
+        "codepoint": "F15C0",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.6.55"
+    },
+    {
         "id": "1955609E-8F53-41B3-9C71-0A71E4FBEED3",
         "name": "horseshoe",
         "codepoint": "F0A58",
