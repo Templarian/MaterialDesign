@@ -53618,7 +53618,9 @@
         "id": "799D9561-AC12-4E30-8CA8-2FBF9E5597B8",
         "name": "slide",
         "codepoint": "F15A5",
-        "aliases": [],
+        "aliases": [
+            "playground-slide"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
