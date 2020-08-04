@@ -18325,6 +18325,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "342B6E5C-FE9B-4A5A-940C-3918AB609441",
+        "name": "comment-bookmark-outline",
+        "codepoint": "F15AF",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "5D2CEEF1-3F19-4AD2-8965-13DB365B0013",
         "name": "comment-check",
         "codepoint": "F017F",
