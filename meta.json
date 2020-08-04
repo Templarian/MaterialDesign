@@ -20408,6 +20408,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "45E2144E-5240-4557-B9A9-45DD7B514738",
+        "name": "dance-pole",
+        "codepoint": "F1578",
+        "aliases": [],
+        "tags": [
+            "Sport"
+        ],
+        "author": "Haley Halcyon",
+        "version": "5.5.55"
+    },
+    {
         "id": "7727E2AF-BD33-4C14-9FF4-6FA4BBA8594C",
         "name": "data-matrix",
         "codepoint": "F153C",
@@ -36309,17 +36320,6 @@
         ],
         "author": "Michael Irigoyen",
         "version": "4.3.95"
-    },
-    {
-        "id": "45E2144E-5240-4557-B9A9-45DD7B514738",
-        "name": "kho-kho",
-        "codepoint": "F1578",
-        "aliases": [],
-        "tags": [
-            "Sport"
-        ],
-        "author": "Haley Halcyon",
-        "version": "5.5.55"
     },
     {
         "id": "D881D589-79F0-4255-B050-13E396293D1F",
