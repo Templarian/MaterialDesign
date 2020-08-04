@@ -39481,7 +39481,9 @@
         "id": "A9181976-10D1-4CB7-993E-AE8B7DEDEC64",
         "name": "message-flash",
         "codepoint": "F15A9",
-        "aliases": [],
+        "aliases": [
+            "message-quick"
+        ],
         "tags": [],
         "author": "Google",
         "version": "5.5.55"
