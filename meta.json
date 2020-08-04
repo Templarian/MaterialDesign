@@ -12920,7 +12920,7 @@
             "Transportation + Road",
             "Automotive"
         ],
-        "author": "Michael Richins",
+        "author": "Google",
         "version": "3.0.39"
     },
     {
@@ -34527,6 +34527,18 @@
         "version": "5.5.55"
     },
     {
+        "id": "08B3209B-7D10-4C1C-9962-E4DAC71DD06F",
+        "name": "human-scooter",
+        "codepoint": "F11E9",
+        "aliases": [],
+        "tags": [
+            "Sport",
+            "Transportation + Other"
+        ],
+        "author": "Google",
+        "version": "4.5.95"
+    },
+    {
         "id": "B0529853-AE3D-475C-94EB-0C775E934806",
         "name": "human-wheelchair",
         "codepoint": "F138D",
@@ -50720,18 +50732,6 @@
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "2.6.95"
-    },
-    {
-        "id": "08B3209B-7D10-4C1C-9962-E4DAC71DD06F",
-        "name": "scooter",
-        "codepoint": "F11E9",
-        "aliases": [],
-        "tags": [
-            "Sport",
-            "Transportation + Other"
-        ],
-        "author": "Google",
-        "version": "4.5.95"
     },
     {
         "id": "C20508AC-CC67-48DF-9B05-72DE40E417AF",
