@@ -41012,6 +41012,21 @@
         "version": "5.6.55"
     },
     {
+        "id": "2C84B4E2-F872-423E-B9E2-918DD013E131",
+        "name": "moped-outline",
+        "codepoint": "F15B9",
+        "aliases": [
+            "scooter-outline",
+            "vespa-outline",
+            "delivery-dining-outline"
+        ],
+        "tags": [
+            "Transportation + Road"
+        ],
+        "author": "Google",
+        "version": "5.6.55"
+    },
+    {
         "id": "6284690E-A12C-4209-A779-18284E241DE3",
         "name": "more",
         "codepoint": "F037B",
