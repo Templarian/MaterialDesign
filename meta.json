@@ -34125,7 +34125,9 @@
         "name": "horse",
         "codepoint": "F15BF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Other"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.6.55"
     },
