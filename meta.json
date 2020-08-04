@@ -52019,7 +52019,9 @@
         "name": "shield-account-variant-outline",
         "codepoint": "F15A8",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Google",
         "version": "5.5.55"
     },
