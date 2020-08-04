@@ -40997,6 +40997,21 @@
         "version": "5.6.55"
     },
     {
+        "id": "FF5A5D35-99C8-475C-B672-362AF0FA9FC6",
+        "name": "moped-electric-outline",
+        "codepoint": "F15B8",
+        "aliases": [
+            "scooter-electric-outline",
+            "vespa-electric-outline",
+            "delivery-dining-electric-outline"
+        ],
+        "tags": [
+            "Transportation + Road"
+        ],
+        "author": "Google",
+        "version": "5.6.55"
+    },
+    {
         "id": "6284690E-A12C-4209-A779-18284E241DE3",
         "name": "more",
         "codepoint": "F037B",
