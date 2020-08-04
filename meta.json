@@ -32324,7 +32324,12 @@
         "id": "11A33144-9847-4ED2-A429-682B79AAE06F",
         "name": "handshake-outline",
         "codepoint": "F15A1",
-        "aliases": [],
+        "aliases": [
+            "business-outline",
+            "deal-outline",
+            "help-outline",
+            "partnership-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
