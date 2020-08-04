@@ -49850,6 +49850,18 @@
         "version": "5.6.55"
     },
     {
+        "id": "8869DCB9-04E3-41B9-B56C-D4BC5CF2DD7A",
+        "name": "rickshaw-electric",
+        "codepoint": "F15BC",
+        "aliases": [],
+        "tags": [
+            "Transportation + Road",
+            "Transportation + Other"
+        ],
+        "author": "nilsfast",
+        "version": "5.6.55"
+    },
+    {
         "id": "7D845AED-5EA2-44C0-8F38-6A2C4E08C8A3",
         "name": "ring",
         "codepoint": "F07EB",
