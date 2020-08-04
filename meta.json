@@ -40946,6 +40946,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "0D1E834E-0B33-49ED-B02B-1EA0E966ADE1",
+        "name": "motion-outline",
+        "codepoint": "F15B3",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "B0DBB2D0-8C87-4DD3-AB7A-4BF35A9BFC6C",
         "name": "motion-pause",
         "codepoint": "F1590",
