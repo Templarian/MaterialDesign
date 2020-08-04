@@ -51903,6 +51903,15 @@
         "version": "2.5.94"
     },
     {
+        "id": "54FF705E-9453-4D1A-B2AC-1EB2F815F518",
+        "name": "shield-account-variant",
+        "codepoint": "F15A7",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "B8FB8784-2E21-4D35-9DE8-95E8E2A42591",
         "name": "shield-airplane",
         "codepoint": "F06BB",
