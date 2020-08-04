@@ -51002,6 +51002,15 @@
         "version": "3.6.95"
     },
     {
+        "id": "B2FB9E28-A275-4BC8-AFD9-8A8D90153ED9",
+        "name": "seesaw",
+        "codepoint": "F15A4",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.5.55"
+    },
+    {
         "id": "5AFE282B-CAE1-4D7F-A2BF-37E8655537DD",
         "name": "segment",
         "codepoint": "F0ECB",
