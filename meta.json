@@ -34567,7 +34567,11 @@
         "id": "30019019-F955-40EE-B811-C634718E6FAD",
         "name": "hvac-off",
         "codepoint": "F159E",
-        "aliases": [],
+        "aliases": [
+            "heating-off",
+            "ventilation-off",
+            "air-conditioning-off"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
