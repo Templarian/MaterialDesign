@@ -20382,7 +20382,9 @@
         "name": "data-matrix-edit",
         "codepoint": "F153D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Edit \/ Modify"
+        ],
         "author": "David Kon\u00ed\u0159",
         "version": "5.4.55"
     },
