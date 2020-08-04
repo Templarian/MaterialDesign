@@ -39359,6 +39359,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "94793E49-C5C4-47A8-87FD-215A923ACA2A",
+        "name": "message-bookmark-outline",
+        "codepoint": "F15AD",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.5.55"
+    },
+    {
         "id": "1EC9427A-2A02-4F74-9C1B-C4EC5E62B793",
         "name": "message-bulleted",
         "codepoint": "F06A2",
