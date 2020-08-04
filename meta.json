@@ -34134,7 +34134,9 @@
         "name": "horse-human",
         "codepoint": "F15C0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Other"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.6.55"
     },
