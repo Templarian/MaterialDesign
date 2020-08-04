@@ -20411,7 +20411,9 @@
         "id": "45E2144E-5240-4557-B9A9-45DD7B514738",
         "name": "dance-pole",
         "codepoint": "F1578",
-        "aliases": [],
+        "aliases": [
+            "kho-kho"
+        ],
         "tags": [
             "Sport"
         ],
