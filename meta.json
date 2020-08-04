@@ -37725,7 +37725,9 @@
         "name": "list-status",
         "codepoint": "F15AB",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Google",
         "version": "5.5.55"
     },
