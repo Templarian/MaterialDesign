@@ -34148,7 +34148,9 @@
         "name": "horse-variant",
         "codepoint": "F15C1",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Animal"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.6.55"
     },
