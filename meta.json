@@ -29372,7 +29372,9 @@
         "name": "format-list-text",
         "codepoint": "F126F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Yaroslav Bandura",
         "version": "4.7.95"
     },
