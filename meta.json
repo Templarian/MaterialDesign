@@ -51134,7 +51134,9 @@
         "id": "B2FB9E28-A275-4BC8-AFD9-8A8D90153ED9",
         "name": "seesaw",
         "codepoint": "F15A4",
-        "aliases": [],
+        "aliases": [
+            "playground-seesaw"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
