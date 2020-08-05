@@ -1773,6 +1773,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "AB8BCA23-EA1C-4A27-B535-4F373F1451E6",
+        "name": "alarm-panel",
+        "codepoint": "F15C4",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "6D93F44C-83F7-4446-A5CD-E4135C8644D7",
         "name": "alarm-plus",
         "codepoint": "F0024",
