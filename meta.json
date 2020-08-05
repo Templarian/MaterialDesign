@@ -52720,7 +52720,9 @@
         "name": "shoe-cleat",
         "codepoint": "F15C7",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.6.55"
     },
