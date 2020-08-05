@@ -9240,7 +9240,9 @@
         "name": "bird",
         "codepoint": "F15C6",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Animal"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.6.55"
     },
