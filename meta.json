@@ -52764,7 +52764,9 @@
         "name": "shoe-sneaker",
         "codepoint": "F15C8",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.6.55"
     },
