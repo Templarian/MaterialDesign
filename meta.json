@@ -34439,6 +34439,17 @@
         "version": "2.6.95"
     },
     {
+        "id": "DCBC03CA-8A3A-41FD-9C96-BA738EDA9F05",
+        "name": "human-female-dance",
+        "codepoint": "F15C9",
+        "aliases": [
+            "ballet"
+        ],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "5.6.55"
+    },
+    {
         "id": "63BC56A3-B593-4789-BEAE-2696E6DC2CB6",
         "name": "human-female-female",
         "codepoint": "F0A5A",
