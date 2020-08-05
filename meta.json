@@ -52716,6 +52716,15 @@
         "version": "2.1.19"
     },
     {
+        "id": "F6831C58-3C18-44F4-A2A8-4AD96444F012",
+        "name": "shoe-cleat",
+        "codepoint": "F15C7",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "DFEA1FD2-F6A5-4670-83D6-9861A0FA272C",
         "name": "shoe-formal",
         "codepoint": "F0B47",
