@@ -52733,6 +52733,20 @@
         "version": "2.1.19"
     },
     {
+        "id": "B5B68323-60DD-45BF-83FC-892B436D0400",
+        "name": "shoe-ballet",
+        "codepoint": "F15CA",
+        "aliases": [
+            "slippers-ballet"
+        ],
+        "tags": [
+            "Sport",
+            "Clothing"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "F6831C58-3C18-44F4-A2A8-4AD96444F012",
         "name": "shoe-cleat",
         "codepoint": "F15C7",
