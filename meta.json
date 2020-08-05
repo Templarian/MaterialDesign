@@ -52758,6 +52758,15 @@
         "version": "3.5.94"
     },
     {
+        "id": "EA78AFA5-70F2-4878-A1D5-746B410E1DA0",
+        "name": "shoe-sneaker",
+        "codepoint": "F15C8",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "7A5ED547-B142-4921-8050-647B2B9F4DC0",
         "name": "shopping",
         "codepoint": "F049A",
