@@ -9232,6 +9232,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "18622D72-42B2-4919-BDB5-DCC77310045B",
+        "name": "bird",
+        "codepoint": "F15C6",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "B48BB714-F66F-4D86-9864-051DB90AE197",
         "name": "bitbucket",
         "codepoint": "F00A8",
