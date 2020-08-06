@@ -43952,6 +43952,20 @@
         "version": "4.1.95"
     },
     {
+        "id": "73DE8F6E-A301-42D1-B2C3-3699265BA2BB",
+        "name": "numeric-positive-1",
+        "codepoint": "F15CB",
+        "aliases": [
+            "increment",
+            "plus-one"
+        ],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "8B702257-4232-459E-BDA8-C4E698DF8E8E",
         "name": "nut",
         "codepoint": "F06F8",
