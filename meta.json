@@ -43942,7 +43942,8 @@
         "name": "numeric-negative-1",
         "codepoint": "F1052",
         "aliases": [
-            "decrement"
+            "decrement",
+            "minus-one"
         ],
         "tags": [
             "Alpha \/ Numeric"
