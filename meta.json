@@ -49912,7 +49912,9 @@
         "name": "rhombus-split-outline",
         "codepoint": "F14DD",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Simran",
         "version": "5.3.45"
     },
