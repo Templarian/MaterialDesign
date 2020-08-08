@@ -24719,6 +24719,22 @@
         "version": "4.2.95"
     },
     {
+        "id": "97F4C885-AB98-45C3-85C7-E5DA25ECD271",
+        "name": "face-woman-shimmer",
+        "codepoint": "F15CE",
+        "aliases": [
+            "face-retouching-natural-woman"
+        ],
+        "tags": [
+            "People \/ Family",
+            "Photography",
+            "Health \/ Beauty",
+            "Account \/ User"
+        ],
+        "author": "Simran",
+        "version": "5.6.55"
+    },
+    {
         "id": "95CC9E46-A553-42B3-B44E-2E88DB13C1E1",
         "name": "facebook",
         "codepoint": "F020C",
