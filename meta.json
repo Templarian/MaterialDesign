@@ -26767,6 +26767,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "69B65938-BBEB-4E19-9D12-3924EEAAACF0",
+        "name": "fire-alert",
+        "codepoint": "F15D7",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.6.55"
+    },
+    {
         "id": "D056C9A3-AA4C-4220-BEE7-79E189C12711",
         "name": "fire-extinguisher",
         "codepoint": "F0EF2",
