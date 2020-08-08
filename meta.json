@@ -53490,7 +53490,8 @@
             "sim-card-alert"
         ],
         "tags": [
-            "Alert \/ Error"
+            "Alert \/ Error",
+            "Cellphone \/ Phone"
         ],
         "author": "Google",
         "version": "1.5.54"
