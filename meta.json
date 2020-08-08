@@ -24735,6 +24735,22 @@
         "version": "5.6.55"
     },
     {
+        "id": "43851D4C-D310-45C3-9A86-6BF5DFD51055",
+        "name": "face-woman-shimmer-outline",
+        "codepoint": "F15CF",
+        "aliases": [
+            "face-retouching-natural-woman-outline"
+        ],
+        "tags": [
+            "People \/ Family",
+            "Photography",
+            "Health \/ Beauty",
+            "Account \/ User"
+        ],
+        "author": "Simran",
+        "version": "5.6.55"
+    },
+    {
         "id": "95CC9E46-A553-42B3-B44E-2E88DB13C1E1",
         "name": "facebook",
         "codepoint": "F020C",
