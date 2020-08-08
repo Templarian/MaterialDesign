@@ -33611,7 +33611,9 @@
         "name": "home-alert-outline",
         "codepoint": "F15D0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.6.55"
     },
