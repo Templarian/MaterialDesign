@@ -9731,6 +9731,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "3653D788-AC33-42D4-ADE4-F91A1C373973",
+        "name": "book-open-page-variant-outline",
+        "codepoint": "F15D6",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.6.55"
+    },
+    {
         "id": "E5928511-4156-4086-B58D-A2B235A3F824",
         "name": "book-open-variant",
         "codepoint": "F14F7",
