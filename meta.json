@@ -33607,6 +33607,15 @@
         "version": "2.1.99"
     },
     {
+        "id": "0A46973B-0029-4BCF-9728-F3E13DC9FE91",
+        "name": "home-alert-outline",
+        "codepoint": "F15D0",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "381A61B9-0D73-4CB8-B525-C67697443F43",
         "name": "home-analytics",
         "codepoint": "F0EBA",
