@@ -48952,6 +48952,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "B911CCA3-1237-45C3-BCE1-34CB034F8739",
+        "name": "ray-start-vertex-end",
+        "codepoint": "F15D8",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.6.55"
+    },
+    {
         "id": "B391C303-5456-4746-83DD-7862952E281E",
         "name": "ray-vertex",
         "codepoint": "F0445",
