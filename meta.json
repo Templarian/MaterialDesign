@@ -53501,7 +53501,9 @@
         "name": "sim-alert-outline",
         "codepoint": "F15D3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.6.55"
     },
