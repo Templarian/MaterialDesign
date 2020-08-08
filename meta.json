@@ -53475,7 +53475,9 @@
             "subscriber-identity-module",
             "subscriber-identification-module"
         ],
-        "tags": [],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
