@@ -53516,6 +53516,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "D7CAB5D9-2494-4528-B45E-A8EA49EA8262",
+        "name": "sim-off-outline",
+        "codepoint": "F15D4",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "A062A6A1-E475-41CD-AFB2-283199B67CC8",
         "name": "simple-icons",
         "codepoint": "F131D",
