@@ -53536,7 +53536,9 @@
         "name": "sim-outline",
         "codepoint": "F15D5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.6.55"
     },
