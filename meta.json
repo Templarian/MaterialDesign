@@ -24681,6 +24681,22 @@
         "version": "5.6.55"
     },
     {
+        "id": "CC7A66A4-2118-4635-B227-C184D8903867",
+        "name": "face-shimmer-outline",
+        "codepoint": "F15CD",
+        "aliases": [
+            "face-retouching-natural-outline"
+        ],
+        "tags": [
+            "People \/ Family",
+            "Photography",
+            "Health \/ Beauty",
+            "Account \/ User"
+        ],
+        "author": "Simran",
+        "version": "5.6.55"
+    },
+    {
         "id": "C591017E-E3D0-48CA-A517-86B21DE853A0",
         "name": "face-woman",
         "codepoint": "F1077",
