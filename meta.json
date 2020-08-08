@@ -44466,6 +44466,19 @@
         "version": "1.5.54"
     },
     {
+        "id": "4A0C34D7-1D3D-472B-9E5D-858DBBCBC7B2",
+        "name": "orbit-variant",
+        "codepoint": "F15DB",
+        "aliases": [
+            "camera-flip"
+        ],
+        "tags": [
+            "Photography"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "B6FBB02F-98A0-4521-BA9B-D00EA8A2FC57",
         "name": "order-alphabetical-ascending",
         "codepoint": "F020D",
