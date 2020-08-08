@@ -12567,7 +12567,9 @@
         "name": "camera-switch-outline",
         "codepoint": "F084A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Photography"
+        ],
         "author": "Google",
         "version": "2.1.99"
     },
