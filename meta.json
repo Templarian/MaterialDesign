@@ -12363,6 +12363,20 @@
         "version": "5.6.55"
     },
     {
+        "id": "A40CFB47-3650-42BF-874C-C5BF09641708",
+        "name": "camera-flip-outline",
+        "codepoint": "F15DA",
+        "aliases": [
+            "camera-sync-outline",
+            "camera-refresh-outline"
+        ],
+        "tags": [
+            "Photography"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "574F4B2D-70FE-41E3-AFB4-EC1E2AB897AB",
         "name": "camera-front",
         "codepoint": "F0102",
