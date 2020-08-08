@@ -12349,6 +12349,20 @@
         "version": "3.0.39"
     },
     {
+        "id": "D4175840-8B51-4C1E-AFF2-A8142F5CCF2E",
+        "name": "camera-flip",
+        "codepoint": "F15D9",
+        "aliases": [
+            "camera-sync",
+            "camera-refresh"
+        ],
+        "tags": [
+            "Photography"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "574F4B2D-70FE-41E3-AFB4-EC1E2AB897AB",
         "name": "camera-front",
         "codepoint": "F0102",
