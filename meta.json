@@ -53545,7 +53545,11 @@
         "id": "C886D757-3CAE-4BAF-9F51-0747142FC508",
         "name": "sim-outline",
         "codepoint": "F15D5",
-        "aliases": [],
+        "aliases": [
+            "sim-card-outline",
+            "subscriber-identity-module-outline",
+            "subscriber-identification-module-outline"
+        ],
         "tags": [
             "Cellphone \/ Phone"
         ],
