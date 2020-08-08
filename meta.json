@@ -38026,6 +38026,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "6DE0B795-B0C1-4CFC-A47E-0D1C3A203248",
+        "name": "lock-alert-outline",
+        "codepoint": "F15D1",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "CA254138-2001-4A37-8D52-E65D608E0E10",
         "name": "lock-check",
         "codepoint": "F139A",
