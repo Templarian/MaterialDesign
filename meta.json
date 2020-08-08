@@ -53494,6 +53494,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "23E2DADA-D539-422C-B925-9DCB1445B344",
+        "name": "sim-alert-outline",
+        "codepoint": "F15D3",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "65B6C060-C1A9-4049-A6B6-FEAC02A899D3",
         "name": "sim-off",
         "codepoint": "F04A9",
