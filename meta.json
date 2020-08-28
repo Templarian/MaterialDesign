@@ -19960,7 +19960,9 @@
         "id": "FEA3388A-F985-482C-8CE0-0B4ABCD31691",
         "name": "cup-outline",
         "codepoint": "F130F",
-        "aliases": [],
+        "aliases": [
+            "glass-outline"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
