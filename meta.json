@@ -19921,7 +19921,8 @@
         "name": "cup",
         "codepoint": "F01AA",
         "aliases": [
-            "glass"
+            "glass",
+            "drink"
         ],
         "tags": [
             "Food \/ Drink"
