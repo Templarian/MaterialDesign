@@ -18050,7 +18050,9 @@
         "id": "DC66752A-65C6-461D-AAA6-65E8389E7D3B",
         "name": "coffee-to-go-outline",
         "codepoint": "F130E",
-        "aliases": [],
+        "aliases": [
+            "tea-to-go-outline"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
