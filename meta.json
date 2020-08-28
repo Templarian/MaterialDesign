@@ -31493,7 +31493,8 @@
         "name": "glass-wine",
         "codepoint": "F0876",
         "aliases": [
-            "bar"
+            "bar",
+            "alcohol"
         ],
         "tags": [
             "Food \/ Drink"
