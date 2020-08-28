@@ -19975,7 +19975,8 @@
         "name": "cup-water",
         "codepoint": "F01AB",
         "aliases": [
-            "local-drink"
+            "local-drink",
+            "glass-water"
         ],
         "tags": [
             "Food \/ Drink"
