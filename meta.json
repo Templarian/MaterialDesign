@@ -18034,7 +18034,8 @@
         "name": "coffee-to-go",
         "codepoint": "F0177",
         "aliases": [
-            "tea-to-go"
+            "tea-to-go",
+            "drink-to-go"
         ],
         "tags": [
             "Food \/ Drink"
