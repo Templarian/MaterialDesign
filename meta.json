@@ -31392,7 +31392,9 @@
         "id": "CD1215BB-D889-4A86-8944-AF724C71DF21",
         "name": "glass-flute",
         "codepoint": "F02A5",
-        "aliases": [],
+        "aliases": [
+            "alcohol"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
