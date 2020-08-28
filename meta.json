@@ -19920,7 +19920,9 @@
         "id": "D5DA2C54-C8D0-469F-99A9-C8DB9D3A6F15",
         "name": "cup",
         "codepoint": "F01AA",
-        "aliases": [],
+        "aliases": [
+            "glass"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
