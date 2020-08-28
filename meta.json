@@ -31458,7 +31458,9 @@
         "id": "E26942A0-61AE-4D1A-941C-895D92E94C5D",
         "name": "glass-stange",
         "codepoint": "F02A7",
-        "aliases": [],
+        "aliases": [
+            "alcohol"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
