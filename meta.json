@@ -17999,7 +17999,9 @@
         "id": "B8D17AA8-7B65-4CA7-B9A9-6960C2A64164",
         "name": "coffee-off-outline",
         "codepoint": "F0FAB",
-        "aliases": [],
+        "aliases": [
+            "drink-off-outline"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
