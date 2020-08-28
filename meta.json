@@ -19948,7 +19948,9 @@
         "id": "C3BC4A94-7F95-4E12-A715-45830DEDA014",
         "name": "cup-off-outline",
         "codepoint": "F137D",
-        "aliases": [],
+        "aliases": [
+            "glass-off-outline"
+        ],
         "tags": [],
         "author": "Simran",
         "version": "4.9.95"
