@@ -28737,7 +28737,8 @@
             "fast-food-off",
             "burger-off",
             "cup-off",
-            "drink-off"
+            "drink-off",
+            "hamburger-off"
         ],
         "tags": [
             "Food \/ Drink"
