@@ -17983,7 +17983,8 @@
         "name": "coffee-off",
         "codepoint": "F0FAA",
         "aliases": [
-            "drink-off"
+            "drink-off",
+            "tea-off"
         ],
         "tags": [
             "Food \/ Drink"
