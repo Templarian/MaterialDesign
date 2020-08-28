@@ -17986,7 +17986,8 @@
             "drink-off",
             "tea-off",
             "cup-off",
-            "free-breakfast-off"
+            "free-breakfast-off",
+            "local-cafe-off"
         ],
         "tags": [
             "Food \/ Drink"
