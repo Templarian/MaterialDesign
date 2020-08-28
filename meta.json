@@ -19961,7 +19961,8 @@
         "name": "cup-outline",
         "codepoint": "F130F",
         "aliases": [
-            "glass-outline"
+            "glass-outline",
+            "drink-outline"
         ],
         "tags": [
             "Food \/ Drink"
