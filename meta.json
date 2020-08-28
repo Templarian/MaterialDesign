@@ -18033,7 +18033,9 @@
         "id": "8093CDE7-C795-4415-94C6-2EF40ED6D057",
         "name": "coffee-to-go",
         "codepoint": "F0177",
-        "aliases": [],
+        "aliases": [
+            "tea-to-go"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
