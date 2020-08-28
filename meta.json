@@ -19935,7 +19935,8 @@
         "name": "cup-off",
         "codepoint": "F05E5",
         "aliases": [
-            "glass-off"
+            "glass-off",
+            "drink-off"
         ],
         "tags": [
             "Food \/ Drink"
