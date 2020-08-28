@@ -28734,7 +28734,8 @@
         "name": "food-off",
         "codepoint": "F05F3",
         "aliases": [
-            "fast-food-off"
+            "fast-food-off",
+            "burger-off"
         ],
         "tags": [
             "Food \/ Drink"
