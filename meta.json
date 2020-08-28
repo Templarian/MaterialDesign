@@ -32284,7 +32284,9 @@
         "id": "F5BC2290-D719-4974-9920-DF8E08E5F955",
         "name": "hamburger",
         "codepoint": "F0685",
-        "aliases": [],
+        "aliases": [
+            "burger"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
