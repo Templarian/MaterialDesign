@@ -19978,7 +19978,8 @@
             "local-drink",
             "glass-water",
             "drink-water",
-            "cup-liquid"
+            "cup-liquid",
+            "glass-liquid"
         ],
         "tags": [
             "Food \/ Drink"
