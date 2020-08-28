@@ -28585,7 +28585,8 @@
         "name": "food",
         "codepoint": "F025A",
         "aliases": [
-            "fast-food"
+            "fast-food",
+            "burger"
         ],
         "tags": [
             "Food \/ Drink"
