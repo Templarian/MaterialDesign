@@ -48700,7 +48700,9 @@
         "id": "E81082B7-E851-4407-B0D2-08CC105C6A5D",
         "name": "quadcopter",
         "codepoint": "F0434",
-        "aliases": [],
+        "aliases": [
+            "drone"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.5.54"
