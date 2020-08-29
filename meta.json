@@ -24422,7 +24422,9 @@
         "id": "ECCA4152-AD73-4986-ADC4-9FACDC925868",
         "name": "export-variant",
         "codepoint": "F0B93",
-        "aliases": [],
+        "aliases": [
+            "ios-share"
+        ],
         "tags": [],
         "author": "Google",
         "version": "3.0.39"
