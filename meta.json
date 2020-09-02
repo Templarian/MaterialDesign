@@ -29101,7 +29101,8 @@
             "format-colour-fill",
             "paint",
             "paint-bucket",
-            "ink-color"
+            "ink-color",
+            "ink-colour"
         ],
         "tags": [
             "Text \/ Content \/ Format",
