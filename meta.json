@@ -45091,7 +45091,8 @@
         "name": "palette-swatch-outline",
         "codepoint": "F135C",
         "aliases": [
-            "style-outline"
+            "style-outline",
+            "paint-outline"
         ],
         "tags": [
             "Drawing \/ Art",
