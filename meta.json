@@ -45076,7 +45076,8 @@
         "name": "palette-swatch",
         "codepoint": "F08B5",
         "aliases": [
-            "style"
+            "style",
+            "paint"
         ],
         "tags": [
             "Drawing \/ Art",
