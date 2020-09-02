@@ -45060,7 +45060,8 @@
         "name": "palette-outline",
         "codepoint": "F0E0C",
         "aliases": [
-            "paint"
+            "paint",
+            "art"
         ],
         "tags": [
             "Drawing \/ Art",
