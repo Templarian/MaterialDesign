@@ -63236,7 +63236,8 @@
         "codepoint": "F1503",
         "aliases": [
             "drop-alert-outline",
-            "blood-alert-outline"
+            "blood-alert-outline",
+            "ink-alert-outline"
         ],
         "tags": [
             "Alert \/ Error"
