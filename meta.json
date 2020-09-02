@@ -63374,7 +63374,8 @@
         "name": "water-percent",
         "codepoint": "F058E",
         "aliases": [
-            "humidity"
+            "humidity",
+            "ink-percent"
         ],
         "tags": [
             "Weather",
