@@ -29100,7 +29100,8 @@
         "aliases": [
             "format-colour-fill",
             "paint",
-            "paint-bucket"
+            "paint-bucket",
+            "ink-color"
         ],
         "tags": [
             "Text \/ Content \/ Format",
