@@ -45045,7 +45045,9 @@
         "id": "3617B5EE-9A4A-4C3C-9C9A-8C69C7569EB4",
         "name": "palette-advanced",
         "codepoint": "F03D9",
-        "aliases": [],
+        "aliases": [
+            "paint"
+        ],
         "tags": [
             "Color",
             "Drawing \/ Art"
