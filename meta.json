@@ -63338,7 +63338,8 @@
         "aliases": [
             "format-color-reset",
             "trans-fat-off",
-            "blood-off"
+            "blood-off",
+            "ink-off"
         ],
         "tags": [],
         "author": "Google",
