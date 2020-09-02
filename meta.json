@@ -45059,7 +45059,9 @@
         "id": "6C41ED7D-CA9F-45BA-B94D-F20ABB54519B",
         "name": "palette-outline",
         "codepoint": "F0E0C",
-        "aliases": [],
+        "aliases": [
+            "paint"
+        ],
         "tags": [
             "Drawing \/ Art",
             "Color",
