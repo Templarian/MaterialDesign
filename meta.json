@@ -63221,7 +63221,8 @@
         "codepoint": "F1502",
         "aliases": [
             "drop-alert",
-            "blood-alert"
+            "blood-alert",
+            "ink-alert"
         ],
         "tags": [
             "Alert \/ Error"
