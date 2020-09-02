@@ -63389,7 +63389,8 @@
         "name": "water-percent-alert",
         "codepoint": "F1509",
         "aliases": [
-            "humidity-alert"
+            "humidity-alert",
+            "ink-percent-alert"
         ],
         "tags": [
             "Alert \/ Error"
