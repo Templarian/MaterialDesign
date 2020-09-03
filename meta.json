@@ -40926,7 +40926,8 @@
             "remove-circle-outline",
             "do-not-enter-outline",
             "do-not-disturb-outline",
-            "pill-tablet-outline"
+            "pill-tablet-outline",
+            "medicine-outline"
         ],
         "tags": [
             "Transportation + Road",
