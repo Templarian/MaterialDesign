@@ -42363,7 +42363,8 @@
             "injection",
             "medicine",
             "shot",
-            "drug"
+            "drug",
+            "immunization"
         ],
         "tags": [
             "Medical \/ Hospital"
