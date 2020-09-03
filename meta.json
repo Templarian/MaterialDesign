@@ -39527,7 +39527,8 @@
         "name": "medical-bag",
         "codepoint": "F06EF",
         "aliases": [
-            "first-aid-kit"
+            "first-aid-kit",
+            "medicine"
         ],
         "tags": [
             "Medical \/ Hospital"
