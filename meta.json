@@ -16138,6 +16138,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "3E57AA64-D7C2-4C4E-BE87-58A6D775BC21",
+        "name": "circle-box",
+        "codepoint": "F15DC",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "02A447DB-D9DB-4568-B839-841F1401FD31",
         "name": "circle-double",
         "codepoint": "F0E95",
