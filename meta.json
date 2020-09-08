@@ -16147,6 +16147,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "4A709F16-7813-44DA-AB19-EBEBB4A6718A",
+        "name": "circle-box-outline",
+        "codepoint": "F15DD",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "02A447DB-D9DB-4568-B839-841F1401FD31",
         "name": "circle-double",
         "codepoint": "F0E95",
