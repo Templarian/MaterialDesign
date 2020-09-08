@@ -42284,6 +42284,15 @@
         "version": "3.9.97"
     },
     {
+        "id": "766E10EA-23CD-42BD-9DB8-633FBF8C584A",
+        "name": "mustache",
+        "codepoint": "F15DE",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.6.55"
+    },
+    {
         "id": "D1A8C00E-5FE4-4016-9C38-40CD9804D7C9",
         "name": "nail",
         "codepoint": "F0DDF",
