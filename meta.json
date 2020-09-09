@@ -13667,7 +13667,9 @@
         "name": "card-outline",
         "codepoint": "F0B76",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Form"
+        ],
         "author": "Rynco Li",
         "version": "3.0.39"
     },
