@@ -13038,7 +13038,10 @@
         "id": "90BBBADD-0FCD-4147-9D6E-5DAFCACF2B0B",
         "name": "car-estate",
         "codepoint": "F07A8",
-        "aliases": [],
+        "aliases": [
+            "car-suv",
+            "car-sports-utility-vehicle"
+        ],
         "tags": [
             "Transportation + Road",
             "Automotive"
