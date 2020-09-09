@@ -25154,7 +25154,9 @@
         "name": "family-tree",
         "codepoint": "F160E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "People \/ Family"
+        ],
         "author": "Simran",
         "version": "5.6.55"
     },
