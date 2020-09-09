@@ -18577,6 +18577,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "B3DD4217-5AB7-4E9F-979E-7E16A2DA8E76",
+        "name": "comment-minus",
+        "codepoint": "F15DF",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.6.55"
+    },
+    {
         "id": "63AC824E-16A4-4FBE-A6DF-588DEBCA47C1",
         "name": "comment-multiple",
         "codepoint": "F085F",
