@@ -22612,7 +22612,9 @@
         "id": "57A090F9-EBDF-4A60-8B83-1D5E5A61B73E",
         "name": "dots-square",
         "codepoint": "F15FD",
-        "aliases": [],
+        "aliases": [
+            "perimeter"
+        ],
         "tags": [],
         "author": "Jeff Hilnbrand",
         "version": "5.6.55"
