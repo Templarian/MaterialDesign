@@ -39683,7 +39683,9 @@
         "name": "map-marker-star",
         "codepoint": "F1608",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.6.55"
     },
