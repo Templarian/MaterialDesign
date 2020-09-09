@@ -25285,6 +25285,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "CF6C15FF-1B2F-4E4B-AE45-C1487815CA07",
+        "name": "fast-forward-60",
+        "codepoint": "F160B",
+        "aliases": [],
+        "tags": [],
+        "author": "Terren",
+        "version": "5.6.55"
+    },
+    {
         "id": "05435BA8-4BB4-4581-A2BA-D2D7679B831F",
         "name": "fast-forward-outline",
         "codepoint": "F06D2",
