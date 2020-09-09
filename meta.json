@@ -42837,7 +42837,9 @@
         "name": "navigation-outline",
         "codepoint": "F1607",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Google",
         "version": "5.6.55"
     },
