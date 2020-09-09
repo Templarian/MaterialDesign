@@ -9165,7 +9165,9 @@
         "name": "bicycle-penny-farthing",
         "codepoint": "F15E9",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Other"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.6.55"
     },
