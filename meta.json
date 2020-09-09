@@ -14020,7 +14020,9 @@
         "name": "cart-variant",
         "codepoint": "F15EB",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shopping"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.6.55"
     },
