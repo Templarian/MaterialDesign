@@ -39574,6 +39574,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "9B256D01-4CB0-4736-BBB7-6D44417DD02B",
+        "name": "map-marker-star-outline",
+        "codepoint": "F1609",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "0C1B9015-C0F4-4710-87D2-BA7B710943F2",
         "name": "map-marker-up",
         "codepoint": "F1103",
