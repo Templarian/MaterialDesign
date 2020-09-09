@@ -24613,6 +24613,15 @@
         "version": "2.1.99"
     },
     {
+        "id": "4CAD2E1D-F56B-40AA-B008-46DEFF9C9540",
+        "name": "eye-remove",
+        "codepoint": "F15E3",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.6.55"
+    },
+    {
         "id": "1155E86D-5CA5-4CC0-B089-23DFFC1A3DDD",
         "name": "eye-settings",
         "codepoint": "F086D",
