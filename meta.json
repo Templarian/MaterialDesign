@@ -7354,7 +7354,9 @@
         "name": "baseball-diamond",
         "codepoint": "F15EC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.6.55"
     },
