@@ -13838,6 +13838,15 @@
         "version": "3.4.93"
     },
     {
+        "id": "549C956B-9A3A-489B-BBC3-F9FF7AF0EB14",
+        "name": "cart-check",
+        "codepoint": "F15EA",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.6.55"
+    },
+    {
         "id": "D4AF47D5-214B-4856-8450-0ED7C524991D",
         "name": "cart-minus",
         "codepoint": "F0D68",
