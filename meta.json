@@ -24622,6 +24622,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "A1F300D2-BA71-410B-BB70-F18FC666CF35",
+        "name": "eye-remove-outline",
+        "codepoint": "F15E4",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.6.55"
+    },
+    {
         "id": "1155E86D-5CA5-4CC0-B089-23DFFC1A3DDD",
         "name": "eye-settings",
         "codepoint": "F086D",
