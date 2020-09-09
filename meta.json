@@ -31582,6 +31582,15 @@
         "version": "4.3.95"
     },
     {
+        "id": "61B2CF99-322E-448E-A1DB-E27B94600BC4",
+        "name": "glass-mug-variant-off",
+        "codepoint": "F15E8",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.6.55"
+    },
+    {
         "id": "AFF2782E-A558-40EF-9B8C-787BAE055D57",
         "name": "glass-pint-outline",
         "codepoint": "F130D",
