@@ -13056,7 +13056,9 @@
         "name": "car-emergency",
         "codepoint": "F160F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "GreenTurtwig",
         "version": "5.6.55"
     },
