@@ -13452,7 +13452,9 @@
         "name": "card",
         "codepoint": "F0B6F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Form"
+        ],
         "author": "Rynco Li",
         "version": "3.0.39"
     },
