@@ -50530,6 +50530,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "7C7A1566-44FB-4A53-AE61-95F5A03F6978",
+        "name": "rewind-60",
+        "codepoint": "F160C",
+        "aliases": [],
+        "tags": [],
+        "author": "Terren",
+        "version": "5.6.55"
+    },
+    {
         "id": "61E83433-F6D1-442D-9EDE-EDEF27AB789D",
         "name": "rewind-outline",
         "codepoint": "F070A",
