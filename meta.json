@@ -65183,7 +65183,9 @@
         "name": "windsock",
         "codepoint": "F15FA",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Weather"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.6.55"
     },
