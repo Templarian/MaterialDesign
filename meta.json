@@ -22455,6 +22455,15 @@
         "version": "2.7.94"
     },
     {
+        "id": "9BBDE78A-ADFF-4FFB-AC79-C7B1FDAB633E",
+        "name": "dots-grid",
+        "codepoint": "F15FC",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Hilnbrand",
+        "version": "5.6.55"
+    },
+    {
         "id": "9156AFAA-25BB-4E97-9EC8-BB9BE9AF60B0",
         "name": "dots-horizontal",
         "codepoint": "F01D8",
