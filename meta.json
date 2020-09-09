@@ -31509,6 +31509,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "5CB87909-09B4-47FD-B4BF-EB4A949F3CA2",
+        "name": "glass-cocktail-off",
+        "codepoint": "F15E6",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.6.55"
+    },
+    {
         "id": "CD1215BB-D889-4A86-8944-AF724C71DF21",
         "name": "glass-flute",
         "codepoint": "F02A5",
