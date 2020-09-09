@@ -19048,7 +19048,9 @@
         "id": "C66F7470-8691-4B30-A8F6-5250389E1D48",
         "name": "connection",
         "codepoint": "F1616",
-        "aliases": [],
+        "aliases": [
+            "plug"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.6.55"
