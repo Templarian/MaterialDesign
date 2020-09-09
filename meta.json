@@ -20626,6 +20626,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "82D8E45B-5E04-4094-818B-DE18775F9A91",
+        "name": "dance-ballroom",
+        "codepoint": "F15FB",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "45E2144E-5240-4557-B9A9-45DD7B514738",
         "name": "dance-pole",
         "codepoint": "F1578",
