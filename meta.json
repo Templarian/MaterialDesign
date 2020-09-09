@@ -22513,6 +22513,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "37FA940A-635C-48A5-988B-D1F4BBC0A7E0",
+        "name": "dots-triangle",
+        "codepoint": "F15FE",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Hilnbrand",
+        "version": "5.6.55"
+    },
+    {
         "id": "5D70B3D1-8407-42C9-A3C1-42EE68FF18F3",
         "name": "dots-vertical",
         "codepoint": "F01D9",
