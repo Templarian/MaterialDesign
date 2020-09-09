@@ -7350,6 +7350,15 @@
         "version": "2.1.99"
     },
     {
+        "id": "360632A2-1E37-4A89-BC24-166CF4824357",
+        "name": "baseball-diamond",
+        "codepoint": "F15EC",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "53BA6F8E-FC99-4B2A-8497-EA732C1880E4",
         "name": "bash",
         "codepoint": "F1183",
