@@ -13934,7 +13934,9 @@
         "name": "cart-check",
         "codepoint": "F15EA",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shopping"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.6.55"
     },
