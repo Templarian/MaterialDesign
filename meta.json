@@ -39698,7 +39698,9 @@
         "id": "B4FB6A62-C598-4E96-8E09-C6A2145EE24C",
         "name": "map-marker-star",
         "codepoint": "F1608",
-        "aliases": [],
+        "aliases": [
+            "map-marker-favorite"
+        ],
         "tags": [
             "Navigation"
         ],
