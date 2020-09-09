@@ -30564,7 +30564,9 @@
         "name": "fridge-industrial-outline",
         "codepoint": "F15F3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.6.55"
     },
