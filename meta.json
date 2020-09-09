@@ -30509,6 +30509,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "7B4DCE91-4647-4646-A93C-D7542FEAC5AC",
+        "name": "fridge-variant-off-outline",
+        "codepoint": "F15F8",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.6.55"
+    },
+    {
         "id": "11A7EAA3-B398-4F36-80B0-A4C50965E812",
         "name": "fruit-cherries",
         "codepoint": "F1042",
