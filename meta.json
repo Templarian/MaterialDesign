@@ -43421,6 +43421,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "8652F3A3-ED31-48CA-B051-A4ADCFC722F6",
+        "name": "notebook-plus-outline",
+        "codepoint": "F1613",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "E758A025-3B14-4A2F-A1D7-2D12C38B47E4",
         "name": "notification-clear-all",
         "codepoint": "F039F",
