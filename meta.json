@@ -13632,6 +13632,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "DD1C1DF5-C30E-421A-9FA7-AC8F0D021B95",
+        "name": "card-off-outline",
+        "codepoint": "F1603",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.6.55"
+    },
+    {
         "id": "EB9242D1-9D25-4141-A1A0-06636EC84541",
         "name": "card-outline",
         "codepoint": "F0B76",
