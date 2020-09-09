@@ -43370,6 +43370,15 @@
         "version": "5.4.55"
     },
     {
+        "id": "60952B51-85EE-45B0-9834-7117F8DED9D7",
+        "name": "notebook-minus",
+        "codepoint": "F1610",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "3F75C3D8-9360-4C31-AF58-1C01321620F0",
         "name": "notebook-multiple",
         "codepoint": "F0E55",
