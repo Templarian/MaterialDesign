@@ -42701,6 +42701,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "8CEE19E5-13B9-4AFF-8880-B04D36B144BA",
+        "name": "navigation-outline",
+        "codepoint": "F1607",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.6.55"
+    },
+    {
         "id": "6766F53D-88E4-452A-A222-7F50DDFB757C",
         "name": "near-me",
         "codepoint": "F05CD",
