@@ -30473,6 +30473,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "3066672D-30F0-44BF-B396-C0A2E5BCC1FF",
+        "name": "fridge-variant",
+        "codepoint": "F15F4",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.6.55"
+    },
+    {
         "id": "11A7EAA3-B398-4F36-80B0-A4C50965E812",
         "name": "fruit-cherries",
         "codepoint": "F1042",
