@@ -43412,6 +43412,15 @@
         "version": "3.7.94"
     },
     {
+        "id": "03D29CD4-AFB3-41E3-9B35-80F27ABFDD13",
+        "name": "notebook-plus",
+        "codepoint": "F1612",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "E758A025-3B14-4A2F-A1D7-2D12C38B47E4",
         "name": "notification-clear-all",
         "codepoint": "F039F",
