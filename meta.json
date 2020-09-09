@@ -30528,7 +30528,9 @@
         "name": "fridge-industrial-alert",
         "codepoint": "F15EF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.6.55"
     },
