@@ -30378,6 +30378,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "3A45CCD3-F520-4A5D-BF83-2F0C28F66337",
+        "name": "fridge-industrial-alert",
+        "codepoint": "F15EF",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.6.55"
+    },
+    {
         "id": "417BCDA5-DCA7-4EFF-B2BF-670E9DD10961",
         "name": "fridge-off",
         "codepoint": "F11AF",
