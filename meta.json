@@ -18626,6 +18626,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "14104E5E-1FA3-441C-9705-66D86F8E28DB",
+        "name": "comment-off-outline",
+        "codepoint": "F15E2",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.6.55"
+    },
+    {
         "id": "B1A0A26E-3E9C-4718-8A26-2837A981D9B5",
         "name": "comment-outline",
         "codepoint": "F0182",
