@@ -61179,6 +61179,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "A0632550-1C97-49AF-B0B3-463625A8C3FB",
+        "name": "unicycle",
+        "codepoint": "F15E5",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.6.55"
+    },
+    {
         "id": "50CFC57C-9C70-4953-BDC4-F6340EB7A243",
         "name": "unity",
         "codepoint": "F06AF",
