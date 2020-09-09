@@ -31843,7 +31843,9 @@
         "name": "glass-cocktail-off",
         "codepoint": "F15E6",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.6.55"
     },
