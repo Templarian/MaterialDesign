@@ -37458,7 +37458,9 @@
         "name": "language-rust",
         "codepoint": "F1617",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Contributors",
         "version": "5.6.55"
     },
