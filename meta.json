@@ -39116,6 +39116,15 @@
         "version": "3.4.93"
     },
     {
+        "id": "75EE1BFB-90E7-4500-A7E1-72E898059E16",
+        "name": "manjaro",
+        "codepoint": "F160A",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.6.55"
+    },
+    {
         "id": "99738FF8-01AE-420D-8481-8B9E1402255B",
         "name": "map",
         "codepoint": "F034D",
