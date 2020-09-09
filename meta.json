@@ -39694,7 +39694,9 @@
         "name": "map-marker-star-outline",
         "codepoint": "F1609",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.6.55"
     },
