@@ -35899,6 +35899,15 @@
         "version": "3.2.89"
     },
     {
+        "id": "E404BB7C-724B-4390-9DE4-D08DA29B151A",
+        "name": "image-text",
+        "codepoint": "F160D",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "5.6.55"
+    },
+    {
         "id": "FB8BEE36-EF77-4820-92B3-5B4C4291D751",
         "name": "import",
         "codepoint": "F02FA",
