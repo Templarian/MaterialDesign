@@ -60010,6 +60010,15 @@
         "version": "4.3.95"
     },
     {
+        "id": "5E37234B-E874-4FB7-AC74-BD836129C433",
+        "name": "torch",
+        "codepoint": "F1606",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "E66ECEE5-0382-4406-B0AB-CFE819AE7684",
         "name": "tortoise",
         "codepoint": "F0D3B",
