@@ -31891,7 +31891,9 @@
         "name": "glass-mug-off",
         "codepoint": "F15E7",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.6.55"
     },
