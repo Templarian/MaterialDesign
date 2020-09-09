@@ -31553,6 +31553,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "BEAE85BE-708C-4D0D-82AE-370BB43B3D0D",
+        "name": "glass-mug-off",
+        "codepoint": "F15E7",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.6.55"
+    },
+    {
         "id": "04D0C33A-12E7-4DC1-96FA-A83A481962D4",
         "name": "glass-mug-variant",
         "codepoint": "F1116",
