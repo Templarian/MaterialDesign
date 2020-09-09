@@ -61668,7 +61668,9 @@
         "name": "unicycle",
         "codepoint": "F15E5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.6.55"
     },
