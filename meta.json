@@ -37454,6 +37454,15 @@
         "version": "2.7.94"
     },
     {
+        "id": "D88C59AC-3310-4AA7-8432-BFA51BF2DCE4",
+        "name": "language-rust",
+        "codepoint": "F1617",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.6.55"
+    },
+    {
         "id": "9F060254-CB0B-4DD9-87C5-BADAE8F2F8C4",
         "name": "language-swift",
         "codepoint": "F06E5",
