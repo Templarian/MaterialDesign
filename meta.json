@@ -13454,7 +13454,9 @@
         "id": "AB226798-9B8A-4929-8880-6665C1114776",
         "name": "card",
         "codepoint": "F0B6F",
-        "aliases": [],
+        "aliases": [
+            "button"
+        ],
         "tags": [
             "Form"
         ],
