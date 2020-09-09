@@ -13671,7 +13671,9 @@
         "id": "EB9242D1-9D25-4141-A1A0-06636EC84541",
         "name": "card-outline",
         "codepoint": "F0B76",
-        "aliases": [],
+        "aliases": [
+            "button-outline"
+        ],
         "tags": [
             "Form"
         ],
