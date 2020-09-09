@@ -13677,6 +13677,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "84C0BF2A-B9FB-4E01-9961-A4146CB9BCC3",
+        "name": "card-remove-outline",
+        "codepoint": "F1605",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.6.55"
+    },
+    {
         "id": "2A09F869-B221-4ABC-B803-16560B7BA900",
         "name": "card-search",
         "codepoint": "F1074",
