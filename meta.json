@@ -7359,6 +7359,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "55F744E2-2059-41A4-B909-748029558069",
+        "name": "baseball-diamond-outline",
+        "codepoint": "F15ED",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "53BA6F8E-FC99-4B2A-8497-EA732C1880E4",
         "name": "bash",
         "codepoint": "F1183",
