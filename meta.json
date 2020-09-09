@@ -13049,6 +13049,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "355D6842-8858-4C79-B684-0E0F5E03801D",
+        "name": "car-emergency",
+        "codepoint": "F160F",
+        "aliases": [],
+        "tags": [],
+        "author": "GreenTurtwig",
+        "version": "5.6.55"
+    },
+    {
         "id": "5BF118F1-1115-4928-8755-34AF926CF13D",
         "name": "car-esp",
         "codepoint": "F0C49",
