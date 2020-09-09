@@ -20169,7 +20169,9 @@
             "glass-off-outline",
             "drink-off-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Simran",
         "version": "4.9.95"
     },
