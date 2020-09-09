@@ -39176,7 +39176,9 @@
         "name": "manjaro",
         "codepoint": "F160A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
         "author": "Contributors",
         "version": "5.6.55"
     },
