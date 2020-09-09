@@ -60239,7 +60239,9 @@
         "id": "5E37234B-E874-4FB7-AC74-BD836129C433",
         "name": "torch",
         "codepoint": "F1606",
-        "aliases": [],
+        "aliases": [
+            "olympics"
+        ],
         "tags": [
             "Sport"
         ],
