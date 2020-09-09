@@ -9164,7 +9164,10 @@
         "id": "A7A362D7-385E-4026-A43F-BBF13E8D4B37",
         "name": "bicycle-penny-farthing",
         "codepoint": "F15E9",
-        "aliases": [],
+        "aliases": [
+            "bicycle-high-wheel",
+            "bicycle-antique"
+        ],
         "tags": [
             "Transportation + Other"
         ],
