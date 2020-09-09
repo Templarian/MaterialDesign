@@ -43379,6 +43379,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "0B3667B2-5DB3-4C7B-8E01-4601666EE765",
+        "name": "notebook-minus-outline",
+        "codepoint": "F1611",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.6.55"
+    },
+    {
         "id": "3F75C3D8-9360-4C31-AF58-1C01321620F0",
         "name": "notebook-multiple",
         "codepoint": "F0E55",
