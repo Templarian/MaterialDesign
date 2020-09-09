@@ -30414,6 +30414,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "C3B23703-739D-45E6-9FEB-CEB630D638CC",
+        "name": "fridge-industrial-outline",
+        "codepoint": "F15F3",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.6.55"
+    },
+    {
         "id": "417BCDA5-DCA7-4EFF-B2BF-670E9DD10961",
         "name": "fridge-off",
         "codepoint": "F11AF",
