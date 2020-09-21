@@ -22461,7 +22461,8 @@
         "name": "domino-mask",
         "codepoint": "F1023",
         "aliases": [
-            "robber-mask"
+            "robber-mask",
+            "zorro"
         ],
         "tags": [],
         "author": "Andrew Nenakhov",
