@@ -17442,7 +17442,8 @@
             "library-close",
             "multiply-boxes",
             "multiply-box-multiple",
-            "cancel-box-multiple"
+            "cancel-box-multiple",
+            "remove-box-multiple"
         ],
         "tags": [],
         "author": "Michael Richins",
