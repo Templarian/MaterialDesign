@@ -17591,7 +17591,8 @@
         "name": "close-octagon-outline",
         "codepoint": "F015D",
         "aliases": [
-            "remove-octagon-outline"
+            "remove-octagon-outline",
+            "multiply-octagon-outline"
         ],
         "tags": [],
         "author": "Simran",
