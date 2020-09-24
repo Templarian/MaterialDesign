@@ -17472,7 +17472,8 @@
         "codepoint": "F0158",
         "aliases": [
             "multiply-box-outline",
-            "clear-box-outline"
+            "clear-box-outline",
+            "remove-box-outline"
         ],
         "tags": [
             "Math"
