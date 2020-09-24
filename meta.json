@@ -48005,7 +48005,8 @@
         "name": "plus-thick",
         "codepoint": "F11EC",
         "aliases": [
-            "add-thick"
+            "add-thick",
+            "add-bold"
         ],
         "tags": [
             "Math"
