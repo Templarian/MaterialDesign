@@ -6178,8 +6178,7 @@
         "name": "arrow-up-thick",
         "codepoint": "F005E",
         "aliases": [
-            "arrow-top-thick",
-            "arrow-up-thick"
+            "arrow-top-thick"
         ],
         "tags": [
             "Arrow"
