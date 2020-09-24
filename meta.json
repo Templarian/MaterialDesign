@@ -5877,7 +5877,8 @@
         "name": "arrow-top-left-thick",
         "codepoint": "F09C4",
         "aliases": [
-            "arrow-up-left-thick"
+            "arrow-up-left-thick",
+            "arrow-top-left-bold"
         ],
         "tags": [
             "Arrow"
