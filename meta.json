@@ -17550,7 +17550,8 @@
         "aliases": [
             "remove-network",
             "cancel-network",
-            "multiply-network"
+            "multiply-network",
+            "clear-network"
         ],
         "tags": [],
         "author": "Austin Andrews",
