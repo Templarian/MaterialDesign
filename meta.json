@@ -5951,7 +5951,8 @@
         "name": "arrow-top-right-thick",
         "codepoint": "F09C6",
         "aliases": [
-            "arrow-up-right-thick"
+            "arrow-up-right-thick",
+            "arrow-top-right-bold"
         ],
         "tags": [
             "Arrow"
