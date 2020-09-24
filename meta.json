@@ -17536,7 +17536,8 @@
             "highlight-off",
             "multiply-circle-outline",
             "remove-circle-outline",
-            "clear-circle-outline"
+            "clear-circle-outline",
+            "cancel-circle-outline"
         ],
         "tags": [],
         "author": "Google",
