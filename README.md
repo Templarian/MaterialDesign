@@ -39,11 +39,7 @@ Submit icon suggestions through the issue tab. Please include examples.
 
 ## License
 
-Templates - [WTFPL](http://www.wtfpl.net/)
-
-Community Icons - [SIL Open Font License 1.1](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web)
-
-Google Material Design Icons - [Apache License 2.0](https://github.com/google/material-design-icons/blob/master/LICENSE)
+[View the License](https://github.com/Templarian/MaterialDesign/blob/master/LICENSE)
 
 ## Code of Conduct
 
