@@ -2,7 +2,7 @@
 
 This repo contains all the planning for current and work-in-progress Material Design Icons.
 
-[Getting Started for Bootstrap](http://materialdesignicons.com/bootstrap) - [Getting Started for Other Platforms](http://materialdesignicons.com/getting-started)
+[Getting Started](http://materialdesignicons.com/getting-started)
 
 [![npm](https://img.shields.io/npm/v/@mdi/font.svg)](https://www.npmjs.com/package/@mdi/svg) [![GitHub issues](https://img.shields.io/github/issues/Templarian/MaterialDesign.svg)](https://github.com/Templarian/MaterialDesign/issues)
 
