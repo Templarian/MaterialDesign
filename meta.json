@@ -41603,7 +41603,8 @@
         "name": "molecule-co",
         "codepoint": "F12FE",
         "aliases": [
-            "carbon-monoxide"
+            "carbon-monoxide",
+            "gas-co"
         ],
         "tags": [
             "Home Automation",
