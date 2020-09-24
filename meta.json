@@ -24562,7 +24562,9 @@
         "id": "2DEA5CA1-8412-4DA4-95C4-7E1AA2C27404",
         "name": "exclamation-thick",
         "codepoint": "F1238",
-        "aliases": [],
+        "aliases": [
+            "exclamation-bold"
+        ],
         "tags": [],
         "author": "frankgrinaert",
         "version": "4.6.95"
