@@ -17623,7 +17623,8 @@
             "remove-thick",
             "remove-bold",
             "multiply-thick",
-            "multiply-bold"
+            "multiply-bold",
+            "clear-thick"
         ],
         "tags": [],
         "author": "Austin Andrews",
