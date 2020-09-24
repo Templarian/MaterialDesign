@@ -17593,7 +17593,8 @@
         "aliases": [
             "remove-octagon-outline",
             "multiply-octagon-outline",
-            "clear-octagon-outline"
+            "clear-octagon-outline",
+            "cancel-octagon-outline"
         ],
         "tags": [],
         "author": "Simran",
