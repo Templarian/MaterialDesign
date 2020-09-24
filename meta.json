@@ -5776,7 +5776,9 @@
         "id": "9F7385FB-733C-4C1F-AC88-684BE98F381B",
         "name": "arrow-right-thick",
         "codepoint": "F0055",
-        "aliases": [],
+        "aliases": [
+            "arrow-right-bold"
+        ],
         "tags": [
             "Arrow"
         ],
