@@ -17620,7 +17620,8 @@
         "codepoint": "F1398",
         "aliases": [
             "close-bold",
-            "remove-thick"
+            "remove-thick",
+            "remove-bold"
         ],
         "tags": [],
         "author": "Austin Andrews",
