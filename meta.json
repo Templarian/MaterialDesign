@@ -17461,7 +17461,8 @@
         "name": "close-box-outline",
         "codepoint": "F0158",
         "aliases": [
-            "multiply-box-outline"
+            "multiply-box-outline",
+            "clear-box-outline"
         ],
         "tags": [
             "Math"
