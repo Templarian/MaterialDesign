@@ -17578,7 +17578,8 @@
         "aliases": [
             "dangerous",
             "multiply-octagon",
-            "remove-octagon"
+            "remove-octagon",
+            "cancel-octagon"
         ],
         "tags": [],
         "author": "Simran",
