@@ -17549,7 +17549,8 @@
         "codepoint": "F015B",
         "aliases": [
             "remove-network",
-            "cancel-network"
+            "cancel-network",
+            "multiply-network"
         ],
         "tags": [],
         "author": "Austin Andrews",
