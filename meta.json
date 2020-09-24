@@ -17449,7 +17449,8 @@
         "aliases": [
             "close-boxes-outline",
             "library-remove-outline",
-            "library-close-outline"
+            "library-close-outline",
+            "multiply-boxes-outline"
         ],
         "tags": [],
         "author": "Michael Richins",
