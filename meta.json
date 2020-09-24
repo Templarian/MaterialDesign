@@ -17534,7 +17534,8 @@
         "codepoint": "F015A",
         "aliases": [
             "highlight-off",
-            "multiply-circle-outline"
+            "multiply-circle-outline",
+            "remove-circle-outline"
         ],
         "tags": [],
         "author": "Google",
