@@ -17564,7 +17564,8 @@
         "aliases": [
             "remove-network-outline",
             "cancel-network-outline",
-            "multiply-network-outline"
+            "multiply-network-outline",
+            "clear-network-outline"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
