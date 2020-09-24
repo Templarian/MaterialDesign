@@ -41617,7 +41617,8 @@
         "name": "molecule-co2",
         "codepoint": "F07E4",
         "aliases": [
-            "periodic-table-carbon-dioxide"
+            "periodic-table-carbon-dioxide",
+            "gas-co2"
         ],
         "tags": [
             "Science",
