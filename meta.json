@@ -17423,7 +17423,8 @@
         "aliases": [
             "multiply-box",
             "clear-box",
-            "cancel-box"
+            "cancel-box",
+            "remove-box"
         ],
         "tags": [
             "Math"
