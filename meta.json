@@ -17504,7 +17504,8 @@
             "remove-circle-multiple",
             "coins-close",
             "coins-remove",
-            "clear-circle-multiple"
+            "clear-circle-multiple",
+            "multiply-circle-multiple"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
