@@ -6179,7 +6179,8 @@
         "codepoint": "F005E",
         "aliases": [
             "arrow-top-thick",
-            "arrow-up-bold"
+            "arrow-up-bold",
+            "arrow-top-bold"
         ],
         "tags": [
             "Arrow"
