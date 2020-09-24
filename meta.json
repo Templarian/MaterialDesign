@@ -17406,7 +17406,8 @@
         "codepoint": "F0156",
         "aliases": [
             "clear",
-            "multiply"
+            "multiply",
+            "remove"
         ],
         "tags": [
             "Math"
