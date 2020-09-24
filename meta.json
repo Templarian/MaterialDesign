@@ -5293,7 +5293,8 @@
         "name": "arrow-down-thick",
         "codepoint": "F0046",
         "aliases": [
-            "arrow-bottom-thick"
+            "arrow-bottom-thick",
+            "arrow-down-bold"
         ],
         "tags": [
             "Arrow"
