@@ -17457,7 +17457,8 @@
             "close-boxes-outline",
             "library-remove-outline",
             "library-close-outline",
-            "multiply-boxes-outline"
+            "multiply-boxes-outline",
+            "multiply-box-multiple-outline"
         ],
         "tags": [],
         "author": "Michael Richins",
