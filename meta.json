@@ -17607,7 +17607,8 @@
         "aliases": [
             "remove-outline",
             "cancel-outline",
-            "multiply-outline"
+            "multiply-outline",
+            "clear-outline"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
