@@ -17535,7 +17535,8 @@
         "aliases": [
             "highlight-off",
             "multiply-circle-outline",
-            "remove-circle-outline"
+            "remove-circle-outline",
+            "clear-circle-outline"
         ],
         "tags": [],
         "author": "Google",
