@@ -5603,7 +5603,9 @@
         "id": "FA880DCB-AC6F-4C9C-9B6D-6E8236272C31",
         "name": "arrow-left-thick",
         "codepoint": "F004E",
-        "aliases": [],
+        "aliases": [
+            "arrow-left-bold"
+        ],
         "tags": [
             "Arrow"
         ],
