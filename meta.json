@@ -17561,7 +17561,9 @@
         "id": "6BB0D686-C2A2-47D0-A50C-91E0300AF12E",
         "name": "close-network-outline",
         "codepoint": "F0C5F",
-        "aliases": [],
+        "aliases": [
+            "remove-network-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "3.2.89"
