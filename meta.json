@@ -17419,7 +17419,8 @@
         "name": "close-box",
         "codepoint": "F0157",
         "aliases": [
-            "multiply-box"
+            "multiply-box",
+            "clear-box"
         ],
         "tags": [
             "Math"
