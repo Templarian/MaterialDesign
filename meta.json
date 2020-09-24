@@ -17625,7 +17625,8 @@
             "multiply-thick",
             "multiply-bold",
             "clear-thick",
-            "clear-bold"
+            "clear-bold",
+            "cancel-thick"
         ],
         "tags": [],
         "author": "Austin Andrews",
