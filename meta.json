@@ -17407,7 +17407,8 @@
         "aliases": [
             "clear",
             "multiply",
-            "remove"
+            "remove",
+            "cancel"
         ],
         "tags": [
             "Math"
