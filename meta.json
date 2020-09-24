@@ -17435,7 +17435,8 @@
         "aliases": [
             "close-boxes",
             "library-remove",
-            "library-close"
+            "library-close",
+            "multiply-boxes"
         ],
         "tags": [],
         "author": "Michael Richins",
