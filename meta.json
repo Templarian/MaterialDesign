@@ -17579,7 +17579,8 @@
             "dangerous",
             "multiply-octagon",
             "remove-octagon",
-            "cancel-octagon"
+            "cancel-octagon",
+            "clear-octagon"
         ],
         "tags": [],
         "author": "Simran",
