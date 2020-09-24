@@ -17521,7 +17521,8 @@
             "coins-close-outline",
             "coins-remove-outline",
             "cancel-circle-multiple-outline",
-            "multiply-circle-multiple-outline"
+            "multiply-circle-multiple-outline",
+            "clear-circle-multiple-outline"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
