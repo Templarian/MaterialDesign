@@ -17621,7 +17621,8 @@
         "aliases": [
             "close-bold",
             "remove-thick",
-            "remove-bold"
+            "remove-bold",
+            "multiply-thick"
         ],
         "tags": [],
         "author": "Austin Andrews",
