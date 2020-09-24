@@ -17503,7 +17503,8 @@
         "aliases": [
             "remove-circle-multiple",
             "coins-close",
-            "coins-remove"
+            "coins-remove",
+            "clear-circle-multiple"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
