@@ -17550,7 +17550,9 @@
         "id": "C6B8442F-446D-4690-866F-AF0F27C1EAB2",
         "name": "close-thick",
         "codepoint": "F1398",
-        "aliases": [],
+        "aliases": [
+            "close-bold"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "5.0.45"
