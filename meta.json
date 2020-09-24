@@ -17605,7 +17605,8 @@
         "name": "close-outline",
         "codepoint": "F06C9",
         "aliases": [
-            "remove-outline"
+            "remove-outline",
+            "cancel-outline"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
