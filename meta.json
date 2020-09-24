@@ -17440,7 +17440,8 @@
             "close-boxes",
             "library-remove",
             "library-close",
-            "multiply-boxes"
+            "multiply-boxes",
+            "multiply-box-multiple"
         ],
         "tags": [],
         "author": "Michael Richins",
