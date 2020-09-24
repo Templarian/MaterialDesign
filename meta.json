@@ -17548,7 +17548,8 @@
         "name": "close-network",
         "codepoint": "F015B",
         "aliases": [
-            "remove-network"
+            "remove-network",
+            "cancel-network"
         ],
         "tags": [],
         "author": "Austin Andrews",
