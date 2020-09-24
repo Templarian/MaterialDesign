@@ -5294,7 +5294,8 @@
         "codepoint": "F0046",
         "aliases": [
             "arrow-bottom-thick",
-            "arrow-down-bold"
+            "arrow-down-bold",
+            "arrow-bottom-bold"
         ],
         "tags": [
             "Arrow"
