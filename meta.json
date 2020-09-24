@@ -17619,7 +17619,8 @@
         "name": "close-thick",
         "codepoint": "F1398",
         "aliases": [
-            "close-bold"
+            "close-bold",
+            "remove-thick"
         ],
         "tags": [],
         "author": "Austin Andrews",
