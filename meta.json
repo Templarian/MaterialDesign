@@ -17590,7 +17590,9 @@
         "id": "9676C4C3-D8C3-44A6-A447-59A56A15DA34",
         "name": "close-octagon-outline",
         "codepoint": "F015D",
-        "aliases": [],
+        "aliases": [
+            "remove-octagon-outline"
+        ],
         "tags": [],
         "author": "Simran",
         "version": "1.5.54"
