@@ -15285,7 +15285,9 @@
         "id": "2070D6C6-EC09-4507-BE0A-07BFFFAF6DFB",
         "name": "check-bold",
         "codepoint": "F0E1E",
-        "aliases": [],
+        "aliases": [
+            "check-thick"
+        ],
         "tags": [],
         "author": "Michael Richins",
         "version": "3.6.95"
