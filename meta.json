@@ -17533,7 +17533,8 @@
         "name": "close-circle-outline",
         "codepoint": "F015A",
         "aliases": [
-            "highlight-off"
+            "highlight-off",
+            "multiply-circle-outline"
         ],
         "tags": [],
         "author": "Google",
