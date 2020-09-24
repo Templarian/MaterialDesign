@@ -4946,7 +4946,8 @@
         "name": "arrow-bottom-right-thick",
         "codepoint": "F09BA",
         "aliases": [
-            "arrow-down-right-thick"
+            "arrow-down-right-thick",
+            "arrow-bottom-right-bold"
         ],
         "tags": [
             "Arrow"
