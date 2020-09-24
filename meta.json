@@ -17563,7 +17563,8 @@
         "codepoint": "F0C5F",
         "aliases": [
             "remove-network-outline",
-            "cancel-network-outline"
+            "cancel-network-outline",
+            "multiply-network-outline"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
