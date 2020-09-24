@@ -17604,7 +17604,9 @@
         "id": "2FEE0020-4271-487C-897D-75529B20C4C6",
         "name": "close-outline",
         "codepoint": "F06C9",
-        "aliases": [],
+        "aliases": [
+            "remove-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "1.8.36"
