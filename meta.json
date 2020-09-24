@@ -17477,7 +17477,8 @@
         "aliases": [
             "remove-circle",
             "cancel",
-            "multiply-circle"
+            "multiply-circle",
+            "clear-circle"
         ],
         "tags": [],
         "author": "Austin Andrews",
