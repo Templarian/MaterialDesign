@@ -13815,7 +13815,8 @@
             "suit-diamonds",
             "hov-lane",
             "high-occupancy-vehicle-lane",
-            "carpool-lane"
+            "carpool-lane",
+            "poker-diamond"
         ],
         "tags": [
             "Gaming \/ RPG",
