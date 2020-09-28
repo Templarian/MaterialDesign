@@ -8836,7 +8836,8 @@
         "name": "beer-outline",
         "codepoint": "F130C",
         "aliases": [
-            "drink-outline"
+            "drink-outline",
+            "cup-full-outline"
         ],
         "tags": [
             "Food \/ Drink"
