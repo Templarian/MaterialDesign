@@ -19404,7 +19404,9 @@
         "id": "12E2DE0D-BF3F-402D-8044-B18E269D32C2",
         "name": "content-save-edit",
         "codepoint": "F0CFB",
-        "aliases": [],
+        "aliases": [
+            "floppy-disc-edit"
+        ],
         "tags": [
             "Edit \/ Modify"
         ],
