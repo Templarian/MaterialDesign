@@ -19378,7 +19378,9 @@
         "id": "E909F872-44CC-4D23-8AD2-95BFE02A5E2D",
         "name": "content-save-cog",
         "codepoint": "F145B",
-        "aliases": [],
+        "aliases": [
+            "floppy-disc-cog"
+        ],
         "tags": [
             "Settings"
         ],
