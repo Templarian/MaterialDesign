@@ -34168,7 +34168,9 @@
         "id": "C1F53791-B46C-4327-B355-AF3175766CB8",
         "name": "hexagram-outline",
         "codepoint": "F0ACA",
-        "aliases": [],
+        "aliases": [
+            "star-outline"
+        ],
         "tags": [
             "Shape"
         ],
