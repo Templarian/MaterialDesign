@@ -48229,7 +48229,8 @@
         "name": "poker-chip",
         "codepoint": "F0830",
         "aliases": [
-            "casino-chip"
+            "casino-chip",
+            "gambling-chip"
         ],
         "tags": [
             "Gaming \/ RPG"
