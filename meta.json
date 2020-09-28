@@ -19441,7 +19441,9 @@
         "id": "12F9DD45-1D74-45E3-84B7-CDE90A3FD174",
         "name": "content-save-move-outline",
         "codepoint": "F0E28",
-        "aliases": [],
+        "aliases": [
+            "floppy-disc-move-outline"
+        ],
         "tags": [],
         "author": "Michael Richins",
         "version": "3.6.95"
