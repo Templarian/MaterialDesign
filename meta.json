@@ -13846,7 +13846,8 @@
         "name": "cards-heart",
         "codepoint": "F08D0",
         "aliases": [
-            "suit-hearts"
+            "suit-hearts",
+            "poker-heart"
         ],
         "tags": [
             "Gaming \/ RPG"
