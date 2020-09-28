@@ -13882,7 +13882,8 @@
         "name": "cards-spade",
         "codepoint": "F08D1",
         "aliases": [
-            "suit-spades"
+            "suit-spades",
+            "poker-spade"
         ],
         "tags": [
             "Gaming \/ RPG"
