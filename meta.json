@@ -27575,7 +27575,9 @@
         "id": "8F4F8B2A-9E7D-432F-978E-F3F108DA701B",
         "name": "flare",
         "codepoint": "F0D72",
-        "aliases": [],
+        "aliases": [
+            "star"
+        ],
         "tags": [],
         "author": "Google",
         "version": "3.4.93"
