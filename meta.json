@@ -55017,7 +55017,9 @@
         "id": "5A083823-77FD-4C5E-98B8-EF320E8493CD",
         "name": "slot-machine-outline",
         "codepoint": "F1115",
-        "aliases": [],
+        "aliases": [
+            "casino-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.3.95"
