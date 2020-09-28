@@ -19430,7 +19430,9 @@
         "id": "FC4F757F-2540-4853-89A3-7FE07FC710C0",
         "name": "content-save-move",
         "codepoint": "F0E27",
-        "aliases": [],
+        "aliases": [
+            "floppy-disc-move"
+        ],
         "tags": [],
         "author": "Michael Richins",
         "version": "3.6.95"
