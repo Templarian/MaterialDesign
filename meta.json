@@ -13832,7 +13832,8 @@
         "aliases": [
             "hov-lane-outline",
             "high-occupancy-vehicle-lane-outline",
-            "carpool-lane-outline"
+            "carpool-lane-outline",
+            "poker-diamond-outline"
         ],
         "tags": [
             "Transportation + Road"
