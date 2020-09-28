@@ -19356,7 +19356,9 @@
         "id": "B9BE7889-D858-41A1-AB4E-9C58325261E9",
         "name": "content-save-all",
         "codepoint": "F0194",
-        "aliases": [],
+        "aliases": [
+            "floppy-disc-multiple"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.5.54"
