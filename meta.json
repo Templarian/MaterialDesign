@@ -19343,7 +19343,9 @@
         "id": "21B9916D-3D1A-43AF-91B2-56A4D5C493C2",
         "name": "content-save-alert-outline",
         "codepoint": "F0F43",
-        "aliases": [],
+        "aliases": [
+            "floppy-disc-alert-outline"
+        ],
         "tags": [
             "Alert \/ Error"
         ],
