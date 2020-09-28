@@ -34155,7 +34155,9 @@
         "id": "A965D069-BF40-4F96-B64D-6C1C93F0E2E3",
         "name": "hexagram",
         "codepoint": "F0AC9",
-        "aliases": [],
+        "aliases": [
+            "star"
+        ],
         "tags": [
             "Shape"
         ],
