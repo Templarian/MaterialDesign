@@ -13798,7 +13798,8 @@
         "name": "cards-club",
         "codepoint": "F08CE",
         "aliases": [
-            "suit-clubs"
+            "suit-clubs",
+            "poker-club"
         ],
         "tags": [
             "Gaming \/ RPG"
