@@ -55005,7 +55005,9 @@
         "id": "8DAEB736-3A62-475D-81A5-47BD881EA912",
         "name": "slot-machine",
         "codepoint": "F1114",
-        "aliases": [],
+        "aliases": [
+            "casino"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.3.95"
