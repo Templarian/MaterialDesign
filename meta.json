@@ -25558,7 +25558,9 @@
         "id": "325210DA-E889-4CBD-B0A7-8A32D706322B",
         "name": "fencing",
         "codepoint": "F14C1",
-        "aliases": [],
+        "aliases": [
+            "sword-fight"
+        ],
         "tags": [
             "Sport"
         ],
