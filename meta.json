@@ -19367,7 +19367,9 @@
         "id": "B65ADBE9-DE1B-4879-A34F-602A3DA4D12A",
         "name": "content-save-all-outline",
         "codepoint": "F0F44",
-        "aliases": [],
+        "aliases": [
+            "floppy-disc-multiple-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "3.9.97"
