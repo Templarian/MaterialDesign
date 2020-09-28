@@ -19391,7 +19391,9 @@
         "id": "A145BFEF-B18C-49C5-B24C-7918C878307E",
         "name": "content-save-cog-outline",
         "codepoint": "F145C",
-        "aliases": [],
+        "aliases": [
+            "floppy-disc-cog-outline"
+        ],
         "tags": [
             "Settings"
         ],
