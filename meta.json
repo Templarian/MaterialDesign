@@ -19648,7 +19648,9 @@
         "id": "BC9DA934-ED6D-4EC4-9FA4-2B6FF26B3058",
         "name": "cpu-32-bit",
         "codepoint": "F0EDF",
-        "aliases": [],
+        "aliases": [
+            "chip-32-bit"
+        ],
         "tags": [],
         "author": "GreenTurtwig",
         "version": "3.8.95"
