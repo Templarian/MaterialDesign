@@ -40205,7 +40205,9 @@
         "id": "E404434E-17DB-4E90-9D97-5355258E1FCF",
         "name": "memory",
         "codepoint": "F035B",
-        "aliases": [],
+        "aliases": [
+            "chip"
+        ],
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
