@@ -19474,7 +19474,9 @@
         "id": "2EDEEDF4-2AE3-4365-8F49-DC6F869EC520",
         "name": "content-save-settings-outline",
         "codepoint": "F0B2E",
-        "aliases": [],
+        "aliases": [
+            "floppy-disc-settings-outline"
+        ],
         "tags": [
             "Settings"
         ],
