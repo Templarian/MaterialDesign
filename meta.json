@@ -35021,7 +35021,8 @@
         "name": "hospital",
         "codepoint": "F0FF6",
         "aliases": [
-            "swiss-cross"
+            "swiss-cross",
+            "dispensary"
         ],
         "tags": [
             "Medical \/ Hospital"
