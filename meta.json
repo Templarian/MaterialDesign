@@ -19319,7 +19319,9 @@
         "id": "29F946C0-CA58-4287-AF0B-964961E5CC2C",
         "name": "content-save",
         "codepoint": "F0193",
-        "aliases": [],
+        "aliases": [
+            "floppy"
+        ],
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
