@@ -19330,7 +19330,9 @@
         "id": "E4BAD28B-B196-42B5-BD4D-92C81A8EADAE",
         "name": "content-save-alert",
         "codepoint": "F0F42",
-        "aliases": [],
+        "aliases": [
+            "floppy-disc-alert"
+        ],
         "tags": [
             "Alert \/ Error"
         ],
