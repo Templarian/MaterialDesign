@@ -35050,7 +35050,8 @@
         "name": "hospital-box-outline",
         "codepoint": "F0FF7",
         "aliases": [
-            "swiss-cross-box-outline"
+            "swiss-cross-box-outline",
+            "dispensary-box-outline"
         ],
         "tags": [
             "Medical \/ Hospital"
