@@ -19461,7 +19461,9 @@
         "id": "67E755F6-209A-41EF-98C5-423739A3AC10",
         "name": "content-save-settings",
         "codepoint": "F061B",
-        "aliases": [],
+        "aliases": [
+            "floppy-disc-settings"
+        ],
         "tags": [
             "Settings"
         ],
