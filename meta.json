@@ -43047,7 +43047,8 @@
             "medicine",
             "shot",
             "drug",
-            "immunization"
+            "immunization",
+            "pharmaceutical"
         ],
         "tags": [
             "Medical \/ Hospital"
