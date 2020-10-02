@@ -11488,7 +11488,9 @@
         "id": "774EC563-DF29-498C-8270-ABB051396687",
         "name": "bus-school",
         "codepoint": "F079F",
-        "aliases": [],
+        "aliases": [
+            "education"
+        ],
         "tags": [
             "Transportation + Road"
         ],
