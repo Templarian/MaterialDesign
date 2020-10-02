@@ -21397,6 +21397,15 @@
         "version": "3.3.92"
     },
     {
+        "id": "9E1F0B0A-332A-473D-8CA2-DD30E03E76B9",
+        "name": "database-sync-outline",
+        "codepoint": "F1638",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "309A4ABA-E450-437D-8AD1-EE6A850D421B",
         "name": "death-star",
         "codepoint": "F08D8",
