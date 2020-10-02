@@ -21376,6 +21376,15 @@
         "version": "3.3.92"
     },
     {
+        "id": "9AB5AF13-E028-49FA-B81E-EFFF8A8EB144",
+        "name": "database-settings-outline",
+        "codepoint": "F1637",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "5E954303-C1CF-406B-A9B5-A72E5C25E499",
         "name": "database-sync",
         "codepoint": "F0CFF",
