@@ -21331,6 +21331,15 @@
         "version": "3.3.92"
     },
     {
+        "id": "32FBEA36-9F09-4D8D-A355-2DD6FB2AA837",
+        "name": "database-remove-outline",
+        "codepoint": "F1635",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "58E36A40-053B-42EB-8879-9CB0948B58D4",
         "name": "database-search",
         "codepoint": "F0866",
