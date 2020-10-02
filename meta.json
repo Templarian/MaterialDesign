@@ -21185,6 +21185,15 @@
         "version": "2.4.85"
     },
     {
+        "id": "4D0E6B34-7EAB-4EC4-9782-F2318139A3E2",
+        "name": "database-import-outline",
+        "codepoint": "F162D",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "3A6B098D-F7AD-4D2C-A039-201319B5FDD7",
         "name": "database-lock",
         "codepoint": "F0AAA",
