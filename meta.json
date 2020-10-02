@@ -14785,7 +14785,8 @@
         "name": "chair-school",
         "codepoint": "F0125",
         "aliases": [
-            "desk"
+            "desk",
+            "education"
         ],
         "tags": [],
         "author": "Austin Andrews",
