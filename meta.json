@@ -21143,6 +21143,15 @@
         "version": "3.0.39"
     },
     {
+        "id": "6428E607-E036-481B-AF42-B09894C68E19",
+        "name": "database-edit-outline",
+        "codepoint": "F162B",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "6E50F0F8-1116-4090-9468-54B2CE8FBB19",
         "name": "database-export",
         "codepoint": "F095E",
