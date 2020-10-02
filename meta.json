@@ -21310,6 +21310,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "03B12B1B-7AF3-42C7-89CA-482DC21F12CE",
+        "name": "database-refresh-outline",
+        "codepoint": "F1634",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "20B59D03-2EF5-4C5D-BB00-2CC611297AC0",
         "name": "database-remove",
         "codepoint": "F0D00",
