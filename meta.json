@@ -17087,6 +17087,15 @@
         "version": "3.2.89"
     },
     {
+        "id": "347494DF-0250-4F0E-9E64-23CB8F35B8C2",
+        "name": "clipboard-text-search",
+        "codepoint": "F1622",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "6B346FB6-F563-4AC4-B769-06A143B42152",
         "name": "clippy",
         "codepoint": "F014F",
