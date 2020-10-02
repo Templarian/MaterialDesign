@@ -14300,7 +14300,9 @@
         "id": "31B2064A-79C9-44A7-8C5E-0490162A7864",
         "name": "cast-education",
         "codepoint": "F0E1D",
-        "aliases": [],
+        "aliases": [
+            "cast-school"
+        ],
         "tags": [],
         "author": "Google",
         "version": "3.6.95"
