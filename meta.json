@@ -16832,6 +16832,15 @@
         "version": "4.3.95"
     },
     {
+        "id": "7C5309A2-5DA1-4393-8846-0CF5CB43BF88",
+        "name": "clipboard-minus",
+        "codepoint": "F1618",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "8CD0EB09-AC6D-43C7-8DD6-4F2FD9A1DBC5",
         "name": "clipboard-multiple",
         "codepoint": "F1267",
