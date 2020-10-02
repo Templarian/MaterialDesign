@@ -21112,6 +21112,15 @@
         "version": "2.7.94"
     },
     {
+        "id": "1B7F6C62-E464-42F6-B7C0-CDD637A520F6",
+        "name": "database-check-outline",
+        "codepoint": "F1629",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "A9C5BB4C-C89F-4ADE-80C2-FB39A942DE6A",
         "name": "database-edit",
         "codepoint": "F0B86",
