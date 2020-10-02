@@ -14301,7 +14301,8 @@
         "name": "cast-education",
         "codepoint": "F0E1D",
         "aliases": [
-            "cast-school"
+            "cast-school",
+            "school-online"
         ],
         "tags": [],
         "author": "Google",
