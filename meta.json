@@ -41911,6 +41911,15 @@
         "version": "3.2.89"
     },
     {
+        "id": "7761450F-6D9D-452D-B604-1853124C09E2",
+        "name": "minus-thick",
+        "codepoint": "F1639",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "AB90BAF0-E671-4418-9CBB-74C3F03A94DB",
         "name": "mirror",
         "codepoint": "F11FD",
