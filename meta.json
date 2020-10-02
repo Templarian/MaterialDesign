@@ -21166,6 +21166,15 @@
         "version": "5.7.55"
     },
     {
+        "id": "1401D168-E1ED-403A-9154-F89133195BF9",
+        "name": "database-clock",
+        "codepoint": "F163F",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "093C4D34-DC23-4FE7-9AD0-05FCFFBB41A6",
         "name": "database-clock-outline",
         "codepoint": "F162A",
