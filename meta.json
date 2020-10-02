@@ -21228,6 +21228,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "163262B4-672A-4194-B002-3F414DF6C7A5",
+        "name": "database-marker-outline",
+        "codepoint": "F162F",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "31CE0431-ABF2-4650-8439-515C0E9012CD",
         "name": "database-minus",
         "codepoint": "F01BB",
