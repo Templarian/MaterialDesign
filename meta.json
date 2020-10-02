@@ -21053,6 +21053,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "27B8C966-DE22-4B45-99A6-5CF769BECD07",
+        "name": "database-alert-outline",
+        "codepoint": "F1624",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "C241F52F-EA70-4784-9455-AA7D05663C90",
         "name": "database-check",
         "codepoint": "F0AA9",
