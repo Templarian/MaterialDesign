@@ -20124,6 +20124,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "8E913524-BAAE-48B9-A45A-69192B159EE4",
+        "name": "credit-card-search",
+        "codepoint": "F1647",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "194059D5-3FF9-4DA7-8C7E-81092D38889B",
         "name": "credit-card-settings",
         "codepoint": "F0FF5",
