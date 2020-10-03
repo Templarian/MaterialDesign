@@ -41074,6 +41074,15 @@
         "version": "4.4.95"
     },
     {
+        "id": "1F9E05D2-75B6-4039-B0A8-9EF2B647882E",
+        "name": "message-off",
+        "codepoint": "F164D",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "2AE3707D-5DE3-41E6-968B-A56D3D9ADD40",
         "name": "message-outline",
         "codepoint": "F0365",
