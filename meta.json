@@ -20040,6 +20040,15 @@
         "version": "1.7.12"
     },
     {
+        "id": "F768F993-4A1F-4A1E-8EED-11526704C22F",
+        "name": "credit-card-refresh",
+        "codepoint": "F1645",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "90A38F47-9EFD-4468-A1B9-E31A6781F69D",
         "name": "credit-card-refund",
         "codepoint": "F0FF3",
