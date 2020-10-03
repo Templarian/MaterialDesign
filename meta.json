@@ -20177,6 +20177,15 @@
         "version": "5.7.55"
     },
     {
+        "id": "FB29966A-E0BE-41FC-92D0-4218B160DCF4",
+        "name": "credit-card-sync-outline",
+        "codepoint": "F164A",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "7894F13C-362E-4628-B0D4-E9AC990CCB41",
         "name": "credit-card-wireless",
         "codepoint": "F0802",
