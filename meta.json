@@ -41083,6 +41083,15 @@
         "version": "5.7.55"
     },
     {
+        "id": "2B210400-A3CE-4EE4-8A9B-A88ACDF47061",
+        "name": "message-off-outline",
+        "codepoint": "F164E",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "2AE3707D-5DE3-41E6-968B-A56D3D9ADD40",
         "name": "message-outline",
         "codepoint": "F0365",
