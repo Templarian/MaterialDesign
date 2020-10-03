@@ -44003,6 +44003,15 @@
         "version": "5.7.55"
     },
     {
+        "id": "244AEF5D-38E8-42E6-9C4F-8D4AFF831651",
+        "name": "note-minus-outline",
+        "codepoint": "F1650",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "0A0E42BA-FE9D-44C6-BF6A-D29D6013F2E0",
         "name": "note-multiple",
         "codepoint": "F06B8",
