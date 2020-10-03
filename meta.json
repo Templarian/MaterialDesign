@@ -21282,6 +21282,15 @@
         "version": "5.7.55"
     },
     {
+        "id": "2D941DD1-7B07-4E4B-B164-42AF6F751D34",
+        "name": "database-cog",
+        "codepoint": "F164B",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "A9C5BB4C-C89F-4ADE-80C2-FB39A942DE6A",
         "name": "database-edit",
         "codepoint": "F0B86",
