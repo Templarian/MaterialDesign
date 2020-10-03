@@ -11905,6 +11905,15 @@
         "version": "2.8.94"
     },
     {
+        "id": "8189159C-0869-4B40-809C-ECE7C33A2EC0",
+        "name": "calendar-lock",
+        "codepoint": "F1641",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "12439778-1F4B-4498-8716-5BE128D194E1",
         "name": "calendar-minus",
         "codepoint": "F0D5C",
