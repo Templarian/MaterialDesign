@@ -43994,6 +43994,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "5F9984C8-D7D1-42A8-9167-52B0B849CF22",
+        "name": "note-minus",
+        "codepoint": "F164F",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "0A0E42BA-FE9D-44C6-BF6A-D29D6013F2E0",
         "name": "note-multiple",
         "codepoint": "F06B8",
