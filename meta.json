@@ -20049,6 +20049,15 @@
         "version": "5.7.55"
     },
     {
+        "id": "0ECF7DE7-9F12-4635-902C-1BBF1064DC21",
+        "name": "credit-card-refresh-outline",
+        "codepoint": "F1646",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "90A38F47-9EFD-4468-A1B9-E31A6781F69D",
         "name": "credit-card-refund",
         "codepoint": "F0FF3",
