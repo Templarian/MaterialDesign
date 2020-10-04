@@ -47349,6 +47349,15 @@
         "version": "1.8.36"
     },
     {
+        "id": "EA9C6D1A-79AE-4114-9AF6-59A2A39FC8DF",
+        "name": "pentagram",
+        "codepoint": "F1667",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.7.55"
+    },
+    {
         "id": "3AB307BF-41D9-4CA4-9D44-58C82304C7BB",
         "name": "percent",
         "codepoint": "F03F0",
