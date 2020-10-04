@@ -57855,6 +57855,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "D52803B6-8580-4C06-AA9F-96B4748286DB",
+        "name": "store-minus",
+        "codepoint": "F165E",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.7.55"
+    },
+    {
         "id": "6BF9FB77-DF50-40B5-9A93-43E2A22E8633",
         "name": "store-outline",
         "codepoint": "F1361",
