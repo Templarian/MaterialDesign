@@ -24307,6 +24307,15 @@
         "version": "4.3.95"
     },
     {
+        "id": "AB3FC883-2737-4D9D-AAF4-3695BD6C7882",
+        "name": "email-remove",
+        "codepoint": "F1661",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "AE2AF6F2-9E5A-4949-901F-0B5F599428C7",
         "name": "email-search",
         "codepoint": "F0961",
