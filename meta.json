@@ -57614,6 +57614,15 @@
         "version": "5.7.55"
     },
     {
+        "id": "AA6C9E76-AC9C-4373-8AC4-F5C706741FC9",
+        "name": "star-settings-outline",
+        "codepoint": "F166B",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "815B35DE-0C4D-46AD-90EC-2AFEE0A5FC17",
         "name": "star-three-points",
         "codepoint": "F0AE4",
