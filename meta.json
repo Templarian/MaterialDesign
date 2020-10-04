@@ -57437,6 +57437,15 @@
         "version": "2.4.85"
     },
     {
+        "id": "82407F8C-2E0B-4F79-9409-0C267A248470",
+        "name": "star-cog",
+        "codepoint": "F1668",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "20FBE06D-72C3-4E1C-945D-C7E69DC0736D",
         "name": "star-face",
         "codepoint": "F09A5",
