@@ -57888,6 +57888,15 @@
         "version": "5.7.55"
     },
     {
+        "id": "FB5C0EA4-DAA2-4415-856F-2A4E6FA78BA5",
+        "name": "store-remove",
+        "codepoint": "F1660",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.7.55"
+    },
+    {
         "id": "8ABE8FB2-F704-4095-9E65-F614F86FCE99",
         "name": "storefront",
         "codepoint": "F07C7",
