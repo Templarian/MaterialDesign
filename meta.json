@@ -10979,6 +10979,15 @@
         "version": "5.7.55"
     },
     {
+        "id": "EE25B28C-2F16-4BE0-95BB-8328DF0F0CA2",
+        "name": "briefcase-off-outline",
+        "codepoint": "F1659",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "1E7F3689-287C-40DC-B0DD-CF65987E9B53",
         "name": "briefcase-outline",
         "codepoint": "F0814",
