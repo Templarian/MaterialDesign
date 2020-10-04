@@ -7212,6 +7212,15 @@
         "version": "5.7.55"
     },
     {
+        "id": "4590ED1A-1E67-42F4-8D4B-E2B39E5EFC63",
+        "name": "bank-off-outline",
+        "codepoint": "F1657",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "952ADDE3-5EC1-4AB1-80F1-9FA7AA14AD74",
         "name": "bank-outline",
         "codepoint": "F0E80",
