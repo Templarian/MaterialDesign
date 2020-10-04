@@ -57605,6 +57605,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "30D8C8F6-3BDE-40B8-A015-6E607C370360",
+        "name": "star-settings",
+        "codepoint": "F166A",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "815B35DE-0C4D-46AD-90EC-2AFEE0A5FC17",
         "name": "star-three-points",
         "codepoint": "F0AE4",
