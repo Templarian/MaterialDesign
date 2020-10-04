@@ -7183,6 +7183,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "1642BE6C-C1B6-49EA-833D-BB5E20BC1C69",
+        "name": "bank-check",
+        "codepoint": "F1655",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "DAC4946E-1A07-44B4-977F-E51D740DA5FB",
         "name": "bank-minus",
         "codepoint": "F0DB0",
