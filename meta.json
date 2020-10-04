@@ -34347,6 +34347,15 @@
         "version": "2.4.85"
     },
     {
+        "id": "759FA294-1DB6-4B54-BA13-AD852764E3C9",
+        "name": "heart-cog",
+        "codepoint": "F1663",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "9B033C3C-210D-4EFD-AD4E-FF9E36E44509",
         "name": "heart-flash",
         "codepoint": "F0EF9",
