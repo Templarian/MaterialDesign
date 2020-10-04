@@ -32452,6 +32452,15 @@
         "version": "5.7.55"
     },
     {
+        "id": "71BF426E-71FE-4AEC-946A-A2CCAC371C31",
+        "name": "ghost-outline",
+        "codepoint": "F165D",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "7FCFB449-8096-408A-88E4-B73343DB201F",
         "name": "gif",
         "codepoint": "F0D78",
