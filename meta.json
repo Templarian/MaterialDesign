@@ -34545,6 +34545,15 @@
         "version": "5.7.55"
     },
     {
+        "id": "9B32C2D5-B2BE-4646-9C41-53F10F7C1628",
+        "name": "heart-settings-outline",
+        "codepoint": "F1666",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "47397A0C-273D-4D13-A4FD-61572F3E4953",
         "name": "helicopter",
         "codepoint": "F0AC2",
