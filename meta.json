@@ -32443,6 +32443,15 @@
         "version": "2.5.94"
     },
     {
+        "id": "9B371D94-3C53-410F-A4A5-024415B30244",
+        "name": "ghost-off-outline",
+        "codepoint": "F165C",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "7FCFB449-8096-408A-88E4-B73343DB201F",
         "name": "gif",
         "codepoint": "F0D78",
