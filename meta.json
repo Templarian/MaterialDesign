@@ -57879,6 +57879,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "00DB5451-A5BF-4F9C-AC74-041916EACCB6",
+        "name": "store-plus",
+        "codepoint": "F165F",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.7.55"
+    },
+    {
         "id": "8ABE8FB2-F704-4095-9E65-F614F86FCE99",
         "name": "storefront",
         "codepoint": "F07C7",
