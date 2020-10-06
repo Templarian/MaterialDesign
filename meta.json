@@ -43064,6 +43064,15 @@
         "version": "5.7.55"
     },
     {
+        "id": "1AF71C6B-087D-493D-81B4-8BDD6A07B2ED",
+        "name": "mower-bag",
+        "codepoint": "F1670",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "730FEADE-1281-422D-9E31-9DF7D06AD4E3",
         "name": "muffin",
         "codepoint": "F098C",
