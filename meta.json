@@ -43055,6 +43055,15 @@
         "version": "4.5.95"
     },
     {
+        "id": "27842852-CDEB-4575-AAEB-D7F15F0928F8",
+        "name": "mower",
+        "codepoint": "F166F",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "730FEADE-1281-422D-9E31-9DF7D06AD4E3",
         "name": "muffin",
         "codepoint": "F098C",
