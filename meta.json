@@ -11933,6 +11933,15 @@
         "version": "2.2.43"
     },
     {
+        "id": "5837A731-F9AE-433E-AB31-12EE3D2D13D1",
+        "name": "calendar-end",
+        "codepoint": "F166C",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.7.55"
+    },
+    {
         "id": "14692438-9215-4003-AF95-04AA7C27DA48",
         "name": "calendar-export",
         "codepoint": "F0B24",
