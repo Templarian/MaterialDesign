@@ -12861,6 +12861,15 @@
         "version": "2.0.46"
     },
     {
+        "id": "1DA6A01B-2804-4C68-A60E-20DBBB6938E5",
+        "name": "cannabis-off",
+        "codepoint": "F166E",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "74D4E706-53B2-4349-95B2-026B3057D9B2",
         "name": "caps-lock",
         "codepoint": "F0A9B",
