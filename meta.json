@@ -39467,6 +39467,15 @@
         "version": "5.7.55"
     },
     {
+        "id": "AAC1BB51-BA46-4FB6-B901-F602E7C55351",
+        "name": "lock-off-outline",
+        "codepoint": "F1672",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "E357D5CD-7E42-463B-899A-7D7B038A3E31",
         "name": "lock-open",
         "codepoint": "F033F",
