@@ -39458,6 +39458,15 @@
         "version": "2.4.85"
     },
     {
+        "id": "481E2C2A-E70D-4323-867E-5632966B9555",
+        "name": "lock-off",
+        "codepoint": "F1671",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "E357D5CD-7E42-463B-899A-7D7B038A3E31",
         "name": "lock-open",
         "codepoint": "F033F",
