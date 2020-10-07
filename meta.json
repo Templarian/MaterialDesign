@@ -54037,6 +54037,15 @@
         "version": "5.4.55"
     },
     {
+        "id": "7A618386-2E3E-4B23-BF63-184B76C9CF61",
+        "name": "shark-fin",
+        "codepoint": "F1673",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "DEA01DF4-6FBD-45B7-AC58-CBF70545FBBA",
         "name": "sheep",
         "codepoint": "F0CC6",
