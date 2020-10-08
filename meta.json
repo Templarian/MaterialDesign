@@ -21388,7 +21388,9 @@
         "name": "database-clock",
         "codepoint": "F163F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
