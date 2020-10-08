@@ -21316,7 +21316,9 @@
         "name": "database-arrow-left-outline",
         "codepoint": "F1626",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
