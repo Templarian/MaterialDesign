@@ -11943,7 +11943,9 @@
         "name": "calendar-end",
         "codepoint": "F166C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Austin Andrews",
         "version": "5.7.55"
     },
