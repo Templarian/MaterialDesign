@@ -20159,7 +20159,9 @@
         "name": "credit-card-refresh-outline",
         "codepoint": "F1646",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
