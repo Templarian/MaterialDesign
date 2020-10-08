@@ -21619,7 +21619,9 @@
         "name": "database-plus-outline",
         "codepoint": "F1633",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
