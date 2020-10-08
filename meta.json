@@ -48249,6 +48249,15 @@
         "version": "4.0.96"
     },
     {
+        "id": "04A432B2-ABA5-49D7-9650-D6518D5D0A94",
+        "name": "pig-variant-outline",
+        "codepoint": "F1678",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.7.55"
+    },
+    {
         "id": "7168E9C8-32AE-4E0F-B3A4-EA05452C63C0",
         "name": "piggy-bank",
         "codepoint": "F1007",
