@@ -47041,7 +47041,9 @@
         "name": "paw-outline",
         "codepoint": "F1675",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Animal"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
