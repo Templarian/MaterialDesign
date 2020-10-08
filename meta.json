@@ -32509,7 +32509,9 @@
         "name": "ghost-outline",
         "codepoint": "F165D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
