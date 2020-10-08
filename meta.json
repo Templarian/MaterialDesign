@@ -20243,7 +20243,9 @@
         "name": "credit-card-search-outline",
         "codepoint": "F1648",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
