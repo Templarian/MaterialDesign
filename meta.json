@@ -7209,7 +7209,9 @@
         "name": "bank-off",
         "codepoint": "F1656",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
