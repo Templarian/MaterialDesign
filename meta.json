@@ -20284,7 +20284,9 @@
         "name": "credit-card-sync",
         "codepoint": "F1649",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
