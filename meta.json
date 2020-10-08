@@ -21377,7 +21377,9 @@
         "name": "database-check-outline",
         "codepoint": "F1629",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
