@@ -20148,7 +20148,9 @@
         "name": "credit-card-refresh",
         "codepoint": "F1645",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
