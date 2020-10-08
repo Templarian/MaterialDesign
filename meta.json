@@ -21713,7 +21713,9 @@
         "name": "database-settings-outline",
         "codepoint": "F1637",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
