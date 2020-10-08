@@ -21736,7 +21736,9 @@
         "name": "database-sync-outline",
         "codepoint": "F1638",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
