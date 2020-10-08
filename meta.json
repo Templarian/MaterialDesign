@@ -54095,7 +54095,9 @@
         "name": "shark-fin",
         "codepoint": "F1673",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Animal"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
