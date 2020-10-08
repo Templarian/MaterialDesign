@@ -11998,7 +11998,9 @@
         "name": "calendar-lock-outline",
         "codepoint": "F1642",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
