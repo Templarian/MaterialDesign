@@ -21343,7 +21343,9 @@
         "name": "database-arrow-up",
         "codepoint": "F163E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
