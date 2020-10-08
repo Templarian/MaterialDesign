@@ -39473,7 +39473,9 @@
         "name": "lock-off-outline",
         "codepoint": "F1672",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
