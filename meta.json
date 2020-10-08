@@ -21468,7 +21468,9 @@
         "name": "database-export-outline",
         "codepoint": "F162C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
