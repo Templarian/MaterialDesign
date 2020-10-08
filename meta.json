@@ -21410,7 +21410,9 @@
         "name": "database-cog",
         "codepoint": "F164B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
