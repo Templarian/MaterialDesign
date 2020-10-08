@@ -21354,7 +21354,9 @@
         "name": "database-arrow-up-outline",
         "codepoint": "F1628",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
