@@ -21515,7 +21515,9 @@
         "name": "database-lock-outline",
         "codepoint": "F162E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
