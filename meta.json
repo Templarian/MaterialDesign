@@ -21399,7 +21399,9 @@
         "name": "database-clock-outline",
         "codepoint": "F162A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
