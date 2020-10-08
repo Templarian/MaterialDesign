@@ -51897,6 +51897,15 @@
         "version": "4.5.95"
     },
     {
+        "id": "0BA0757D-0E1F-4484-86AF-7476790AE21C",
+        "name": "robot-off-outline",
+        "codepoint": "F167B",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "C0F3E15B-2DFB-4EAF-B41A-2D18EEA22C25",
         "name": "robot-outline",
         "codepoint": "F167A",
