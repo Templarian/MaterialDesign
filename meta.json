@@ -47026,6 +47026,15 @@
         "version": "1.6.50"
     },
     {
+        "id": "EADDFE7F-B2A0-40AD-B060-555080D02BCB",
+        "name": "paw-off-outline",
+        "codepoint": "F1676",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "C0FB173F-3D34-4DC2-9D54-C82BEE350FFB",
         "name": "paw-outline",
         "codepoint": "F1675",
