@@ -48281,7 +48281,9 @@
         "name": "piggy-bank-outline",
         "codepoint": "F1679",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Contributors",
         "version": "5.7.55"
     },
