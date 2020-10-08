@@ -54106,7 +54106,9 @@
         "name": "shark-fin-outline",
         "codepoint": "F1674",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Animal"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
