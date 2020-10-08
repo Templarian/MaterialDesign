@@ -21421,7 +21421,9 @@
         "name": "database-cog-outline",
         "codepoint": "F164C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
