@@ -21271,7 +21271,9 @@
         "name": "database-alert",
         "codepoint": "F163A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
