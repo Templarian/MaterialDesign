@@ -21282,7 +21282,9 @@
         "name": "database-alert-outline",
         "codepoint": "F1624",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
