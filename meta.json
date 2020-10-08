@@ -21641,7 +21641,9 @@
         "name": "database-refresh-outline",
         "codepoint": "F1634",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
