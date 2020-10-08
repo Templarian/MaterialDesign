@@ -55967,6 +55967,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "529CCAF2-D35F-4A40-BEF2-213159AE5DD9",
+        "name": "snail",
+        "codepoint": "F1677",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.7.55"
+    },
+    {
         "id": "C525609F-8CAF-40A8-A3FC-724F6C699E0A",
         "name": "snake",
         "codepoint": "F150E",
