@@ -20295,7 +20295,9 @@
         "name": "credit-card-sync-outline",
         "codepoint": "F164A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
