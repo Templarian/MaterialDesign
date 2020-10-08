@@ -43081,7 +43081,9 @@
         "name": "mower",
         "codepoint": "F166F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Hardware \/ Tools"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
