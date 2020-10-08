@@ -7187,7 +7187,9 @@
         "name": "bank-check",
         "codepoint": "F1655",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
