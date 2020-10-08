@@ -21538,7 +21538,9 @@
         "name": "database-marker-outline",
         "codepoint": "F162F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
