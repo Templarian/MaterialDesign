@@ -21491,7 +21491,9 @@
         "name": "database-import-outline",
         "codepoint": "F162D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
