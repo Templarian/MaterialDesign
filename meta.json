@@ -21594,7 +21594,9 @@
         "name": "database-outline",
         "codepoint": "F1632",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
