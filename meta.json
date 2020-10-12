@@ -1984,7 +1984,8 @@
         "codepoint": "F0029",
         "aliases": [
             "warning-octagon",
-            "report"
+            "report",
+            "stop-alert"
         ],
         "tags": [
             "Alert \/ Error"
