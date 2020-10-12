@@ -45905,7 +45905,9 @@
         "id": "3CF63E10-42E7-4E13-8BFF-10E9257953AB",
         "name": "octagon-outline",
         "codepoint": "F03C4",
-        "aliases": [],
+        "aliases": [
+            "stop-outline"
+        ],
         "tags": [
             "Shape",
             "Transportation + Road"
