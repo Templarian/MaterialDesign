@@ -45891,7 +45891,9 @@
         "id": "5E3C88DE-A208-471A-9096-7C7868CC957C",
         "name": "octagon",
         "codepoint": "F03C3",
-        "aliases": [],
+        "aliases": [
+            "stop"
+        ],
         "tags": [
             "Shape",
             "Transportation + Road"
