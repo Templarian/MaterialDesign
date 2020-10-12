@@ -17833,7 +17833,8 @@
             "multiply-octagon",
             "remove-octagon",
             "cancel-octagon",
-            "clear-octagon"
+            "clear-octagon",
+            "stop-remove"
         ],
         "tags": [],
         "author": "Simran",
