@@ -47094,7 +47094,9 @@
         "id": "D0A95719-9B9F-4E86-A6E5-8013C1A6D4A7",
         "name": "pause-octagon",
         "codepoint": "F03E7",
-        "aliases": [],
+        "aliases": [
+            "stop-pause"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.5.54"
