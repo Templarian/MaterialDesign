@@ -17848,7 +17848,8 @@
             "remove-octagon-outline",
             "multiply-octagon-outline",
             "clear-octagon-outline",
-            "cancel-octagon-outline"
+            "cancel-octagon-outline",
+            "stop-remove-outline"
         ],
         "tags": [],
         "author": "Simran",
