@@ -6299,7 +6299,9 @@
         "id": "AD030F55-7B31-45F9-94F7-738CC84B2009",
         "name": "atom-variant",
         "codepoint": "F0E7B",
-        "aliases": [],
+        "aliases": [
+            "orbit"
+        ],
         "tags": [
             "Science"
         ],
