@@ -60532,7 +60532,8 @@
         "codepoint": "F0E04",
         "aliases": [
             "temperature-minus",
-            "thermometer-decrease"
+            "thermometer-decrease",
+            "temperature-decrease"
         ],
         "tags": [
             "Home Automation",
