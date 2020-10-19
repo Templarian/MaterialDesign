@@ -60472,7 +60472,8 @@
         "name": "thermometer-chevron-up",
         "codepoint": "F0E03",
         "aliases": [
-            "temperature-chevron-up"
+            "temperature-chevron-up",
+            "temperature-increase"
         ],
         "tags": [
             "Home Automation",
