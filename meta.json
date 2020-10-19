@@ -60531,7 +60531,8 @@
         "name": "thermometer-minus",
         "codepoint": "F0E04",
         "aliases": [
-            "temperature-minus"
+            "temperature-minus",
+            "thermometer-decrease"
         ],
         "tags": [
             "Home Automation",
