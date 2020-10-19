@@ -60473,7 +60473,8 @@
         "codepoint": "F0E03",
         "aliases": [
             "temperature-chevron-up",
-            "temperature-increase"
+            "temperature-increase",
+            "thermometer-increase"
         ],
         "tags": [
             "Home Automation",
