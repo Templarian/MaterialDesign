@@ -60546,7 +60546,9 @@
         "id": "BF73A396-DB1C-46BC-8078-3CF0D7E0277F",
         "name": "thermometer-off",
         "codepoint": "F1531",
-        "aliases": [],
+        "aliases": [
+            "temperature-off"
+        ],
         "tags": [
             "Weather"
         ],
