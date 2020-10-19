@@ -60488,7 +60488,9 @@
         "id": "DF51BF5D-831D-4FD1-8786-498CAC97DBB6",
         "name": "thermometer-high",
         "codepoint": "F10C2",
-        "aliases": [],
+        "aliases": [
+            "temperature-high"
+        ],
         "tags": [
             "Home Automation",
             "Weather"
