@@ -60458,7 +60458,8 @@
         "codepoint": "F0E02",
         "aliases": [
             "temperature-chevron-down",
-            "temperature-decrease"
+            "temperature-decrease",
+            "thermometer-decrease"
         ],
         "tags": [
             "Home Automation",
