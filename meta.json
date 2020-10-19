@@ -60502,7 +60502,9 @@
         "id": "A9FC898C-8CC5-44F2-822D-05C5625E95C8",
         "name": "thermometer-lines",
         "codepoint": "F0510",
-        "aliases": [],
+        "aliases": [
+            "temperature-lines"
+        ],
         "tags": [
             "Weather",
             "Home Automation"
