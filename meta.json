@@ -60457,7 +60457,8 @@
         "name": "thermometer-chevron-down",
         "codepoint": "F0E02",
         "aliases": [
-            "temperature-chevron-down"
+            "temperature-chevron-down",
+            "temperature-decrease"
         ],
         "tags": [
             "Home Automation",
