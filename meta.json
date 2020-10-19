@@ -60441,7 +60441,8 @@
         "codepoint": "F0E01",
         "aliases": [
             "thermometer-warning",
-            "temperature-alert"
+            "temperature-alert",
+            "temperature-warning"
         ],
         "tags": [
             "Home Automation",
