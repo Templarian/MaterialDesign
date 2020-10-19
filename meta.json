@@ -60562,7 +60562,8 @@
         "aliases": [
             "thermometer-add",
             "thermometer-increase",
-            "temperature-plus"
+            "temperature-plus",
+            "temperature-add"
         ],
         "tags": [
             "Home Automation",
