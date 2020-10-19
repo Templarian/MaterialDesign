@@ -60424,7 +60424,9 @@
         "id": "F41863ED-B66A-4FF4-B436-0876C8D3665B",
         "name": "thermometer",
         "codepoint": "F050F",
-        "aliases": [],
+        "aliases": [
+            "temperature"
+        ],
         "tags": [
             "Weather",
             "Home Automation",
