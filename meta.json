@@ -60471,7 +60471,9 @@
         "id": "79E7C071-7AEE-48B1-802E-922925E94247",
         "name": "thermometer-chevron-up",
         "codepoint": "F0E03",
-        "aliases": [],
+        "aliases": [
+            "temperature-chevron-up"
+        ],
         "tags": [
             "Home Automation",
             "Weather"
