@@ -60561,7 +60561,8 @@
         "codepoint": "F0E05",
         "aliases": [
             "thermometer-add",
-            "thermometer-increase"
+            "thermometer-increase",
+            "temperature-plus"
         ],
         "tags": [
             "Home Automation",
