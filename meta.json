@@ -60563,7 +60563,8 @@
             "thermometer-add",
             "thermometer-increase",
             "temperature-plus",
-            "temperature-add"
+            "temperature-add",
+            "temperature-increase"
         ],
         "tags": [
             "Home Automation",
