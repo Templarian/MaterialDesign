@@ -60530,7 +60530,9 @@
         "id": "310F50E9-D74E-4753-A6D8-60EDBFC332B7",
         "name": "thermometer-minus",
         "codepoint": "F0E04",
-        "aliases": [],
+        "aliases": [
+            "temperature-minus"
+        ],
         "tags": [
             "Home Automation",
             "Weather"
