@@ -60560,7 +60560,8 @@
         "name": "thermometer-plus",
         "codepoint": "F0E05",
         "aliases": [
-            "thermometer-add"
+            "thermometer-add",
+            "thermometer-increase"
         ],
         "tags": [
             "Home Automation",
