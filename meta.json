@@ -15963,7 +15963,9 @@
         "id": "0B9D0593-D546-4DDD-AEB1-289943FB12AE",
         "name": "chess-queen",
         "codepoint": "F085A",
-        "aliases": [],
+        "aliases": [
+            "crown"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
