@@ -15979,7 +15979,8 @@
         "name": "chess-rook",
         "codepoint": "F085B",
         "aliases": [
-            "chess-castle"
+            "chess-castle",
+            "chess-tower"
         ],
         "tags": [
             "Gaming \/ RPG"
