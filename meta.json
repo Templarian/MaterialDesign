@@ -39785,7 +39785,8 @@
         "codepoint": "F08EF",
         "aliases": [
             "forgot-password",
-            "password-question"
+            "password-question",
+            "encryption-question"
         ],
         "tags": [
             "Lock"
