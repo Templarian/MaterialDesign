@@ -39639,7 +39639,8 @@
             "unlocked-alert",
             "decrypted-alert",
             "lock-open-warning",
-            "unlocked-warning"
+            "unlocked-warning",
+            "decrypted-warning"
         ],
         "tags": [
             "Alert \/ Error",
