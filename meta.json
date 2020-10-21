@@ -39502,7 +39502,8 @@
         "aliases": [
             "https",
             "password",
-            "secure"
+            "secure",
+            "protected"
         ],
         "tags": [
             "Lock",
