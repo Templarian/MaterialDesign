@@ -39636,7 +39636,8 @@
         "name": "lock-open-alert",
         "codepoint": "F139B",
         "aliases": [
-            "unlocked-alert"
+            "unlocked-alert",
+            "decrypted-alert"
         ],
         "tags": [
             "Alert \/ Error",
