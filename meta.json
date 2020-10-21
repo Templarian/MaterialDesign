@@ -39723,7 +39723,8 @@
         "name": "lock-open-variant-outline",
         "codepoint": "F0FC7",
         "aliases": [
-            "unlocked-variant-outline"
+            "unlocked-variant-outline",
+            "decrypted-variant-outline"
         ],
         "tags": [
             "Lock",
