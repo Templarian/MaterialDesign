@@ -39531,7 +39531,9 @@
         "id": "6DE0B795-B0C1-4CFC-A47E-0D1C3A203248",
         "name": "lock-alert-outline",
         "codepoint": "F15D1",
-        "aliases": [],
+        "aliases": [
+            "lock-warning-outline"
+        ],
         "tags": [
             "Home Automation"
         ],
