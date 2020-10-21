@@ -39537,7 +39537,8 @@
         "codepoint": "F15D1",
         "aliases": [
             "lock-warning-outline",
-            "password-alert-outline"
+            "password-alert-outline",
+            "encryption-alert-outline"
         ],
         "tags": [
             "Home Automation"
