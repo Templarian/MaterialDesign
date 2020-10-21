@@ -39558,7 +39558,8 @@
         "name": "lock-clock",
         "codepoint": "F097F",
         "aliases": [
-            "confidential-mode"
+            "confidential-mode",
+            "password-clock"
         ],
         "tags": [
             "Lock",
