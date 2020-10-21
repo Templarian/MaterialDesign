@@ -39633,7 +39633,9 @@
         "id": "47EFC7F8-698E-4466-8EDE-DB6334FE6C18",
         "name": "lock-open-alert-outline",
         "codepoint": "F15D2",
-        "aliases": [],
+        "aliases": [
+            "unlocked-alert-outline"
+        ],
         "tags": [
             "Home Automation"
         ],
