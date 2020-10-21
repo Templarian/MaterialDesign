@@ -39706,7 +39706,8 @@
             "password-outline",
             "secure-outline",
             "https-outline",
-            "protected-outline"
+            "protected-outline",
+            "encrypted-outline"
         ],
         "tags": [
             "Lock",
