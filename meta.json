@@ -39564,7 +39564,9 @@
             "password-verified",
             "encryption-verified"
         ],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Fran\u00e7ois Risoud",
         "version": "5.0.45"
     },
