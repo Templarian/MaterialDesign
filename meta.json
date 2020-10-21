@@ -39799,7 +39799,8 @@
         "name": "lock-reset",
         "codepoint": "F0773",
         "aliases": [
-            "password-reset"
+            "password-reset",
+            "encryption-reset"
         ],
         "tags": [
             "Lock"
