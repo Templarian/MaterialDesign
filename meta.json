@@ -39672,7 +39672,9 @@
         "id": "4171E1EE-CA1A-4885-B41B-3EAE135BA8FE",
         "name": "lock-open-variant",
         "codepoint": "F0FC6",
-        "aliases": [],
+        "aliases": [
+            "unlocked-variant"
+        ],
         "tags": [
             "Lock",
             "Home Automation"
