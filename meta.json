@@ -39678,7 +39678,8 @@
         "name": "lock-open-check",
         "codepoint": "F139C",
         "aliases": [
-            "unlocked-check"
+            "unlocked-check",
+            "decrypted-check"
         ],
         "tags": [],
         "author": "Fran\u00e7ois Risoud",
