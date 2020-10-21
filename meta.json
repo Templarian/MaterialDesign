@@ -39767,7 +39767,8 @@
         "codepoint": "F05FB",
         "aliases": [
             "enhanced-encryption",
-            "lock-add"
+            "lock-add",
+            "encryption-add"
         ],
         "tags": [
             "Lock"
