@@ -39619,7 +39619,9 @@
         "id": "D8707612-8DFB-4F83-9FAE-2058254A651F",
         "name": "lock-open-alert",
         "codepoint": "F139B",
-        "aliases": [],
+        "aliases": [
+            "unlocked-alert"
+        ],
         "tags": [
             "Alert \/ Error",
             "Home Automation"
