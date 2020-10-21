@@ -39684,7 +39684,8 @@
         "codepoint": "F0341",
         "aliases": [
             "password-outline",
-            "secure-outline"
+            "secure-outline",
+            "https-outline"
         ],
         "tags": [
             "Lock",
