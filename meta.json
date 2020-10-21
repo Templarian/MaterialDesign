@@ -39545,7 +39545,8 @@
             "encryption-warning-outline"
         ],
         "tags": [
-            "Home Automation"
+            "Home Automation",
+            "Alert \/ Error"
         ],
         "author": "Michael Irigoyen",
         "version": "5.6.55"
