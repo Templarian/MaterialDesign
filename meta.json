@@ -39520,7 +39520,8 @@
         "codepoint": "F08EE",
         "aliases": [
             "lock-warning",
-            "password-alert"
+            "password-alert",
+            "encrypted-alert"
         ],
         "tags": [
             "Lock",
