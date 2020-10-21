@@ -39638,7 +39638,8 @@
         "aliases": [
             "unlocked-alert",
             "decrypted-alert",
-            "lock-open-warning"
+            "lock-open-warning",
+            "unlocked-warning"
         ],
         "tags": [
             "Alert \/ Error",
