@@ -39503,7 +39503,8 @@
             "https",
             "password",
             "secure",
-            "protected"
+            "protected",
+            "encryption"
         ],
         "tags": [
             "Lock",
