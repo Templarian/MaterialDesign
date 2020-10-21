@@ -39556,7 +39556,8 @@
         "codepoint": "F139A",
         "aliases": [
             "password-check",
-            "password-secure"
+            "password-secure",
+            "encryption-check"
         ],
         "tags": [],
         "author": "Fran\u00e7ois Risoud",
