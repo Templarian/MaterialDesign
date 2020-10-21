@@ -39557,7 +39557,8 @@
         "aliases": [
             "password-check",
             "password-secure",
-            "encryption-check"
+            "encryption-check",
+            "encryption-secure"
         ],
         "tags": [],
         "author": "Fran\u00e7ois Risoud",
