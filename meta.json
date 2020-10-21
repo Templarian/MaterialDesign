@@ -39620,7 +39620,8 @@
         "name": "lock-open",
         "codepoint": "F033F",
         "aliases": [
-            "unlocked"
+            "unlocked",
+            "unencrypted"
         ],
         "tags": [
             "Lock",
