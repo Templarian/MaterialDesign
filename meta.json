@@ -39703,7 +39703,8 @@
         "aliases": [
             "password-outline",
             "secure-outline",
-            "https-outline"
+            "https-outline",
+            "protected-outline"
         ],
         "tags": [
             "Lock",
