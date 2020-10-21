@@ -39770,7 +39770,8 @@
             "lock-add",
             "encryption-add",
             "password-add",
-            "password-plus"
+            "password-plus",
+            "encryption-plus"
         ],
         "tags": [
             "Lock"
