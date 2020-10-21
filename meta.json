@@ -39590,7 +39590,8 @@
         "aliases": [
             "password-off",
             "not-protected",
-            "unsecure"
+            "unsecure",
+            "encryption-off"
         ],
         "tags": [
             "Lock"
