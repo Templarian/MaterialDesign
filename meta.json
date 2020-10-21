@@ -39637,7 +39637,8 @@
         "codepoint": "F139B",
         "aliases": [
             "unlocked-alert",
-            "decrypted-alert"
+            "decrypted-alert",
+            "lock-open-warning"
         ],
         "tags": [
             "Alert \/ Error",
