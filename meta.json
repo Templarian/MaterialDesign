@@ -39708,7 +39708,8 @@
         "name": "lock-open-variant",
         "codepoint": "F0FC6",
         "aliases": [
-            "unlocked-variant"
+            "unlocked-variant",
+            "decrypted-variant"
         ],
         "tags": [
             "Lock",
