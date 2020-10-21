@@ -39540,7 +39540,8 @@
             "lock-warning-outline",
             "password-alert-outline",
             "encryption-alert-outline",
-            "password-warning-outline"
+            "password-warning-outline",
+            "encryption-warning-outline"
         ],
         "tags": [
             "Home Automation"
