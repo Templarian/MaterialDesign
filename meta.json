@@ -39683,7 +39683,8 @@
         "name": "lock-outline",
         "codepoint": "F0341",
         "aliases": [
-            "password-outline"
+            "password-outline",
+            "secure-outline"
         ],
         "tags": [
             "Lock",
