@@ -39604,7 +39604,9 @@
         "id": "E357D5CD-7E42-463B-899A-7D7B038A3E31",
         "name": "lock-open",
         "codepoint": "F033F",
-        "aliases": [],
+        "aliases": [
+            "unlocked"
+        ],
         "tags": [
             "Lock",
             "Home Automation",
