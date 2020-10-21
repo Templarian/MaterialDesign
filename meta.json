@@ -39573,7 +39573,9 @@
         "id": "481E2C2A-E70D-4323-867E-5632966B9555",
         "name": "lock-off",
         "codepoint": "F1671",
-        "aliases": [],
+        "aliases": [
+            "password-off"
+        ],
         "tags": [
             "Lock"
         ],
