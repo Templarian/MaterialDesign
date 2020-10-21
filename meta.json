@@ -39516,7 +39516,8 @@
         "name": "lock-alert",
         "codepoint": "F08EE",
         "aliases": [
-            "lock-warning"
+            "lock-warning",
+            "password-alert"
         ],
         "tags": [
             "Lock",
