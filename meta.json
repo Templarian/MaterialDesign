@@ -39573,7 +39573,8 @@
         "aliases": [
             "confidential-mode",
             "password-clock",
-            "password-expiration"
+            "password-expiration",
+            "encryption-expiration"
         ],
         "tags": [
             "Lock",
