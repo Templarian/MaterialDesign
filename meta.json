@@ -39545,7 +39545,9 @@
         "id": "CA254138-2001-4A37-8D52-E65D608E0E10",
         "name": "lock-check",
         "codepoint": "F139A",
-        "aliases": [],
+        "aliases": [
+            "password-check"
+        ],
         "tags": [],
         "author": "Fran\u00e7ois Risoud",
         "version": "5.0.45"
