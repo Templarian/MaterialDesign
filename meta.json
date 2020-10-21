@@ -39522,7 +39522,8 @@
             "lock-warning",
             "password-alert",
             "encryption-alert",
-            "password-warning"
+            "password-warning",
+            "encryption-warning"
         ],
         "tags": [
             "Lock",
