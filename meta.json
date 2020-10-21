@@ -39769,7 +39769,8 @@
             "enhanced-encryption",
             "lock-add",
             "encryption-add",
-            "password-add"
+            "password-add",
+            "password-plus"
         ],
         "tags": [
             "Lock"
