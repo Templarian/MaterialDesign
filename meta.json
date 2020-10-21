@@ -39501,7 +39501,8 @@
         "codepoint": "F033E",
         "aliases": [
             "https",
-            "password"
+            "password",
+            "secure"
         ],
         "tags": [
             "Lock",
