@@ -39682,7 +39682,9 @@
         "id": "86AD97CA-6028-45C2-8C9A-8C4A562A8E49",
         "name": "lock-outline",
         "codepoint": "F0341",
-        "aliases": [],
+        "aliases": [
+            "password-outline"
+        ],
         "tags": [
             "Lock",
             "Home Automation",
