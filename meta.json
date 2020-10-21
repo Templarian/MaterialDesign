@@ -39681,7 +39681,9 @@
             "unlocked-check",
             "decrypted-check"
         ],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Fran\u00e7ois Risoud",
         "version": "5.0.45"
     },
