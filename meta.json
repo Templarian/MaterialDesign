@@ -39539,7 +39539,8 @@
         "aliases": [
             "lock-warning-outline",
             "password-alert-outline",
-            "encryption-alert-outline"
+            "encryption-alert-outline",
+            "password-warning-outline"
         ],
         "tags": [
             "Home Automation"
