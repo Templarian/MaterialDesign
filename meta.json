@@ -39674,7 +39674,8 @@
         "name": "lock-open-outline",
         "codepoint": "F0340",
         "aliases": [
-            "unlocked-outline"
+            "unlocked-outline",
+            "decrypted-outline"
         ],
         "tags": [
             "Lock",
