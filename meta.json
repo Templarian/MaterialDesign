@@ -39559,7 +39559,8 @@
         "codepoint": "F097F",
         "aliases": [
             "confidential-mode",
-            "password-clock"
+            "password-clock",
+            "password-expiration"
         ],
         "tags": [
             "Lock",
