@@ -39646,7 +39646,9 @@
         "id": "5ED06AF8-75C7-4AC3-962E-F742236AFDA6",
         "name": "lock-open-check",
         "codepoint": "F139C",
-        "aliases": [],
+        "aliases": [
+            "unlocked-check"
+        ],
         "tags": [],
         "author": "Fran\u00e7ois Risoud",
         "version": "5.0.45"
