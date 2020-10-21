@@ -39575,7 +39575,8 @@
         "codepoint": "F1671",
         "aliases": [
             "password-off",
-            "not-protected"
+            "not-protected",
+            "unsecure"
         ],
         "tags": [
             "Lock"
