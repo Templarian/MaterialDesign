@@ -39657,7 +39657,8 @@
             "unlocked-alert-outline",
             "lock-open-warning-outline",
             "decrypted-alert-outline",
-            "unlocked-warning-outline"
+            "unlocked-warning-outline",
+            "decrypted-warning-outline"
         ],
         "tags": [
             "Home Automation",
