@@ -39500,7 +39500,8 @@
         "name": "lock",
         "codepoint": "F033E",
         "aliases": [
-            "https"
+            "https",
+            "password"
         ],
         "tags": [
             "Lock",
@@ -39696,7 +39697,7 @@
         "tags": [
             "Lock"
         ],
-        "author": "Google",
+        "author": "Colton Wiscombe",
         "version": "1.5.54"
     },
     {
