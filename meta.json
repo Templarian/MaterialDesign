@@ -39590,7 +39590,8 @@
         "name": "lock-off-outline",
         "codepoint": "F1672",
         "aliases": [
-            "password-off-outline"
+            "password-off-outline",
+            "unsecure-outline"
         ],
         "tags": [
             "Lock"
