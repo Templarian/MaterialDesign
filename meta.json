@@ -39651,7 +39651,9 @@
         "id": "DCE8B967-BCDE-4130-8BF3-DDA78A78326F",
         "name": "lock-open-outline",
         "codepoint": "F0340",
-        "aliases": [],
+        "aliases": [
+            "unlocked-outline"
+        ],
         "tags": [
             "Lock",
             "Home Automation",
