@@ -39784,7 +39784,8 @@
         "name": "lock-question",
         "codepoint": "F08EF",
         "aliases": [
-            "forgot-password"
+            "forgot-password",
+            "password-question"
         ],
         "tags": [
             "Lock"
