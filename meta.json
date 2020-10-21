@@ -39546,7 +39546,8 @@
         "name": "lock-check",
         "codepoint": "F139A",
         "aliases": [
-            "password-check"
+            "password-check",
+            "password-secure"
         ],
         "tags": [],
         "author": "Fran\u00e7ois Risoud",
