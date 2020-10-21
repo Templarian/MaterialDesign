@@ -39654,7 +39654,8 @@
         "name": "lock-open-alert-outline",
         "codepoint": "F15D2",
         "aliases": [
-            "unlocked-alert-outline"
+            "unlocked-alert-outline",
+            "lock-open-warning-outline"
         ],
         "tags": [
             "Home Automation"
