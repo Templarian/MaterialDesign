@@ -39558,7 +39558,8 @@
             "password-check",
             "password-secure",
             "encryption-check",
-            "encryption-secure"
+            "encryption-secure",
+            "password-verified"
         ],
         "tags": [],
         "author": "Fran\u00e7ois Risoud",
