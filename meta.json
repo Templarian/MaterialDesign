@@ -39591,7 +39591,8 @@
         "codepoint": "F1672",
         "aliases": [
             "password-off-outline",
-            "unsecure-outline"
+            "unsecure-outline",
+            "not-protected-outline"
         ],
         "tags": [
             "Lock"
