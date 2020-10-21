@@ -39521,7 +39521,8 @@
         "aliases": [
             "lock-warning",
             "password-alert",
-            "encryption-alert"
+            "encryption-alert",
+            "password-warning"
         ],
         "tags": [
             "Lock",
