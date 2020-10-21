@@ -39712,7 +39712,8 @@
             "password-outline",
             "secure-outline",
             "https-outline",
-            "protected-outline"
+            "protected-outline",
+            "encryption-outline"
         ],
         "tags": [
             "Lock",
