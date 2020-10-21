@@ -39768,7 +39768,8 @@
         "aliases": [
             "enhanced-encryption",
             "lock-add",
-            "encryption-add"
+            "encryption-add",
+            "password-add"
         ],
         "tags": [
             "Lock"
