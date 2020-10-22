@@ -40031,6 +40031,20 @@
         "version": "5.0.45"
     },
     {
+        "id": "FA8CFB4F-319F-42BE-8615-B4FECDA27719",
+        "name": "lock-open-check-outline",
+        "codepoint": "F16AB",
+        "aliases": [
+            "unlocked-check-outline",
+            "decrypted-check-outline"
+        ],
+        "tags": [
+            "Lock"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "DCE8B967-BCDE-4130-8BF3-DDA78A78326F",
         "name": "lock-open-outline",
         "codepoint": "F0340",
