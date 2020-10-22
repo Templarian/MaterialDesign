@@ -9755,6 +9755,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "FA64FF4E-C720-4635-90EF-D4A913168329",
+        "name": "book-cancel-outline",
+        "codepoint": "F1687",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "ADF6BB0F-12F3-498F-B31A-07F6BFFFDF9D",
         "name": "book-check",
         "codepoint": "F14F3",
