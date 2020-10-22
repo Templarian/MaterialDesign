@@ -40227,6 +40227,23 @@
         "version": "1.5.54"
     },
     {
+        "id": "A4B343ED-8C07-4BD5-9F01-B360F971D23C",
+        "name": "lock-plus-outline",
+        "codepoint": "F16B2",
+        "aliases": [
+            "lock-add-outline",
+            "password-plus-outline",
+            "password-add-outline",
+            "encryption-plus-outline",
+            "encryption-add-outline"
+        ],
+        "tags": [
+            "Lock"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "390C2479-98DD-46FB-AA39-CD816E7982C8",
         "name": "lock-question",
         "codepoint": "F08EF",
