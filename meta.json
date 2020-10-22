@@ -52383,6 +52383,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "535C4A09-5555-45A6-8409-BF12E1CDA2DE",
+        "name": "robot-confused",
+        "codepoint": "F169F",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "C008FBCE-4D0A-4003-8811-FF15D08C3313",
         "name": "robot-industrial",
         "codepoint": "F0B46",
