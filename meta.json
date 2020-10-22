@@ -66848,6 +66848,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "EE028441-38B6-40F9-B3E8-C673241BD39D",
+        "name": "wifi-arrow-up-down",
+        "codepoint": "F16BB",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "A7CAE187-B853-41DD-9D8D-FB9A28C3F764",
         "name": "wifi-off",
         "codepoint": "F05AA",
