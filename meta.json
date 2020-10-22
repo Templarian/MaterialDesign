@@ -52374,6 +52374,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "D922E043-E4B6-4FAA-9717-51C1935DD20A",
+        "name": "robot-angry-outline",
+        "codepoint": "F169E",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "C008FBCE-4D0A-4003-8811-FF15D08C3313",
         "name": "robot-industrial",
         "codepoint": "F0B46",
