@@ -39917,6 +39917,20 @@
         "version": "5.8.55"
     },
     {
+        "id": "073A5F44-B5D1-4112-AD20-1F86F94ADF60",
+        "name": "lock-minus-outline",
+        "codepoint": "F16AA",
+        "aliases": [
+            "password-minus-outline",
+            "encryption-minus"
+        ],
+        "tags": [
+            "Lock"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "481E2C2A-E70D-4323-867E-5632966B9555",
         "name": "lock-off",
         "codepoint": "F1671",
