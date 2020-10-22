@@ -67187,6 +67187,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "40B4EE9D-5DA4-428C-BEF3-C75FD6740CA3",
+        "name": "wifi-strength-lock-open-outline",
+        "codepoint": "F16CF",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "718740BB-FC95-47E4-856B-0A469966C8DD",
         "name": "wifi-strength-lock-outline",
         "codepoint": "F092C",
