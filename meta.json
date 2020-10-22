@@ -37037,7 +37037,8 @@
         "name": "image-album",
         "codepoint": "F02EA",
         "aliases": [
-            "photo-album"
+            "photo-album",
+            "book-image"
         ],
         "tags": [],
         "author": "Google",
