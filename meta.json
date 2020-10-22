@@ -9800,6 +9800,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "36C20B8A-AA61-49D5-9500-16917BBDF388",
+        "name": "book-cog",
+        "codepoint": "F168A",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "CC30F9D0-3076-4189-A00D-F570D5B0C5D1",
         "name": "book-cross",
         "codepoint": "F00A2",
