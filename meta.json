@@ -66947,6 +66947,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "5989CC44-8A90-4D17-ADB8-F7AC12A0CF4E",
+        "name": "wifi-remove",
+        "codepoint": "F16C5",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "30694858-4607-48C1-A533-861E4968A0CE",
         "name": "wifi-star",
         "codepoint": "F0E0B",
