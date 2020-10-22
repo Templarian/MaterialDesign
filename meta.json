@@ -9849,6 +9849,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "B115D616-1428-4D6B-84D7-643900FBEF77",
+        "name": "book-education",
+        "codepoint": "F16C9",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "4A6A20D1-3F8E-440A-BFB1-38CFB3FB3EC6",
         "name": "book-information-variant",
         "codepoint": "F106F",
