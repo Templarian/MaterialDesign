@@ -52392,6 +52392,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "8361794A-9B3E-44CA-9AA4-EA842227D7C2",
+        "name": "robot-confused-outline",
+        "codepoint": "F16A0",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "C008FBCE-4D0A-4003-8811-FF15D08C3313",
         "name": "robot-industrial",
         "codepoint": "F0B46",
