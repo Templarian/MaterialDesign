@@ -9674,6 +9674,15 @@
         "version": "1.6.50"
     },
     {
+        "id": "7B6400CF-D8CF-418B-A400-CDCA1D58E813",
+        "name": "book-arrow-down",
+        "codepoint": "F167E",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "ADF6BB0F-12F3-498F-B31A-07F6BFFFDF9D",
         "name": "book-check",
         "codepoint": "F14F3",
