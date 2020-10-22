@@ -40259,6 +40259,20 @@
         "version": "2.3.50"
     },
     {
+        "id": "201B2126-8481-413A-884F-BE6C8C62D531",
+        "name": "lock-remove",
+        "codepoint": "F16B3",
+        "aliases": [
+            "password-remove",
+            "encryption-remove"
+        ],
+        "tags": [
+            "Lock"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "82312B48-E128-494E-9D84-DAACB41986F4",
         "name": "lock-reset",
         "codepoint": "F0773",
