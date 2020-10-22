@@ -20208,6 +20208,19 @@
         "version": "5.8.55"
     },
     {
+        "id": "96AE483D-C5CD-424A-A553-C9D5399CAD7F",
+        "name": "cookie-cog-outline",
+        "codepoint": "F16D5",
+        "aliases": [
+            "biscuit-cog-outline"
+        ],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "A260896B-178E-4E3A-9F2C-793AD68154F4",
         "name": "coolant-temperature",
         "codepoint": "F03C8",
