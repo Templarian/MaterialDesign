@@ -9831,6 +9831,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "CF11FAB5-CEE6-4F8D-9E64-67285419FF62",
+        "name": "book-edit",
+        "codepoint": "F168C",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "4A6A20D1-3F8E-440A-BFB1-38CFB3FB3EC6",
         "name": "book-information-variant",
         "codepoint": "F106F",
