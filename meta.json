@@ -52419,6 +52419,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "B32D5968-FE0C-46FB-916E-52D0103DA2C7",
+        "name": "robot-excited",
+        "codepoint": "F16A3",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "C008FBCE-4D0A-4003-8811-FF15D08C3313",
         "name": "robot-industrial",
         "codepoint": "F0B46",
