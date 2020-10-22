@@ -67037,6 +67037,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "91890A07-398B-41A0-B91C-647C7BE9F5DA",
+        "name": "wifi-strength-1-lock-open",
+        "codepoint": "F16CB",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "92D075FB-99D3-4926-A4E9-F25EAB70E78E",
         "name": "wifi-strength-2",
         "codepoint": "F0922",
