@@ -9782,6 +9782,15 @@
         "version": "5.4.55"
     },
     {
+        "id": "97CCD006-4DE0-4AEE-BB95-D9EBCCDE8012",
+        "name": "book-clock",
+        "codepoint": "F1688",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "CC30F9D0-3076-4189-A00D-F570D5B0C5D1",
         "name": "book-cross",
         "codepoint": "F00A2",
