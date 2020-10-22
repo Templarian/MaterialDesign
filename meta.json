@@ -10002,6 +10002,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "52463F43-10D2-41DC-B4EB-45DDE9A4E655",
+        "name": "book-off",
+        "codepoint": "F1694",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "7EFAD89C-D84E-41F0-A8A4-F72AC8DB470C",
         "name": "book-open",
         "codepoint": "F00BD",
