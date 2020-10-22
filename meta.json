@@ -66929,6 +66929,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "3CF89702-EA3B-48A1-9B5E-5188A80DCBA8",
+        "name": "wifi-plus",
+        "codepoint": "F16C3",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "30694858-4607-48C1-A533-861E4968A0CE",
         "name": "wifi-star",
         "codepoint": "F0E0B",
