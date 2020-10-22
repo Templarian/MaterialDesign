@@ -60603,6 +60603,15 @@
         "version": "4.0.96"
     },
     {
+        "id": "76B2D13C-4AA4-4AA1-A0CA-F4E5CA53FFE2",
+        "name": "tape-drive",
+        "codepoint": "F16DF",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.8.55"
+    },
+    {
         "id": "C9C3F657-65A6-418E-91EF-E6FD8F0357C1",
         "name": "tape-measure",
         "codepoint": "F0B4D",
