@@ -67166,6 +67166,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "73D9D138-DCB0-4CA7-9AB9-5C3BCB4D2165",
+        "name": "wifi-sync",
+        "codepoint": "F16C7",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "19DE621D-F082-42B5-9FD3-FEF8D84A2BB9",
         "name": "wikipedia",
         "codepoint": "F05AC",
