@@ -9993,6 +9993,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "22B56C5C-000D-49DB-9D8A-DDD312662DFB",
+        "name": "book-music-outline",
+        "codepoint": "F1693",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "7EFAD89C-D84E-41F0-A8A4-F72AC8DB470C",
         "name": "book-open",
         "codepoint": "F00BD",
