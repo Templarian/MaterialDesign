@@ -10011,6 +10011,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "C9B4D51E-AA3F-49D4-9603-CC5CA33EB28A",
+        "name": "book-off-outline",
+        "codepoint": "F1695",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "7EFAD89C-D84E-41F0-A8A4-F72AC8DB470C",
         "name": "book-open",
         "codepoint": "F00BD",
