@@ -9895,6 +9895,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "2E088838-572B-45AC-B250-1C86900B787E",
+        "name": "book-lock-outline",
+        "codepoint": "F168F",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "7367B5F0-8155-4F3D-9C7E-BFDF677442D8",
         "name": "book-minus",
         "codepoint": "F05D9",
