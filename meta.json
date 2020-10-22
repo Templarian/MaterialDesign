@@ -9728,6 +9728,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "E724EA9A-002E-4A3E-9275-690258105F1D",
+        "name": "book-arrow-up",
+        "codepoint": "F1684",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "ADF6BB0F-12F3-498F-B31A-07F6BFFFDF9D",
         "name": "book-check",
         "codepoint": "F14F3",
