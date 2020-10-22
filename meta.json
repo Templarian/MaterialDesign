@@ -66956,6 +66956,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "BA9356E6-E4D6-4A64-923C-395114E0DBE3",
+        "name": "wifi-settings",
+        "codepoint": "F16C6",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "30694858-4607-48C1-A533-861E4968A0CE",
         "name": "wifi-star",
         "codepoint": "F0E0B",
