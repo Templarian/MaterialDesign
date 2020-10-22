@@ -40137,6 +40137,20 @@
         "version": "5.8.55"
     },
     {
+        "id": "73C80D40-9B24-42A8-A22A-94DDE61DDCFC",
+        "name": "lock-open-remove-outline",
+        "codepoint": "F16B1",
+        "aliases": [
+            "unlocked-remove-outline",
+            "decrypted-remove-outline"
+        ],
+        "tags": [
+            "Lock"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "4171E1EE-CA1A-4885-B41B-3EAE135BA8FE",
         "name": "lock-open-variant",
         "codepoint": "F0FC6",
