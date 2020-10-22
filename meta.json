@@ -9904,6 +9904,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "D5DCE615-BCFA-4922-8F95-5CEA756FD378",
+        "name": "book-marker",
+        "codepoint": "F1690",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "7367B5F0-8155-4F3D-9C7E-BFDF677442D8",
         "name": "book-minus",
         "codepoint": "F05D9",
