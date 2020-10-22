@@ -39868,6 +39868,24 @@
         "version": "5.0.45"
     },
     {
+        "id": "4A17CD48-4EFA-41A5-9A40-4BF9C01F2B18",
+        "name": "lock-check-outline",
+        "codepoint": "F16A8",
+        "aliases": [
+            "password-check-outline",
+            "password-secure-outline",
+            "encryption-check-outline",
+            "encryption-secure-outline",
+            "password-verified-outline",
+            "encryption-verified-outline"
+        ],
+        "tags": [
+            "Lock"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "C16C2563-9EA4-4545-9CF4-56C5EA9FD9F9",
         "name": "lock-clock",
         "codepoint": "F097F",
