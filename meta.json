@@ -66875,6 +66875,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "17572DB9-20E6-4B83-A6B8-C66282523BC8",
+        "name": "wifi-cog",
+        "codepoint": "F16BE",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "A7CAE187-B853-41DD-9D8D-FB9A28C3F764",
         "name": "wifi-off",
         "codepoint": "F05AA",
