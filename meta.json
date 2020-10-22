@@ -9654,6 +9654,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "6DDFDD69-EBA5-4BFB-A44F-6B84A7B3A4BC",
+        "name": "book-alert-outline",
+        "codepoint": "F167D",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "250BF541-072A-4773-8BC2-B1943DF1EDBB",
         "name": "book-alphabet",
         "codepoint": "F061D",
