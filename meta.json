@@ -52449,6 +52449,15 @@
         "version": "2.8.94"
     },
     {
+        "id": "2EFA6B95-27BD-4A52-90AF-991A3574FD2C",
+        "name": "robot-love",
+        "codepoint": "F16A5",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "2029DE02-EC25-4242-945F-D7495F35D071",
         "name": "robot-mower",
         "codepoint": "F11F7",
