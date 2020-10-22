@@ -52458,6 +52458,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "FA128C47-3C41-4B0D-8F18-8E28E9F3EA0C",
+        "name": "robot-love-outline",
+        "codepoint": "F16A6",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "2029DE02-EC25-4242-945F-D7495F35D071",
         "name": "robot-mower",
         "codepoint": "F11F7",
