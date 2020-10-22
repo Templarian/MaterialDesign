@@ -9645,6 +9645,15 @@
         "version": "5.0.45"
     },
     {
+        "id": "08CE9E71-4426-4186-8573-7B2EDFE28F7D",
+        "name": "book-alert",
+        "codepoint": "F167C",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "250BF541-072A-4773-8BC2-B1943DF1EDBB",
         "name": "book-alphabet",
         "codepoint": "F061D",
