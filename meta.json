@@ -9809,6 +9809,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "B63BFA22-6A8E-48FD-8BDB-E82BB550411D",
+        "name": "book-cog-outline",
+        "codepoint": "F168B",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "CC30F9D0-3076-4189-A00D-F570D5B0C5D1",
         "name": "book-cross",
         "codepoint": "F00A2",
