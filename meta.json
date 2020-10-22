@@ -52410,6 +52410,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "15D146E0-3683-43D8-8500-905EEAC98010",
+        "name": "robot-dead-outline",
+        "codepoint": "F16A2",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "C008FBCE-4D0A-4003-8811-FF15D08C3313",
         "name": "robot-industrial",
         "codepoint": "F0B46",
