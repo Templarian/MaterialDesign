@@ -66938,6 +66938,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "540437B4-6901-4F18-A60F-CAA10FD74B49",
+        "name": "wifi-refresh",
+        "codepoint": "F16C4",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "30694858-4607-48C1-A533-861E4968A0CE",
         "name": "wifi-star",
         "codepoint": "F0E0B",
