@@ -9951,6 +9951,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "402AE77A-79CC-42EF-9FB7-7D11D2C949DA",
+        "name": "book-minus-outline",
+        "codepoint": "F1692",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.8.55"
+    },
+    {
         "id": "637C4988-5432-4F5E-ADD5-EBDC397D0622",
         "name": "book-multiple",
         "codepoint": "F00BB",
