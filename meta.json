@@ -25561,7 +25561,8 @@
         "name": "emoticon-wink-outline",
         "codepoint": "F0C79",
         "aliases": [
-            "smiley-wink-outline"
+            "smiley-wink-outline",
+            "face-wink-outline"
         ],
         "tags": [
             "Emoji"
