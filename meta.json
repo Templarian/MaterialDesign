@@ -25252,7 +25252,8 @@
         "name": "emoticon-excited",
         "codepoint": "F0C70",
         "aliases": [
-            "smiley-excited"
+            "smiley-excited",
+            "face-excited"
         ],
         "tags": [
             "Emoji"
