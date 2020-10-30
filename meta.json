@@ -25503,7 +25503,9 @@
         "id": "CBB4F1C3-3479-4F94-9F15-3D844889609A",
         "name": "emoticon-sick-outline",
         "codepoint": "F157D",
-        "aliases": [],
+        "aliases": [
+            "face-sick-outline"
+        ],
         "tags": [
             "Emoji",
             "Medical \/ Hospital"
