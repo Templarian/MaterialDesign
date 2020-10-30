@@ -25434,7 +25434,8 @@
         "name": "emoticon-poop",
         "codepoint": "F01F7",
         "aliases": [
-            "smiley-poop"
+            "smiley-poop",
+            "face-poop"
         ],
         "tags": [
             "Emoji"
