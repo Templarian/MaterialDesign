@@ -25210,7 +25210,8 @@
         "name": "emoticon-dead-outline",
         "codepoint": "F069B",
         "aliases": [
-            "smiley-dead-outline"
+            "smiley-dead-outline",
+            "face-dead-outline"
         ],
         "tags": [
             "Emoji"
