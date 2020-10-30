@@ -25182,7 +25182,8 @@
         "name": "emoticon-cry-outline",
         "codepoint": "F0C6D",
         "aliases": [
-            "smiley-cry-outline"
+            "smiley-cry-outline",
+            "face-cry-outline"
         ],
         "tags": [
             "Emoji"
