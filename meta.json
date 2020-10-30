@@ -25533,7 +25533,8 @@
         "name": "emoticon-tongue-outline",
         "codepoint": "F0C77",
         "aliases": [
-            "smiley-tongue-outline"
+            "smiley-tongue-outline",
+            "face-tongue-outline"
         ],
         "tags": [
             "Emoji"
