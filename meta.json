@@ -25279,7 +25279,9 @@
         "id": "D5AC778B-0269-4AC5-A2D8-FD5F4D27785F",
         "name": "emoticon-frown",
         "codepoint": "F0F4C",
-        "aliases": [],
+        "aliases": [
+            "face-frown"
+        ],
         "tags": [
             "Emoji"
         ],
