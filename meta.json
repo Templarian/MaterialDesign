@@ -25320,7 +25320,8 @@
         "name": "emoticon-happy-outline",
         "codepoint": "F01F5",
         "aliases": [
-            "smiley-happy-outline"
+            "smiley-happy-outline",
+            "face-happy-outline"
         ],
         "tags": [
             "Emoji"
