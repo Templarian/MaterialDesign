@@ -25334,7 +25334,8 @@
         "name": "emoticon-kiss",
         "codepoint": "F0C72",
         "aliases": [
-            "smiley-kiss"
+            "smiley-kiss",
+            "face-kiss"
         ],
         "tags": [
             "Emoji"
