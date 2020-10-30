@@ -25084,7 +25084,8 @@
         "name": "emoticon-angry",
         "codepoint": "F0C69",
         "aliases": [
-            "smiley-angry"
+            "smiley-angry",
+            "face-angry"
         ],
         "tags": [
             "Emoji"
