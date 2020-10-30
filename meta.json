@@ -25306,7 +25306,8 @@
         "name": "emoticon-happy",
         "codepoint": "F0C71",
         "aliases": [
-            "smiley-happy"
+            "smiley-happy",
+            "face-happy"
         ],
         "tags": [
             "Emoji"
