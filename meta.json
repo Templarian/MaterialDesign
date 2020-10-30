@@ -25224,7 +25224,8 @@
         "name": "emoticon-devil",
         "codepoint": "F0C6F",
         "aliases": [
-            "smiley-devil"
+            "smiley-devil",
+            "face-devil"
         ],
         "tags": [
             "Emoji"
