@@ -25196,7 +25196,8 @@
         "name": "emoticon-dead",
         "codepoint": "F0C6E",
         "aliases": [
-            "smiley-dead"
+            "smiley-dead",
+            "face-dead"
         ],
         "tags": [
             "Emoji"
