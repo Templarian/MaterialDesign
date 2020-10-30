@@ -25461,7 +25461,8 @@
         "name": "emoticon-sad",
         "codepoint": "F0C76",
         "aliases": [
-            "smiley-sad"
+            "smiley-sad",
+            "face-sad"
         ],
         "tags": [
             "Emoji"
