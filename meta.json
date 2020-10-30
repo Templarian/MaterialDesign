@@ -25388,7 +25388,8 @@
             "mood",
             "sentiment-very-satisfied",
             "tag-faces",
-            "smiley-outline"
+            "smiley-outline",
+            "face-outline"
         ],
         "tags": [
             "Emoji"
