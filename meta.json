@@ -25124,7 +25124,9 @@
         "id": "CB195387-50AC-46A3-B1C4-F3DA96E0EE42",
         "name": "emoticon-confused-outline",
         "codepoint": "F10DF",
-        "aliases": [],
+        "aliases": [
+            "face-confused-outline"
+        ],
         "tags": [
             "Emoji"
         ],
