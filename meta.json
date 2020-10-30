@@ -25098,7 +25098,8 @@
         "name": "emoticon-angry-outline",
         "codepoint": "F0C6A",
         "aliases": [
-            "smiley-angry-outline"
+            "smiley-angry-outline",
+            "face-angry-outline"
         ],
         "tags": [
             "Emoji"
