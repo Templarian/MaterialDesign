@@ -25447,7 +25447,9 @@
         "id": "1E402C80-69DB-432F-BB0F-C05ACB6A7839",
         "name": "emoticon-poop-outline",
         "codepoint": "F0C75",
-        "aliases": [],
+        "aliases": [
+            "face-poop-outline"
+        ],
         "tags": [
             "Emoji"
         ],
