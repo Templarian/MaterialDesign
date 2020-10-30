@@ -25388,7 +25388,8 @@
         "name": "emoticon-neutral",
         "codepoint": "F0C74",
         "aliases": [
-            "smiley-neutral"
+            "smiley-neutral",
+            "face-neutral"
         ],
         "tags": [
             "Emoji"
