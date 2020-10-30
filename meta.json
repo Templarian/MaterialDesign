@@ -25519,7 +25519,8 @@
         "name": "emoticon-tongue",
         "codepoint": "F01F9",
         "aliases": [
-            "smiley-tongue"
+            "smiley-tongue",
+            "face-tongue"
         ],
         "tags": [
             "Emoji"
