@@ -25168,7 +25168,8 @@
         "name": "emoticon-cry",
         "codepoint": "F0C6C",
         "aliases": [
-            "smiley-cry"
+            "smiley-cry",
+            "face-cry"
         ],
         "tags": [
             "Emoji"
