@@ -25475,7 +25475,8 @@
         "name": "emoticon-sad-outline",
         "codepoint": "F01F8",
         "aliases": [
-            "smiley-sad-outline"
+            "smiley-sad-outline",
+            "face-sad-outline"
         ],
         "tags": [
             "Emoji"
