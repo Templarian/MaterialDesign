@@ -25547,7 +25547,8 @@
         "name": "emoticon-wink",
         "codepoint": "F0C78",
         "aliases": [
-            "smiley-wink"
+            "smiley-wink",
+            "face-wink"
         ],
         "tags": [
             "Emoji"
