@@ -25402,7 +25402,8 @@
         "name": "emoticon-neutral-outline",
         "codepoint": "F01F6",
         "aliases": [
-            "smiley-neutral-outline"
+            "smiley-neutral-outline",
+            "face-neutral-outline"
         ],
         "tags": [
             "Emoji"
