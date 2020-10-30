@@ -25361,7 +25361,9 @@
         "id": "11CEDEB3-DB1A-45F4-92C9-6AF6FCEE4FC5",
         "name": "emoticon-lol",
         "codepoint": "F1214",
-        "aliases": [],
+        "aliases": [
+            "face-lol"
+        ],
         "tags": [
             "Emoji"
         ],
