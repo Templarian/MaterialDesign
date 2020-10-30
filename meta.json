@@ -25070,7 +25070,8 @@
         "name": "emoticon",
         "codepoint": "F0C68",
         "aliases": [
-            "smiley"
+            "smiley",
+            "face"
         ],
         "tags": [
             "Emoji"
