@@ -25292,7 +25292,9 @@
         "id": "AE6333C6-8334-4F90-9230-6527F3A38C8A",
         "name": "emoticon-frown-outline",
         "codepoint": "F0F4D",
-        "aliases": [],
+        "aliases": [
+            "face-frown-outline"
+        ],
         "tags": [
             "Emoji"
         ],
