@@ -25348,7 +25348,8 @@
         "name": "emoticon-kiss-outline",
         "codepoint": "F0C73",
         "aliases": [
-            "smiley-kiss-outline"
+            "smiley-kiss-outline",
+            "face-kiss-outline"
         ],
         "tags": [
             "Emoji"
