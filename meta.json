@@ -25138,7 +25138,8 @@
         "name": "emoticon-cool",
         "codepoint": "F0C6B",
         "aliases": [
-            "smiley-cool"
+            "smiley-cool",
+            "face-cool"
         ],
         "tags": [
             "Emoji"
