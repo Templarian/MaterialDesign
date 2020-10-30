@@ -25374,7 +25374,9 @@
         "id": "2A7BA4B1-C436-4EE6-BF5A-34B150A9A746",
         "name": "emoticon-lol-outline",
         "codepoint": "F1215",
-        "aliases": [],
+        "aliases": [
+            "face-lol-outline"
+        ],
         "tags": [
             "Emoji"
         ],
