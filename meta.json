@@ -25488,7 +25488,9 @@
         "id": "523F5AB1-3598-40F1-AAB5-6DF361FF6970",
         "name": "emoticon-sick",
         "codepoint": "F157C",
-        "aliases": [],
+        "aliases": [
+            "face-sick"
+        ],
         "tags": [
             "Emoji",
             "Medical \/ Hospital"
