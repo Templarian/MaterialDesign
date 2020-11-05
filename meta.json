@@ -43925,7 +43925,9 @@
         "id": "16912257-3D89-4630-9CC5-1FB0EB4A112C",
         "name": "movie-edit-outline",
         "codepoint": "F1123",
-        "aliases": [],
+        "aliases": [
+            "slate-edit-outline"
+        ],
         "tags": [
             "Video \/ Movie",
             "Edit \/ Modify"
