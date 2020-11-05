@@ -43910,7 +43910,8 @@
         "name": "movie-edit",
         "codepoint": "F1122",
         "aliases": [
-            "slate-edit"
+            "slate-edit",
+            "clapperboard-edit"
         ],
         "tags": [
             "Video \/ Movie",
