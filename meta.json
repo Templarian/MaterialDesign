@@ -43909,7 +43909,9 @@
         "id": "EBABD564-B269-4D31-995B-062C7EBEFC15",
         "name": "movie-edit",
         "codepoint": "F1122",
-        "aliases": [],
+        "aliases": [
+            "slate-edit"
+        ],
         "tags": [
             "Video \/ Movie",
             "Edit \/ Modify"
