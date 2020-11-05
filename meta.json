@@ -43926,7 +43926,8 @@
         "name": "movie-edit-outline",
         "codepoint": "F1123",
         "aliases": [
-            "slate-edit-outline"
+            "slate-edit-outline",
+            "clapperboard-edit-outline"
         ],
         "tags": [
             "Video \/ Movie",
