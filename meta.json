@@ -53631,7 +53631,9 @@
         "id": "438888DA-342B-4861-95EA-026A3F4E2F95",
         "name": "safety-goggles",
         "codepoint": "F0D30",
-        "aliases": [],
+        "aliases": [
+            "safety-glasses"
+        ],
         "tags": [
             "Science"
         ],
