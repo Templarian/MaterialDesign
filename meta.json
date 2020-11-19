@@ -63580,7 +63580,8 @@
         "aliases": [
             "equaliser-vertical",
             "instant-mix",
-            "settings-vertical"
+            "settings-vertical",
+            "mixer-settings-vertical"
         ],
         "tags": [
             "Settings",
