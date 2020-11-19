@@ -63592,7 +63592,9 @@
         "id": "FF706504-28DF-4752-BD75-E50FFE794421",
         "name": "tune-vertical-variant",
         "codepoint": "F1543",
-        "aliases": [],
+        "aliases": [
+            "settings"
+        ],
         "tags": [
             "Audio"
         ],
