@@ -63566,7 +63566,8 @@
         "name": "tune-variant",
         "codepoint": "F1542",
         "aliases": [
-            "settings"
+            "settings",
+            "equalizer"
         ],
         "tags": [
             "Audio"
