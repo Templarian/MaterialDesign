@@ -63564,7 +63564,9 @@
         "id": "B0AFC3B0-B718-407F-A51C-F4D932D7FCB2",
         "name": "tune-variant",
         "codepoint": "F1542",
-        "aliases": [],
+        "aliases": [
+            "settings"
+        ],
         "tags": [
             "Audio"
         ],
