@@ -63597,7 +63597,6 @@
         "name": "tune-vertical-variant",
         "codepoint": "F1543",
         "aliases": [
-            "settings",
             "equalizer-vertical"
         ],
         "tags": [
