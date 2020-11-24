@@ -33193,7 +33193,8 @@
         "name": "gift",
         "codepoint": "F0E44",
         "aliases": [
-            "present"
+            "present",
+            "package"
         ],
         "tags": [
             "Holiday"
