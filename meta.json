@@ -33192,7 +33192,9 @@
         "id": "62403C7B-F20E-489B-8835-28F7544D9712",
         "name": "gift",
         "codepoint": "F0E44",
-        "aliases": [],
+        "aliases": [
+            "present"
+        ],
         "tags": [
             "Holiday"
         ],
