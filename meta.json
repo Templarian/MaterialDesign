@@ -44611,6 +44611,21 @@
         "version": "5.9.55"
     },
     {
+        "id": "C481209F-DE3F-4D25-8C4F-0D21CB8D3385",
+        "name": "movie-open-settings-outline",
+        "codepoint": "F170C",
+        "aliases": [
+            "slate-open-settings-outline",
+            "clapperboard-open-settings-outline",
+            "film-open-settings-outline"
+        ],
+        "tags": [
+            "Video \/ Movie"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "8198AA61-F267-4A56-B9D8-5D492B519545",
         "name": "movie-outline",
         "codepoint": "F0DDD",
