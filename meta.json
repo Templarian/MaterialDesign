@@ -44822,6 +44822,21 @@
         "version": "5.9.55"
     },
     {
+        "id": "07D0534A-0D01-428A-8915-0C3930BE8C41",
+        "name": "movie-star",
+        "codepoint": "F1717",
+        "aliases": [
+            "slate-star",
+            "clapperboard-star",
+            "film-star"
+        ],
+        "tags": [
+            "Video \/ Movie"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "27842852-CDEB-4575-AAEB-D7F15F0928F8",
         "name": "mower",
         "codepoint": "F166F",
