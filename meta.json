@@ -44150,6 +44150,21 @@
         "version": "1.5.54"
     },
     {
+        "id": "8B5A9F9F-D0F3-4B9A-844F-D6EE34154837",
+        "name": "movie-check",
+        "codepoint": "F16F3",
+        "aliases": [
+            "slate-check",
+            "clapperboard-check",
+            "film-check"
+        ],
+        "tags": [
+            "Video \/ Movie"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "EBABD564-B269-4D31-995B-062C7EBEFC15",
         "name": "movie-edit",
         "codepoint": "F1122",
