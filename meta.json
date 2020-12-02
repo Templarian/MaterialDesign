@@ -33415,6 +33415,20 @@
         "version": "5.9.55"
     },
     {
+        "id": "04D976AC-875C-42F1-A9F6-B86FDAAD6990",
+        "name": "gift-open",
+        "codepoint": "F16F1",
+        "aliases": [
+            "present-open",
+            "package-open"
+        ],
+        "tags": [
+            "Holiday"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "22D0C782-CD05-4FEB-845F-BBA7126C7326",
         "name": "gift-outline",
         "codepoint": "F02A1",
