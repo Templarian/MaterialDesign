@@ -26765,6 +26765,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "E695511A-9F45-44DC-9F98-9E946CC02ECC",
+        "name": "fan-auto",
+        "codepoint": "F171D",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.9.55"
+    },
+    {
         "id": "33DAA830-9E16-4AF0-A1B8-F44EA4EF9787",
         "name": "fan-chevron-down",
         "codepoint": "F146D",
