@@ -44731,6 +44731,21 @@
         "version": "5.9.55"
     },
     {
+        "id": "A55FA4A8-DD49-4A4E-8DC0-ED7979F2469B",
+        "name": "movie-remove",
+        "codepoint": "F1713",
+        "aliases": [
+            "slate-remove",
+            "clapperboard-remove",
+            "film-remove"
+        ],
+        "tags": [
+            "Video \/ Movie"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "21D0F9FB-6814-4CE7-B37D-FC97EBF1D0D2",
         "name": "movie-roll",
         "codepoint": "F07DE",
