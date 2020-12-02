@@ -20441,6 +20441,19 @@
         "version": "5.9.55"
     },
     {
+        "id": "CA84B827-73C5-4C28-AC8B-82AADD5469E9",
+        "name": "cookie-refresh-outline",
+        "codepoint": "F16ED",
+        "aliases": [
+            "biscuit-refresh-outline"
+        ],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "25272102-387C-4333-BF16-3308E6EFF94F",
         "name": "cookie-remove",
         "codepoint": "F16D8",
