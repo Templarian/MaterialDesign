@@ -23861,6 +23861,17 @@
         "version": "2.6.95"
     },
     {
+        "id": "74FE76CF-E5A5-42F3-97BD-0BCDF17DBFFF",
+        "name": "dog-side-off",
+        "codepoint": "F16EE",
+        "aliases": [],
+        "tags": [
+            "Animal"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "FE71CD75-B2E7-49A5-B00B-732BACB52F6F",
         "name": "dolby",
         "codepoint": "F06B3",
