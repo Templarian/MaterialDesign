@@ -44701,6 +44701,21 @@
         "version": "5.9.55"
     },
     {
+        "id": "543E83B1-B4CD-4D26-9813-A7F23C44AC5F",
+        "name": "movie-plus",
+        "codepoint": "F1711",
+        "aliases": [
+            "slate-plus",
+            "clapperboard-plus",
+            "film-plus"
+        ],
+        "tags": [
+            "Video \/ Movie"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "21D0F9FB-6814-4CE7-B37D-FC97EBF1D0D2",
         "name": "movie-roll",
         "codepoint": "F07DE",
