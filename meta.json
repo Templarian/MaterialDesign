@@ -33400,6 +33400,21 @@
         "version": "5.9.55"
     },
     {
+        "id": "E1260280-2F0F-4D7D-AA15-0322C8699541",
+        "name": "gift-off-outline",
+        "codepoint": "F16F0",
+        "aliases": [
+            "present-off-outline",
+            "package-off-outline",
+            "donate-off-outline"
+        ],
+        "tags": [
+            "Holiday"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "22D0C782-CD05-4FEB-845F-BBA7126C7326",
         "name": "gift-outline",
         "codepoint": "F02A1",
