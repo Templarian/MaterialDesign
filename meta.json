@@ -44671,6 +44671,21 @@
         "version": "3.5.94"
     },
     {
+        "id": "44B019DA-A010-4B5F-AF03-61DBCC6206DD",
+        "name": "movie-play",
+        "codepoint": "F170F",
+        "aliases": [
+            "slate-play",
+            "clapperboard-play",
+            "film-play"
+        ],
+        "tags": [
+            "Video \/ Movie"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "21D0F9FB-6814-4CE7-B37D-FC97EBF1D0D2",
         "name": "movie-roll",
         "codepoint": "F07DE",
