@@ -33385,6 +33385,21 @@
         "version": "3.6.95"
     },
     {
+        "id": "17729CE1-90B8-4C63-A142-99056CDDC860",
+        "name": "gift-off",
+        "codepoint": "F16EF",
+        "aliases": [
+            "present-off",
+            "package-off",
+            "donate-off"
+        ],
+        "tags": [
+            "Holiday"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "22D0C782-CD05-4FEB-845F-BBA7126C7326",
         "name": "gift-outline",
         "codepoint": "F02A1",
