@@ -44716,6 +44716,21 @@
         "version": "5.9.55"
     },
     {
+        "id": "1171D3A1-94AD-4DF5-81E0-D7800C05A0AC",
+        "name": "movie-plus-outline",
+        "codepoint": "F1712",
+        "aliases": [
+            "slate-plus-outline",
+            "clapperboard-plus-outline",
+            "film-plus-outline"
+        ],
+        "tags": [
+            "Video \/ Movie"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "21D0F9FB-6814-4CE7-B37D-FC97EBF1D0D2",
         "name": "movie-roll",
         "codepoint": "F07DE",
