@@ -53739,6 +53739,15 @@
         "version": "5.9.55"
     },
     {
+        "id": "62023A79-6DF7-4B3B-BDCA-FEEAE73C9F89",
+        "name": "robot-happy-outline",
+        "codepoint": "F171A",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "C008FBCE-4D0A-4003-8811-FF15D08C3313",
         "name": "robot-industrial",
         "codepoint": "F0B46",
