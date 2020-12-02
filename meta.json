@@ -44400,6 +44400,21 @@
         "version": "5.9.55"
     },
     {
+        "id": "BC0C6C6B-C6BE-4E96-BFAF-782866BCF8C2",
+        "name": "movie-open-edit",
+        "codepoint": "F16FF",
+        "aliases": [
+            "slate-open-edit",
+            "clapperboard-open-edit",
+            "film-open-edit"
+        ],
+        "tags": [
+            "Video \/ Movie"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "17E4DACC-FDBF-4206-9F03-428157B91803",
         "name": "movie-open-outline",
         "codepoint": "F0FCF",
