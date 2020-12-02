@@ -30681,6 +30681,20 @@
         "version": "5.2.45"
     },
     {
+        "id": "D5900301-8742-4D92-8E56-525DCDE97E0F",
+        "name": "food-turkey",
+        "codepoint": "F171C",
+        "aliases": [
+            "thanksgiving-dinner"
+        ],
+        "tags": [
+            "Food \/ Drink",
+            "Holiday"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "1D25DDEC-2656-4729-BEBD-BB17F972DD09",
         "name": "food-variant",
         "codepoint": "F025C",
@@ -64447,20 +64461,6 @@
         ],
         "tags": [
             "Animal",
-            "Holiday"
-        ],
-        "author": "Colton Wiscombe",
-        "version": "5.9.55"
-    },
-    {
-        "id": "D5900301-8742-4D92-8E56-525DCDE97E0F",
-        "name": "turkey-cooked",
-        "codepoint": "F171C",
-        "aliases": [
-            "thanksgiving-dinner"
-        ],
-        "tags": [
-            "Food \/ Drink",
             "Holiday"
         ],
         "author": "Colton Wiscombe",
