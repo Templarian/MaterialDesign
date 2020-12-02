@@ -12253,6 +12253,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "9101C5D4-90CA-4C18-B66E-611B3B0A3877",
+        "name": "calendar-clock-outline",
+        "codepoint": "F16E1",
+        "aliases": [],
+        "tags": [],
+        "author": "GreenTurtwig",
+        "version": "5.9.55"
+    },
+    {
         "id": "A5F0BBFB-DA5E-4068-B2D5-3C0F3EB26B14",
         "name": "calendar-cursor",
         "codepoint": "F157B",
