@@ -11,6 +11,17 @@
         "version": "4.0.96"
     },
     {
+        "id": "5B09B959-4A49-4674-9035-6CFD3D157C3F",
+        "name": "abacus",
+        "codepoint": "F16E0",
+        "aliases": [],
+        "tags": [
+            "Math"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "E20665F3-5354-46C2-9162-4202B20DCA05",
         "name": "abjad-arabic",
         "codepoint": "F1328",
