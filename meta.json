@@ -44460,6 +44460,21 @@
         "version": "5.9.55"
     },
     {
+        "id": "A58F23CF-24CA-42B3-B877-FA9DEA317A3B",
+        "name": "movie-open-off",
+        "codepoint": "F1703",
+        "aliases": [
+            "slate-open-off",
+            "clapperboard-open-off",
+            "film-open-off"
+        ],
+        "tags": [
+            "Video \/ Movie"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "17E4DACC-FDBF-4206-9F03-428157B91803",
         "name": "movie-open-outline",
         "codepoint": "F0FCF",
