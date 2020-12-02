@@ -64453,6 +64453,20 @@
         "version": "5.9.55"
     },
     {
+        "id": "D5900301-8742-4D92-8E56-525DCDE97E0F",
+        "name": "turkey-cooked",
+        "codepoint": "F171C",
+        "aliases": [
+            "thanksgiving-dinner"
+        ],
+        "tags": [
+            "Food \/ Drink",
+            "Holiday"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "40E06CC0-82EE-4EE0-976B-C6388BBFDD9D",
         "name": "turnstile",
         "codepoint": "F0CD5",
