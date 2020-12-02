@@ -17241,6 +17241,15 @@
         "version": "2.2.43"
     },
     {
+        "id": "E276DDBC-9E61-4CE3-8168-6E896E6ADD98",
+        "name": "clipboard-clock",
+        "codepoint": "F16E2",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "BA08B631-B169-4C0F-A99B-BBECC9F18CAA",
         "name": "clipboard-edit",
         "codepoint": "F14E5",
