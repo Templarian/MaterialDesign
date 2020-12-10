@@ -63668,7 +63668,8 @@
         "name": "train-variant",
         "codepoint": "F08C4",
         "aliases": [
-            "locomotive-variant"
+            "locomotive-variant",
+            "railroad-variant"
         ],
         "tags": [
             "Transportation + Other"
