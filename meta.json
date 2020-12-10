@@ -63666,7 +63666,9 @@
         "id": "C0A4E604-3829-4605-A7BC-CA0BFF138B18",
         "name": "train-variant",
         "codepoint": "F08C4",
-        "aliases": [],
+        "aliases": [
+            "locomotive-variant"
+        ],
         "tags": [
             "Transportation + Other"
         ],
