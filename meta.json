@@ -63637,7 +63637,8 @@
         "name": "train",
         "codepoint": "F052C",
         "aliases": [
-            "directions-railway"
+            "directions-railway",
+            "locomotive"
         ],
         "tags": [
             "Navigation",
