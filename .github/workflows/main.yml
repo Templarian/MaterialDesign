@@ -3,7 +3,7 @@ on: [push]
 jobs:
   build:
     env:
-      OUT_DIR: www/images/material
+      OUT_DIR: www/images/material-templarian
       SOURCE_DIR: svg/
       XSLT: lib/fhem-svg.xslt
     runs-on: ubuntu-latest
@@ -43,7 +43,7 @@ jobs:
     env:
       CHANGED_FILE: CHANGED
       CONTROLS_FILE: controls_icons-material-templarian.txt
-      FILES_DIR: www/images/material
+      FILES_DIR: www/images/material-templarian
     runs-on: ubuntu-latest
     steps:
       - name: Extract branch name
