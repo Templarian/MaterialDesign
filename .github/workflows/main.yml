@@ -1,0 +1,74 @@
+name: Build and deploy
+on: [push]
+jobs:
+  build:
+    env:
+      OUT_DIR: www/images/material
+      SOURCE_DIR: svg/
+      XSLT: lib/fhem-svg.xslt
+    runs-on: ubuntu-latest
+    steps:
+      - name: Prepare system environment
+        run: |
+          sudo apt update
+          sudo apt install curl libxslt-dev libxslt1.1
+        id: system_env
+      - name: Prepare Perl environment
+        run: |
+          sudo curl -L https://cpanmin.us | sudo perl - App::cpanminus
+          sudo cpanm -n File::Slurp XML::LibXSLT XML::LibXML
+        id: perl_env
+      - name: Extract branch name
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+      - name: Checkout Repository
+        uses: actions/checkout@master
+      - name: Transform icons
+        run: |
+          perl bin/convert-material-fhem -v -x $XSLT -s $SOURCE_DIR -t $OUT_DIR
+        id: transform_icons
+      - name: Commit back to the repository
+        run: |
+          git config --global user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add $OUT_DIR || true
+          git commit $OUT_DIR -m "[Auto] $(date) added transformed files " || true
+      - name: Push changed files back to repository
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ steps.extract_branch.outputs.branch }}
+  fhem-update:
+    needs: build
+    env:
+      CHANGED_FILE: CHANGED
+      CONTROLS_FILE: controls_icons-material-templarian.txt
+      FILES_DIR: www/images/material
+    runs-on: ubuntu-latest
+    steps:
+      - name: Extract branch name
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+      - name: Checkout Repository
+        uses: actions/checkout@master
+      - name: Create FHEM controlfile
+        uses: fhem/fhem-controls-actions@master
+        with:
+          filename: controls_icons-material-templarian.txt
+          directory: www/images/material
+          extension: .svg
+      - name: Create CHANGED
+        run: |
+          echo "[$(date -Isecond -u)] $(ls -lah $FILES_DIR/*.svg | wc -l) files included" > $CHANGED_FILE
+      - name: Commit back to the repository
+        run: |
+          git config --global user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add $CONTROLS_FILE || true
+          git add $CHANGED_FILE || true
+          git commit $CONTROLS_FILE $CHANGED_FILE -m "[Auto] $(date -u) added transformed files " || true
+      - name: Push changed files back to repository
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ steps.extract_branch.outputs.branch }}
