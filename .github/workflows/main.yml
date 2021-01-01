@@ -55,7 +55,7 @@ jobs:
         uses: fhem/fhem-controls-actions@master
         with:
           filename: controls_icons-material-templarian.txt
-          directory: www/images/material
+          directory: www/images/material-templarian
           extension: .svg
       - name: Create CHANGED
         run: |
