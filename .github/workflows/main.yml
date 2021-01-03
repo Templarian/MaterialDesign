@@ -3,7 +3,7 @@ on: [push]
 jobs:
   build:
     env:
-      OUT_DIR: www/images/material-templarian
+      OUT_DIR: www/images/mdt
       SOURCE_DIR: svg/
       XSLT: lib/fhem-svg.xslt
       ICON_PREFIX: mdt
@@ -55,8 +55,8 @@ jobs:
       - name: Create FHEM controlfile
         uses: fhem/fhem-controls-actions@master
         with:
-          filename: controls_icons-material-templarian.txt
-          directory: www/images/material-templarian
+          filename: controls_icons-mdt.txt
+          directory: www/images/mdt
           extension: .svg
       - name: Create CHANGED
         run: |
