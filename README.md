@@ -6,6 +6,33 @@ This repo contains all the planning for current and work-in-progress Material De
 
 [![npm](https://img.shields.io/npm/v/@mdi/font.svg)](https://www.npmjs.com/package/@mdi/svg) [![GitHub issues](https://img.shields.io/github/issues/Templarian/MaterialDesign.svg)](https://github.com/Templarian/MaterialDesign/issues)
 
+## FHEM Integration
+
+This repository contains all the necessary stuff for adding the Material Design Icons to FHEM. Just follow the following install instructions.
+
+**Please report FHEM specific issues to this repository, not to the main repository!**
+
+### Install
+
+#### Add icons repository
+```
+update add https://raw.githubusercontent.com/fhem/FHEM-Icons-Material-Templarian/development/controls_icons-mdt.txt
+update all https://raw.githubusercontent.com/fhem/FHEM-Icons-Material-Templarian/development/controls_icons-mdt.txt
+```
+
+This will take a long time, since there are ATM about *5.600* icons to download and install (took around 30 minutes on a dockerized test FHEM).
+
+#### Add icon path
+To display the icons, FHEM needs the know the path to the newly installed icons. Given your FHEMWEB device is also named ``FHEMWEB``, add `mdt` to the `iconPath` attribute like this
+
+``attr FHEMWEB iconPath mdt:fhemSVG:openautomation:default``
+
+#### Reload icons
+
+After setting the new icon path, FHEMWEB needs to reread the icons cache. Again, ``FHEMWEB`` is give as name for your FHEMWEB device, issue
+
+``set FHEMWEB rereadicons``
+
 ## Icons
 
 View at [Material Design Icons](http://materialdesignicons.com/). This repo also contains converted icons from [Google's official icon set](https://github.com/google/material-design-icons).
