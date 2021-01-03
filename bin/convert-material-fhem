@@ -25,6 +25,7 @@ my %config = (
     source_path     => q{.},
     target_path     => q{./out},
     stylesheet_file => q{lib/fhem-svg.xslt},
+    icon_prefix     => q{mdt},
     verbose         => undef,
 );
 
@@ -34,10 +35,11 @@ my @svg_file_suffixes = qw(svg);
 # ---------------------------------------------------------------------------------------------------- parameters
 
 GetOptions(
-    q{source|s=s}     => \$config{source_path},
-    q{target|t=s}     => \$config{target_path},
-    q{stylesheet|x=s} => \$config{stylesheet_file},
-    q{verbose|v!}     => \$config{verbose},
+    q{source|s=s}       => \$config{source_path},
+    q{target|t=s}       => \$config{target_path},
+    q{stylesheet|x=s}   => \$config{stylesheet_file},
+    q{verbose|v!}       => \$config{verbose},
+    q{prefix|p=s}       => \$config{icon_prefix},
 ) or croak qq{Unknown argument: $EXTENDED_OS_ERROR};
 
 if (! -e $config{target_path}) {
@@ -93,8 +95,8 @@ sub handle_files {
     #   icon_class      → maps
     #   icon_name       → agriculture
     #   new filename    → material-maps-agriculture.svg
-    my ($icon_name) = $_;
-    my $new_name = $config{target_path} . qq{/material-templarian-$icon_name};
+    my ($icon_name, $prefix) = ($_, $config{icon_prefix});
+    my $new_name = $config{target_path} . qq{/$prefix-$icon_name};
 
     if($config{verbose}) {
         $icon_count++;
