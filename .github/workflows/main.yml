@@ -44,7 +44,7 @@ jobs:
     env:
       CHANGED_FILE: CHANGED
       CONTROLS_FILE: controls_icons-mdt.txt
-      FILES_DIR: www/images/mdt/
+      FILES_DIR: www/images/mdt
       FILES_EXTENSION: .svg
     runs-on: ubuntu-latest
     steps:
