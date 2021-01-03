@@ -44,7 +44,7 @@ jobs:
     env:
       CHANGED_FILE: CHANGED
       CONTROLS_FILE: controls_icons-material-templarian.txt
-      FILES_DIR: www/images/material-templarian
+      FILES_DIR: www/images/mdt/
     runs-on: ubuntu-latest
     steps:
       - name: Extract branch name
@@ -56,7 +56,7 @@ jobs:
         uses: fhem/fhem-controls-actions@master
         with:
           filename: controls_icons-mdt.txt
-          directory: www/images/mdt
+          directory: www/images/mdt/
           extension: .svg
       - name: Create CHANGED
         run: |
