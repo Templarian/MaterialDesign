@@ -43,8 +43,9 @@ jobs:
     needs: build
     env:
       CHANGED_FILE: CHANGED
-      CONTROLS_FILE: controls_icons-material-templarian.txt
+      CONTROLS_FILE: controls_icons-mdt.txt
       FILES_DIR: www/images/mdt/
+      FILES_EXTENSION: .svg
     runs-on: ubuntu-latest
     steps:
       - name: Extract branch name
@@ -55,12 +56,12 @@ jobs:
       - name: Create FHEM controlfile
         uses: fhem/fhem-controls-actions@master
         with:
-          filename: controls_icons-mdt.txt
-          directory: www/images/mdt/
-          extension: .svg
+          filename: ${{ env.CONTROLS_FILE }}
+          directory: ${{ env.FILES_DIR }}
+          extension: ${{ env.FILES_EXTENSION }}
       - name: Create CHANGED
         run: |
-          echo "[$(date -Isecond -u)] $(ls -lah $FILES_DIR/*.svg | wc -l) files included" > $CHANGED_FILE
+          echo "[$(date -Isecond -u)] $(ls -lah $FILES_DIR/*$FILES_EXTENSION | wc -l) files included" > $CHANGED_FILE
       - name: Commit back to the repository
         run: |
           git config --global user.email "action@github.com"
