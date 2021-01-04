@@ -1,0 +1,116 @@
+#!/usr/bin/env perl
+# ---------------------------------------------------------------------------------------------------- pragmas
+
+use strict;
+use warnings FATAL => 'all';
+use 5.026;
+
+# ---------------------------------------------------------------------------------------------------- modules
+
+use File::Basename;
+use File::Find;
+use File::Path;
+use File::Slurp;
+use Getopt::Long;
+use Data::Dumper;
+use Carp;
+use Cwd;
+use English qw( -no_match_vars );
+use XML::LibXSLT;
+use XML::LibXML;
+
+# ---------------------------------------------------------------------------------------------------- variables
+
+my %config = (
+    source_path     => q{.},
+    target_path     => q{./out},
+    stylesheet_file => q{lib/fhem-svg.xslt},
+    icon_prefix     => q{mdt},
+    verbose         => undef,
+);
+
+my $icon_count;
+my @svg_file_suffixes = qw(svg);
+
+# ---------------------------------------------------------------------------------------------------- parameters
+
+GetOptions(
+    q{source|s=s}       => \$config{source_path},
+    q{target|t=s}       => \$config{target_path},
+    q{stylesheet|x=s}   => \$config{stylesheet_file},
+    q{verbose|v!}       => \$config{verbose},
+    q{prefix|p=s}       => \$config{icon_prefix},
+) or croak qq{Unknown argument: $EXTENDED_OS_ERROR};
+
+if (! -e $config{target_path}) {
+    File::Path::mkpath(
+        $config{target_path},
+        {
+            verbose => 1,
+        }
+    );
+}
+
+$config{target_path} = Cwd::realpath($config{target_path});
+$config{source_path} = Cwd::realpath($config{source_path});
+
+# ---------------------------------------------------------------------------------------------------- main
+
+my $xml_parser          = XML::LibXML->new( );
+my $xslt_parser         = XML::LibXSLT->new( );
+my $xslt_transformator  = $xslt_parser->parse_stylesheet_file( $config{stylesheet_file} );
+
+if ($config{verbose}) {
+    say Data::Dumper->Dump( [ \%config ], [qw( Config )] );
+}
+
+say q(pre_find);
+
+find({
+    wanted => \&handle_files,
+    follow => 1
+}, $config{source_path});
+
+say q(post_find);
+
+if ($config{verbose}) {
+    say qq{$icon_count icons transformed};
+}
+
+# ---------------------------------------------------------------------------------------------------- helper
+
+sub handle_files {
+
+    if ($config{verbose}) {
+        say Data::Dumper->Dump( [ $File::Find::name, $_ ], [qw( file_find_name file )] );
+    }
+
+    # skip if not a simple material icon
+    return if ( ! -f $File::Find::name);
+    $config{verbose} && say qq{$File::Find::name is a regular file};
+
+    # extract class and name from path
+    # /src/maps/agriculture/materialicons/24px.svg
+    # so:
+    #   icon_class      → maps
+    #   icon_name       → agriculture
+    #   new filename    → material-maps-agriculture.svg
+    my ($icon_name, $prefix) = ($_, $config{icon_prefix});
+    my $new_name = $config{target_path} . qq{/$prefix-$icon_name};
+
+    if($config{verbose}) {
+        $icon_count++;
+        say Data::Dumper->Dump( [ $new_name ], [qw( New_Filename )] );
+    }
+
+    # prepare file for transformation
+    my $document_source  = $xml_parser->parse_file( $File::Find::name );
+    my $transformed = $xslt_transformator->transform( $document_source );
+
+    # write new file, but make it atomic (jftf)
+    if (!File::Slurp::write_file($new_name, { atomic => 1 }, $xslt_transformator->output_string( $transformed ))) {
+        croak $EXTENDED_OS_ERROR;
+    }
+
+    return;
+}
