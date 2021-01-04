@@ -1,0 +1,55 @@
+FS20.off   mdt-lightbulb-off-outline.svg
+FS20.on    mdt-lightbulb.svg
+off        mdt-lightbulb-off-outline.svg
+on         mdt-lightbulb.svg
+OFF        mdt-lightbulb-off-outline.svg
+ON         mdt-lightbulb.svg
+Aus        mdt-lightbulb-off-outline.svg
+An         mdt-lightbulb.svg
+
+toggle         mdt-power-cycle.svg
+on-for-timer   mdt-progress-clock.svg
+off-for-timer  mdt-progress-clock.svg
+dimup          mdt-chevron-triple-up.svg
+dimdown        mdt-chevron-triple-down.svg
+
+set_on         mdt-power.svg
+set_off        mdt-power-off.svg
+set-on         mdt-power.svg
+set-off        mdt-power-off.svg
+set_ON         mdt-power.svg
+set_OFF        mdt-power-off.svg
+unreachable    mdt-alert-circle-outline.svg
+undefined      mdt-help-circle-outline.svg
+
+set_toggle        mdt-power-cycle.svg
+set_on_for_timer  mdt-progress-clock.svg
+set_off_for_timer mdt-progress-clock.svg
+set_dimup         mdt-chevron-triple-up.svg
+set_dimdown       mdt-chevron-triple-down.svg
+
+Next       mdt-skip-next-circle-outline.svg
+Prev       mdt-skip-previous-circle-outline.svg
+Zoom-out   mdt-magnify-minus-outline.svg
+Zoom-in    mdt-magnify-plus-outline.svg
+
+back       mdt-account-arrow-left.svg
+
+dim06%     mdt-brightness-1.svg
+dim12%     mdt-brightness-1.svg
+dim18%     mdt-brightness-1.svg
+dim25%     mdt-brightness-2.svg
+dim31%     mdt-brightness-2.svg
+dim37%     mdt-brightness-3.svg
+dim43%     mdt-brightness-3.svg
+dim50%     mdt-brightness-4.svg
+dim56%     mdt-brightness-4.svg
+dim62%     mdt-brightness-4.svg
+dim68%     mdt-brightness-5.svg
+dim75%     mdt-brightness-5.svg
+dim81%     mdt-brightness-6.svg
+dim87%     mdt-brightness-6.svg
+dim93%     mdt-brightness-7.svg
+dim100%    mdt-brightness-7.svg
+
+
