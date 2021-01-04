@@ -16,8 +16,8 @@ This repository contains all the necessary stuff for adding the Material Design 
 
 #### Add icons repository
 ```
-update add https://raw.githubusercontent.com/fhem/FHEM-Icons-Material-Templarian/development/controls_icons-mdt.txt
-update all https://raw.githubusercontent.com/fhem/FHEM-Icons-Material-Templarian/development/controls_icons-mdt.txt
+update add https://raw.githubusercontent.com/fhem/FHEM-Icons-Material-Templarian/master/controls_icons-mdt.txt
+update all https://raw.githubusercontent.com/fhem/FHEM-Icons-Material-Templarian/master/controls_icons-mdt.txt
 ```
 
 This will take a long time, since there are ATM about *5.600* icons to download and install (took around 30 minutes on a dockerized test FHEM).
