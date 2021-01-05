@@ -56,7 +56,9 @@ jobs:
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
         id: extract_branch
       - name: Checkout Repository
-        uses: actions/checkout@master
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - name: Create FHEM controlfile
         uses: fhem/fhem-controls-actions@master
         with:
