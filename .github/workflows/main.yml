@@ -63,7 +63,7 @@ jobs:
           extension: ${{ env.FILES_EXTENSIONS }}
       - name: Update docs
         run: |
-            sed 's|%%BRANCH%%|${GITHUB_REF##*/|g' < $README_TPL > $README_OUT
+            sed "s|%%BRANCH%%|${GITHUB_REF##*/}|g" < $README_TPL > $README_OUT
       - name: Create CHANGED
         run: |
           echo "[$(date -Isecond -u)] $(ls -lah $FILES_DIR/*$FILES_EXTENSION | wc -l) files included" > $CHANGED_FILE
