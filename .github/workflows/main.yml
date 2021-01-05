@@ -23,7 +23,9 @@ jobs:
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
         id: extract_branch
       - name: Checkout Repository
-        uses: actions/checkout@master
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - name: Transform icons
         run: |
           perl bin/convert-material-fhem -v -x $XSLT -s $SOURCE_DIR -t $OUT_DIR -p $ICON_PREFIX
