@@ -45,7 +45,9 @@ jobs:
       CHANGED_FILE: CHANGED
       CONTROLS_FILE: controls_icons-mdt.txt
       FILES_DIR: www/images/mdt
-      FILES_EXTENSION: .svg
+      FILES_EXTENSIONS: .svg|.txt
+      README_TPL: README.md.tpl
+      README_OUT: README.md
     runs-on: ubuntu-latest
     steps:
       - name: Extract branch name
@@ -58,7 +60,10 @@ jobs:
         with:
           filename: ${{ env.CONTROLS_FILE }}
           directory: ${{ env.FILES_DIR }}
-          extension: ${{ env.FILES_EXTENSION }}
+          extension: ${{ env.FILES_EXTENSIONS }}
+      - name: Update docs
+        run: |
+            sed 's|%%BRANCH%%|${GITHUB_REF##*/|g' < $README_TPL > $README_OUT
       - name: Create CHANGED
         run: |
           echo "[$(date -Isecond -u)] $(ls -lah $FILES_DIR/*$FILES_EXTENSION | wc -l) files included" > $CHANGED_FILE
@@ -68,7 +73,8 @@ jobs:
           git config --local user.name "GitHub Action"
           git add $CONTROLS_FILE || true
           git add $CHANGED_FILE || true
-          git commit $CONTROLS_FILE $CHANGED_FILE -m "[Auto] $(date -u) added transformed files " || true
+          git add $README_OUT || true
+          git commit $README_OUT $CONTROLS_FILE $CHANGED_FILE -m "[Auto] $(date -u) added transformed files " || true
       - name: Push changed files back to repository
         uses: ad-m/github-push-action@master
         with:
