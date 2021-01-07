@@ -61,7 +61,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Create FHEM controlfile
-        uses: fhem/fhem-controls-actions@master
+        uses: fhem/fhem-controls-actions@v2
         with:
           filename: ${{ env.CONTROLS_FILE }}
           directory: ${{ env.FILES_DIR }}
