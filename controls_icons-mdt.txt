@@ -1,5 +1,5 @@
 UPD 2021-01-05_14:28:17 1689   www/images/mdt/iconalias.txt
-UPD 2021-01-03_16:18:35 590    www/images/mdt/mdt-ab-testing.svg
+UPD 2021-01-07_23:26:29 625    www/images/mdt/mdt-ab-testing.svg
 UPD 2021-01-03_16:18:35 491    www/images/mdt/mdt-abacus.svg
 UPD 2021-01-03_16:18:35 726    www/images/mdt/mdt-abjad-arabic.svg
 UPD 2021-01-03_16:18:35 570    www/images/mdt/mdt-abjad-hebrew.svg
