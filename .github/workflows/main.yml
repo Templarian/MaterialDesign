@@ -7,6 +7,7 @@ jobs:
       SOURCE_DIR: svg/
       XSLT: lib/fhem-svg.xslt
       ICON_PREFIX: mdt
+      FILES_CACHE: var/files.cache
     runs-on: ubuntu-latest
     steps:
       - name: Prepare system environment
@@ -28,7 +29,7 @@ jobs:
           fetch-depth: 0
       - name: Transform icons
         run: |
-          perl bin/convert-material-fhem -v -x $XSLT -s $SOURCE_DIR -t $OUT_DIR -p $ICON_PREFIX
+          perl bin/convert-material-fhem -v -x $XSLT -s $SOURCE_DIR -t $OUT_DIR -p $ICON_PREFIX -c $FILES_CACHE
         id: transform_icons
       - name: Commit back to the repository
         run: |
