@@ -18,6 +18,8 @@ use Cwd;
 use English qw( -no_match_vars );
 use XML::LibXSLT;
 use XML::LibXML;
+use Digest::MD5;
+use Storable;
 
 # ---------------------------------------------------------------------------------------------------- variables
 
@@ -27,10 +29,14 @@ my %config = (
     stylesheet_file => q{lib/fhem-svg.xslt},
     icon_prefix     => q{mdt},
     verbose         => undef,
+    cachefile       => q{var/files.cache},
 );
 
-my $icon_count;
+my $icon_count = 0;
 my @svg_file_suffixes = qw(svg);
+
+# will contain the md5 sums for files
+my $md5table_ref;
 
 # ---------------------------------------------------------------------------------------------------- parameters
 
@@ -40,6 +46,7 @@ GetOptions(
     q{stylesheet|x=s}   => \$config{stylesheet_file},
     q{verbose|v!}       => \$config{verbose},
     q{prefix|p=s}       => \$config{icon_prefix},
+    q{cache|c=s}        => \$config{cachefile},
 ) or croak qq{Unknown argument: $EXTENDED_OS_ERROR};
 
 if (! -e $config{target_path}) {
@@ -56,6 +63,8 @@ $config{source_path} = Cwd::realpath($config{source_path});
 
 # ---------------------------------------------------------------------------------------------------- main
 
+
+
 my $xml_parser          = XML::LibXML->new( );
 my $xslt_parser         = XML::LibXSLT->new( );
 my $xslt_transformator  = $xslt_parser->parse_stylesheet_file( $config{stylesheet_file} );
@@ -64,18 +73,28 @@ if ($config{verbose}) {
     say Data::Dumper->Dump( [ \%config ], [qw( Config )] );
 }
 
-say q(pre_find);
+if (-e $config{cachefile}) {
+    $md5table_ref = retrieve $config{cachefile} ||
+        croak $EXTENDED_OS_ERROR;
+}
+
+if ($config{verbose}) {
+    say Data::Dumper->Dump( [ $md5table_ref ], [qw( md5table )] );
+}
 
 find({
     wanted => \&handle_files,
     follow => 1
 }, $config{source_path});
 
-say q(post_find);
+store $md5table_ref, $config{cachefile} ||
+    croak $EXTENDED_OS_ERROR;
 
 if ($config{verbose}) {
     say qq{$icon_count icons transformed};
 }
+
+
 
 # ---------------------------------------------------------------------------------------------------- helper
 
@@ -89,6 +108,9 @@ sub handle_files {
     return if ( ! -f $File::Find::name);
     $config{verbose} && say qq{$File::Find::name is a regular file};
 
+    # calculate md5sum of current file
+    my $md5sum = Digest::MD5::md5_hex File::Slurp::read_file($File::Find::name);
+
     # extract class and name from path
     # /src/maps/agriculture/materialicons/24px.svg
     # so:
@@ -97,6 +119,14 @@ sub handle_files {
     #   new filename    → material-maps-agriculture.svg
     my ($icon_name, $prefix) = ($_, $config{icon_prefix});
     my $new_name = $config{target_path} . qq{/$prefix-$icon_name};
+
+    # skip if file is not new and output already exists
+    if ($md5sum && defined $md5table_ref->{$_} && $md5table_ref->{$_}  && $md5table_ref->{$_} eq $md5sum && -e $new_name ) {
+        $config{verbose} && say qq{$new_name was cached with MD5 sum $md5sum and will not be handled again until the file changes};
+        return;
+    }
+
+    say qq{File  $File::Find::name with MD5 '$md5sum' was not cached and will be handled again!};
 
     if($config{verbose}) {
         $icon_count++;
@@ -111,6 +141,11 @@ sub handle_files {
     if (!File::Slurp::write_file($new_name, { atomic => 1 }, $xslt_transformator->output_string( $transformed ))) {
         croak $EXTENDED_OS_ERROR;
     }
+
+    $md5sum = Digest::MD5::md5_hex File::Slurp::read_file($File::Find::name);
+
+    # save hash for the next run
+    $md5table_ref->{$_} =  $md5sum;
 
     return;
 }
