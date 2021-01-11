@@ -6795,7 +6795,10 @@
         "id": "49AA61F3-2E3D-4EEA-BFB1-32D59C6906F0",
         "name": "backspace-reverse",
         "codepoint": "F0E7E",
-        "aliases": [],
+        "aliases": [
+            "clear-reverse",
+            "erase-reverse"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "3.7.94"
