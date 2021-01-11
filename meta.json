@@ -6807,7 +6807,10 @@
         "id": "287700E2-130D-484B-B56D-0162BE6DEEEE",
         "name": "backspace-reverse-outline",
         "codepoint": "F0E7F",
-        "aliases": [],
+        "aliases": [
+            "clear-reverse-outline",
+            "erase-reverse-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "3.7.94"
