@@ -38541,7 +38541,10 @@
         "id": "21C8B558-8398-43E8-A79A-8BA99BE693D6",
         "name": "keyboard-backspace",
         "codepoint": "F030D",
-        "aliases": [],
+        "aliases": [
+            "keyboard-clear",
+            "keyboard-erase"
+        ],
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
