@@ -6771,7 +6771,10 @@
         "id": "2AAC06E6-8ABD-418B-B9A4-8554B62D7C04",
         "name": "backspace",
         "codepoint": "F006E",
-        "aliases": [],
+        "aliases": [
+            "erase",
+            "clear"
+        ],
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
@@ -6780,7 +6783,9 @@
         "id": "7CD351DA-560B-42B5-86F3-7F782EA70FEA",
         "name": "backspace-outline",
         "codepoint": "F0B5C",
-        "aliases": [],
+        "aliases": [
+            "erase-outline"
+        ],
         "tags": [],
         "author": "Google",
         "version": "3.0.39"
@@ -30694,7 +30699,8 @@
         "name": "food-turkey",
         "codepoint": "F171C",
         "aliases": [
-            "thanksgiving-dinner"
+            "dinner",
+            "thanksgiving"
         ],
         "tags": [
             "Food \/ Drink",
@@ -37192,7 +37198,9 @@
         "id": "58048473-346E-4473-A18D-36C29B789322",
         "name": "identifier",
         "codepoint": "F0EFE",
-        "aliases": [],
+        "aliases": [
+            "key"
+        ],
         "tags": [
             "Developer \/ Languages"
         ],
