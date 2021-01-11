@@ -6784,7 +6784,8 @@
         "name": "backspace-outline",
         "codepoint": "F0B5C",
         "aliases": [
-            "erase-outline"
+            "erase-outline",
+            "clear-outline"
         ],
         "tags": [],
         "author": "Google",
