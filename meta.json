@@ -1729,6 +1729,15 @@
         "version": "2.0.46"
     },
     {
+        "id": "E328D226-0D09-402D-BCAA-A7630396F168",
+        "name": "alarm-light-off",
+        "codepoint": "F171E",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
+    },
+    {
         "id": "F6F4DACD-B15B-49FD-8ACC-FAE0E994435A",
         "name": "alarm-light-outline",
         "codepoint": "F0BEA",
