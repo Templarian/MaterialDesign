@@ -42684,6 +42684,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "9B0263DD-74DB-4AC6-BF1C-0C7C0170C845",
+        "name": "message-reply-outline",
+        "codepoint": "F173D",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "FF34C5A8-4433-4B47-A9E5-EB836CFFCEC9",
         "name": "message-reply-text",
         "codepoint": "F0368",
