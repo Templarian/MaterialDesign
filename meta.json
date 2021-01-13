@@ -68002,6 +68002,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "F8D156C4-16AA-47AD-B06B-970E27F30FE6",
+        "name": "webcam-off",
+        "codepoint": "F1737",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "5B415522-B2A4-4D34-BEE3-D81D607BBD0B",
         "name": "webhook",
         "codepoint": "F062F",
