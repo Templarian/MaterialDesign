@@ -38931,7 +38931,9 @@
         "name": "koala",
         "codepoint": "F173F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Animal"
+        ],
         "author": "Contributors",
         "version": "5.9.55"
     },
