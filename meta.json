@@ -55051,6 +55051,15 @@
         "version": "5.9.55"
     },
     {
+        "id": "7357F674-281E-49F1-8161-424877AC6DD3",
+        "name": "script-text-play-outline",
+        "codepoint": "F1728",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
+    },
+    {
         "id": "68B68EDB-6CDA-4488-A213-5E6DF4146EA6",
         "name": "sd",
         "codepoint": "F0479",
