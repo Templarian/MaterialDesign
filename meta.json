@@ -15935,7 +15935,9 @@
         "id": "1CAE9177-18C6-497A-B6B9-900C00A14D0E",
         "name": "check-decagram-outline",
         "codepoint": "F1740",
-        "aliases": [],
+        "aliases": [
+            "approve"
+        ],
         "tags": [],
         "author": "Jeff Hilnbrand",
         "version": "5.9.55"
