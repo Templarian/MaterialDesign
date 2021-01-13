@@ -55011,6 +55011,15 @@
         "version": "3.0.39"
     },
     {
+        "id": "2789A595-8195-448F-BD8A-2FB71B712BD8",
+        "name": "script-text-key",
+        "codepoint": "F1725",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.9.55"
+    },
+    {
         "id": "DF9F9175-8E37-4241-8AFD-360606A444A5",
         "name": "script-text-outline",
         "codepoint": "F0BC3",
