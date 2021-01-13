@@ -61522,6 +61522,15 @@
         "version": "5.9.55"
     },
     {
+        "id": "B9FED1D0-B219-4483-A30E-AA201561DCB4",
+        "name": "tag-arrow-right-outline",
+        "codepoint": "F1730",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
+    },
+    {
         "id": "5DCE0F4D-F740-4D9A-AC93-281D3477E9AF",
         "name": "tag-faces",
         "codepoint": "F04FA",
