@@ -15936,7 +15936,8 @@
         "name": "check-decagram-outline",
         "codepoint": "F1740",
         "aliases": [
-            "approve"
+            "approve",
+            "approval"
         ],
         "tags": [],
         "author": "Jeff Hilnbrand",
