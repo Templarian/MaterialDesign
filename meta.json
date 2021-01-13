@@ -60490,6 +60490,15 @@
         "version": "2.0.46"
     },
     {
+        "id": "0CA5BC19-D66A-4126-B2DB-A90546826760",
+        "name": "surround-sound-5-1-2",
+        "codepoint": "F172A",
+        "aliases": [],
+        "tags": [],
+        "author": "GreenTurtwig",
+        "version": "5.9.55"
+    },
+    {
         "id": "BC85CD47-E52C-4A7D-8E05-DD45596C5822",
         "name": "surround-sound-7-1",
         "codepoint": "F07F3",
