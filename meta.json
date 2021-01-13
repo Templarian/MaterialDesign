@@ -28894,6 +28894,15 @@
         "version": "3.6.95"
     },
     {
+        "id": "16CFC5D9-C749-4148-BF17-D002AFFF9D09",
+        "name": "firework-off",
+        "codepoint": "F1723",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
+    },
+    {
         "id": "91D8C321-95BC-4AC6-9B3E-D38D457BFF75",
         "name": "fish",
         "codepoint": "F023A",
