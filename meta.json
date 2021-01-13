@@ -38918,6 +38918,15 @@
         "version": "2.5.94"
     },
     {
+        "id": "180CACBF-4272-4D07-B9A0-63A5625DCB0C",
+        "name": "koala",
+        "codepoint": "F173F",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.9.55"
+    },
+    {
         "id": "AD953D07-5F33-439B-895F-7AD5615EA14A",
         "name": "kodi",
         "codepoint": "F0314",
