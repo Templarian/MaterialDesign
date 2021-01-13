@@ -15791,6 +15791,15 @@
         "version": "5.9.55"
     },
     {
+        "id": "7EC5A46D-1E6A-475C-A76F-19F9F4B9CD90",
+        "name": "chat-question-outline",
+        "codepoint": "F1739",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "3C021F95-3463-45CD-9908-A0D84B2793FB",
         "name": "chat-remove",
         "codepoint": "F1411",
