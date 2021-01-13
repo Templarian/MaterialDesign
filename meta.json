@@ -1738,6 +1738,15 @@
         "version": "5.9.55"
     },
     {
+        "id": "70D649B6-0FA1-4465-A92C-BB362D4D5FAD",
+        "name": "alarm-light-off-outline",
+        "codepoint": "F171F",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
+    },
+    {
         "id": "F6F4DACD-B15B-49FD-8ACC-FAE0E994435A",
         "name": "alarm-light-outline",
         "codepoint": "F0BEA",
