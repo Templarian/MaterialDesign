@@ -63901,6 +63901,17 @@
         "version": "5.9.55"
     },
     {
+        "id": "042CE4C4-087F-49EC-9F67-A5467318C068",
+        "name": "train-car-passenger-door-open",
+        "codepoint": "F1735",
+        "aliases": [],
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "C0A4E604-3829-4605-A7BC-CA0BFF138B18",
         "name": "train-variant",
         "codepoint": "F08C4",
