@@ -63890,6 +63890,17 @@
         "version": "5.9.55"
     },
     {
+        "id": "9F9E31CB-361B-40D6-8754-157401124ED2",
+        "name": "train-car-passenger-door",
+        "codepoint": "F1734",
+        "aliases": [],
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "C0A4E604-3829-4605-A7BC-CA0BFF138B18",
         "name": "train-variant",
         "codepoint": "F08C4",
