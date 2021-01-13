@@ -11591,6 +11591,19 @@
         "version": "5.9.55"
     },
     {
+        "id": "E1851914-B294-4FC0-A94B-C5C8D0F52DCB",
+        "name": "broadcast-off",
+        "codepoint": "F1721",
+        "aliases": [
+            "signal-off"
+        ],
+        "tags": [
+            "Weather"
+        ],
+        "author": "Google",
+        "version": "5.9.55"
+    },
+    {
         "id": "8159ED8F-4D1C-4845-8297-0FE41260D199",
         "name": "broom",
         "codepoint": "F00E2",
