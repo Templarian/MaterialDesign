@@ -55042,6 +55042,15 @@
         "version": "3.0.39"
     },
     {
+        "id": "0F931BB6-3336-430E-85C2-9EDEDCC4E9B4",
+        "name": "script-text-play",
+        "codepoint": "F1727",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.9.55"
+    },
+    {
         "id": "68B68EDB-6CDA-4488-A213-5E6DF4146EA6",
         "name": "sd",
         "codepoint": "F0479",
