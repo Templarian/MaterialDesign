@@ -55020,6 +55020,15 @@
         "version": "5.9.55"
     },
     {
+        "id": "1343F1A4-86DB-432D-BE9D-F3EFEB1321F8",
+        "name": "script-text-key-outline",
+        "codepoint": "F1726",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
+    },
+    {
         "id": "DF9F9175-8E37-4241-8AFD-360606A444A5",
         "name": "script-text-outline",
         "codepoint": "F0BC3",
