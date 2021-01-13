@@ -15932,6 +15932,15 @@
         "version": "2.0.46"
     },
     {
+        "id": "1CAE9177-18C6-497A-B6B9-900C00A14D0E",
+        "name": "check-decagram-outline",
+        "codepoint": "F1740",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Hilnbrand",
+        "version": "5.9.55"
+    },
+    {
         "id": "F1CE2683-FE3F-4AA1-89A2-A935D6FD403C",
         "name": "check-network",
         "codepoint": "F0C53",
