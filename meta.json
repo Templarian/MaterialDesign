@@ -63912,6 +63912,17 @@
         "version": "5.9.55"
     },
     {
+        "id": "1A9FFFAE-5581-4E22-B87C-3798A9E97FD1",
+        "name": "train-car-passenger-variant",
+        "codepoint": "F1736",
+        "aliases": [],
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "C0A4E604-3829-4605-A7BC-CA0BFF138B18",
         "name": "train-variant",
         "codepoint": "F08C4",
