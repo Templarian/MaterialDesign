@@ -51814,6 +51814,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "F2AC4968-73F6-4D91-BF2B-D8653E6863E2",
+        "name": "projector-screen-outline",
+        "codepoint": "F1724",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
+    },
+    {
         "id": "F6911BCA-14B1-4DD4-9407-20E138FAB878",
         "name": "propane-tank",
         "codepoint": "F1357",
