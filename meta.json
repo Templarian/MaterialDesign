@@ -59920,6 +59920,15 @@
         "version": "5.7.55"
     },
     {
+        "id": "18267D80-A569-4013-84F4-7024F3990F47",
+        "name": "star-shooting",
+        "codepoint": "F1741",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "815B35DE-0C4D-46AD-90EC-2AFEE0A5FC17",
         "name": "star-three-points",
         "codepoint": "F0AE4",
