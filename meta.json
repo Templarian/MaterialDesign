@@ -42646,6 +42646,15 @@
         "version": "4.4.95"
     },
     {
+        "id": "088D1765-3A4B-4BCB-A17B-B07970B3DDAA",
+        "name": "message-question",
+        "codepoint": "F173A",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "6657779A-7238-4686-B3D5-1244862D7B2C",
         "name": "message-reply",
         "codepoint": "F0367",
