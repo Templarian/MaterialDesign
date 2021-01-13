@@ -42705,6 +42705,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "56D756E1-57CB-4EA5-9AC3-409D0046C643",
+        "name": "message-reply-text-outline",
+        "codepoint": "F173E",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "4B15BF16-CD96-4427-9EA4-5A8B09F3A2B6",
         "name": "message-settings",
         "codepoint": "F06F0",
