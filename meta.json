@@ -11578,6 +11578,19 @@
         "version": "3.3.92"
     },
     {
+        "id": "F5E24182-366C-4D23-BA0E-8D2E25B88230",
+        "name": "broadcast",
+        "codepoint": "F1720",
+        "aliases": [
+            "signal"
+        ],
+        "tags": [
+            "Weather"
+        ],
+        "author": "Google",
+        "version": "5.9.55"
+    },
+    {
         "id": "8159ED8F-4D1C-4845-8297-0FE41260D199",
         "name": "broom",
         "codepoint": "F00E2",
