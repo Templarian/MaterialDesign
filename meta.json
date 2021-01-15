@@ -55940,7 +55940,8 @@
         "codepoint": "F077E",
         "aliases": [
             "set-null",
-            "set-not"
+            "set-not",
+            "venn-diagram"
         ],
         "tags": [
             "Database"
