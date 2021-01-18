@@ -36088,15 +36088,6 @@
         "version": "3.3.92"
     },
     {
-        "id": "21C7383B-5839-4F3E-A4EC-81A9980F531B",
-        "name": "home-currency-usd",
-        "codepoint": "F08AF",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "2.2.43"
-    },
-    {
         "id": "6D381D99-24F0-46B5-AD04-F527B97830AE",
         "name": "home-edit",
         "codepoint": "F1159",
@@ -38300,6 +38291,15 @@
         ],
         "author": "Michael Richins",
         "version": "2.1.19"
+    },
+    {
+        "id": "21C7383B-5839-4F3E-A4EC-81A9980F531B",
+        "name": "kayaking",
+        "codepoint": "F08AF",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "2.2.43"
     },
     {
         "id": "EEF9C07A-019A-49B4-805D-0DF8601F09DF",
