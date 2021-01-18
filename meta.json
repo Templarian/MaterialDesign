@@ -48835,6 +48835,18 @@
         "version": "3.2.89"
     },
     {
+        "id": "24CD918E-9458-4D8D-A00C-746F8AB5D17E",
+        "name": "paragliding",
+        "codepoint": "F1745",
+        "aliases": [
+            "parasail",
+            "paraglide"
+        ],
+        "tags": [],
+        "author": "Google",
+        "version": "6.0.55"
+    },
+    {
         "id": "07C8266A-A135-443C-B2DD-4148CD718C51",
         "name": "parking",
         "codepoint": "F03E3",
