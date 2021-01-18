@@ -60567,6 +60567,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "13371A33-E911-4D02-B921-CECC9D1BDB50",
+        "name": "surfing",
+        "codepoint": "F1746",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.0.55"
+    },
+    {
         "id": "AB38BBD9-58A6-4D21-8A76-8940B7717550",
         "name": "surround-sound",
         "codepoint": "F05C5",
