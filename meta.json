@@ -50912,15 +50912,6 @@
         "version": "3.2.89"
     },
     {
-        "id": "E67044BA-8025-4D61-916C-56DF4D6FFE6D",
-        "name": "plus-one",
-        "codepoint": "F041B",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "680B6AD6-C9AD-44D1-9228-EDDB8C242343",
         "name": "plus-outline",
         "codepoint": "F0705",
@@ -57981,6 +57972,15 @@
         ],
         "author": "Michael Irigoyen",
         "version": "4.0.96"
+    },
+    {
+        "id": "E67044BA-8025-4D61-916C-56DF4D6FFE6D",
+        "name": "sledding",
+        "codepoint": "F041B",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "1.5.54"
     },
     {
         "id": "C9CF20D8-55F4-4997-8019-F8056ED86702",
