@@ -36092,10 +36092,8 @@
         "name": "home-currency-usd",
         "codepoint": "F08AF",
         "aliases": [],
-        "tags": [
-            "Banking"
-        ],
-        "author": "Nick",
+        "tags": [],
+        "author": "Google",
         "version": "2.2.43"
     },
     {
