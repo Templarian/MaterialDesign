@@ -34228,15 +34228,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "A4C7D4DF-2B1F-424B-9502-6618F88C9A65",
-        "name": "google-photos",
-        "codepoint": "F06DD",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "1.8.36"
-    },
-    {
         "id": "5FE693A7-2A33-46A5-B502-D42588072E56",
         "name": "google-play",
         "codepoint": "F02BC",
@@ -58286,6 +58277,15 @@
         ],
         "author": "Austin Andrews",
         "version": "1.5.54"
+    },
+    {
+        "id": "A4C7D4DF-2B1F-424B-9502-6618F88C9A65",
+        "name": "snowmobile",
+        "codepoint": "F06DD",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "1.8.36"
     },
     {
         "id": "B4AFB6A4-C315-4B06-AE4D-AC633F3ED0A7",
