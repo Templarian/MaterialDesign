@@ -50136,7 +50136,9 @@
         "name": "piano-off",
         "codepoint": "F0698",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Music"
+        ],
         "author": "Google",
         "version": "1.7.12"
     },
