@@ -38878,6 +38878,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "2B23BD24-9796-4D72-85CC-76BE23854F0F",
+        "name": "kitesurfing",
+        "codepoint": "F1744",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.0.55"
+    },
+    {
         "id": "1A131BAA-CFEE-41F3-9B15-01A4A9F1B341",
         "name": "klingon",
         "codepoint": "F135B",
