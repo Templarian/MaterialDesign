@@ -50125,9 +50125,7 @@
         "id": "F33DB278-2B2B-4731-9FDD-6D053EC2CBAB",
         "name": "piano-off",
         "codepoint": "F0698",
-        "aliases": [
-            "no-entry"
-        ],
+        "aliases": [],
         "tags": [],
         "author": "Google",
         "version": "1.7.12"
