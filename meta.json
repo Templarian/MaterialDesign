@@ -23824,15 +23824,6 @@
         "version": "3.0.39"
     },
     {
-        "id": "092B5CD3-BB99-492C-9784-4BE71B0C7F5B",
-        "name": "do-not-disturb-off",
-        "codepoint": "F0699",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "1.7.12"
-    },
-    {
         "id": "E6B5C99C-7C0F-4F61-AEF9-7FDF6851D426",
         "name": "dock-bottom",
         "codepoint": "F10A9",
@@ -57639,6 +57630,15 @@
         ],
         "author": "Google",
         "version": "3.3.92"
+    },
+    {
+        "id": "092B5CD3-BB99-492C-9784-4BE71B0C7F5B",
+        "name": "skate-off",
+        "codepoint": "F0699",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "1.7.12"
     },
     {
         "id": "56BF6222-BEC1-44B6-845C-AD6F84552D90",
