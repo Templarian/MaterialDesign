@@ -57650,6 +57650,17 @@
         "version": "5.3.45"
     },
     {
+        "id": "47F1C290-ED78-4459-B33C-6E2ACC867CC6",
+        "name": "skateboarding",
+        "codepoint": "F0501",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Google",
+        "version": "1.5.54"
+    },
+    {
         "id": "43E5E22F-AEEB-406D-BEF3-898BE3C91FC1",
         "name": "skew-less",
         "codepoint": "F0D36",
@@ -61961,17 +61972,6 @@
         "id": "3335C183-CD35-4D66-87AB-C5E3A7FCAFBF",
         "name": "teamviewer",
         "codepoint": "F0500",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
-        "id": "47F1C290-ED78-4459-B33C-6E2ACC867CC6",
-        "name": "telegram",
-        "codepoint": "F0501",
         "aliases": [],
         "tags": [
             "Brand \/ Logo"
