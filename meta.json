@@ -23824,17 +23824,6 @@
         "version": "3.0.39"
     },
     {
-        "id": "F33DB278-2B2B-4731-9FDD-6D053EC2CBAB",
-        "name": "do-not-disturb",
-        "codepoint": "F0698",
-        "aliases": [
-            "no-entry"
-        ],
-        "tags": [],
-        "author": "Google",
-        "version": "1.7.12"
-    },
-    {
         "id": "092B5CD3-BB99-492C-9784-4BE71B0C7F5B",
         "name": "do-not-disturb-off",
         "codepoint": "F0699",
@@ -50129,6 +50118,17 @@
         "tags": [
             "Music"
         ],
+        "author": "Google",
+        "version": "1.7.12"
+    },
+    {
+        "id": "F33DB278-2B2B-4731-9FDD-6D053EC2CBAB",
+        "name": "piano-off",
+        "codepoint": "F0698",
+        "aliases": [
+            "no-entry"
+        ],
+        "tags": [],
         "author": "Google",
         "version": "1.7.12"
     },
