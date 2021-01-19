@@ -16018,9 +16018,7 @@
         "name": "checkbox-blank-badge",
         "codepoint": "F1176",
         "aliases": [],
-        "tags": [
-            "Banking"
-        ],
+        "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.4.95"
     },
