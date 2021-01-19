@@ -57658,7 +57658,9 @@
         "name": "skateboarding",
         "codepoint": "F0501",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
