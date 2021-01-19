@@ -38297,7 +38297,9 @@
         "name": "kayaking",
         "codepoint": "F08AF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Google",
         "version": "2.2.43"
     },
