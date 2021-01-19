@@ -26547,6 +26547,17 @@
         "version": "1.6.50"
     },
     {
+        "id": "CFDA13BC-C61A-4FE0-8094-7B51E8EB3F82",
+        "name": "face-man-outline",
+        "codepoint": "F0B96",
+        "aliases": [],
+        "tags": [
+            "People \/ Family"
+        ],
+        "author": "Google",
+        "version": "3.0.39"
+    },
+    {
         "id": "8E3EC802-4BC1-44CA-83AB-9A43E55E238C",
         "name": "face-mask",
         "codepoint": "F1586",
@@ -26569,17 +26580,6 @@
         ],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
-    },
-    {
-        "id": "CFDA13BC-C61A-4FE0-8094-7B51E8EB3F82",
-        "name": "face-outline",
-        "codepoint": "F0B96",
-        "aliases": [],
-        "tags": [
-            "People \/ Family"
-        ],
-        "author": "Google",
-        "version": "3.0.39"
     },
     {
         "id": "97E9CDDB-45B3-4592-8E1F-0DB66E16E1A3",
