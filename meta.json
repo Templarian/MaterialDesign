@@ -14749,9 +14749,7 @@
         "name": "cash-usd-outline",
         "codepoint": "F0117",
         "aliases": [],
-        "tags": [
-            "Banking"
-        ],
+        "tags": [],
         "author": "Google",
         "version": "1.5.54"
     },
