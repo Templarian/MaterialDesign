@@ -26602,7 +26602,9 @@
         "id": "144C6FB3-DBAC-4CA7-B07C-51265D8EE619",
         "name": "face-profile-woman",
         "codepoint": "F1076",
-        "aliases": [],
+        "aliases": [
+            "face-female-profile"
+        ],
         "tags": [
             "People \/ Family"
         ],
