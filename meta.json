@@ -62129,7 +62129,9 @@
         "id": "9132E544-8FAA-43BA-98B4-8D752CB3E251",
         "name": "television-shimmer",
         "codepoint": "F1110",
-        "aliases": [],
+        "aliases": [
+            "television-clean"
+        ],
         "tags": [
             "Device \/ Tech"
         ],
