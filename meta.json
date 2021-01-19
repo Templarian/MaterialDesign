@@ -16018,8 +16018,7 @@
         "name": "checkbox-blank-badge",
         "codepoint": "F1176",
         "aliases": [
-            "local-atm",
-            "money-usd"
+            "local-atm"
         ],
         "tags": [
             "Currency",
