@@ -14792,7 +14792,9 @@
         "id": "38E64DD7-18F9-4D85-9D62-023BDA44F642",
         "name": "cast-audio-variant",
         "codepoint": "F1749",
-        "aliases": [],
+        "aliases": [
+            "apple-airplay"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.0.55"
