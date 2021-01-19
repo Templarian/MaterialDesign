@@ -44046,6 +44046,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "C810823C-6678-43F7-8DBB-5D32F503BC59",
+        "name": "mortar-pestle",
+        "codepoint": "F1748",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "71BD315A-B0C1-4B8B-93CB-2A952C3A7C16",
         "name": "mortar-pestle-plus",
         "codepoint": "F03F1",
