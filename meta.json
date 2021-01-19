@@ -61861,7 +61861,9 @@
         "name": "tangram",
         "codepoint": "F04F8",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Jeff Hilnbrand",
         "version": "1.5.54"
     },
