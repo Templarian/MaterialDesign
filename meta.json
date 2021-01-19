@@ -26592,6 +26592,22 @@
         "version": "5.6.55"
     },
     {
+        "id": "CC7A66A4-2118-4635-B227-C184D8903867",
+        "name": "face-man-shimmer-outline",
+        "codepoint": "F15CD",
+        "aliases": [
+            "face-retouching-natural-outline"
+        ],
+        "tags": [
+            "People \/ Family",
+            "Photography",
+            "Health \/ Beauty",
+            "Account \/ User"
+        ],
+        "author": "Simran",
+        "version": "5.6.55"
+    },
+    {
         "id": "8E3EC802-4BC1-44CA-83AB-9A43E55E238C",
         "name": "face-mask",
         "codepoint": "F1586",
@@ -26628,22 +26644,6 @@
         ],
         "author": "Michael Richins",
         "version": "3.2.89"
-    },
-    {
-        "id": "CC7A66A4-2118-4635-B227-C184D8903867",
-        "name": "face-shimmer-outline",
-        "codepoint": "F15CD",
-        "aliases": [
-            "face-retouching-natural-outline"
-        ],
-        "tags": [
-            "People \/ Family",
-            "Photography",
-            "Health \/ Beauty",
-            "Account \/ User"
-        ],
-        "author": "Simran",
-        "version": "5.6.55"
     },
     {
         "id": "C591017E-E3D0-48CA-A517-86B21DE853A0",
