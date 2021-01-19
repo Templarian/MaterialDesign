@@ -14745,21 +14745,6 @@
         "version": "4.7.95"
     },
     {
-        "id": "22ECB099-6A57-4DA8-9E42-0E3D8000C003",
-        "name": "cash-usd",
-        "codepoint": "F1176",
-        "aliases": [
-            "local-atm",
-            "money-usd"
-        ],
-        "tags": [
-            "Currency",
-            "Banking"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "4.4.95"
-    },
-    {
         "id": "219B8956-E48B-4D11-9257-422E563955DB",
         "name": "cash-usd-outline",
         "codepoint": "F0117",
@@ -16027,6 +16012,21 @@
         ],
         "author": "Google",
         "version": "1.5.54"
+    },
+    {
+        "id": "22ECB099-6A57-4DA8-9E42-0E3D8000C003",
+        "name": "checkbox-blank-badge",
+        "codepoint": "F1176",
+        "aliases": [
+            "local-atm",
+            "money-usd"
+        ],
+        "tags": [
+            "Currency",
+            "Banking"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.4.95"
     },
     {
         "id": "F031DE59-CC30-47BF-B689-BC993893B03A",
