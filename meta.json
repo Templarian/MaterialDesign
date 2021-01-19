@@ -21828,7 +21828,9 @@
         "aliases": [
             "bell-notification-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Notification"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
