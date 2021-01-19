@@ -36964,6 +36964,23 @@
         "version": "1.6.50"
     },
     {
+        "id": "A989F68B-23B9-4B50-BE4D-E3DF6E9420C9",
+        "name": "human-male-board",
+        "codepoint": "F0890",
+        "aliases": [
+            "teacher",
+            "teaching",
+            "lecture",
+            "college",
+            "blackboard",
+            "whiteboard",
+            "human-male-board"
+        ],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "2.1.99"
+    },
+    {
         "id": "07AB2970-AE77-417B-BEB3-8B6FDEF43EDE",
         "name": "human-male-boy",
         "codepoint": "F0A5C",
@@ -61972,23 +61989,6 @@
         ],
         "author": "Michael Irigoyen",
         "version": "3.4.93"
-    },
-    {
-        "id": "A989F68B-23B9-4B50-BE4D-E3DF6E9420C9",
-        "name": "teach",
-        "codepoint": "F0890",
-        "aliases": [
-            "teacher",
-            "teaching",
-            "lecture",
-            "college",
-            "blackboard",
-            "whiteboard",
-            "human-male-board"
-        ],
-        "tags": [],
-        "author": "Michael Richins",
-        "version": "2.1.99"
     },
     {
         "id": "3335C183-CD35-4D66-87AB-C5E3A7FCAFBF",
