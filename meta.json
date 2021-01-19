@@ -34295,7 +34295,9 @@
         "name": "gradient-horizontal",
         "codepoint": "F174A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Drawing \/ Art"
+        ],
         "author": "Jeff Hilnbrand",
         "version": "6.0.55"
     },
