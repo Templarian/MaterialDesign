@@ -14913,9 +14913,7 @@
         "name": "cellphone-android",
         "codepoint": "F011D",
         "aliases": [],
-        "tags": [
-            "Device \/ Tech"
-        ],
+        "tags": [],
         "author": "Google",
         "version": "1.5.54"
     },
