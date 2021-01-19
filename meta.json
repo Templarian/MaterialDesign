@@ -38836,6 +38836,18 @@
         "version": "1.5.54"
     },
     {
+        "id": "CFF782E5-F36B-4F80-B105-68E6B4B91C64",
+        "name": "keyboard-tab-reverse",
+        "codepoint": "F0325",
+        "aliases": [],
+        "tags": [
+            "Device \/ Tech",
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "1.5.54"
+    },
+    {
         "id": "BCAA42FF-BF36-42D8-B8FD-5DE2968162D8",
         "name": "keyboard-variant",
         "codepoint": "F0313",
@@ -39442,18 +39454,6 @@
         ],
         "author": "Michael Richins",
         "version": "1.8.36"
-    },
-    {
-        "id": "CFF782E5-F36B-4F80-B105-68E6B4B91C64",
-        "name": "laptop-windows",
-        "codepoint": "F0325",
-        "aliases": [],
-        "tags": [
-            "Device \/ Tech",
-            "Home Automation"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
     },
     {
         "id": "B8CF1F73-D020-43C3-83CB-34DB20820628",
