@@ -41084,9 +41084,7 @@
         "name": "magazine-pistol",
         "codepoint": "F0324",
         "aliases": [],
-        "tags": [
-            "Device \/ Tech"
-        ],
+        "tags": [],
         "author": "Contributors",
         "version": "1.5.54"
     },
