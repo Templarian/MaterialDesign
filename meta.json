@@ -56723,7 +56723,9 @@
         "id": "C09567B5-B5C0-4C51-A246-0CA46C928F96",
         "name": "shimmer",
         "codepoint": "F1545",
-        "aliases": [],
+        "aliases": [
+            "sparkles"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "5.4.55"
