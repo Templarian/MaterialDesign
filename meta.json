@@ -14912,9 +14912,7 @@
         "id": "C633DDA7-FB93-4041-98C2-92117B970114",
         "name": "cellphone-android",
         "codepoint": "F011D",
-        "aliases": [
-            "smartphone-android"
-        ],
+        "aliases": [],
         "tags": [
             "Cellphone \/ Phone",
             "Device \/ Tech"
