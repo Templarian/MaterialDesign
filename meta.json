@@ -41095,7 +41095,9 @@
         "id": "70793340-E8F2-43A0-8AB1-0DAB70CC8B9A",
         "name": "magazine-rifle",
         "codepoint": "F0323",
-        "aliases": [],
+        "aliases": [
+            "ammunition-rifle"
+        ],
         "tags": [],
         "author": "Contributors",
         "version": "1.5.54"
