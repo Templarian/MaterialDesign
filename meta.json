@@ -26599,19 +26599,6 @@
         "version": "5.5.55"
     },
     {
-        "id": "144C6FB3-DBAC-4CA7-B07C-51265D8EE619",
-        "name": "face-profile-woman",
-        "codepoint": "F1076",
-        "aliases": [
-            "face-female-profile"
-        ],
-        "tags": [
-            "People \/ Family"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "4.2.95"
-    },
-    {
         "id": "FDC4CFE0-5CA9-4F8E-A126-EC98BF900228",
         "name": "face-recognition",
         "codepoint": "F0C7B",
@@ -26676,6 +26663,19 @@
         "codepoint": "F1078",
         "aliases": [
             "face-female-outline"
+        ],
+        "tags": [
+            "People \/ Family"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.2.95"
+    },
+    {
+        "id": "144C6FB3-DBAC-4CA7-B07C-51265D8EE619",
+        "name": "face-woman-profile",
+        "codepoint": "F1076",
+        "aliases": [
+            "face-female-profile"
         ],
         "tags": [
             "People \/ Family"
