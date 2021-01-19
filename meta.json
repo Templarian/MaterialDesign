@@ -26524,17 +26524,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "D41E7F40-FF48-422F-A64B-4908C6C10F00",
-        "name": "face",
-        "codepoint": "F0643",
-        "aliases": [],
-        "tags": [
-            "People \/ Family"
-        ],
-        "author": "Google",
-        "version": "1.6.50"
-    },
-    {
         "id": "3E0B74E0-1F0F-4820-A02F-B370CD56E463",
         "name": "face-agent",
         "codepoint": "F0D70",
@@ -26545,6 +26534,17 @@
         "tags": [],
         "author": "Contributors",
         "version": "3.4.93"
+    },
+    {
+        "id": "D41E7F40-FF48-422F-A64B-4908C6C10F00",
+        "name": "face-man",
+        "codepoint": "F0643",
+        "aliases": [],
+        "tags": [
+            "People \/ Family"
+        ],
+        "author": "Google",
+        "version": "1.6.50"
     },
     {
         "id": "8E3EC802-4BC1-44CA-83AB-9A43E55E238C",
