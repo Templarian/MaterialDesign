@@ -26575,6 +26575,22 @@
         "version": "1.6.50"
     },
     {
+        "id": "4680BCD4-CD85-45A0-9F1C-FB367E768664",
+        "name": "face-man-shimmer",
+        "codepoint": "F15CC",
+        "aliases": [
+            "face-retouching-natural"
+        ],
+        "tags": [
+            "Photography",
+            "Account \/ User",
+            "Health \/ Beauty",
+            "People \/ Family"
+        ],
+        "author": "Google",
+        "version": "5.6.55"
+    },
+    {
         "id": "8E3EC802-4BC1-44CA-83AB-9A43E55E238C",
         "name": "face-mask",
         "codepoint": "F1586",
@@ -26611,22 +26627,6 @@
         ],
         "author": "Michael Richins",
         "version": "3.2.89"
-    },
-    {
-        "id": "4680BCD4-CD85-45A0-9F1C-FB367E768664",
-        "name": "face-shimmer",
-        "codepoint": "F15CC",
-        "aliases": [
-            "face-retouching-natural"
-        ],
-        "tags": [
-            "Photography",
-            "Account \/ User",
-            "Health \/ Beauty",
-            "People \/ Family"
-        ],
-        "author": "Google",
-        "version": "5.6.55"
     },
     {
         "id": "CC7A66A4-2118-4635-B227-C184D8903867",
