@@ -38085,22 +38085,6 @@
         "version": "3.2.89"
     },
     {
-        "id": "94C88D65-EE50-4DC5-920D-FA4181DE0413",
-        "name": "islam",
-        "codepoint": "F0979",
-        "aliases": [
-            "islam",
-            "religion-islamic",
-            "star-and-crescent",
-            "religion-muslim"
-        ],
-        "tags": [
-            "Religion"
-        ],
-        "author": "Nick",
-        "version": "2.4.85"
-    },
-    {
         "id": "A39024B8-5991-409C-8E68-DC9562D52F86",
         "name": "island",
         "codepoint": "F104F",
@@ -59776,6 +59760,22 @@
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
+    },
+    {
+        "id": "94C88D65-EE50-4DC5-920D-FA4181DE0413",
+        "name": "star-crescent",
+        "codepoint": "F0979",
+        "aliases": [
+            "islam",
+            "religion-islamic",
+            "star-and-crescent",
+            "religion-muslim"
+        ],
+        "tags": [
+            "Religion"
+        ],
+        "author": "Nick",
+        "version": "2.4.85"
     },
     {
         "id": "20FBE06D-72C3-4E1C-945D-C7E69DC0736D",
