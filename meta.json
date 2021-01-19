@@ -61860,13 +61860,11 @@
         "id": "A7147BE3-0B04-4B61-94F3-48B0D9C5551E",
         "name": "tangram",
         "codepoint": "F04F8",
-        "aliases": [
-            "tablet-mac"
-        ],
+        "aliases": [],
         "tags": [
             "Device \/ Tech"
         ],
-        "author": "Google",
+        "author": "Jeff Hilnbrand",
         "version": "1.5.54"
     },
     {
