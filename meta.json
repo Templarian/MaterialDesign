@@ -53412,6 +53412,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "2788034C-2A06-46C0-82B9-A34CB23C88E0",
+        "name": "repeat-variant",
+        "codepoint": "F0547",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "1.5.54"
+    },
+    {
         "id": "A15D2CB0-E938-4894-8BF3-BC6C628E6433",
         "name": "replay",
         "codepoint": "F0459",
@@ -64955,15 +64964,6 @@
             "Social Media"
         ],
         "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
-        "id": "2788034C-2A06-46C0-82B9-A34CB23C88E0",
-        "name": "twitter-retweet",
-        "codepoint": "F0547",
-        "aliases": [],
-        "tags": [],
-        "author": "Austin Andrews",
         "version": "1.5.54"
     },
     {
