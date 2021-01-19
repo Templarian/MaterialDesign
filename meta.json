@@ -53418,7 +53418,9 @@
         "aliases": [
             "twitter-retweet"
         ],
-        "tags": [],
+        "tags": [
+            "Arrow"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
