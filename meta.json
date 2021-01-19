@@ -14789,6 +14789,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "38E64DD7-18F9-4D85-9D62-023BDA44F642",
+        "name": "cast-audio-variant",
+        "codepoint": "F1749",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "80EC7FF6-03C0-4D61-8858-D2D94426D2DE",
         "name": "cast-connected",
         "codepoint": "F0119",
