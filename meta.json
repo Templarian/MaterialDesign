@@ -34285,6 +34285,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "525D2C64-FE7A-44F8-84E2-B1DDDF3FA668",
+        "name": "gradient-horizontal",
+        "codepoint": "F174A",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Hilnbrand",
+        "version": "6.0.55"
+    },
+    {
         "id": "F10A05F8-FD09-4BDA-B906-747E9A89AB6E",
         "name": "gradient-vertical",
         "codepoint": "F06A0",
