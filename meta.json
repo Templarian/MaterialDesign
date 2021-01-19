@@ -64337,7 +64337,9 @@
         "aliases": [
             "tray-download"
         ],
-        "tags": [],
+        "tags": [
+            "Arrow"
+        ],
         "author": "Michael Irigoyen",
         "version": "1.5.54"
     },
