@@ -26550,7 +26550,9 @@
         "id": "CFDA13BC-C61A-4FE0-8094-7B51E8EB3F82",
         "name": "face-man-outline",
         "codepoint": "F0B96",
-        "aliases": [],
+        "aliases": [
+            "face-male-outline"
+        ],
         "tags": [
             "People \/ Family"
         ],
