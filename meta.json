@@ -21813,9 +21813,7 @@
         "name": "currency-usd-circle",
         "codepoint": "F116B",
         "aliases": [],
-        "tags": [
-            "Currency"
-        ],
+        "tags": [],
         "author": "Michael Richins",
         "version": "4.4.95"
     },
