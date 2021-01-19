@@ -58307,7 +58307,9 @@
         "name": "snowmobile",
         "codepoint": "F06DD",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Google",
         "version": "1.8.36"
     },
