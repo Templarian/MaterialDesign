@@ -64350,7 +64350,9 @@
         "aliases": [
             "tray-upload"
         ],
-        "tags": [],
+        "tags": [
+            "Arrow"
+        ],
         "author": "Contributors",
         "version": "1.5.54"
     },
