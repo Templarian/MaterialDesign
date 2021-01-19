@@ -14748,9 +14748,7 @@
         "id": "219B8956-E48B-4D11-9257-422E563955DB",
         "name": "cash-usd-outline",
         "codepoint": "F0117",
-        "aliases": [
-            "local-atm"
-        ],
+        "aliases": [],
         "tags": [
             "Currency",
             "Banking"
