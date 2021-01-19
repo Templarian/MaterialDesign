@@ -21812,7 +21812,9 @@
         "id": "9DA90BB6-B525-47A8-879F-66EC572FE31B",
         "name": "currency-usd-circle",
         "codepoint": "F116B",
-        "aliases": [],
+        "aliases": [
+            "bell-notification"
+        ],
         "tags": [
             "Notification"
         ],
