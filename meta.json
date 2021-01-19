@@ -11657,21 +11657,6 @@
         "version": "5.1.45"
     },
     {
-        "id": "18A94F7F-1BC5-48EC-9CAF-6D2D663287DC",
-        "name": "buddhism",
-        "codepoint": "F094B",
-        "aliases": [
-            "dharma-wheel",
-            "religion-buddhist",
-            "buddhism"
-        ],
-        "tags": [
-            "Religion"
-        ],
-        "author": "Nick",
-        "version": "2.4.85"
-    },
-    {
         "id": "FBD11E2A-7F1F-4CE2-B17D-B3623D4FEA43",
         "name": "buffer",
         "codepoint": "F0619",
@@ -23061,6 +23046,21 @@
         ],
         "author": "Google",
         "version": "4.0.96"
+    },
+    {
+        "id": "18A94F7F-1BC5-48EC-9CAF-6D2D663287DC",
+        "name": "dharmachakra",
+        "codepoint": "F094B",
+        "aliases": [
+            "dharma-wheel",
+            "religion-buddhist",
+            "buddhism"
+        ],
+        "tags": [
+            "Religion"
+        ],
+        "author": "Nick",
+        "version": "2.4.85"
     },
     {
         "id": "B0973EC9-B27B-4666-8E9E-C766A601BB0A",
