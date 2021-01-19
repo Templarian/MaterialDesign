@@ -15010,15 +15010,6 @@
         "version": "3.9.97"
     },
     {
-        "id": "8B1B6ED1-8AA5-4888-8477-B122FB236E1D",
-        "name": "cellphone-iphone",
-        "codepoint": "F0120",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "29BA2DA3-CED6-4D52-92EF-D9152F63B7AB",
         "name": "cellphone-key",
         "codepoint": "F094E",
@@ -64338,6 +64329,15 @@
         ],
         "author": "Michael Richins",
         "version": "4.7.95"
+    },
+    {
+        "id": "8B1B6ED1-8AA5-4888-8477-B122FB236E1D",
+        "name": "tray-arrow-down",
+        "codepoint": "F0120",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "1.5.54"
     },
     {
         "id": "C633DDA7-FB93-4041-98C2-92117B970114",
