@@ -16004,7 +16004,8 @@
         "codepoint": "F1176",
         "aliases": [
             "checkbox-blank-notification",
-            "app-notification"
+            "app-notification",
+            "app-badge"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
