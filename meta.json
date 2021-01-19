@@ -4532,19 +4532,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "CD5DD59A-965F-455E-912B-9535BFD134E0",
-        "name": "apple-airplay",
-        "codepoint": "F001F",
-        "aliases": [
-            "apple"
-        ],
-        "tags": [
-            "Home Automation"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "FAEC5B00-46A8-49AD-87DA-765891B9E387",
         "name": "apple-finder",
         "codepoint": "F0036",
@@ -14841,6 +14828,19 @@
         ],
         "author": "Simran",
         "version": "1.9.32"
+    },
+    {
+        "id": "CD5DD59A-965F-455E-912B-9535BFD134E0",
+        "name": "cast-variant",
+        "codepoint": "F001F",
+        "aliases": [
+            "apple"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
     },
     {
         "id": "53FF9F06-A3F7-4B04-9D54-207FE8B56B8E",
