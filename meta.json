@@ -62491,7 +62491,9 @@
         "id": "CA8CE1CF-1F6E-4B8B-9972-B3F36E865E67",
         "name": "text-long",
         "codepoint": "F09AA",
-        "aliases": [],
+        "aliases": [
+            "text-subject"
+        ],
         "tags": [],
         "author": "Google",
         "version": "2.4.85"
