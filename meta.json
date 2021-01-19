@@ -38184,22 +38184,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "7EF95029-012C-456C-A1E8-BB96961071FD",
-        "name": "judaism",
-        "codepoint": "F097A",
-        "aliases": [
-            "jewish",
-            "religion-judaic",
-            "judaism",
-            "magen-david"
-        ],
-        "tags": [
-            "Religion"
-        ],
-        "author": "Nick",
-        "version": "2.4.85"
-    },
-    {
         "id": "FC2D912E-451A-4AE8-8399-67F116ED12D9",
         "name": "jump-rope",
         "codepoint": "F12FF",
@@ -59769,6 +59753,22 @@
             "islam",
             "religion-islamic",
             "religion-muslim"
+        ],
+        "tags": [
+            "Religion"
+        ],
+        "author": "Nick",
+        "version": "2.4.85"
+    },
+    {
+        "id": "7EF95029-012C-456C-A1E8-BB96961071FD",
+        "name": "star-david",
+        "codepoint": "F097A",
+        "aliases": [
+            "jewish",
+            "religion-judaic",
+            "judaism",
+            "magen-david"
         ],
         "tags": [
             "Religion"
