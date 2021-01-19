@@ -61860,7 +61860,9 @@
         "id": "A7147BE3-0B04-4B61-94F3-48B0D9C5551E",
         "name": "tangram",
         "codepoint": "F04F8",
-        "aliases": [],
+        "aliases": [
+            "puzzle"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
