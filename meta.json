@@ -15014,9 +15014,7 @@
         "name": "cellphone-iphone",
         "codepoint": "F0120",
         "aliases": [],
-        "tags": [
-            "Device \/ Tech"
-        ],
+        "tags": [],
         "author": "Google",
         "version": "1.5.54"
     },
