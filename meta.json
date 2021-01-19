@@ -14745,15 +14745,6 @@
         "version": "4.7.95"
     },
     {
-        "id": "219B8956-E48B-4D11-9257-422E563955DB",
-        "name": "cash-usd-outline",
-        "codepoint": "F0117",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "EF35081A-EABF-4C6B-B858-7F2177B60F95",
         "name": "cassette",
         "codepoint": "F09D4",
@@ -16018,6 +16009,15 @@
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.4.95"
+    },
+    {
+        "id": "219B8956-E48B-4D11-9257-422E563955DB",
+        "name": "checkbox-blank-badge-outline",
+        "codepoint": "F0117",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "1.5.54"
     },
     {
         "id": "F031DE59-CC30-47BF-B689-BC993893B03A",
