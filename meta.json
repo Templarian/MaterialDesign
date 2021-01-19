@@ -14749,8 +14749,7 @@
         "name": "cash-usd-outline",
         "codepoint": "F0117",
         "aliases": [
-            "local-atm",
-            "money-usd"
+            "local-atm"
         ],
         "tags": [
             "Currency",
