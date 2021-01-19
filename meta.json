@@ -8981,6 +8981,19 @@
         "version": "4.4.95"
     },
     {
+        "id": "42F0733E-F36F-491B-ADC9-AC8ABAF2C0B7",
+        "name": "bell-badge-outline",
+        "codepoint": "F0178",
+        "aliases": [
+            "bell-notification-outline"
+        ],
+        "tags": [
+            "Notification"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "1.5.54"
+    },
+    {
         "id": "61CFFDEC-BE16-404E-8ECA-F911F8105C7C",
         "name": "bell-cancel",
         "codepoint": "F13E7",
@@ -21819,19 +21832,6 @@
             "Banking"
         ],
         "author": "Google",
-        "version": "1.5.54"
-    },
-    {
-        "id": "42F0733E-F36F-491B-ADC9-AC8ABAF2C0B7",
-        "name": "currency-usd-circle-outline",
-        "codepoint": "F0178",
-        "aliases": [
-            "bell-notification-outline"
-        ],
-        "tags": [
-            "Notification"
-        ],
-        "author": "Austin Andrews",
         "version": "1.5.54"
     },
     {
