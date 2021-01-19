@@ -35871,21 +35871,6 @@
         "version": "3.4.93"
     },
     {
-        "id": "F1EE1708-7EAF-4929-97AA-D4BAC093D157",
-        "name": "hinduism",
-        "codepoint": "F0973",
-        "aliases": [
-            "religion-hindu",
-            "om",
-            "hinduism"
-        ],
-        "tags": [
-            "Religion"
-        ],
-        "author": "Nick",
-        "version": "2.4.85"
-    },
-    {
         "id": "55AF2D53-7FAD-4A1D-8440-10301C95D3B8",
         "name": "history",
         "codepoint": "F02DA",
@@ -47879,6 +47864,21 @@
         ],
         "author": "Michael Irigoyen",
         "version": "4.0.96"
+    },
+    {
+        "id": "F1EE1708-7EAF-4929-97AA-D4BAC093D157",
+        "name": "om",
+        "codepoint": "F0973",
+        "aliases": [
+            "religion-hindu",
+            "om",
+            "hinduism"
+        ],
+        "tags": [
+            "Religion"
+        ],
+        "author": "Nick",
+        "version": "2.4.85"
     },
     {
         "id": "A98F63CB-AB27-4A2D-B76C-6994507BCDBB",
