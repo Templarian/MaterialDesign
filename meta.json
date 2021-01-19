@@ -57993,7 +57993,9 @@
         "name": "sledding",
         "codepoint": "F041B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
