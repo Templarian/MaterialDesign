@@ -16018,7 +16018,8 @@
         "name": "checkbox-blank-badge",
         "codepoint": "F1176",
         "aliases": [
-            "checkbox-blank-notification"
+            "checkbox-blank-notification",
+            "app-notification"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
