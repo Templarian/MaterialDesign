@@ -14834,7 +14834,8 @@
         "name": "cast-variant",
         "codepoint": "F001F",
         "aliases": [
-            "apple"
+            "apple",
+            "airplay"
         ],
         "tags": [
             "Home Automation"
