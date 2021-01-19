@@ -16014,7 +16014,9 @@
         "id": "219B8956-E48B-4D11-9257-422E563955DB",
         "name": "checkbox-blank-badge-outline",
         "codepoint": "F0117",
-        "aliases": [],
+        "aliases": [
+            "checkbox-blank-notification-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "1.5.54"
