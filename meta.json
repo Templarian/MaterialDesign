@@ -1458,6 +1458,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "C90AED93-FCBD-4FDC-A15B-26CD066775BD",
+        "name": "account-voice-off",
+        "codepoint": "F0ED4",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "3.7.95"
+    },
+    {
         "id": "3334E19F-962D-45B4-BE11-F009E1192165",
         "name": "adjust",
         "codepoint": "F001A",
@@ -66756,15 +66765,6 @@
         ],
         "author": "Contributors",
         "version": "1.5.54"
-    },
-    {
-        "id": "C90AED93-FCBD-4FDC-A15B-26CD066775BD",
-        "name": "voice-off",
-        "codepoint": "F0ED4",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "3.7.95"
     },
     {
         "id": "04CEF7C6-E77F-4A66-89F3-2F5B544C482B",
