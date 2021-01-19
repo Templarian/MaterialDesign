@@ -16016,7 +16016,8 @@
         "codepoint": "F0117",
         "aliases": [
             "checkbox-blank-notification-outline",
-            "app-notification-outline"
+            "app-notification-outline",
+            "app-badge-outline"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
