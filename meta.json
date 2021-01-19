@@ -43810,7 +43810,9 @@
         "id": "E02B1C8D-DA14-4AF2-8EB3-397AD9DAF1AB",
         "name": "monitor-shimmer",
         "codepoint": "F1104",
-        "aliases": [],
+        "aliases": [
+            "monitor-clean"
+        ],
         "tags": [
             "Device \/ Tech"
         ],
