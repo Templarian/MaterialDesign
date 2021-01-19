@@ -38840,9 +38840,7 @@
         "name": "keyboard-tab-reverse",
         "codepoint": "F0325",
         "aliases": [],
-        "tags": [
-            "Home Automation"
-        ],
+        "tags": [],
         "author": "Google",
         "version": "1.5.54"
     },
