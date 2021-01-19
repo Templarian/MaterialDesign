@@ -16791,20 +16791,6 @@
         "version": "1.6.50"
     },
     {
-        "id": "E7B0A94D-5F09-4E77-A1E0-3DA131398A26",
-        "name": "christianity-outline",
-        "codepoint": "F0CF6",
-        "aliases": [
-            "religion-christian-outline",
-            "cross-outline"
-        ],
-        "tags": [
-            "Religion"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "3.3.92"
-    },
-    {
         "id": "82E4FDFE-C9C8-4087-ABCC-DF51F760379A",
         "name": "church",
         "codepoint": "F0144",
@@ -21189,6 +21175,20 @@
         ],
         "author": "Nick",
         "version": "2.4.85"
+    },
+    {
+        "id": "E7B0A94D-5F09-4E77-A1E0-3DA131398A26",
+        "name": "cross-outline",
+        "codepoint": "F0CF6",
+        "aliases": [
+            "religion-christian-outline",
+            "cross-outline"
+        ],
+        "tags": [
+            "Religion"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "3.3.92"
     },
     {
         "id": "33845FDE-0003-4780-8DC9-07FC29D46599",
