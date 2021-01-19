@@ -43720,17 +43720,6 @@
         "version": "2.4.85"
     },
     {
-        "id": "E02B1C8D-DA14-4AF2-8EB3-397AD9DAF1AB",
-        "name": "monitor-clean",
-        "codepoint": "F1104",
-        "aliases": [],
-        "tags": [
-            "Device \/ Tech"
-        ],
-        "author": "Contributors",
-        "version": "4.3.95"
-    },
-    {
         "id": "B4B96C77-6C5D-40A5-83E4-548E48CBECED",
         "name": "monitor-dashboard",
         "codepoint": "F0A07",
@@ -43816,6 +43805,17 @@
         "tags": [],
         "author": "Google",
         "version": "5.3.45"
+    },
+    {
+        "id": "E02B1C8D-DA14-4AF2-8EB3-397AD9DAF1AB",
+        "name": "monitor-shimmer",
+        "codepoint": "F1104",
+        "aliases": [],
+        "tags": [
+            "Device \/ Tech"
+        ],
+        "author": "Contributors",
+        "version": "4.3.95"
     },
     {
         "id": "0D49AB2B-17E4-43B8-B72E-05C4A11500F6",
