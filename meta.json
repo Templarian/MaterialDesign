@@ -39386,18 +39386,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "DC51467E-30C0-4144-9AE6-80762ACA972C",
-        "name": "laptop-mac",
-        "codepoint": "F0324",
-        "aliases": [],
-        "tags": [
-            "Device \/ Tech",
-            "Home Automation"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "C9A08F85-B996-498D-ADDC-20A9B77B5489",
         "name": "laptop-off",
         "codepoint": "F06E7",
@@ -41090,6 +41078,18 @@
         ],
         "author": "Michael Irigoyen",
         "version": "4.2.95"
+    },
+    {
+        "id": "DC51467E-30C0-4144-9AE6-80762ACA972C",
+        "name": "magazine-pistol",
+        "codepoint": "F0324",
+        "aliases": [],
+        "tags": [
+            "Device \/ Tech",
+            "Home Automation"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
     },
     {
         "id": "70793340-E8F2-43A0-8AB1-0DAB70CC8B9A",
