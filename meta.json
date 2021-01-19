@@ -16033,7 +16033,9 @@
             "app-notification",
             "app-badge"
         ],
-        "tags": [],
+        "tags": [
+            "Notification"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.4.95"
     },
