@@ -62488,6 +62488,15 @@
         "version": "3.7.94"
     },
     {
+        "id": "CA8CE1CF-1F6E-4B8B-9972-B3F36E865E67",
+        "name": "text-long",
+        "codepoint": "F09AA",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "2.4.85"
+    },
+    {
         "id": "8F37BBCB-35D2-4FAF-88ED-59252659885D",
         "name": "text-recognition",
         "codepoint": "F113D",
@@ -62518,15 +62527,6 @@
         "id": "F80F249A-898B-4690-888A-EC11F79B4E56",
         "name": "text-short",
         "codepoint": "F09A9",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "2.4.85"
-    },
-    {
-        "id": "CA8CE1CF-1F6E-4B8B-9972-B3F36E865E67",
-        "name": "text-subject",
-        "codepoint": "F09AA",
         "aliases": [],
         "tags": [],
         "author": "Google",
