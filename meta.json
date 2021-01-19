@@ -44011,6 +44011,22 @@
         "version": "1.5.54"
     },
     {
+        "id": "71BD315A-B0C1-4B8B-93CB-2A952C3A7C16",
+        "name": "mortar-pestle-plus",
+        "codepoint": "F03F1",
+        "aliases": [
+            "chemist",
+            "local-pharmacy",
+            "mortar-pestle",
+            "pharmaceutical"
+        ],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
+        "author": "Google",
+        "version": "1.5.54"
+    },
+    {
         "id": "12E07384-2645-4F67-9A4F-4DA26FA1F75C",
         "name": "mother-heart",
         "codepoint": "F1314",
@@ -49422,22 +49438,6 @@
         ],
         "author": "Michael Irigoyen",
         "version": "3.3.92"
-    },
-    {
-        "id": "71BD315A-B0C1-4B8B-93CB-2A952C3A7C16",
-        "name": "pharmacy",
-        "codepoint": "F03F1",
-        "aliases": [
-            "chemist",
-            "local-pharmacy",
-            "mortar-pestle",
-            "pharmaceutical"
-        ],
-        "tags": [
-            "Medical \/ Hospital"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
     },
     {
         "id": "B5BA809F-FCE8-476C-8388-6A9CFFF73015",
