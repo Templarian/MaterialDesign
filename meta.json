@@ -61604,19 +61604,6 @@
         "version": "3.7.94"
     },
     {
-        "id": "A7147BE3-0B04-4B61-94F3-48B0D9C5551E",
-        "name": "tablet-ipad",
-        "codepoint": "F04F8",
-        "aliases": [
-            "tablet-mac"
-        ],
-        "tags": [
-            "Device \/ Tech"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "9E259FF6-513C-44B0-BB10-7F930DFA47DD",
         "name": "taco",
         "codepoint": "F0762",
@@ -61868,6 +61855,19 @@
         "tags": [],
         "author": "Contributors",
         "version": "5.1.45"
+    },
+    {
+        "id": "A7147BE3-0B04-4B61-94F3-48B0D9C5551E",
+        "name": "tangram",
+        "codepoint": "F04F8",
+        "aliases": [
+            "tablet-mac"
+        ],
+        "tags": [
+            "Device \/ Tech"
+        ],
+        "author": "Google",
+        "version": "1.5.54"
     },
     {
         "id": "C673D464-FC7A-4574-8EE6-6CCF7E39902F",
