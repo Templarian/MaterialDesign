@@ -16791,21 +16791,6 @@
         "version": "1.6.50"
     },
     {
-        "id": "5644CD16-FA4D-4F68-8DAC-996169C778E1",
-        "name": "christianity",
-        "codepoint": "F0953",
-        "aliases": [
-            "christianity",
-            "religion-christian",
-            "cross"
-        ],
-        "tags": [
-            "Religion"
-        ],
-        "author": "Nick",
-        "version": "2.4.85"
-    },
-    {
         "id": "E7B0A94D-5F09-4E77-A1E0-3DA131398A26",
         "name": "christianity-outline",
         "codepoint": "F0CF6",
@@ -21190,6 +21175,21 @@
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
+    },
+    {
+        "id": "5644CD16-FA4D-4F68-8DAC-996169C778E1",
+        "name": "cross",
+        "codepoint": "F0953",
+        "aliases": [
+            "christianity",
+            "religion-christian",
+            "cross"
+        ],
+        "tags": [
+            "Religion"
+        ],
+        "author": "Nick",
+        "version": "2.4.85"
     },
     {
         "id": "33845FDE-0003-4780-8DC9-07FC29D46599",
