@@ -53415,7 +53415,9 @@
         "id": "2788034C-2A06-46C0-82B9-A34CB23C88E0",
         "name": "repeat-variant",
         "codepoint": "F0547",
-        "aliases": [],
+        "aliases": [
+            "twitter-retweet"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.5.54"
