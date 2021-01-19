@@ -34306,7 +34306,9 @@
         "name": "gradient-vertical",
         "codepoint": "F06A0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Drawing \/ Art"
+        ],
         "author": "Google",
         "version": "1.7.12"
     },
