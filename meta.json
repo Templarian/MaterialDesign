@@ -41083,7 +41083,9 @@
         "id": "DC51467E-30C0-4144-9AE6-80762ACA972C",
         "name": "magazine-pistol",
         "codepoint": "F0324",
-        "aliases": [],
+        "aliases": [
+            "ammunition-pistol"
+        ],
         "tags": [],
         "author": "Contributors",
         "version": "1.5.54"
