@@ -39390,9 +39390,7 @@
         "name": "laptop-chromebook",
         "codepoint": "F0323",
         "aliases": [],
-        "tags": [
-            "Home Automation"
-        ],
+        "tags": [],
         "author": "Google",
         "version": "1.5.54"
     },
