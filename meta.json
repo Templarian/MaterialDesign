@@ -64334,9 +64334,11 @@
         "id": "8B1B6ED1-8AA5-4888-8477-B122FB236E1D",
         "name": "tray-arrow-down",
         "codepoint": "F0120",
-        "aliases": [],
+        "aliases": [
+            "tray-download"
+        ],
         "tags": [],
-        "author": "Google",
+        "author": "Michael Irigoyen",
         "version": "1.5.54"
     },
     {
