@@ -62078,17 +62078,6 @@
         "version": "2.1.19"
     },
     {
-        "id": "9132E544-8FAA-43BA-98B4-8D752CB3E251",
-        "name": "television-clean",
-        "codepoint": "F1110",
-        "aliases": [],
-        "tags": [
-            "Device \/ Tech"
-        ],
-        "author": "Contributors",
-        "version": "4.3.95"
-    },
-    {
         "id": "6E5CAF6F-F00B-4613-B520-BDC1E5DD2832",
         "name": "television-guide",
         "codepoint": "F0503",
@@ -62135,6 +62124,17 @@
         ],
         "author": "Google",
         "version": "3.7.94"
+    },
+    {
+        "id": "9132E544-8FAA-43BA-98B4-8D752CB3E251",
+        "name": "television-shimmer",
+        "codepoint": "F1110",
+        "aliases": [],
+        "tags": [
+            "Device \/ Tech"
+        ],
+        "author": "Contributors",
+        "version": "4.3.95"
     },
     {
         "id": "52228864-9BDD-4D12-82EC-AF730D68E47B",
