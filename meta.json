@@ -26539,7 +26539,9 @@
         "id": "D41E7F40-FF48-422F-A64B-4908C6C10F00",
         "name": "face-man",
         "codepoint": "F0643",
-        "aliases": [],
+        "aliases": [
+            "face-male"
+        ],
         "tags": [
             "People \/ Family"
         ],
