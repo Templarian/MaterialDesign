@@ -32861,7 +32861,9 @@
         "id": "25A261F0-9C5E-4103-88C8-70CEBA27270D",
         "name": "gamepad-variant-outline",
         "codepoint": "F0EB7",
-        "aliases": [],
+        "aliases": [
+            "controller-variant-outline"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
