@@ -32848,7 +32848,9 @@
         "id": "A4DB98F5-FFD6-4F36-BB90-1B06AB202096",
         "name": "gamepad-variant",
         "codepoint": "F0297",
-        "aliases": [],
+        "aliases": [
+            "controller-variant"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
