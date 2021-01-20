@@ -32811,7 +32811,9 @@
         "id": "0FE0FB42-286B-4D56-AE93-6D93EA514C4B",
         "name": "gamepad-square",
         "codepoint": "F0EB5",
-        "aliases": [],
+        "aliases": [
+            "controller-square"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
