@@ -32824,7 +32824,9 @@
         "id": "1370B995-F9FF-4B39-9414-055908214152",
         "name": "gamepad-square-outline",
         "codepoint": "F0EB6",
-        "aliases": [],
+        "aliases": [
+            "controller-square-outline"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
