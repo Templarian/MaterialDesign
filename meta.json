@@ -32651,7 +32651,9 @@
         "id": "C2CE3BF5-B623-4170-AD29-CAC89C4EBB93",
         "name": "gamepad-circle",
         "codepoint": "F0E33",
-        "aliases": [],
+        "aliases": [
+            "controller-circle"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
