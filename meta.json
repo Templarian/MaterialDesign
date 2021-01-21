@@ -32768,7 +32768,9 @@
         "id": "3AD46D54-4369-483C-A0B5-E03D7CF62F3B",
         "name": "gamepad-round",
         "codepoint": "F0E3C",
-        "aliases": [],
+        "aliases": [
+            "controller-round"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
