@@ -48374,7 +48374,8 @@
         "name": "page-last",
         "codepoint": "F0601",
         "aliases": [
-            "last-page"
+            "last-page",
+            "chevron-right-last"
         ],
         "tags": [],
         "author": "Google",
