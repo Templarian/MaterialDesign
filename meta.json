@@ -32729,7 +32729,9 @@
         "id": "E007AB79-ED6E-4746-9D55-A35F6BD2C93C",
         "name": "gamepad-down",
         "codepoint": "F0E39",
-        "aliases": [],
+        "aliases": [
+            "controller-down"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
