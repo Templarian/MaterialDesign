@@ -32664,7 +32664,9 @@
         "id": "A7E881F0-76BD-4711-A238-5ECAEA02EAFC",
         "name": "gamepad-circle-down",
         "codepoint": "F0E34",
-        "aliases": [],
+        "aliases": [
+            "controller-circle-down"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
