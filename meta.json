@@ -32833,7 +32833,9 @@
         "id": "D3C1F57B-FF1A-4CD9-AD39-E3F3AB752779",
         "name": "gamepad-round-up",
         "codepoint": "F0E41",
-        "aliases": [],
+        "aliases": [
+            "controller-round-up"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
