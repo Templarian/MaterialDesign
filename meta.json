@@ -32807,7 +32807,9 @@
         "id": "808C141C-877E-49D3-93D6-A69F985A7881",
         "name": "gamepad-round-outline",
         "codepoint": "F0E3F",
-        "aliases": [],
+        "aliases": [
+            "controller-round-outline"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
