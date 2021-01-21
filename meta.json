@@ -20210,7 +20210,9 @@
         "id": "2D97B0F0-9662-4323-8F5B-0677507461EE",
         "name": "controller-classic",
         "codepoint": "F0B82",
-        "aliases": [],
+        "aliases": [
+            "gamepad-classic"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
