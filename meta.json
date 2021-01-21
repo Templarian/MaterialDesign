@@ -48362,7 +48362,8 @@
         "name": "page-first",
         "codepoint": "F0600",
         "aliases": [
-            "first-page"
+            "first-page",
+            "chevron-left-first"
         ],
         "tags": [],
         "author": "Google",
