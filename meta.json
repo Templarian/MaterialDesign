@@ -32637,7 +32637,8 @@
         "name": "gamepad",
         "codepoint": "F0296",
         "aliases": [
-            "games"
+            "games",
+            "controller"
         ],
         "tags": [
             "Home Automation",
