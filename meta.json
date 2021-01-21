@@ -43355,7 +43355,9 @@
         "id": "9CC18C3C-57B6-470C-9F09-80B62ECFABD7",
         "name": "microsoft-xbox-controller-battery-unknown",
         "codepoint": "F0750",
-        "aliases": [],
+        "aliases": [
+            "microsoft-xbox-gamepad-battery-unknown"
+        ],
         "tags": [
             "Battery",
             "Gaming \/ RPG"
