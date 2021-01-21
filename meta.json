@@ -32742,7 +32742,9 @@
         "id": "D8A2D400-73A0-467E-9144-581D51735E0F",
         "name": "gamepad-left",
         "codepoint": "F0E3A",
-        "aliases": [],
+        "aliases": [
+            "controller-left"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
