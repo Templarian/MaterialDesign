@@ -34099,6 +34099,7 @@
         "name": "google-controller-off",
         "codepoint": "F02B5",
         "aliases": [
+            "google-gamepad-off",
             "gamepad-off"
         ],
         "tags": [
