@@ -43341,7 +43341,9 @@
         "id": "2B434E26-4ECE-4654-BBDC-4FE13CCCEE3E",
         "name": "microsoft-xbox-controller-battery-medium",
         "codepoint": "F074F",
-        "aliases": [],
+        "aliases": [
+            "microsoft-xbox-gamepad-battery-medium"
+        ],
         "tags": [
             "Battery",
             "Gaming \/ RPG"
