@@ -43285,7 +43285,9 @@
         "id": "738FB781-E590-444B-85B8-1773DDC814E9",
         "name": "microsoft-xbox-controller-battery-charging",
         "codepoint": "F0A22",
-        "aliases": [],
+        "aliases": [
+            "microsoft-xbox-gamepad-battery-charging"
+        ],
         "tags": [
             "Gaming \/ RPG",
             "Battery"
