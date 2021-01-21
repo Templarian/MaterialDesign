@@ -43313,7 +43313,9 @@
         "id": "CC73B4E7-6B14-459D-AED5-35E50655C05C",
         "name": "microsoft-xbox-controller-battery-full",
         "codepoint": "F074D",
-        "aliases": [],
+        "aliases": [
+            "microsoft-xbox-gamepad-battery-full"
+        ],
         "tags": [
             "Battery",
             "Gaming \/ RPG"
