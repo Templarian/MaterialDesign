@@ -43270,7 +43270,8 @@
         "name": "microsoft-xbox-controller-battery-alert",
         "codepoint": "F074B",
         "aliases": [
-            "xbox-controller-battery-warning"
+            "xbox-controller-battery-warning",
+            "microsoft-xbox-gamepad-battery-alert"
         ],
         "tags": [
             "Battery",
