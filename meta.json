@@ -34086,7 +34086,8 @@
         "name": "google-controller",
         "codepoint": "F02B4",
         "aliases": [
-            "gamepad"
+            "gamepad",
+            "google-gamepad"
         ],
         "tags": [
             "Gaming \/ RPG"
