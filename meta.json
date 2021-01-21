@@ -43256,7 +43256,9 @@
         "id": "74BB58AC-EF8B-447C-A15D-C444F1F67D93",
         "name": "microsoft-xbox-controller",
         "codepoint": "F05BA",
-        "aliases": [],
+        "aliases": [
+            "microsoft-xbox-gamepad"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
