@@ -32755,7 +32755,9 @@
         "id": "D513E54E-6492-4C2A-99E9-3E50C5662B88",
         "name": "gamepad-right",
         "codepoint": "F0E3B",
-        "aliases": [],
+        "aliases": [
+            "controller-right"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
