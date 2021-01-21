@@ -32716,7 +32716,9 @@
         "id": "233618F0-A837-4938-AEF8-93DA6A92A70E",
         "name": "gamepad-circle-up",
         "codepoint": "F0E38",
-        "aliases": [],
+        "aliases": [
+            "controller-circle-up"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
