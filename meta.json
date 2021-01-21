@@ -32794,7 +32794,9 @@
         "id": "07D26BD5-0B09-4FAF-9710-DA1F19C40C39",
         "name": "gamepad-round-left",
         "codepoint": "F0E3E",
-        "aliases": [],
+        "aliases": [
+            "controller-round-left"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
