@@ -32690,7 +32690,9 @@
         "id": "D227F063-202F-4B7D-9175-790055F07506",
         "name": "gamepad-circle-outline",
         "codepoint": "F0E36",
-        "aliases": [],
+        "aliases": [
+            "controller-circle-outline"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
