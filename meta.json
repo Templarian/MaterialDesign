@@ -43367,7 +43367,9 @@
         "id": "F73FF165-CE6C-4E27-B492-93F3B82C70EE",
         "name": "microsoft-xbox-controller-off",
         "codepoint": "F05BB",
-        "aliases": [],
+        "aliases": [
+            "microsoft-xbox-gamepad-off"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
