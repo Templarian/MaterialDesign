@@ -43327,7 +43327,9 @@
         "id": "B65873D1-4808-4C3C-8AD6-A242D61B1985",
         "name": "microsoft-xbox-controller-battery-low",
         "codepoint": "F074E",
-        "aliases": [],
+        "aliases": [
+            "microsoft-xbox-gamepad-battery-low"
+        ],
         "tags": [
             "Battery",
             "Gaming \/ RPG"
