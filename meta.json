@@ -32781,7 +32781,9 @@
         "id": "ABC572E9-CE00-450F-A1E0-E59BCF0C3DC3",
         "name": "gamepad-round-down",
         "codepoint": "F0E3D",
-        "aliases": [],
+        "aliases": [
+            "controller-round-down"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
