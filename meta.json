@@ -20223,7 +20223,9 @@
         "id": "053ECCDF-BF30-417F-85D4-FF2614402B5A",
         "name": "controller-classic-outline",
         "codepoint": "F0B83",
-        "aliases": [],
+        "aliases": [
+            "gamepad-classic-outline"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
