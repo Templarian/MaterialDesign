@@ -1458,6 +1458,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "C90AED93-FCBD-4FDC-A15B-26CD066775BD",
+        "name": "account-voice-off",
+        "codepoint": "F0ED4",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "3.7.95"
+    },
+    {
         "id": "3334E19F-962D-45B4-BE11-F009E1192165",
         "name": "adjust",
         "codepoint": "F001A",
@@ -1727,6 +1736,24 @@
         "tags": [],
         "author": "Michael Richins",
         "version": "2.0.46"
+    },
+    {
+        "id": "E328D226-0D09-402D-BCAA-A7630396F168",
+        "name": "alarm-light-off",
+        "codepoint": "F171E",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
+    },
+    {
+        "id": "70D649B6-0FA1-4465-A92C-BB362D4D5FAD",
+        "name": "alarm-light-off-outline",
+        "codepoint": "F171F",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
     },
     {
         "id": "F6F4DACD-B15B-49FD-8ACC-FAE0E994435A",
@@ -4514,19 +4541,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "CD5DD59A-965F-455E-912B-9535BFD134E0",
-        "name": "apple-airplay",
-        "codepoint": "F001F",
-        "aliases": [
-            "apple"
-        ],
-        "tags": [
-            "Home Automation"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "FAEC5B00-46A8-49AD-87DA-765891B9E387",
         "name": "apple-finder",
         "codepoint": "F0036",
@@ -6771,7 +6785,10 @@
         "id": "2AAC06E6-8ABD-418B-B9A4-8554B62D7C04",
         "name": "backspace",
         "codepoint": "F006E",
-        "aliases": [],
+        "aliases": [
+            "erase",
+            "clear"
+        ],
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
@@ -6780,7 +6797,10 @@
         "id": "7CD351DA-560B-42B5-86F3-7F782EA70FEA",
         "name": "backspace-outline",
         "codepoint": "F0B5C",
-        "aliases": [],
+        "aliases": [
+            "erase-outline",
+            "clear-outline"
+        ],
         "tags": [],
         "author": "Google",
         "version": "3.0.39"
@@ -6789,7 +6809,10 @@
         "id": "49AA61F3-2E3D-4EEA-BFB1-32D59C6906F0",
         "name": "backspace-reverse",
         "codepoint": "F0E7E",
-        "aliases": [],
+        "aliases": [
+            "clear-reverse",
+            "erase-reverse"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "3.7.94"
@@ -6798,7 +6821,10 @@
         "id": "287700E2-130D-484B-B56D-0162BE6DEEEE",
         "name": "backspace-reverse-outline",
         "codepoint": "F0E7F",
-        "aliases": [],
+        "aliases": [
+            "clear-reverse-outline",
+            "erase-reverse-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "3.7.94"
@@ -8936,6 +8962,32 @@
         ],
         "author": "Simran",
         "version": "3.7.94"
+    },
+    {
+        "id": "9DA90BB6-B525-47A8-879F-66EC572FE31B",
+        "name": "bell-badge",
+        "codepoint": "F116B",
+        "aliases": [
+            "bell-notification"
+        ],
+        "tags": [
+            "Notification"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.4.95"
+    },
+    {
+        "id": "42F0733E-F36F-491B-ADC9-AC8ABAF2C0B7",
+        "name": "bell-badge-outline",
+        "codepoint": "F0178",
+        "aliases": [
+            "bell-notification-outline"
+        ],
+        "tags": [
+            "Notification"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "1.5.54"
     },
     {
         "id": "61CFFDEC-BE16-404E-8ECA-F911F8105C7C",
@@ -11548,6 +11600,32 @@
         "version": "3.3.92"
     },
     {
+        "id": "F5E24182-366C-4D23-BA0E-8D2E25B88230",
+        "name": "broadcast",
+        "codepoint": "F1720",
+        "aliases": [
+            "signal"
+        ],
+        "tags": [
+            "Weather"
+        ],
+        "author": "Google",
+        "version": "5.9.55"
+    },
+    {
+        "id": "E1851914-B294-4FC0-A94B-C5C8D0F52DCB",
+        "name": "broadcast-off",
+        "codepoint": "F1721",
+        "aliases": [
+            "signal-off"
+        ],
+        "tags": [
+            "Weather"
+        ],
+        "author": "Google",
+        "version": "5.9.55"
+    },
+    {
         "id": "8159ED8F-4D1C-4845-8297-0FE41260D199",
         "name": "broom",
         "codepoint": "F00E2",
@@ -11586,21 +11664,6 @@
         "tags": [],
         "author": "Austin Andrews",
         "version": "5.1.45"
-    },
-    {
-        "id": "18A94F7F-1BC5-48EC-9CAF-6D2D663287DC",
-        "name": "buddhism",
-        "codepoint": "F094B",
-        "aliases": [
-            "dharmachakra",
-            "dharma-wheel",
-            "religion-buddhist"
-        ],
-        "tags": [
-            "Religion"
-        ],
-        "author": "Nick",
-        "version": "2.4.85"
     },
     {
         "id": "FBD11E2A-7F1F-4CE2-B17D-B3623D4FEA43",
@@ -14689,36 +14752,6 @@
         "version": "4.7.95"
     },
     {
-        "id": "22ECB099-6A57-4DA8-9E42-0E3D8000C003",
-        "name": "cash-usd",
-        "codepoint": "F1176",
-        "aliases": [
-            "local-atm",
-            "money-usd"
-        ],
-        "tags": [
-            "Currency",
-            "Banking"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "4.4.95"
-    },
-    {
-        "id": "219B8956-E48B-4D11-9257-422E563955DB",
-        "name": "cash-usd-outline",
-        "codepoint": "F0117",
-        "aliases": [
-            "local-atm",
-            "money-usd"
-        ],
-        "tags": [
-            "Currency",
-            "Banking"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "EF35081A-EABF-4C6B-B858-7F2177B60F95",
         "name": "cassette",
         "codepoint": "F09D4",
@@ -14756,6 +14789,17 @@
         "version": "4.1.95"
     },
     {
+        "id": "38E64DD7-18F9-4D85-9D62-023BDA44F642",
+        "name": "cast-audio-variant",
+        "codepoint": "F1749",
+        "aliases": [
+            "apple-airplay"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "80EC7FF6-03C0-4D61-8858-D2D94426D2DE",
         "name": "cast-connected",
         "codepoint": "F0119",
@@ -14789,6 +14833,20 @@
         ],
         "author": "Simran",
         "version": "1.9.32"
+    },
+    {
+        "id": "CD5DD59A-965F-455E-912B-9535BFD134E0",
+        "name": "cast-variant",
+        "codepoint": "F001F",
+        "aliases": [
+            "apple",
+            "airplay"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
     },
     {
         "id": "53FF9F06-A3F7-4B04-9D54-207FE8B56B8E",
@@ -14848,21 +14906,6 @@
             "smartphone",
             "stay-current-portrait",
             "stay-primary-portrait"
-        ],
-        "tags": [
-            "Cellphone \/ Phone",
-            "Device \/ Tech"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
-        "id": "C633DDA7-FB93-4041-98C2-92117B970114",
-        "name": "cellphone-android",
-        "codepoint": "F011D",
-        "aliases": [
-            "mobile-phone-android",
-            "smartphone-android"
         ],
         "tags": [
             "Cellphone \/ Phone",
@@ -14971,21 +15014,6 @@
         ],
         "author": "Google",
         "version": "3.9.97"
-    },
-    {
-        "id": "8B1B6ED1-8AA5-4888-8477-B122FB236E1D",
-        "name": "cellphone-iphone",
-        "codepoint": "F0120",
-        "aliases": [
-            "mobile-phone-iphone",
-            "smartphone-iphone"
-        ],
-        "tags": [
-            "Cellphone \/ Phone",
-            "Device \/ Tech"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
     },
     {
         "id": "29BA2DA3-CED6-4D52-92EF-D9152F63B7AB",
@@ -15726,6 +15754,24 @@
         "version": "4.8.95"
     },
     {
+        "id": "8B7833C6-EB36-4F0C-A554-AF7189A7AB34",
+        "name": "chat-question",
+        "codepoint": "F1738",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
+        "id": "7EC5A46D-1E6A-475C-A76F-19F9F4B9CD90",
+        "name": "chat-question-outline",
+        "codepoint": "F1739",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "3C021F95-3463-45CD-9908-A0D84B2793FB",
         "name": "chat-remove",
         "codepoint": "F1411",
@@ -15858,6 +15904,19 @@
         "version": "2.0.46"
     },
     {
+        "id": "1CAE9177-18C6-497A-B6B9-900C00A14D0E",
+        "name": "check-decagram-outline",
+        "codepoint": "F1740",
+        "aliases": [
+            "approve",
+            "approval",
+            "verified"
+        ],
+        "tags": [],
+        "author": "Jeff Hilnbrand",
+        "version": "5.9.55"
+    },
+    {
         "id": "F1CE2683-FE3F-4AA1-89A2-A935D6FD403C",
         "name": "check-network",
         "codepoint": "F0C53",
@@ -15939,6 +15998,36 @@
             "Form"
         ],
         "author": "Google",
+        "version": "1.5.54"
+    },
+    {
+        "id": "22ECB099-6A57-4DA8-9E42-0E3D8000C003",
+        "name": "checkbox-blank-badge",
+        "codepoint": "F1176",
+        "aliases": [
+            "checkbox-blank-notification",
+            "app-notification",
+            "app-badge"
+        ],
+        "tags": [
+            "Notification"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.4.95"
+    },
+    {
+        "id": "219B8956-E48B-4D11-9257-422E563955DB",
+        "name": "checkbox-blank-badge-outline",
+        "codepoint": "F0117",
+        "aliases": [
+            "checkbox-blank-notification-outline",
+            "app-notification-outline",
+            "app-badge-outline"
+        ],
+        "tags": [
+            "Notification"
+        ],
+        "author": "Michael Irigoyen",
         "version": "1.5.54"
     },
     {
@@ -16720,34 +16809,6 @@
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.6.50"
-    },
-    {
-        "id": "5644CD16-FA4D-4F68-8DAC-996169C778E1",
-        "name": "christianity",
-        "codepoint": "F0953",
-        "aliases": [
-            "religion-christian",
-            "cross"
-        ],
-        "tags": [
-            "Religion"
-        ],
-        "author": "Nick",
-        "version": "2.4.85"
-    },
-    {
-        "id": "E7B0A94D-5F09-4E77-A1E0-3DA131398A26",
-        "name": "christianity-outline",
-        "codepoint": "F0CF6",
-        "aliases": [
-            "religion-christian-outline",
-            "cross-outline"
-        ],
-        "tags": [
-            "Religion"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "3.3.92"
     },
     {
         "id": "82E4FDFE-C9C8-4087-ABCC-DF51F760379A",
@@ -20149,7 +20210,9 @@
         "id": "2D97B0F0-9662-4323-8F5B-0677507461EE",
         "name": "controller-classic",
         "codepoint": "F0B82",
-        "aliases": [],
+        "aliases": [
+            "gamepad-classic"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -20160,7 +20223,9 @@
         "id": "053ECCDF-BF30-417F-85D4-FF2614402B5A",
         "name": "controller-classic-outline",
         "codepoint": "F0B83",
-        "aliases": [],
+        "aliases": [
+            "gamepad-classic-outline"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -21122,6 +21187,34 @@
         "version": "1.5.54"
     },
     {
+        "id": "5644CD16-FA4D-4F68-8DAC-996169C778E1",
+        "name": "cross",
+        "codepoint": "F0953",
+        "aliases": [
+            "christianity",
+            "religion-christian"
+        ],
+        "tags": [
+            "Religion"
+        ],
+        "author": "Nick",
+        "version": "2.4.85"
+    },
+    {
+        "id": "E7B0A94D-5F09-4E77-A1E0-3DA131398A26",
+        "name": "cross-outline",
+        "codepoint": "F0CF6",
+        "aliases": [
+            "religion-christian-outline",
+            "christianity-outline"
+        ],
+        "tags": [
+            "Religion"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "3.3.92"
+    },
+    {
         "id": "33845FDE-0003-4780-8DC9-07FC29D46599",
         "name": "crosshairs",
         "codepoint": "F01A3",
@@ -21451,7 +21544,6 @@
         ],
         "tags": [
             "Currency",
-            "Brand \/ Logo",
             "Banking"
         ],
         "author": "Contributors",
@@ -21482,7 +21574,6 @@
         ],
         "tags": [
             "Currency",
-            "Brand \/ Logo",
             "Banking"
         ],
         "author": "Peter Noble",
@@ -21725,34 +21816,6 @@
             "Banking"
         ],
         "author": "Google",
-        "version": "1.5.54"
-    },
-    {
-        "id": "9DA90BB6-B525-47A8-879F-66EC572FE31B",
-        "name": "currency-usd-circle",
-        "codepoint": "F116B",
-        "aliases": [
-            "coin"
-        ],
-        "tags": [
-            "Banking",
-            "Currency"
-        ],
-        "author": "Michael Richins",
-        "version": "4.4.95"
-    },
-    {
-        "id": "42F0733E-F36F-491B-ADC9-AC8ABAF2C0B7",
-        "name": "currency-usd-circle-outline",
-        "codepoint": "F0178",
-        "aliases": [
-            "coin-outline"
-        ],
-        "tags": [
-            "Currency",
-            "Banking"
-        ],
-        "author": "Austin Andrews",
         "version": "1.5.54"
     },
     {
@@ -23009,6 +23072,21 @@
         "version": "4.0.96"
     },
     {
+        "id": "18A94F7F-1BC5-48EC-9CAF-6D2D663287DC",
+        "name": "dharmachakra",
+        "codepoint": "F094B",
+        "aliases": [
+            "dharma-wheel",
+            "religion-buddhist",
+            "buddhism"
+        ],
+        "tags": [
+            "Religion"
+        ],
+        "author": "Nick",
+        "version": "2.4.85"
+    },
+    {
         "id": "B0973EC9-B27B-4666-8E9E-C766A601BB0A",
         "name": "diabetes",
         "codepoint": "F1126",
@@ -23737,26 +23815,6 @@
         "tags": [],
         "author": "Google",
         "version": "3.0.39"
-    },
-    {
-        "id": "F33DB278-2B2B-4731-9FDD-6D053EC2CBAB",
-        "name": "do-not-disturb",
-        "codepoint": "F0698",
-        "aliases": [
-            "no-entry"
-        ],
-        "tags": [],
-        "author": "Google",
-        "version": "1.7.12"
-    },
-    {
-        "id": "092B5CD3-BB99-492C-9784-4BE71B0C7F5B",
-        "name": "do-not-disturb-off",
-        "codepoint": "F0699",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "1.7.12"
     },
     {
         "id": "E6B5C99C-7C0F-4F61-AEF9-7FDF6851D426",
@@ -26490,17 +26548,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "D41E7F40-FF48-422F-A64B-4908C6C10F00",
-        "name": "face",
-        "codepoint": "F0643",
-        "aliases": [],
-        "tags": [
-            "People \/ Family"
-        ],
-        "author": "Google",
-        "version": "1.6.50"
-    },
-    {
         "id": "3E0B74E0-1F0F-4820-A02F-B370CD56E463",
         "name": "face-agent",
         "codepoint": "F0D70",
@@ -26511,6 +26558,79 @@
         "tags": [],
         "author": "Contributors",
         "version": "3.4.93"
+    },
+    {
+        "id": "D41E7F40-FF48-422F-A64B-4908C6C10F00",
+        "name": "face-man",
+        "codepoint": "F0643",
+        "aliases": [
+            "face-male"
+        ],
+        "tags": [
+            "People \/ Family"
+        ],
+        "author": "Google",
+        "version": "1.6.50"
+    },
+    {
+        "id": "CFDA13BC-C61A-4FE0-8094-7B51E8EB3F82",
+        "name": "face-man-outline",
+        "codepoint": "F0B96",
+        "aliases": [
+            "face-male-outline"
+        ],
+        "tags": [
+            "People \/ Family"
+        ],
+        "author": "Google",
+        "version": "3.0.39"
+    },
+    {
+        "id": "97E9CDDB-45B3-4592-8E1F-0DB66E16E1A3",
+        "name": "face-man-profile",
+        "codepoint": "F0644",
+        "aliases": [
+            "face-male-profile"
+        ],
+        "tags": [
+            "People \/ Family"
+        ],
+        "author": "Google",
+        "version": "1.6.50"
+    },
+    {
+        "id": "4680BCD4-CD85-45A0-9F1C-FB367E768664",
+        "name": "face-man-shimmer",
+        "codepoint": "F15CC",
+        "aliases": [
+            "face-retouching-natural",
+            "face-male-shimmer"
+        ],
+        "tags": [
+            "Photography",
+            "Account \/ User",
+            "Health \/ Beauty",
+            "People \/ Family"
+        ],
+        "author": "Google",
+        "version": "5.6.55"
+    },
+    {
+        "id": "CC7A66A4-2118-4635-B227-C184D8903867",
+        "name": "face-man-shimmer-outline",
+        "codepoint": "F15CD",
+        "aliases": [
+            "face-retouching-natural-outline",
+            "face-male-shimmer-outline"
+        ],
+        "tags": [
+            "People \/ Family",
+            "Photography",
+            "Health \/ Beauty",
+            "Account \/ User"
+        ],
+        "author": "Simran",
+        "version": "5.6.55"
     },
     {
         "id": "8E3EC802-4BC1-44CA-83AB-9A43E55E238C",
@@ -26537,39 +26657,6 @@
         "version": "5.5.55"
     },
     {
-        "id": "CFDA13BC-C61A-4FE0-8094-7B51E8EB3F82",
-        "name": "face-outline",
-        "codepoint": "F0B96",
-        "aliases": [],
-        "tags": [
-            "People \/ Family"
-        ],
-        "author": "Google",
-        "version": "3.0.39"
-    },
-    {
-        "id": "97E9CDDB-45B3-4592-8E1F-0DB66E16E1A3",
-        "name": "face-profile",
-        "codepoint": "F0644",
-        "aliases": [],
-        "tags": [
-            "People \/ Family"
-        ],
-        "author": "Google",
-        "version": "1.6.50"
-    },
-    {
-        "id": "144C6FB3-DBAC-4CA7-B07C-51265D8EE619",
-        "name": "face-profile-woman",
-        "codepoint": "F1076",
-        "aliases": [],
-        "tags": [
-            "People \/ Family"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "4.2.95"
-    },
-    {
         "id": "FDC4CFE0-5CA9-4F8E-A126-EC98BF900228",
         "name": "face-recognition",
         "codepoint": "F0C7B",
@@ -26584,42 +26671,12 @@
         "version": "3.2.89"
     },
     {
-        "id": "4680BCD4-CD85-45A0-9F1C-FB367E768664",
-        "name": "face-shimmer",
-        "codepoint": "F15CC",
-        "aliases": [
-            "face-retouching-natural"
-        ],
-        "tags": [
-            "Photography",
-            "Account \/ User",
-            "Health \/ Beauty",
-            "People \/ Family"
-        ],
-        "author": "Google",
-        "version": "5.6.55"
-    },
-    {
-        "id": "CC7A66A4-2118-4635-B227-C184D8903867",
-        "name": "face-shimmer-outline",
-        "codepoint": "F15CD",
-        "aliases": [
-            "face-retouching-natural-outline"
-        ],
-        "tags": [
-            "People \/ Family",
-            "Photography",
-            "Health \/ Beauty",
-            "Account \/ User"
-        ],
-        "author": "Simran",
-        "version": "5.6.55"
-    },
-    {
         "id": "C591017E-E3D0-48CA-A517-86B21DE853A0",
         "name": "face-woman",
         "codepoint": "F1077",
-        "aliases": [],
+        "aliases": [
+            "face-female"
+        ],
         "tags": [
             "People \/ Family"
         ],
@@ -26630,7 +26687,22 @@
         "id": "F8B0D936-DFD2-469C-B671-599D3B277B51",
         "name": "face-woman-outline",
         "codepoint": "F1078",
-        "aliases": [],
+        "aliases": [
+            "face-female-outline"
+        ],
+        "tags": [
+            "People \/ Family"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.2.95"
+    },
+    {
+        "id": "144C6FB3-DBAC-4CA7-B07C-51265D8EE619",
+        "name": "face-woman-profile",
+        "codepoint": "F1076",
+        "aliases": [
+            "face-female-profile"
+        ],
         "tags": [
             "People \/ Family"
         ],
@@ -26642,7 +26714,8 @@
         "name": "face-woman-shimmer",
         "codepoint": "F15CE",
         "aliases": [
-            "face-retouching-natural-woman"
+            "face-retouching-natural-woman",
+            "face-female-shimmer"
         ],
         "tags": [
             "People \/ Family",
@@ -26658,7 +26731,8 @@
         "name": "face-woman-shimmer-outline",
         "codepoint": "F15CF",
         "aliases": [
-            "face-retouching-natural-woman-outline"
+            "face-retouching-natural-woman-outline",
+            "face-female-shimmer-outline"
         ],
         "tags": [
             "People \/ Family",
@@ -28757,6 +28831,15 @@
         "version": "4.4.95"
     },
     {
+        "id": "DAB67757-2065-4741-A03A-563D0EA202E0",
+        "name": "fire-off",
+        "codepoint": "F1722",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
+    },
+    {
         "id": "1C8EC9A6-0545-4A59-B9F8-5E498E40529D",
         "name": "fire-truck",
         "codepoint": "F08AB",
@@ -28827,6 +28910,15 @@
         ],
         "author": "Augustin Ursu",
         "version": "3.6.95"
+    },
+    {
+        "id": "16CFC5D9-C749-4148-BF17-D002AFFF9D09",
+        "name": "firework-off",
+        "codepoint": "F1723",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
     },
     {
         "id": "91D8C321-95BC-4AC6-9B3E-D38D457BFF75",
@@ -29486,8 +29578,21 @@
         "version": "4.1.95"
     },
     {
+        "id": "9042476D-79AC-4D50-AA53-EE71D3416BF3",
+        "name": "floor-lamp-torchiere",
+        "codepoint": "F1747",
+        "aliases": [
+            "floor-light-torchiere"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.0.55"
+    },
+    {
         "id": "85969E2D-500B-4565-8B80-A59FB6C8A73B",
-        "name": "floor-lamp-variant",
+        "name": "floor-lamp-torchiere-variant",
         "codepoint": "F1041",
         "aliases": [
             "floor-light-variant"
@@ -30694,7 +30799,8 @@
         "name": "food-turkey",
         "codepoint": "F171C",
         "aliases": [
-            "thanksgiving-dinner"
+            "dinner",
+            "thanksgiving"
         ],
         "tags": [
             "Food \/ Drink",
@@ -32531,7 +32637,8 @@
         "name": "gamepad",
         "codepoint": "F0296",
         "aliases": [
-            "games"
+            "games",
+            "controller"
         ],
         "tags": [
             "Home Automation",
@@ -32544,7 +32651,9 @@
         "id": "C2CE3BF5-B623-4170-AD29-CAC89C4EBB93",
         "name": "gamepad-circle",
         "codepoint": "F0E33",
-        "aliases": [],
+        "aliases": [
+            "controller-circle"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32555,7 +32664,9 @@
         "id": "A7E881F0-76BD-4711-A238-5ECAEA02EAFC",
         "name": "gamepad-circle-down",
         "codepoint": "F0E34",
-        "aliases": [],
+        "aliases": [
+            "controller-circle-down"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32566,7 +32677,9 @@
         "id": "AE90913A-5172-4699-98FC-7B935C753E1E",
         "name": "gamepad-circle-left",
         "codepoint": "F0E35",
-        "aliases": [],
+        "aliases": [
+            "controller-circle-left"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32577,7 +32690,9 @@
         "id": "D227F063-202F-4B7D-9175-790055F07506",
         "name": "gamepad-circle-outline",
         "codepoint": "F0E36",
-        "aliases": [],
+        "aliases": [
+            "controller-circle-outline"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32588,7 +32703,9 @@
         "id": "97C7D65D-6073-473D-9D21-7DCB3CA7556D",
         "name": "gamepad-circle-right",
         "codepoint": "F0E37",
-        "aliases": [],
+        "aliases": [
+            "controller-circle-right"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32599,7 +32716,9 @@
         "id": "233618F0-A837-4938-AEF8-93DA6A92A70E",
         "name": "gamepad-circle-up",
         "codepoint": "F0E38",
-        "aliases": [],
+        "aliases": [
+            "controller-circle-up"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32610,7 +32729,9 @@
         "id": "E007AB79-ED6E-4746-9D55-A35F6BD2C93C",
         "name": "gamepad-down",
         "codepoint": "F0E39",
-        "aliases": [],
+        "aliases": [
+            "controller-down"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32621,7 +32742,9 @@
         "id": "D8A2D400-73A0-467E-9144-581D51735E0F",
         "name": "gamepad-left",
         "codepoint": "F0E3A",
-        "aliases": [],
+        "aliases": [
+            "controller-left"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32632,7 +32755,9 @@
         "id": "D513E54E-6492-4C2A-99E9-3E50C5662B88",
         "name": "gamepad-right",
         "codepoint": "F0E3B",
-        "aliases": [],
+        "aliases": [
+            "controller-right"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32643,7 +32768,9 @@
         "id": "3AD46D54-4369-483C-A0B5-E03D7CF62F3B",
         "name": "gamepad-round",
         "codepoint": "F0E3C",
-        "aliases": [],
+        "aliases": [
+            "controller-round"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32654,7 +32781,9 @@
         "id": "ABC572E9-CE00-450F-A1E0-E59BCF0C3DC3",
         "name": "gamepad-round-down",
         "codepoint": "F0E3D",
-        "aliases": [],
+        "aliases": [
+            "controller-round-down"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32665,7 +32794,9 @@
         "id": "07D26BD5-0B09-4FAF-9710-DA1F19C40C39",
         "name": "gamepad-round-left",
         "codepoint": "F0E3E",
-        "aliases": [],
+        "aliases": [
+            "controller-round-left"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32676,7 +32807,9 @@
         "id": "808C141C-877E-49D3-93D6-A69F985A7881",
         "name": "gamepad-round-outline",
         "codepoint": "F0E3F",
-        "aliases": [],
+        "aliases": [
+            "controller-round-outline"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32687,7 +32820,9 @@
         "id": "4D10A9D6-5E25-457D-B4ED-25BCC647E62E",
         "name": "gamepad-round-right",
         "codepoint": "F0E40",
-        "aliases": [],
+        "aliases": [
+            "controller-round-right"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32698,7 +32833,9 @@
         "id": "D3C1F57B-FF1A-4CD9-AD39-E3F3AB752779",
         "name": "gamepad-round-up",
         "codepoint": "F0E41",
-        "aliases": [],
+        "aliases": [
+            "controller-round-up"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32709,7 +32846,9 @@
         "id": "0FE0FB42-286B-4D56-AE93-6D93EA514C4B",
         "name": "gamepad-square",
         "codepoint": "F0EB5",
-        "aliases": [],
+        "aliases": [
+            "controller-square"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32720,7 +32859,9 @@
         "id": "1370B995-F9FF-4B39-9414-055908214152",
         "name": "gamepad-square-outline",
         "codepoint": "F0EB6",
-        "aliases": [],
+        "aliases": [
+            "controller-square-outline"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32731,7 +32872,9 @@
         "id": "56D5F5A6-18F7-4FA5-8D16-48058EBD98D3",
         "name": "gamepad-up",
         "codepoint": "F0E42",
-        "aliases": [],
+        "aliases": [
+            "controller-up"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32742,7 +32885,9 @@
         "id": "A4DB98F5-FFD6-4F36-BB90-1B06AB202096",
         "name": "gamepad-variant",
         "codepoint": "F0297",
-        "aliases": [],
+        "aliases": [
+            "controller-variant"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -32753,7 +32898,9 @@
         "id": "25A261F0-9C5E-4103-88C8-70CEBA27270D",
         "name": "gamepad-variant-outline",
         "codepoint": "F0EB7",
-        "aliases": [],
+        "aliases": [
+            "controller-variant-outline"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -33971,7 +34118,9 @@
         "id": "605CAD46-2EA0-47AE-8A41-953C1F27F9CD",
         "name": "google-controller",
         "codepoint": "F02B4",
-        "aliases": [],
+        "aliases": [
+            "google-gamepad"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -33982,7 +34131,9 @@
         "id": "8C28F332-2037-476E-8FAA-D5E6BC81D8B2",
         "name": "google-controller-off",
         "codepoint": "F02B5",
-        "aliases": [],
+        "aliases": [
+            "google-gamepad-off"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -34124,15 +34275,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "A4C7D4DF-2B1F-424B-9502-6618F88C9A65",
-        "name": "google-photos",
-        "codepoint": "F06DD",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "1.8.36"
-    },
-    {
         "id": "5FE693A7-2A33-46A5-B502-D42588072E56",
         "name": "google-play",
         "codepoint": "F02BC",
@@ -34198,11 +34340,24 @@
         "version": "1.5.54"
     },
     {
+        "id": "525D2C64-FE7A-44F8-84E2-B1DDDF3FA668",
+        "name": "gradient-horizontal",
+        "codepoint": "F174A",
+        "aliases": [],
+        "tags": [
+            "Drawing \/ Art"
+        ],
+        "author": "Jeff Hilnbrand",
+        "version": "6.0.55"
+    },
+    {
         "id": "F10A05F8-FD09-4BDA-B906-747E9A89AB6E",
-        "name": "gradient",
+        "name": "gradient-vertical",
         "codepoint": "F06A0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Drawing \/ Art"
+        ],
         "author": "Google",
         "version": "1.7.12"
     },
@@ -35811,20 +35966,6 @@
         "version": "3.4.93"
     },
     {
-        "id": "F1EE1708-7EAF-4929-97AA-D4BAC093D157",
-        "name": "hinduism",
-        "codepoint": "F0973",
-        "aliases": [
-            "religion-hindu",
-            "om"
-        ],
-        "tags": [
-            "Religion"
-        ],
-        "author": "Nick",
-        "version": "2.4.85"
-    },
-    {
         "id": "55AF2D53-7FAD-4A1D-8440-10301C95D3B8",
         "name": "history",
         "codepoint": "F02DA",
@@ -36011,17 +36152,6 @@
         "tags": [],
         "author": "Google",
         "version": "3.3.92"
-    },
-    {
-        "id": "21C7383B-5839-4F3E-A4EC-81A9980F531B",
-        "name": "home-currency-usd",
-        "codepoint": "F08AF",
-        "aliases": [],
-        "tags": [
-            "Banking"
-        ],
-        "author": "Nick",
-        "version": "2.2.43"
     },
     {
         "id": "6D381D99-24F0-46B5-AD04-F527B97830AE",
@@ -36929,6 +37059,23 @@
         "version": "1.6.50"
     },
     {
+        "id": "A989F68B-23B9-4B50-BE4D-E3DF6E9420C9",
+        "name": "human-male-board",
+        "codepoint": "F0890",
+        "aliases": [
+            "teacher",
+            "teaching",
+            "lecture",
+            "college",
+            "blackboard",
+            "whiteboard",
+            "human-man-board"
+        ],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "2.1.99"
+    },
+    {
         "id": "07AB2970-AE77-417B-BEB3-8B6FDEF43EDE",
         "name": "human-male-boy",
         "codepoint": "F0A5C",
@@ -37192,7 +37339,9 @@
         "id": "58048473-346E-4473-A18D-36C29B789322",
         "name": "identifier",
         "codepoint": "F0EFE",
-        "aliases": [],
+        "aliases": [
+            "key"
+        ],
         "tags": [
             "Developer \/ Languages"
         ],
@@ -38048,21 +38197,6 @@
         "version": "3.2.89"
     },
     {
-        "id": "94C88D65-EE50-4DC5-920D-FA4181DE0413",
-        "name": "islam",
-        "codepoint": "F0979",
-        "aliases": [
-            "religion-islamic",
-            "star-and-crescent",
-            "religion-muslim"
-        ],
-        "tags": [
-            "Religion"
-        ],
-        "author": "Nick",
-        "version": "2.4.85"
-    },
-    {
         "id": "A39024B8-5991-409C-8E68-DC9562D52F86",
         "name": "island",
         "codepoint": "F104F",
@@ -38162,22 +38296,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "7EF95029-012C-456C-A1E8-BB96961071FD",
-        "name": "judaism",
-        "codepoint": "F097A",
-        "aliases": [
-            "jewish",
-            "religion-judaic",
-            "star-of-david",
-            "magen-david"
-        ],
-        "tags": [
-            "Religion"
-        ],
-        "author": "Nick",
-        "version": "2.4.85"
-    },
-    {
         "id": "FC2D912E-451A-4AE8-8399-67F116ED12D9",
         "name": "jump-rope",
         "codepoint": "F12FF",
@@ -38225,6 +38343,17 @@
         ],
         "author": "Michael Richins",
         "version": "2.1.19"
+    },
+    {
+        "id": "21C7383B-5839-4F3E-A4EC-81A9980F531B",
+        "name": "kayaking",
+        "codepoint": "F08AF",
+        "aliases": [],
+        "tags": [
+            "Sport"
+        ],
+        "author": "Google",
+        "version": "2.2.43"
     },
     {
         "id": "EEF9C07A-019A-49B4-805D-0DF8601F09DF",
@@ -38334,6 +38463,15 @@
         ],
         "author": "Nick",
         "version": "3.9.97"
+    },
+    {
+        "id": "30064882-D796-4A8E-8BD1-CAED8C9A49DA",
+        "name": "kettle-pour-over",
+        "codepoint": "F173C",
+        "aliases": [],
+        "tags": [],
+        "author": "nilsfast",
+        "version": "5.9.55"
     },
     {
         "id": "B976C4B0-D50C-49ED-B072-CD8E8A38A4AF",
@@ -38526,7 +38664,10 @@
         "id": "21C8B558-8398-43E8-A79A-8BA99BE693D6",
         "name": "keyboard-backspace",
         "codepoint": "F030D",
-        "aliases": [],
+        "aliases": [
+            "keyboard-clear",
+            "keyboard-erase"
+        ],
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
@@ -38747,6 +38888,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "CFF782E5-F36B-4F80-B105-68E6B4B91C64",
+        "name": "keyboard-tab-reverse",
+        "codepoint": "F0325",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "1.5.54"
+    },
+    {
         "id": "BCAA42FF-BF36-42D8-B8FD-5DE2968162D8",
         "name": "keyboard-variant",
         "codepoint": "F0313",
@@ -38780,6 +38930,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "2B23BD24-9796-4D72-85CC-76BE23854F0F",
+        "name": "kitesurfing",
+        "codepoint": "F1744",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.0.55"
+    },
+    {
         "id": "1A131BAA-CFEE-41F3-9B15-01A4A9F1B341",
         "name": "klingon",
         "codepoint": "F135B",
@@ -38809,6 +38968,17 @@
         ],
         "author": "Simran",
         "version": "2.5.94"
+    },
+    {
+        "id": "180CACBF-4272-4D07-B9A0-63A5625DCB0C",
+        "name": "koala",
+        "codepoint": "F173F",
+        "aliases": [],
+        "tags": [
+            "Animal"
+        ],
+        "author": "Contributors",
+        "version": "5.9.55"
     },
     {
         "id": "AD953D07-5F33-439B-895F-7AD5615EA14A",
@@ -39300,30 +39470,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "70793340-E8F2-43A0-8AB1-0DAB70CC8B9A",
-        "name": "laptop-chromebook",
-        "codepoint": "F0323",
-        "aliases": [],
-        "tags": [
-            "Device \/ Tech",
-            "Home Automation"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
-        "id": "DC51467E-30C0-4144-9AE6-80762ACA972C",
-        "name": "laptop-mac",
-        "codepoint": "F0324",
-        "aliases": [],
-        "tags": [
-            "Device \/ Tech",
-            "Home Automation"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "C9A08F85-B996-498D-ADDC-20A9B77B5489",
         "name": "laptop-off",
         "codepoint": "F06E7",
@@ -39333,18 +39479,6 @@
         ],
         "author": "Michael Richins",
         "version": "1.8.36"
-    },
-    {
-        "id": "CFF782E5-F36B-4F80-B105-68E6B4B91C64",
-        "name": "laptop-windows",
-        "codepoint": "F0325",
-        "aliases": [],
-        "tags": [
-            "Device \/ Tech",
-            "Home Automation"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
     },
     {
         "id": "B8CF1F73-D020-43C3-83CB-34DB20820628",
@@ -41030,6 +41164,28 @@
         "version": "4.2.95"
     },
     {
+        "id": "DC51467E-30C0-4144-9AE6-80762ACA972C",
+        "name": "magazine-pistol",
+        "codepoint": "F0324",
+        "aliases": [
+            "ammunition-pistol"
+        ],
+        "tags": [],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
+        "id": "70793340-E8F2-43A0-8AB1-0DAB70CC8B9A",
+        "name": "magazine-rifle",
+        "codepoint": "F0323",
+        "aliases": [
+            "ammunition-rifle"
+        ],
+        "tags": [],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "65B3A914-578A-468F-95C1-9C2B6D0C3A52",
         "name": "magnet",
         "codepoint": "F0347",
@@ -42548,6 +42704,24 @@
         "version": "4.4.95"
     },
     {
+        "id": "088D1765-3A4B-4BCB-A17B-B07970B3DDAA",
+        "name": "message-question",
+        "codepoint": "F173A",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
+        "id": "32AA3ACF-FADE-4ECB-8A16-DECB4CB9ECB9",
+        "name": "message-question-outline",
+        "codepoint": "F173B",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "6657779A-7238-4686-B3D5-1244862D7B2C",
         "name": "message-reply",
         "codepoint": "F0367",
@@ -42557,6 +42731,15 @@
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
+    },
+    {
+        "id": "9B0263DD-74DB-4AC6-BF1C-0C7C0170C845",
+        "name": "message-reply-outline",
+        "codepoint": "F173D",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
     },
     {
         "id": "FF34C5A8-4433-4B47-A9E5-EB836CFFCEC9",
@@ -42569,6 +42752,15 @@
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
+    },
+    {
+        "id": "56D756E1-57CB-4EA5-9AC3-409D0046C643",
+        "name": "message-reply-text-outline",
+        "codepoint": "F173E",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
     },
     {
         "id": "4B15BF16-CD96-4427-9EA4-5A8B09F3A2B6",
@@ -43097,7 +43289,9 @@
         "id": "74BB58AC-EF8B-447C-A15D-C444F1F67D93",
         "name": "microsoft-xbox-controller",
         "codepoint": "F05BA",
-        "aliases": [],
+        "aliases": [
+            "microsoft-xbox-gamepad"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -43109,7 +43303,8 @@
         "name": "microsoft-xbox-controller-battery-alert",
         "codepoint": "F074B",
         "aliases": [
-            "xbox-controller-battery-warning"
+            "xbox-controller-battery-warning",
+            "microsoft-xbox-gamepad-battery-alert"
         ],
         "tags": [
             "Battery",
@@ -43123,7 +43318,9 @@
         "id": "738FB781-E590-444B-85B8-1773DDC814E9",
         "name": "microsoft-xbox-controller-battery-charging",
         "codepoint": "F0A22",
-        "aliases": [],
+        "aliases": [
+            "microsoft-xbox-gamepad-battery-charging"
+        ],
         "tags": [
             "Gaming \/ RPG",
             "Battery"
@@ -43135,7 +43332,9 @@
         "id": "51BB7455-5893-4F47-92D1-B3FD408C2ADC",
         "name": "microsoft-xbox-controller-battery-empty",
         "codepoint": "F074C",
-        "aliases": [],
+        "aliases": [
+            "microsoft-xbox-gamepad-battery-empty"
+        ],
         "tags": [
             "Battery",
             "Gaming \/ RPG"
@@ -43147,7 +43346,9 @@
         "id": "CC73B4E7-6B14-459D-AED5-35E50655C05C",
         "name": "microsoft-xbox-controller-battery-full",
         "codepoint": "F074D",
-        "aliases": [],
+        "aliases": [
+            "microsoft-xbox-gamepad-battery-full"
+        ],
         "tags": [
             "Battery",
             "Gaming \/ RPG"
@@ -43159,7 +43360,9 @@
         "id": "B65873D1-4808-4C3C-8AD6-A242D61B1985",
         "name": "microsoft-xbox-controller-battery-low",
         "codepoint": "F074E",
-        "aliases": [],
+        "aliases": [
+            "microsoft-xbox-gamepad-battery-low"
+        ],
         "tags": [
             "Battery",
             "Gaming \/ RPG"
@@ -43171,7 +43374,9 @@
         "id": "2B434E26-4ECE-4654-BBDC-4FE13CCCEE3E",
         "name": "microsoft-xbox-controller-battery-medium",
         "codepoint": "F074F",
-        "aliases": [],
+        "aliases": [
+            "microsoft-xbox-gamepad-battery-medium"
+        ],
         "tags": [
             "Battery",
             "Gaming \/ RPG"
@@ -43183,7 +43388,9 @@
         "id": "9CC18C3C-57B6-470C-9F09-80B62ECFABD7",
         "name": "microsoft-xbox-controller-battery-unknown",
         "codepoint": "F0750",
-        "aliases": [],
+        "aliases": [
+            "microsoft-xbox-gamepad-battery-unknown"
+        ],
         "tags": [
             "Battery",
             "Gaming \/ RPG"
@@ -43206,7 +43413,9 @@
         "id": "F73FF165-CE6C-4E27-B492-93F3B82C70EE",
         "name": "microsoft-xbox-controller-off",
         "codepoint": "F05BB",
-        "aliases": [],
+        "aliases": [
+            "microsoft-xbox-gamepad-off"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -43640,17 +43849,6 @@
         "version": "2.4.85"
     },
     {
-        "id": "E02B1C8D-DA14-4AF2-8EB3-397AD9DAF1AB",
-        "name": "monitor-clean",
-        "codepoint": "F1104",
-        "aliases": [],
-        "tags": [
-            "Device \/ Tech"
-        ],
-        "author": "Contributors",
-        "version": "4.3.95"
-    },
-    {
         "id": "B4B96C77-6C5D-40A5-83E4-548E48CBECED",
         "name": "monitor-dashboard",
         "codepoint": "F0A07",
@@ -43736,6 +43934,19 @@
         "tags": [],
         "author": "Google",
         "version": "5.3.45"
+    },
+    {
+        "id": "E02B1C8D-DA14-4AF2-8EB3-397AD9DAF1AB",
+        "name": "monitor-shimmer",
+        "codepoint": "F1104",
+        "aliases": [
+            "monitor-clean"
+        ],
+        "tags": [
+            "Device \/ Tech"
+        ],
+        "author": "Contributors",
+        "version": "4.3.95"
     },
     {
         "id": "0D49AB2B-17E4-43B8-B72E-05C4A11500F6",
@@ -43925,6 +44136,31 @@
         "codepoint": "F037B",
         "aliases": [],
         "tags": [],
+        "author": "Google",
+        "version": "1.5.54"
+    },
+    {
+        "id": "C810823C-6678-43F7-8DBB-5D32F503BC59",
+        "name": "mortar-pestle",
+        "codepoint": "F1748",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
+        "id": "71BD315A-B0C1-4B8B-93CB-2A952C3A7C16",
+        "name": "mortar-pestle-plus",
+        "codepoint": "F03F1",
+        "aliases": [
+            "chemist",
+            "local-pharmacy",
+            "mortar-pestle",
+            "pharmaceutical"
+        ],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
@@ -47755,6 +47991,20 @@
         "version": "4.0.96"
     },
     {
+        "id": "F1EE1708-7EAF-4929-97AA-D4BAC093D157",
+        "name": "om",
+        "codepoint": "F0973",
+        "aliases": [
+            "religion-hindu",
+            "hinduism"
+        ],
+        "tags": [
+            "Religion"
+        ],
+        "author": "Nick",
+        "version": "2.4.85"
+    },
+    {
         "id": "A98F63CB-AB27-4A2D-B76C-6994507BCDBB",
         "name": "omega",
         "codepoint": "F03C9",
@@ -48112,7 +48362,8 @@
         "name": "page-first",
         "codepoint": "F0600",
         "aliases": [
-            "first-page"
+            "first-page",
+            "chevron-left-first"
         ],
         "tags": [],
         "author": "Google",
@@ -48123,7 +48374,8 @@
         "name": "page-last",
         "codepoint": "F0601",
         "aliases": [
-            "last-page"
+            "last-page",
+            "chevron-right-last"
         ],
         "tags": [],
         "author": "Google",
@@ -48679,6 +48931,18 @@
         ],
         "author": "Michael Irigoyen",
         "version": "3.2.89"
+    },
+    {
+        "id": "24CD918E-9458-4D8D-A00C-746F8AB5D17E",
+        "name": "paragliding",
+        "codepoint": "F1745",
+        "aliases": [
+            "parasail",
+            "paraglide"
+        ],
+        "tags": [],
+        "author": "Google",
+        "version": "6.0.55"
     },
     {
         "id": "07C8266A-A135-443C-B2DD-4148CD718C51",
@@ -49314,22 +49578,6 @@
         ],
         "author": "Michael Irigoyen",
         "version": "3.3.92"
-    },
-    {
-        "id": "71BD315A-B0C1-4B8B-93CB-2A952C3A7C16",
-        "name": "pharmacy",
-        "codepoint": "F03F1",
-        "aliases": [
-            "chemist",
-            "local-pharmacy",
-            "mortar-pestle",
-            "pharmaceutical"
-        ],
-        "tags": [
-            "Medical \/ Hospital"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
     },
     {
         "id": "B5BA809F-FCE8-476C-8388-6A9CFFF73015",
@@ -49973,7 +50221,18 @@
         "tags": [
             "Music"
         ],
-        "author": "Austin Andrews",
+        "author": "Google",
+        "version": "1.7.12"
+    },
+    {
+        "id": "F33DB278-2B2B-4731-9FDD-6D053EC2CBAB",
+        "name": "piano-off",
+        "codepoint": "F0698",
+        "aliases": [],
+        "tags": [
+            "Music"
+        ],
+        "author": "Google",
         "version": "1.7.12"
     },
     {
@@ -50745,15 +51004,6 @@
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "3.2.89"
-    },
-    {
-        "id": "E67044BA-8025-4D61-916C-56DF4D6FFE6D",
-        "name": "plus-one",
-        "codepoint": "F041B",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "1.5.54"
     },
     {
         "id": "680B6AD6-C9AD-44D1-9228-EDDB8C242343",
@@ -51732,6 +51982,15 @@
         ],
         "author": "Simran",
         "version": "1.5.54"
+    },
+    {
+        "id": "F2AC4968-73F6-4D91-BF2B-D8653E6863E2",
+        "name": "projector-screen-outline",
+        "codepoint": "F1724",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
     },
     {
         "id": "F6911BCA-14B1-4DD4-9407-20E138FAB878",
@@ -53276,6 +53535,19 @@
         "version": "1.5.54"
     },
     {
+        "id": "2788034C-2A06-46C0-82B9-A34CB23C88E0",
+        "name": "repeat-variant",
+        "codepoint": "F0547",
+        "aliases": [
+            "twitter-retweet"
+        ],
+        "tags": [
+            "Arrow"
+        ],
+        "author": "Austin Andrews",
+        "version": "1.5.54"
+    },
+    {
         "id": "A15D2CB0-E938-4894-8BF3-BC6C628E6433",
         "name": "replay",
         "codepoint": "F0459",
@@ -54500,13 +54772,14 @@
         "name": "sail-boat",
         "codepoint": "F0EC8",
         "aliases": [
+            "sailing",
             "boat"
         ],
         "tags": [
             "Sport",
             "Transportation + Water"
         ],
-        "author": "GreenTurtwig",
+        "author": "Google",
         "version": "3.7.94"
     },
     {
@@ -54922,6 +55195,24 @@
         "version": "3.0.39"
     },
     {
+        "id": "2789A595-8195-448F-BD8A-2FB71B712BD8",
+        "name": "script-text-key",
+        "codepoint": "F1725",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.9.55"
+    },
+    {
+        "id": "1343F1A4-86DB-432D-BE9D-F3EFEB1321F8",
+        "name": "script-text-key-outline",
+        "codepoint": "F1726",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
+    },
+    {
         "id": "DF9F9175-8E37-4241-8AFD-360606A444A5",
         "name": "script-text-outline",
         "codepoint": "F0BC3",
@@ -54933,6 +55224,24 @@
         ],
         "author": "Austin Andrews",
         "version": "3.0.39"
+    },
+    {
+        "id": "0F931BB6-3336-430E-85C2-9EDEDCC4E9B4",
+        "name": "script-text-play",
+        "codepoint": "F1727",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "5.9.55"
+    },
+    {
+        "id": "7357F674-281E-49F1-8161-424877AC6DD3",
+        "name": "script-text-play-outline",
+        "codepoint": "F1728",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
     },
     {
         "id": "68B68EDB-6CDA-4488-A213-5E6DF4146EA6",
@@ -55730,7 +56039,8 @@
         "codepoint": "F077E",
         "aliases": [
             "set-null",
-            "set-not"
+            "set-not",
+            "venn-diagram"
         ],
         "tags": [
             "Database"
@@ -56561,6 +56871,17 @@
         "tags": [],
         "author": "Fran\u00e7ois Risoud",
         "version": "4.5.95"
+    },
+    {
+        "id": "C09567B5-B5C0-4C51-A246-0CA46C928F96",
+        "name": "shimmer",
+        "codepoint": "F1545",
+        "aliases": [
+            "sparkles"
+        ],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "5.4.55"
     },
     {
         "id": "1F35A20C-CF6C-4C2A-9A72-82269F4ECCF7",
@@ -57428,6 +57749,15 @@
         "version": "3.3.92"
     },
     {
+        "id": "092B5CD3-BB99-492C-9784-4BE71B0C7F5B",
+        "name": "skate-off",
+        "codepoint": "F0699",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "1.7.12"
+    },
+    {
         "id": "56BF6222-BEC1-44B6-845C-AD6F84552D90",
         "name": "skateboard",
         "codepoint": "F14C2",
@@ -57437,6 +57767,17 @@
         ],
         "author": "Google",
         "version": "5.3.45"
+    },
+    {
+        "id": "47F1C290-ED78-4459-B33C-6E2ACC867CC6",
+        "name": "skateboarding",
+        "codepoint": "F0501",
+        "aliases": [],
+        "tags": [
+            "Sport"
+        ],
+        "author": "Google",
+        "version": "1.5.54"
     },
     {
         "id": "43E5E22F-AEEB-406D-BEF3-898BE3C91FC1",
@@ -57472,18 +57813,20 @@
         "tags": [
             "Sport"
         ],
-        "author": "Michael Irigoyen",
+        "author": "Google",
         "version": "4.8.95"
     },
     {
         "id": "BD9C05A6-55EA-4F72-A216-85F990F65EDA",
         "name": "ski-cross-country",
         "codepoint": "F1305",
-        "aliases": [],
+        "aliases": [
+            "nordic-walking"
+        ],
         "tags": [
             "Sport"
         ],
-        "author": "Michael Irigoyen",
+        "author": "Google",
         "version": "4.8.95"
     },
     {
@@ -57763,6 +58106,17 @@
         "version": "4.0.96"
     },
     {
+        "id": "E67044BA-8025-4D61-916C-56DF4D6FFE6D",
+        "name": "sledding",
+        "codepoint": "F041B",
+        "aliases": [],
+        "tags": [
+            "Sport"
+        ],
+        "author": "Google",
+        "version": "1.5.54"
+    },
+    {
         "id": "C9CF20D8-55F4-4997-8019-F8056ED86702",
         "name": "sleep",
         "codepoint": "F04B2",
@@ -57988,7 +58342,7 @@
         "tags": [
             "Sport"
         ],
-        "author": "Michael Irigoyen",
+        "author": "Google",
         "version": "4.8.95"
     },
     {
@@ -58066,6 +58420,18 @@
         ],
         "author": "Austin Andrews",
         "version": "1.5.54"
+    },
+    {
+        "id": "A4C7D4DF-2B1F-424B-9502-6618F88C9A65",
+        "name": "snowmobile",
+        "codepoint": "F06DD",
+        "aliases": [],
+        "tags": [
+            "Transportation + Flying",
+            "Sport"
+        ],
+        "author": "Google",
+        "version": "1.8.36"
     },
     {
         "id": "B4AFB6A4-C315-4B06-AE4D-AC633F3ED0A7",
@@ -58852,15 +59218,6 @@
         "version": "3.6.95"
     },
     {
-        "id": "C09567B5-B5C0-4C51-A246-0CA46C928F96",
-        "name": "sparkles",
-        "codepoint": "F1545",
-        "aliases": [],
-        "tags": [],
-        "author": "Austin Andrews",
-        "version": "5.4.55"
-    },
-    {
         "id": "43C37FC5-E271-40FA-BB50-C139DDD5B15B",
         "name": "speaker",
         "codepoint": "F04C3",
@@ -59546,6 +59903,37 @@
         "version": "5.7.55"
     },
     {
+        "id": "94C88D65-EE50-4DC5-920D-FA4181DE0413",
+        "name": "star-crescent",
+        "codepoint": "F0979",
+        "aliases": [
+            "islam",
+            "religion-islamic",
+            "religion-muslim"
+        ],
+        "tags": [
+            "Religion"
+        ],
+        "author": "Nick",
+        "version": "2.4.85"
+    },
+    {
+        "id": "7EF95029-012C-456C-A1E8-BB96961071FD",
+        "name": "star-david",
+        "codepoint": "F097A",
+        "aliases": [
+            "jewish",
+            "religion-judaic",
+            "judaism",
+            "magen-david"
+        ],
+        "tags": [
+            "Religion"
+        ],
+        "author": "Nick",
+        "version": "2.4.85"
+    },
+    {
         "id": "20FBE06D-72C3-4E1C-945D-C7E69DC0736D",
         "name": "star-face",
         "codepoint": "F09A5",
@@ -59712,6 +60100,24 @@
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
+    },
+    {
+        "id": "18267D80-A569-4013-84F4-7024F3990F47",
+        "name": "star-shooting",
+        "codepoint": "F1741",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
+        "id": "27A6F1B6-E095-494B-8CC7-660695DC6E70",
+        "name": "star-shooting-outline",
+        "codepoint": "F1742",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
     },
     {
         "id": "815B35DE-0C4D-46AD-90EC-2AFEE0A5FC17",
@@ -60310,6 +60716,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "13371A33-E911-4D02-B921-CECC9D1BDB50",
+        "name": "surfing",
+        "codepoint": "F1746",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.0.55"
+    },
+    {
         "id": "AB38BBD9-58A6-4D21-8A76-8940B7717550",
         "name": "surround-sound",
         "codepoint": "F05C5",
@@ -60334,6 +60749,15 @@
         "version": "2.0.46"
     },
     {
+        "id": "901A06AA-7C77-43B3-90CD-10B329C42DB7",
+        "name": "surround-sound-2-1",
+        "codepoint": "F1729",
+        "aliases": [],
+        "tags": [],
+        "author": "GreenTurtwig",
+        "version": "5.9.55"
+    },
+    {
         "id": "4B744BE0-A739-44FF-ADA6-CFC9BC520B1D",
         "name": "surround-sound-3-1",
         "codepoint": "F07F1",
@@ -60354,6 +60778,15 @@
         ],
         "author": "Austin Andrews",
         "version": "2.0.46"
+    },
+    {
+        "id": "0CA5BC19-D66A-4126-B2DB-A90546826760",
+        "name": "surround-sound-5-1-2",
+        "codepoint": "F172A",
+        "aliases": [],
+        "tags": [],
+        "author": "GreenTurtwig",
+        "version": "5.9.55"
     },
     {
         "id": "BC85CD47-E52C-4A7D-8E05-DD45596C5822",
@@ -61096,6 +61529,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "68ABC903-3D76-4C38-8165-4DB5F0353A20",
+        "name": "table-picnic",
+        "codepoint": "F1743",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Hilnbrand",
+        "version": "5.9.55"
+    },
+    {
         "id": "4547E3CF-042C-431F-8B99-4DBE22F1ADEC",
         "name": "table-plus",
         "codepoint": "F0A75",
@@ -61242,7 +61684,10 @@
         "id": "4E13AA68-FF88-415B-A813-A9D5023F71E3",
         "name": "table-tennis",
         "codepoint": "F0E68",
-        "aliases": [],
+        "aliases": [
+            "ping-pong",
+            "whiff-whaff"
+        ],
         "tags": [
             "Sport"
         ],
@@ -61299,19 +61744,6 @@
         "version": "3.7.94"
     },
     {
-        "id": "A7147BE3-0B04-4B61-94F3-48B0D9C5551E",
-        "name": "tablet-ipad",
-        "codepoint": "F04F8",
-        "aliases": [
-            "tablet-mac"
-        ],
-        "tags": [
-            "Device \/ Tech"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "9E259FF6-513C-44B0-BB10-7F930DFA47DD",
         "name": "taco",
         "codepoint": "F0762",
@@ -61332,6 +61764,78 @@
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
+    },
+    {
+        "id": "141B8C02-DA96-4054-AA99-C83CF2B10118",
+        "name": "tag-arrow-down",
+        "codepoint": "F172B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
+    },
+    {
+        "id": "8C304479-B37A-4837-8887-F4880359C9BB",
+        "name": "tag-arrow-down-outline",
+        "codepoint": "F172C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
+    },
+    {
+        "id": "56E3ECFD-CE76-4CE2-9075-7673ABEA78D1",
+        "name": "tag-arrow-left",
+        "codepoint": "F172D",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
+    },
+    {
+        "id": "BCD665AC-5B08-4E99-8BF4-7F43030447F6",
+        "name": "tag-arrow-left-outline",
+        "codepoint": "F172E",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
+    },
+    {
+        "id": "98AEA4C4-D0E2-4B94-9EE3-47F97A7AFC0D",
+        "name": "tag-arrow-right",
+        "codepoint": "F172F",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
+    },
+    {
+        "id": "B9FED1D0-B219-4483-A30E-AA201561DCB4",
+        "name": "tag-arrow-right-outline",
+        "codepoint": "F1730",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
+    },
+    {
+        "id": "5040B027-3283-413C-8424-E2E02108E69D",
+        "name": "tag-arrow-up",
+        "codepoint": "F1731",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
+    },
+    {
+        "id": "A632F2B8-4D1B-4F60-AB06-EB79D45E13A3",
+        "name": "tag-arrow-up-outline",
+        "codepoint": "F1732",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "5.9.55"
     },
     {
         "id": "5DCE0F4D-F740-4D9A-AC93-281D3477E9AF",
@@ -61493,6 +61997,19 @@
         "version": "5.1.45"
     },
     {
+        "id": "A7147BE3-0B04-4B61-94F3-48B0D9C5551E",
+        "name": "tangram",
+        "codepoint": "F04F8",
+        "aliases": [
+            "puzzle"
+        ],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
+        "author": "Jeff Hilnbrand",
+        "version": "1.5.54"
+    },
+    {
         "id": "C673D464-FC7A-4574-8EE6-6CCF7E39902F",
         "name": "tank",
         "codepoint": "F0D3A",
@@ -61613,37 +62130,9 @@
         "version": "3.4.93"
     },
     {
-        "id": "A989F68B-23B9-4B50-BE4D-E3DF6E9420C9",
-        "name": "teach",
-        "codepoint": "F0890",
-        "aliases": [
-            "teacher",
-            "teaching",
-            "lecture",
-            "college",
-            "blackboard",
-            "whiteboard",
-            "human-male-board"
-        ],
-        "tags": [],
-        "author": "Michael Richins",
-        "version": "2.1.99"
-    },
-    {
         "id": "3335C183-CD35-4D66-87AB-C5E3A7FCAFBF",
         "name": "teamviewer",
         "codepoint": "F0500",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
-        "id": "47F1C290-ED78-4459-B33C-6E2ACC867CC6",
-        "name": "telegram",
-        "codepoint": "F0501",
         "aliases": [],
         "tags": [
             "Brand \/ Logo"
@@ -61728,17 +62217,6 @@
         "version": "2.1.19"
     },
     {
-        "id": "9132E544-8FAA-43BA-98B4-8D752CB3E251",
-        "name": "television-clean",
-        "codepoint": "F1110",
-        "aliases": [],
-        "tags": [
-            "Device \/ Tech"
-        ],
-        "author": "Contributors",
-        "version": "4.3.95"
-    },
-    {
         "id": "6E5CAF6F-F00B-4613-B520-BDC1E5DD2832",
         "name": "television-guide",
         "codepoint": "F0503",
@@ -61785,6 +62263,19 @@
         ],
         "author": "Google",
         "version": "3.7.94"
+    },
+    {
+        "id": "9132E544-8FAA-43BA-98B4-8D752CB3E251",
+        "name": "television-shimmer",
+        "codepoint": "F1110",
+        "aliases": [
+            "television-clean"
+        ],
+        "tags": [
+            "Device \/ Tech"
+        ],
+        "author": "Contributors",
+        "version": "4.3.95"
     },
     {
         "id": "52228864-9BDD-4D12-82EC-AF730D68E47B",
@@ -62136,6 +62627,17 @@
         "version": "3.7.94"
     },
     {
+        "id": "CA8CE1CF-1F6E-4B8B-9972-B3F36E865E67",
+        "name": "text-long",
+        "codepoint": "F09AA",
+        "aliases": [
+            "text-subject"
+        ],
+        "tags": [],
+        "author": "Google",
+        "version": "2.4.85"
+    },
+    {
         "id": "8F37BBCB-35D2-4FAF-88ED-59252659885D",
         "name": "text-recognition",
         "codepoint": "F113D",
@@ -62166,15 +62668,6 @@
         "id": "F80F249A-898B-4690-888A-EC11F79B4E56",
         "name": "text-short",
         "codepoint": "F09A9",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "2.4.85"
-    },
-    {
-        "id": "CA8CE1CF-1F6E-4B8B-9972-B3F36E865E67",
-        "name": "text-subject",
-        "codepoint": "F09AA",
         "aliases": [],
         "tags": [],
         "author": "Google",
@@ -63321,8 +63814,12 @@
         "id": "E66ECEE5-0382-4406-B0AB-CFE819AE7684",
         "name": "tortoise",
         "codepoint": "F0D3B",
-        "aliases": [],
-        "tags": [],
+        "aliases": [
+            "turtle"
+        ],
+        "tags": [
+            "Animal"
+        ],
         "author": "Nick",
         "version": "3.3.92"
     },
@@ -63664,6 +64161,50 @@
         "version": "3.0.39"
     },
     {
+        "id": "04821E67-5037-46E7-8F5E-740C7EBFAC1D",
+        "name": "train-car-passenger",
+        "codepoint": "F1733",
+        "aliases": [],
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
+        "id": "9F9E31CB-361B-40D6-8754-157401124ED2",
+        "name": "train-car-passenger-door",
+        "codepoint": "F1734",
+        "aliases": [],
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
+        "id": "042CE4C4-087F-49EC-9F67-A5467318C068",
+        "name": "train-car-passenger-door-open",
+        "codepoint": "F1735",
+        "aliases": [],
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
+        "id": "1A9FFFAE-5581-4E22-B87C-3798A9E97FD1",
+        "name": "train-car-passenger-variant",
+        "codepoint": "F1736",
+        "aliases": [],
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
+    },
+    {
         "id": "C0A4E604-3829-4605-A7BC-CA0BFF138B18",
         "name": "train-variant",
         "codepoint": "F08C4",
@@ -63954,6 +64495,32 @@
         ],
         "author": "Michael Richins",
         "version": "4.7.95"
+    },
+    {
+        "id": "8B1B6ED1-8AA5-4888-8477-B122FB236E1D",
+        "name": "tray-arrow-down",
+        "codepoint": "F0120",
+        "aliases": [
+            "tray-download"
+        ],
+        "tags": [
+            "Arrow"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
+        "id": "C633DDA7-FB93-4041-98C2-92117B970114",
+        "name": "tray-arrow-up",
+        "codepoint": "F011D",
+        "aliases": [
+            "tray-upload"
+        ],
+        "tags": [
+            "Arrow"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
     },
     {
         "id": "B81435D3-9FE4-470D-A46A-7FEDA1773D15",
@@ -64531,15 +65098,6 @@
             "Social Media"
         ],
         "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
-        "id": "2788034C-2A06-46C0-82B9-A34CB23C88E0",
-        "name": "twitter-retweet",
-        "codepoint": "F0547",
-        "aliases": [],
-        "tags": [],
-        "author": "Austin Andrews",
         "version": "1.5.54"
     },
     {
@@ -66330,15 +66888,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "C90AED93-FCBD-4FDC-A15B-26CD066775BD",
-        "name": "voice-off",
-        "codepoint": "F0ED4",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "3.7.95"
-    },
-    {
         "id": "04CEF7C6-E77F-4A66-89F3-2F5B544C482B",
         "name": "voicemail",
         "codepoint": "F057D",
@@ -67741,6 +68290,15 @@
         ],
         "author": "Chris Litherland",
         "version": "1.5.54"
+    },
+    {
+        "id": "F8D156C4-16AA-47AD-B06B-970E27F30FE6",
+        "name": "webcam-off",
+        "codepoint": "F1737",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "5.9.55"
     },
     {
         "id": "5B415522-B2A4-4D34-BEE3-D81D607BBD0B",
