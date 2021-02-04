@@ -9723,7 +9723,9 @@
         "name": "book-alert-outline",
         "codepoint": "F167D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
     },
