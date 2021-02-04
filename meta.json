@@ -28793,7 +28793,9 @@
         "id": "69B65938-BBEB-4E19-9D12-3924EEAAACF0",
         "name": "fire-alert",
         "codepoint": "F15D7",
-        "aliases": [],
+        "aliases": [
+            "flame-alert"
+        ],
         "tags": [
             "Alert \/ Error"
         ],
