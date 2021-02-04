@@ -22044,7 +22044,8 @@
         "codepoint": "F163A",
         "aliases": [],
         "tags": [
-            "Database"
+            "Database",
+            "Alert \/ Error"
         ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
