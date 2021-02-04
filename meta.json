@@ -68556,7 +68556,9 @@
         "name": "wifi-alert",
         "codepoint": "F16B5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
     },
