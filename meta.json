@@ -28794,7 +28794,9 @@
         "name": "fire-alert",
         "codepoint": "F15D7",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.6.55"
     },
