@@ -20257,7 +20257,8 @@
             "biscuit-alert"
         ],
         "tags": [
-            "Food \/ Drink"
+            "Food \/ Drink",
+            "Alert \/ Error"
         ],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
