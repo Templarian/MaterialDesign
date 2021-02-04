@@ -28846,7 +28846,9 @@
         "id": "DAB67757-2065-4741-A03A-563D0EA202E0",
         "name": "fire-off",
         "codepoint": "F1722",
-        "aliases": [],
+        "aliases": [
+            "flame-off"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.9.55"
