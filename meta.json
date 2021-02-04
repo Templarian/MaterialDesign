@@ -22056,7 +22056,8 @@
         "codepoint": "F1624",
         "aliases": [],
         "tags": [
-            "Database"
+            "Database",
+            "Alert \/ Error"
         ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
