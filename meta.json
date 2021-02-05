@@ -648,7 +648,8 @@
         "name": "account-filter-outline",
         "codepoint": "F0F9D",
         "aliases": [
-            "account-funnel-outline"
+            "account-funnel-outline",
+            "leads-outline"
         ],
         "tags": [
             "Account \/ User"
