@@ -634,10 +634,8 @@
         "name": "account-filter",
         "codepoint": "F0936",
         "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
+        "tags": [],
+        "author": "Michael Irigoyen",
         "version": "2.4.85"
     },
     {
