@@ -637,7 +637,9 @@
             "account-funnel",
             "leads"
         ],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Michael Irigoyen",
         "version": "2.4.85"
     },
