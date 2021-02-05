@@ -630,6 +630,17 @@
         "version": "4.0.96"
     },
     {
+        "id": "839928F4-21EA-472B-94A0-C7DFBD6C263A",
+        "name": "account-filter",
+        "codepoint": "F0936",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "2.4.85"
+    },
+    {
         "id": "7B8F1133-B47B-46C0-AAC0-FD87F06B038D",
         "name": "account-group",
         "codepoint": "F0849",
@@ -1474,17 +1485,6 @@
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
-    },
-    {
-        "id": "839928F4-21EA-472B-94A0-C7DFBD6C263A",
-        "name": "adobe",
-        "codepoint": "F0936",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "2.4.85"
     },
     {
         "id": "4C7A5C71-F3C9-4BD7-B123-C71BE81CAFB7",
