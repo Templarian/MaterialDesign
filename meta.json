@@ -644,6 +644,19 @@
         "version": "2.4.85"
     },
     {
+        "id": "4C7A5C71-F3C9-4BD7-B123-C71BE81CAFB7",
+        "name": "account-filter-outline",
+        "codepoint": "F0F9D",
+        "aliases": [
+            "pdf"
+        ],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "4.0.96"
+    },
+    {
         "id": "7B8F1133-B47B-46C0-AAC0-FD87F06B038D",
         "name": "account-group",
         "codepoint": "F0849",
@@ -1488,19 +1501,6 @@
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
-    },
-    {
-        "id": "4C7A5C71-F3C9-4BD7-B123-C71BE81CAFB7",
-        "name": "adobe-acrobat",
-        "codepoint": "F0F9D",
-        "aliases": [
-            "pdf"
-        ],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "4.0.96"
     },
     {
         "id": "FACEA69B-49F0-4588-BDEC-693965AD4649",
