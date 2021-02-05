@@ -634,7 +634,8 @@
         "name": "account-filter",
         "codepoint": "F0936",
         "aliases": [
-            "account-funnel"
+            "account-funnel",
+            "leads"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
