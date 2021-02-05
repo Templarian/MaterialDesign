@@ -633,7 +633,9 @@
         "id": "839928F4-21EA-472B-94A0-C7DFBD6C263A",
         "name": "account-filter",
         "codepoint": "F0936",
-        "aliases": [],
+        "aliases": [
+            "account-funnel"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "2.4.85"
