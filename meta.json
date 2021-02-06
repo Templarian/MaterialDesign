@@ -14088,7 +14088,9 @@
         "id": "951C68F1-876F-440E-A4D9-B724BB6D6181",
         "name": "card-account-details-star",
         "codepoint": "F02A3",
-        "aliases": [],
+        "aliases": [
+            "card-account-details-favorite"
+        ],
         "tags": [
             "Account \/ User"
         ],
