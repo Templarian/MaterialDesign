@@ -4757,7 +4757,9 @@
         "id": "41367FBC-DCE3-4202-AF33-3AD576C3FD7C",
         "name": "archive-alert",
         "codepoint": "F14FD",
-        "aliases": [],
+        "aliases": [
+            "box-alert"
+        ],
         "tags": [
             "Alert \/ Error"
         ],
