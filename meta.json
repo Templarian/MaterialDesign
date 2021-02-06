@@ -41830,7 +41830,6 @@
         "name": "map-marker-plus",
         "codepoint": "F0651",
         "aliases": [
-            "add-location",
             "map-marker-add",
             "location-add"
         ],
