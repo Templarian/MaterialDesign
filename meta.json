@@ -41640,7 +41640,8 @@
         "name": "map-marker-circle",
         "codepoint": "F034F",
         "aliases": [
-            "explore-nearby"
+            "explore-nearby",
+            "location-circle"
         ],
         "tags": [
             "Navigation",
