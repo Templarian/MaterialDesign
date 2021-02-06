@@ -46266,7 +46266,8 @@
         "name": "note-minus",
         "codepoint": "F164F",
         "aliases": [
-            "paper-minus"
+            "paper-minus",
+            "sticky-note-minus"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
