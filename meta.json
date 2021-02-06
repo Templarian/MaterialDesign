@@ -36487,7 +36487,8 @@
         "name": "home-map-marker",
         "codepoint": "F05F8",
         "aliases": [
-            "house-map-marker"
+            "house-map-marker",
+            "home-location"
         ],
         "tags": [
             "Home Automation",
