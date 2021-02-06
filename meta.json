@@ -60454,7 +60454,9 @@
         "id": "AA6C9E76-AC9C-4373-8AC4-F5C706741FC9",
         "name": "star-settings-outline",
         "codepoint": "F166B",
-        "aliases": [],
+        "aliases": [
+            "favorite-settings-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
