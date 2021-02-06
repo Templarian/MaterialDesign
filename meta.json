@@ -60362,7 +60362,9 @@
         "id": "297E76E3-B7A2-44A1-A340-F479AEFEF282",
         "name": "star-off-outline",
         "codepoint": "F155B",
-        "aliases": [],
+        "aliases": [
+            "favorite-off-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
