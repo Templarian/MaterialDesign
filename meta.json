@@ -46366,7 +46366,9 @@
         "id": "948C92D0-A16F-48FD-8A25-37898D6B9768",
         "name": "note-remove",
         "codepoint": "F1651",
-        "aliases": [],
+        "aliases": [
+            "paper-remove"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
