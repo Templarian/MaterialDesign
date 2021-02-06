@@ -41740,7 +41740,8 @@
         "codepoint": "F0350",
         "aliases": [
             "map-markers",
-            "location-multiple"
+            "location-multiple",
+            "locations"
         ],
         "tags": [
             "Navigation",
