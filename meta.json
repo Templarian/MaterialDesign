@@ -41682,7 +41682,9 @@
         "id": "5FFC5505-B029-4487-A68E-EDE4B708E5B9",
         "name": "map-marker-left",
         "codepoint": "F12DB",
-        "aliases": [],
+        "aliases": [
+            "location-left"
+        ],
         "tags": [
             "Navigation",
             "Geographic Information System"
