@@ -54252,7 +54252,9 @@
         "id": "B32D5968-FE0C-46FB-916E-52D0103DA2C7",
         "name": "robot-excited",
         "codepoint": "F16A3",
-        "aliases": [],
+        "aliases": [
+            "emoticon-robot-excited"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
