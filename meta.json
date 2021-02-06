@@ -36837,7 +36837,9 @@
         "id": "FA30BC13-BE77-44F6-BEB1-942749E019A7",
         "name": "hospital-marker",
         "codepoint": "F02E2",
-        "aliases": [],
+        "aliases": [
+            "hospital-location"
+        ],
         "tags": [
             "Medical \/ Hospital"
         ],
