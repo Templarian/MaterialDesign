@@ -36738,7 +36738,9 @@
         "id": "EA8A87CE-C2FE-4C05-8CD0-32C9716737D4",
         "name": "horse",
         "codepoint": "F15BF",
-        "aliases": [],
+        "aliases": [
+            "equestrian"
+        ],
         "tags": [
             "Transportation + Other",
             "Animal"
