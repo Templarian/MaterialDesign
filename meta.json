@@ -41847,7 +41847,8 @@
         "codepoint": "F12F8",
         "aliases": [
             "map-marker-add-outline",
-            "location-plus-outline"
+            "location-plus-outline",
+            "location-add-outline"
         ],
         "tags": [
             "Geographic Information System",
