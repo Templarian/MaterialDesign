@@ -64091,7 +64091,8 @@
             "lego",
             "plugin",
             "extension",
-            "toy-brick-location-outline"
+            "toy-brick-location-outline",
+            "plugin-outline"
         ],
         "tags": [],
         "author": "Michael Richins",
