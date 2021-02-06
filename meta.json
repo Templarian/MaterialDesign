@@ -54312,7 +54312,9 @@
         "id": "2EFA6B95-27BD-4A52-90AF-991A3574FD2C",
         "name": "robot-love",
         "codepoint": "F16A5",
-        "aliases": [],
+        "aliases": [
+            "emoji-robot-love"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
