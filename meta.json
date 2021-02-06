@@ -23931,7 +23931,9 @@
         "id": "8D6EB954-B4C9-44D5-9E70-C4E186C35957",
         "name": "dog",
         "codepoint": "F0A43",
-        "aliases": [],
+        "aliases": [
+            "emoji-dog"
+        ],
         "tags": [
             "Animal"
         ],
