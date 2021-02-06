@@ -25725,7 +25725,8 @@
             "sentiment-very-satisfied",
             "tag-faces",
             "smiley-outline",
-            "face-outline"
+            "face-outline",
+            "emoji-outline"
         ],
         "tags": [
             "Emoji"
