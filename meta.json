@@ -54380,7 +54380,9 @@
         "id": "C0F3E15B-2DFB-4EAF-B41A-2D18EEA22C25",
         "name": "robot-outline",
         "codepoint": "F167A",
-        "aliases": [],
+        "aliases": [
+            "emoji-robot-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
