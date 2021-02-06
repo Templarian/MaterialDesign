@@ -41710,7 +41710,9 @@
         "id": "34DD1168-3875-4F77-9C0B-5BCFFB80FBBD",
         "name": "map-marker-minus",
         "codepoint": "F0650",
-        "aliases": [],
+        "aliases": [
+            "location-minus"
+        ],
         "tags": [
             "Navigation",
             "Geographic Information System"
