@@ -41815,7 +41815,9 @@
         "id": "A20F1915-26FB-41BD-A407-B73A90936E76",
         "name": "map-marker-path",
         "codepoint": "F0D20",
-        "aliases": [],
+        "aliases": [
+            "location-path"
+        ],
         "tags": [
             "Navigation",
             "Geographic Information System"
