@@ -28334,7 +28334,9 @@
         "id": "B418C938-EE23-4073-B10C-C1D93D54B288",
         "name": "file-star-outline",
         "codepoint": "F103B",
-        "aliases": [],
+        "aliases": [
+            "file-favorite-outline"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
