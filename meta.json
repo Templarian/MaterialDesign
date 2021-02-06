@@ -60338,7 +60338,9 @@
         "id": "24A0E7F1-32AA-4B4B-B0BC-93AD9F7E2F8A",
         "name": "star-minus-outline",
         "codepoint": "F1568",
-        "aliases": [],
+        "aliases": [
+            "favorite-minus-outline"
+        ],
         "tags": [
             "Shape"
         ],
