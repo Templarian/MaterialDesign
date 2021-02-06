@@ -46333,7 +46333,8 @@
         "name": "note-plus",
         "codepoint": "F039C",
         "aliases": [
-            "note-add"
+            "note-add",
+            "paper-plus"
         ],
         "tags": [],
         "author": "Austin Andrews",
