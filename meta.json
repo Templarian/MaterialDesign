@@ -54204,9 +54204,7 @@
         "id": "535C4A09-5555-45A6-8409-BF12E1CDA2DE",
         "name": "robot-confused",
         "codepoint": "F169F",
-        "aliases": [
-            "robot-emoji-confused"
-        ],
+        "aliases": [],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
