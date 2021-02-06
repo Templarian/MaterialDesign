@@ -60387,7 +60387,9 @@
         "id": "A782B3BE-28DC-4BF8-A209-42DC8F1CE287",
         "name": "star-plus",
         "codepoint": "F1563",
-        "aliases": [],
+        "aliases": [
+            "favorite-plus"
+        ],
         "tags": [
             "Shape"
         ],
