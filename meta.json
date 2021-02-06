@@ -51070,7 +51070,9 @@
         "id": "80A0AA10-9B8E-4AAA-BDEA-EDDADB94A7CC",
         "name": "playlist-star",
         "codepoint": "F0DF2",
-        "aliases": [],
+        "aliases": [
+            "playlist-favorite"
+        ],
         "tags": [],
         "author": "Google",
         "version": "3.5.94"
