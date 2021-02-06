@@ -41989,7 +41989,8 @@
         "codepoint": "F1608",
         "aliases": [
             "map-marker-favorite",
-            "location-star"
+            "location-star",
+            "location-favorite"
         ],
         "tags": [
             "Navigation"
