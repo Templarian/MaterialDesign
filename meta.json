@@ -41784,7 +41784,9 @@
         "id": "48218DC3-F2A6-4C4B-9B5E-0648815B8864",
         "name": "map-marker-off-outline",
         "codepoint": "F12FD",
-        "aliases": [],
+        "aliases": [
+            "location-off-outline"
+        ],
         "tags": [
             "Navigation",
             "Geographic Information System"
