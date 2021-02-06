@@ -52504,7 +52504,9 @@
         "id": "72BEE187-7B9C-4106-92EA-CD040D56815F",
         "name": "puzzle-star-outline",
         "codepoint": "F14DB",
-        "aliases": [],
+        "aliases": [
+            "puzzle-favorite-outline"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
