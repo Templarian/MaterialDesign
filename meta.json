@@ -60374,7 +60374,8 @@
         "name": "star-outline",
         "codepoint": "F04D2",
         "aliases": [
-            "star-border"
+            "star-border",
+            "favorite-outline"
         ],
         "tags": [
             "Shape"
