@@ -25588,7 +25588,8 @@
         "name": "emoticon-frown-outline",
         "codepoint": "F0F4D",
         "aliases": [
-            "face-frown-outline"
+            "face-frown-outline",
+            "emoji-frown-outline"
         ],
         "tags": [
             "Emoji"
