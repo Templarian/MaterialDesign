@@ -54228,7 +54228,9 @@
         "id": "04405E02-7C38-409E-8F92-785431ECC76F",
         "name": "robot-dead",
         "codepoint": "F16A1",
-        "aliases": [],
+        "aliases": [
+            "emoji-robot-dead"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
