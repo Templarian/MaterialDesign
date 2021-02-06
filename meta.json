@@ -41945,7 +41945,9 @@
         "id": "D19361A0-41AB-4E11-B4D4-AE50D42B3B2C",
         "name": "map-marker-remove-variant",
         "codepoint": "F0F0A",
-        "aliases": [],
+        "aliases": [
+            "location-remove-variant-outline"
+        ],
         "tags": [
             "Navigation",
             "Geographic Information System"
