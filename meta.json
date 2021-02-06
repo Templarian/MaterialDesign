@@ -54276,7 +54276,9 @@
         "id": "6AE4D050-1B64-4AAB-B57B-DD738276E82F",
         "name": "robot-happy",
         "codepoint": "F1719",
-        "aliases": [],
+        "aliases": [
+            "emoji-robot-happy"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.9.55"
