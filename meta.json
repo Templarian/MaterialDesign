@@ -46367,7 +46367,8 @@
         "name": "note-remove",
         "codepoint": "F1651",
         "aliases": [
-            "paper-remove"
+            "paper-remove",
+            "sticky-note-remove"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
