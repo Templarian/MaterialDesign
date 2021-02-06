@@ -20801,7 +20801,9 @@
         "id": "21D860AE-A880-4ED2-9E11-617D888BD744",
         "name": "credit-card-marker",
         "codepoint": "F06A8",
-        "aliases": [],
+        "aliases": [
+            "credit-card-location"
+        ],
         "tags": [
             "Banking"
         ],
