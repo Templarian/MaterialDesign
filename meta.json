@@ -59523,7 +59523,8 @@
         "name": "spider",
         "codepoint": "F11EA",
         "aliases": [
-            "arachnid"
+            "arachnid",
+            "bug"
         ],
         "tags": [
             "Holiday",
