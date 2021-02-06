@@ -41959,7 +41959,9 @@
         "id": "445C4B6D-5A56-42F3-845F-92C22A11BB64",
         "name": "map-marker-right",
         "codepoint": "F12DC",
-        "aliases": [],
+        "aliases": [
+            "location-right"
+        ],
         "tags": [
             "Navigation",
             "Geographic Information System"
