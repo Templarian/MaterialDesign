@@ -60388,7 +60388,8 @@
         "name": "star-plus",
         "codepoint": "F1563",
         "aliases": [
-            "favorite-plus"
+            "favorite-plus",
+            "star-add"
         ],
         "tags": [
             "Shape"
