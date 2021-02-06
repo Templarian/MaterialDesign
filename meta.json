@@ -6771,7 +6771,9 @@
         "id": "24C6F5BD-6965-4CDB-B3AC-02CA82F24216",
         "name": "baby-face-outline",
         "codepoint": "F0E7D",
-        "aliases": [],
+        "aliases": [
+            "emoji-baby-outline"
+        ],
         "tags": [
             "People \/ Family"
         ],
