@@ -68823,7 +68823,9 @@
         "id": "A6FB83C2-13FE-4B23-AE9B-7F2696CA2835",
         "name": "wifi-marker",
         "codepoint": "F16C1",
-        "aliases": [],
+        "aliases": [
+            "wifi-location"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
