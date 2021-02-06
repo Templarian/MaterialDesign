@@ -9996,7 +9996,9 @@
         "id": "D5DCE615-BCFA-4922-8F95-5CEA756FD378",
         "name": "book-marker",
         "codepoint": "F1690",
-        "aliases": [],
+        "aliases": [
+            "book-location"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
