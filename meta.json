@@ -42017,7 +42017,9 @@
         "id": "0C1B9015-C0F4-4710-87D2-BA7B710943F2",
         "name": "map-marker-up",
         "codepoint": "F1103",
-        "aliases": [],
+        "aliases": [
+            "location-up"
+        ],
         "tags": [
             "Navigation",
             "Geographic Information System"
