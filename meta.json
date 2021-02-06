@@ -46401,7 +46401,9 @@
         "id": "FAA55692-47B7-492B-897A-9225E7F0C766",
         "name": "note-search-outline",
         "codepoint": "F1654",
-        "aliases": [],
+        "aliases": [
+            "paper-search-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
