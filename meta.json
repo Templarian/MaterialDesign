@@ -46253,7 +46253,8 @@
         "name": "note",
         "codepoint": "F039A",
         "aliases": [
-            "paper"
+            "paper",
+            "post-it"
         ],
         "tags": [],
         "author": "Austin Andrews",
