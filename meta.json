@@ -60130,7 +60130,9 @@
         "id": "9270C3C4-1ADB-4965-9DAE-444F9448B39E",
         "name": "star-box-multiple",
         "codepoint": "F1286",
-        "aliases": [],
+        "aliases": [
+            "favorite-box-multiple"
+        ],
         "tags": [],
         "author": "Yaroslav Bandura",
         "version": "4.7.95"
