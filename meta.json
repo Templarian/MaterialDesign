@@ -30107,7 +30107,9 @@
         "id": "00FD0F50-240F-4654-9712-C219B0FF9A97",
         "name": "folder-marker",
         "codepoint": "F126D",
-        "aliases": [],
+        "aliases": [
+            "folder-location"
+        ],
         "tags": [
             "Geographic Information System",
             "Files \/ Folders"
