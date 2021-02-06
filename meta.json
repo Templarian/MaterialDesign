@@ -60163,7 +60163,9 @@
         "id": "6AB2A77F-C9ED-4EF1-BDD3-4E060E690A7E",
         "name": "star-check",
         "codepoint": "F1566",
-        "aliases": [],
+        "aliases": [
+            "favorite-check"
+        ],
         "tags": [
             "Shape"
         ],
