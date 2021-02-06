@@ -46279,7 +46279,8 @@
         "name": "note-minus-outline",
         "codepoint": "F1650",
         "aliases": [
-            "paper-minus-outline"
+            "paper-minus-outline",
+            "sticky-note-minus-outline"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
