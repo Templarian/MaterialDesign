@@ -41654,7 +41654,9 @@
         "id": "B2FF0F5A-4B2C-480C-9022-D84AD78E72ED",
         "name": "map-marker-distance",
         "codepoint": "F08F0",
-        "aliases": [],
+        "aliases": [
+            "location-distance"
+        ],
         "tags": [
             "Navigation",
             "Geographic Information System"
