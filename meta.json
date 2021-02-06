@@ -11950,7 +11950,8 @@
         "name": "bus-marker",
         "codepoint": "F1212",
         "aliases": [
-            "bus-location"
+            "bus-location",
+            "bus-stop"
         ],
         "tags": [],
         "author": "Michael Richins",
