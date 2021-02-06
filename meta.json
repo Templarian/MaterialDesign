@@ -62229,7 +62229,8 @@
         "name": "tag-faces",
         "codepoint": "F04FA",
         "aliases": [
-            "tag-emoji"
+            "tag-emoji",
+            "tag-emoticon"
         ],
         "tags": [],
         "author": "Google",
