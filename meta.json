@@ -23948,7 +23948,9 @@
         "id": "4A3EEFF6-77EF-498F-9450-7AE3D3EC7BC6",
         "name": "dog-side",
         "codepoint": "F0A44",
-        "aliases": [],
+        "aliases": [
+            "k9"
+        ],
         "tags": [
             "Animal"
         ],
