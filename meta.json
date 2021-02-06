@@ -14693,7 +14693,8 @@
         "codepoint": "F0DB8",
         "aliases": [
             "cod",
-            "cash-on-delivery"
+            "cash-on-delivery",
+            "cash-location"
         ],
         "tags": [
             "Banking"
