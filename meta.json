@@ -60402,7 +60402,9 @@
         "id": "0CBFD9AD-12B1-4AAF-A9CC-9CA46FEB47FD",
         "name": "star-plus-outline",
         "codepoint": "F1567",
-        "aliases": [],
+        "aliases": [
+            "star-add-outline"
+        ],
         "tags": [
             "Shape"
         ],
