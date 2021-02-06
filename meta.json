@@ -54288,7 +54288,9 @@
         "id": "62023A79-6DF7-4B3B-BDCA-FEEAE73C9F89",
         "name": "robot-happy-outline",
         "codepoint": "F171A",
-        "aliases": [],
+        "aliases": [
+            "emoji-robot-happy-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.9.55"
