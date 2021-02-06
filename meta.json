@@ -14101,7 +14101,9 @@
         "id": "97C9CAC2-9F94-40EA-9A08-1A9BDD208743",
         "name": "card-account-details-star-outline",
         "codepoint": "F06DB",
-        "aliases": [],
+        "aliases": [
+            "card-account-details-favorite-outline"
+        ],
         "tags": [
             "Account \/ User"
         ],
