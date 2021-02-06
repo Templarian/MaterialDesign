@@ -41592,7 +41592,9 @@
         "id": "65B4F317-EB12-4BD4-8E9B-C6D3A153B868",
         "name": "map-marker-alert-outline",
         "codepoint": "F0F06",
-        "aliases": [],
+        "aliases": [
+            "location-alert-outline"
+        ],
         "tags": [
             "Navigation",
             "Alert \/ Error",
