@@ -12662,7 +12662,8 @@
         "name": "calendar-star",
         "codepoint": "F09D3",
         "aliases": [
-            "event-star"
+            "event-star",
+            "calendar-favorite"
         ],
         "tags": [
             "Date \/ Time"
