@@ -30536,7 +30536,8 @@
         "name": "folder-star-outline",
         "codepoint": "F0B9F",
         "aliases": [
-            "folder-special-outline"
+            "folder-special-outline",
+            "folder-favorite-outline"
         ],
         "tags": [
             "Files \/ Folders"
