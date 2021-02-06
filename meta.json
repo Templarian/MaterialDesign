@@ -4817,7 +4817,9 @@
         "id": "643EF8E3-148D-4858-85C6-A965822B74CF",
         "name": "archive-arrow-up-outline",
         "codepoint": "F125C",
-        "aliases": [],
+        "aliases": [
+            "box-arrow-up-outline"
+        ],
         "tags": [],
         "author": "frankgrinaert",
         "version": "4.7.95"
