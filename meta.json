@@ -14893,7 +14893,8 @@
         "name": "cat",
         "codepoint": "F011B",
         "aliases": [
-            "emoji-cat"
+            "emoji-cat",
+            "emoticon-cat"
         ],
         "tags": [
             "Animal"
