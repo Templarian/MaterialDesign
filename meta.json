@@ -41754,7 +41754,9 @@
         "id": "360866E5-D407-4E54-9470-7ECF6759F941",
         "name": "map-marker-multiple-outline",
         "codepoint": "F1277",
-        "aliases": [],
+        "aliases": [
+            "locations-outline"
+        ],
         "tags": [
             "Navigation",
             "Geographic Information System"
