@@ -58487,7 +58487,9 @@
         "id": "529CCAF2-D35F-4A40-BEF2-213159AE5DD9",
         "name": "snail",
         "codepoint": "F1677",
-        "aliases": [],
+        "aliases": [
+            "gastropod"
+        ],
         "tags": [
             "Animal"
         ],
