@@ -69088,7 +69088,8 @@
         "aliases": [
             "wifi-favourite",
             "network-favourite",
-            "wifi-favorite"
+            "wifi-favorite",
+            "network-favorite"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
