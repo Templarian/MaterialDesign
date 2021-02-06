@@ -46306,7 +46306,8 @@
         "name": "note-multiple-outline",
         "codepoint": "F06B9",
         "aliases": [
-            "notes-outline"
+            "notes-outline",
+            "papers-outline"
         ],
         "tags": [],
         "author": "Austin Andrews",
