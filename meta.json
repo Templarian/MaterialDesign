@@ -60417,7 +60417,9 @@
         "id": "49254980-CD72-42B5-A87B-F24EFC2E4EA5",
         "name": "star-remove",
         "codepoint": "F1565",
-        "aliases": [],
+        "aliases": [
+            "favorite-remove"
+        ],
         "tags": [
             "Shape"
         ],
