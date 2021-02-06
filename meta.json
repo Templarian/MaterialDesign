@@ -30526,7 +30526,9 @@
         "id": "C7DD0CB0-EEA4-4D24-BCE2-8184382EF419",
         "name": "folder-star-multiple-outline",
         "codepoint": "F13D4",
-        "aliases": [],
+        "aliases": [
+            "folder-favorite-multiple-outline"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
