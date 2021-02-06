@@ -30513,7 +30513,9 @@
         "id": "407F7D88-25F6-4EDF-8489-3F8B7996F704",
         "name": "folder-star-multiple",
         "codepoint": "F13D3",
-        "aliases": [],
+        "aliases": [
+            "folder-favorite-multiple"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
