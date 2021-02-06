@@ -41755,7 +41755,8 @@
         "name": "map-marker-multiple-outline",
         "codepoint": "F1277",
         "aliases": [
-            "locations-outline"
+            "locations-outline",
+            "location-multiple-outline"
         ],
         "tags": [
             "Navigation",
