@@ -4770,7 +4770,9 @@
         "id": "1D17B03B-9147-4067-8F5E-88773D68289E",
         "name": "archive-alert-outline",
         "codepoint": "F14FE",
-        "aliases": [],
+        "aliases": [
+            "box-alert-outline"
+        ],
         "tags": [
             "Alert \/ Error"
         ],
