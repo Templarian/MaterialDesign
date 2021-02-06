@@ -60476,7 +60476,9 @@
         "id": "27A6F1B6-E095-494B-8CC7-660695DC6E70",
         "name": "star-shooting-outline",
         "codepoint": "F1742",
-        "aliases": [],
+        "aliases": [
+            "favorite-shooting-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.9.55"
