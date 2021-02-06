@@ -60202,7 +60202,8 @@
         "name": "star-circle-outline",
         "codepoint": "F09A4",
         "aliases": [
-            "feature-highlight"
+            "feature-highlight",
+            "favorite-circle-outline"
         ],
         "tags": [],
         "author": "Google",
