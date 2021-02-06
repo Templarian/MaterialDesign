@@ -46414,7 +46414,9 @@
         "id": "2ADC4253-F51B-4BC2-B04C-0DDD139425CF",
         "name": "note-text",
         "codepoint": "F039E",
-        "aliases": [],
+        "aliases": [
+            "paper-text"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.5.54"
