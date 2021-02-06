@@ -41861,7 +41861,9 @@
         "id": "C9930FE9-E831-4194-A4FA-905CE141CFEA",
         "name": "map-marker-question",
         "codepoint": "F0F07",
-        "aliases": [],
+        "aliases": [
+            "location-question"
+        ],
         "tags": [
             "Navigation",
             "Geographic Information System"
