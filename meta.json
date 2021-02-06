@@ -4796,7 +4796,8 @@
         "name": "archive-arrow-down-outline",
         "codepoint": "F125A",
         "aliases": [
-            "box-arrow-down"
+            "box-arrow-down",
+            "this-side-down-outline"
         ],
         "tags": [],
         "author": "frankgrinaert",
