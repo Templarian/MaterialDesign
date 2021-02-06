@@ -4806,8 +4806,7 @@
         "name": "archive-arrow-up",
         "codepoint": "F125B",
         "aliases": [
-            "box-arrow-up",
-            "box-this-side-up"
+            "box-arrow-up"
         ],
         "tags": [],
         "author": "frankgrinaert",
