@@ -65546,7 +65546,9 @@
         "id": "D0825387-637B-4EB5-BCF5-470A7FCE1F05",
         "name": "unicorn-variant",
         "codepoint": "F15C3",
-        "aliases": [],
+        "aliases": [
+            "fantasy"
+        ],
         "tags": [
             "Animal"
         ],
