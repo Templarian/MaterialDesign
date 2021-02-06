@@ -57116,7 +57116,8 @@
         "name": "shield-star",
         "codepoint": "F113B",
         "aliases": [
-            "badge"
+            "badge",
+            "shield-favorite"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
