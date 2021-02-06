@@ -54168,7 +54168,9 @@
         "id": "EC6C8D3D-0315-4C3A-B37A-97411758DF34",
         "name": "robot",
         "codepoint": "F06A9",
-        "aliases": [],
+        "aliases": [
+            "robot-emoji"
+        ],
         "tags": [],
         "author": "GreenTurtwig",
         "version": "1.7.12"
