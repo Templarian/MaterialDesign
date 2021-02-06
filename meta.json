@@ -54359,7 +54359,9 @@
         "id": "B62D8FF2-AF07-4D20-8C8B-93E585EF6EFB",
         "name": "robot-off",
         "codepoint": "F16A7",
-        "aliases": [],
+        "aliases": [
+            "emoji-robot-off"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
