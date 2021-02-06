@@ -38741,7 +38741,8 @@
         "codepoint": "F119E",
         "aliases": [
             "primary-key",
-            "sql-primary-key"
+            "sql-primary-key",
+            "key-favorite"
         ],
         "tags": [],
         "author": "Haley Halcyon",
