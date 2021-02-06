@@ -20802,7 +20802,8 @@
         "name": "credit-card-marker",
         "codepoint": "F06A8",
         "aliases": [
-            "credit-card-location"
+            "credit-card-location",
+            "payment-on-delivery"
         ],
         "tags": [
             "Banking"
