@@ -4746,7 +4746,9 @@
         "id": "9C2AD144-9997-4169-983C-879DCCD62760",
         "name": "archive",
         "codepoint": "F003C",
-        "aliases": [],
+        "aliases": [
+            "box"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.5.54"
