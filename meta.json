@@ -42004,7 +42004,8 @@
         "codepoint": "F1609",
         "aliases": [
             "map-marker-favorite-outline",
-            "location-star-outline"
+            "location-star-outline",
+            "location-favorite-outline"
         ],
         "tags": [
             "Navigation"
