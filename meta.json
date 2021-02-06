@@ -25662,7 +25662,8 @@
         "name": "emoticon-lol",
         "codepoint": "F1214",
         "aliases": [
-            "face-lol"
+            "face-lol",
+            "emoji-lol"
         ],
         "tags": [
             "Emoji"
