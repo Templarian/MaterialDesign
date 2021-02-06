@@ -30500,7 +30500,8 @@
         "name": "folder-star",
         "codepoint": "F069D",
         "aliases": [
-            "folder-special"
+            "folder-special",
+            "folder-favorite"
         ],
         "tags": [
             "Files \/ Folders"
