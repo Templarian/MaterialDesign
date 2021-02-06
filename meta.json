@@ -46336,7 +46336,8 @@
             "note-add",
             "paper-plus",
             "paper-add",
-            "sticky-note-plus"
+            "sticky-note-plus",
+            "sticky-note-add"
         ],
         "tags": [],
         "author": "Austin Andrews",
