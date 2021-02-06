@@ -4818,7 +4818,8 @@
         "name": "archive-arrow-up-outline",
         "codepoint": "F125C",
         "aliases": [
-            "box-arrow-up-outline"
+            "box-arrow-up-outline",
+            "this-side-up-outline"
         ],
         "tags": [],
         "author": "frankgrinaert",
