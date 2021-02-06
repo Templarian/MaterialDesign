@@ -41625,7 +41625,8 @@
         "name": "map-marker-check-outline",
         "codepoint": "F12FB",
         "aliases": [
-            "location-check-outline"
+            "location-check-outline",
+            "where-to-vote-outline"
         ],
         "tags": [
             "Navigation",
