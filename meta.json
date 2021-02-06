@@ -14892,7 +14892,9 @@
         "id": "5D3A753E-1FA9-42F4-8A71-E686A36D1CB6",
         "name": "cat",
         "codepoint": "F011B",
-        "aliases": [],
+        "aliases": [
+            "emoji-cat"
+        ],
         "tags": [
             "Animal"
         ],
