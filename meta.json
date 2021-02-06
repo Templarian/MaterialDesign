@@ -41798,7 +41798,9 @@
         "id": "DE8F4623-A6D4-4DD4-B61A-5936A0538FD2",
         "name": "map-marker-outline",
         "codepoint": "F07D9",
-        "aliases": [],
+        "aliases": [
+            "location-outline"
+        ],
         "tags": [
             "Navigation",
             "Geographic Information System"
