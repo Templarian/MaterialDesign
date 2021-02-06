@@ -41875,7 +41875,9 @@
         "id": "0F3F436D-95BF-4578-A209-CF8B26DEDA15",
         "name": "map-marker-question-outline",
         "codepoint": "F0F08",
-        "aliases": [],
+        "aliases": [
+            "location-question-outline"
+        ],
         "tags": [
             "Navigation",
             "Geographic Information System"
