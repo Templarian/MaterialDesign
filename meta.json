@@ -60465,7 +60465,9 @@
         "id": "18267D80-A569-4013-84F4-7024F3990F47",
         "name": "star-shooting",
         "codepoint": "F1741",
-        "aliases": [],
+        "aliases": [
+            "favorite-shooting"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.9.55"
