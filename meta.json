@@ -49742,7 +49742,9 @@
         "id": "B2649A8A-D1EC-43AF-9C99-F233AF709155",
         "name": "penguin",
         "codepoint": "F0EC0",
-        "aliases": [],
+        "aliases": [
+            "emoji-penguin"
+        ],
         "tags": [
             "Animal"
         ],
