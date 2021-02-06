@@ -28321,7 +28321,9 @@
         "id": "E7E04B34-BC51-466F-92A1-78C8A00DDC9D",
         "name": "file-star",
         "codepoint": "F103A",
-        "aliases": [],
+        "aliases": [
+            "file-favorite"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
