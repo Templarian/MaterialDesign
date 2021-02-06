@@ -60152,7 +60152,9 @@
         "id": "B22FEE66-3EC9-466A-9014-EF53030FA3D9",
         "name": "star-box-outline",
         "codepoint": "F0A74",
-        "aliases": [],
+        "aliases": [
+            "favorite-box-outline"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "2.6.95"
