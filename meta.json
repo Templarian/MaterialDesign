@@ -55849,7 +55849,9 @@
         "id": "DA670815-123E-4443-B813-5BB4A556AB1C",
         "name": "selection-marker",
         "codepoint": "F1283",
-        "aliases": [],
+        "aliases": [
+            "selection-location"
+        ],
         "tags": [],
         "author": "Contributors",
         "version": "4.7.95"
