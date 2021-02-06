@@ -41903,7 +41903,9 @@
         "id": "865AB612-D546-431D-85A8-52C305B263F8",
         "name": "map-marker-radius-outline",
         "codepoint": "F12FC",
-        "aliases": [],
+        "aliases": [
+            "location-radius-outline"
+        ],
         "tags": [
             "Navigation",
             "Geographic Information System"
