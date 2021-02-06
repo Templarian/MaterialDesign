@@ -22347,7 +22347,9 @@
         "id": "163262B4-672A-4194-B002-3F414DF6C7A5",
         "name": "database-marker-outline",
         "codepoint": "F162F",
-        "aliases": [],
+        "aliases": [
+            "database-location-outline"
+        ],
         "tags": [
             "Database"
         ],
