@@ -41577,7 +41577,8 @@
         "name": "map-marker-alert",
         "codepoint": "F0F05",
         "aliases": [
-            "location-alert"
+            "location-alert",
+            "location-warning"
         ],
         "tags": [
             "Navigation",
