@@ -46353,7 +46353,8 @@
             "note-add-outline",
             "paper-plus-outline",
             "paper-add-outline",
-            "sticky-note-plus-outline"
+            "sticky-note-plus-outline",
+            "sticky-note-add-outline"
         ],
         "tags": [],
         "author": "Austin Andrews",
