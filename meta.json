@@ -46388,7 +46388,9 @@
         "id": "D914BB12-8F9A-4B71-86A0-DA016AA91B90",
         "name": "note-search",
         "codepoint": "F1653",
-        "aliases": [],
+        "aliases": [
+            "paper-search"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
