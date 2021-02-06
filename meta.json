@@ -69087,7 +69087,8 @@
         "codepoint": "F0E0B",
         "aliases": [
             "wifi-favourite",
-            "network-favourite"
+            "network-favourite",
+            "wifi-favorite"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
