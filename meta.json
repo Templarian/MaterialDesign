@@ -46415,7 +46415,8 @@
         "name": "note-text",
         "codepoint": "F039E",
         "aliases": [
-            "paper-text"
+            "paper-text",
+            "sticky-note-text"
         ],
         "tags": [],
         "author": "Austin Andrews",
