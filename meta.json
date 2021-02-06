@@ -11949,7 +11949,9 @@
         "id": "42DCF950-C2F2-4989-8E0B-ACF16326A6A7",
         "name": "bus-marker",
         "codepoint": "F1212",
-        "aliases": [],
+        "aliases": [
+            "bus-location"
+        ],
         "tags": [],
         "author": "Michael Richins",
         "version": "4.6.95"
