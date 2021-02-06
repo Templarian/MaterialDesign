@@ -60106,7 +60106,8 @@
         "codepoint": "F04CE",
         "aliases": [
             "grade",
-            "star-rate"
+            "star-rate",
+            "favorite"
         ],
         "tags": [
             "Shape"
