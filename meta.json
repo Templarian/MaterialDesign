@@ -46320,7 +46320,8 @@
         "name": "note-outline",
         "codepoint": "F039B",
         "aliases": [
-            "paper-outline"
+            "paper-outline",
+            "sticky-note-outline"
         ],
         "tags": [],
         "author": "Austin Andrews",
