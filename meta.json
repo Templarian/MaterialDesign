@@ -49038,7 +49038,9 @@
         "id": "A797FE46-DF68-4179-85BE-172BD79F0667",
         "name": "panda",
         "codepoint": "F03DA",
-        "aliases": [],
+        "aliases": [
+            "emoji-panda"
+        ],
         "tags": [
             "Animal"
         ],
