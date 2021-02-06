@@ -36767,7 +36767,9 @@
         "id": "359CB8BA-79AF-43F7-AE85-562432388C2E",
         "name": "horse-variant",
         "codepoint": "F15C1",
-        "aliases": [],
+        "aliases": [
+            "equestrian-variant"
+        ],
         "tags": [
             "Animal"
         ],
