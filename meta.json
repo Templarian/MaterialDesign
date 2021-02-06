@@ -54179,7 +54179,9 @@
         "id": "D77B4057-E06B-49B7-BBC7-DD4A7B39BC2A",
         "name": "robot-angry",
         "codepoint": "F169D",
-        "aliases": [],
+        "aliases": [
+            "robot-emoji-angry"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
