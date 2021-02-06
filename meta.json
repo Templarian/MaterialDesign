@@ -58498,7 +58498,9 @@
         "id": "C525609F-8CAF-40A8-A3FC-724F6C699E0A",
         "name": "snake",
         "codepoint": "F150E",
-        "aliases": [],
+        "aliases": [
+            "reptile"
+        ],
         "tags": [
             "Animal"
         ],
