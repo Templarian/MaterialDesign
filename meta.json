@@ -60266,7 +60266,9 @@
         "id": "20FBE06D-72C3-4E1C-945D-C7E69DC0736D",
         "name": "star-face",
         "codepoint": "F09A5",
-        "aliases": [],
+        "aliases": [
+            "favorite-face"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
