@@ -60430,7 +60430,9 @@
         "id": "40769B91-9676-413A-8D6D-9D21132637E2",
         "name": "star-remove-outline",
         "codepoint": "F1569",
-        "aliases": [],
+        "aliases": [
+            "favorite-remove-outline"
+        ],
         "tags": [
             "Shape"
         ],
