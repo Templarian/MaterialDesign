@@ -41889,7 +41889,9 @@
         "id": "8F346B27-607A-4C98-B83E-C32E921D0468",
         "name": "map-marker-radius",
         "codepoint": "F0352",
-        "aliases": [],
+        "aliases": [
+            "location-radius"
+        ],
         "tags": [
             "Navigation",
             "Geographic Information System"
