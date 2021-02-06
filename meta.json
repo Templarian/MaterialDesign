@@ -22333,7 +22333,9 @@
         "id": "91AD02DB-7EBD-4B39-AACB-8037B50728AC",
         "name": "database-marker",
         "codepoint": "F12F6",
-        "aliases": [],
+        "aliases": [
+            "database-location"
+        ],
         "tags": [
             "Geographic Information System",
             "Database"
