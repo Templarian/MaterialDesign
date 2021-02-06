@@ -46430,7 +46430,8 @@
         "aliases": [
             "paper-text-outline",
             "sticky-note-text-outline",
-            "post-it-text-outline"
+            "post-it-text-outline",
+            "post-it-note-text-outline"
         ],
         "tags": [],
         "author": "Michael Richins",
