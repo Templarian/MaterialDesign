@@ -41799,7 +41799,8 @@
         "name": "map-marker-outline",
         "codepoint": "F07D9",
         "aliases": [
-            "location-outline"
+            "location-outline",
+            "address-marker-outline"
         ],
         "tags": [
             "Navigation",
