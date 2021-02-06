@@ -59539,7 +59539,8 @@
         "name": "spider-thread",
         "codepoint": "F11EB",
         "aliases": [
-            "arachnid-thread"
+            "arachnid-thread",
+            "bug"
         ],
         "tags": [
             "Holiday",
