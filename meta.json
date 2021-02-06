@@ -60141,7 +60141,9 @@
         "id": "2B9ACC0A-EA3D-478D-935E-EAFA8F8580CF",
         "name": "star-box-multiple-outline",
         "codepoint": "F1287",
-        "aliases": [],
+        "aliases": [
+            "favorite-box-multiple-outline"
+        ],
         "tags": [],
         "author": "Yaroslav Bandura",
         "version": "4.7.95"
