@@ -23934,7 +23934,8 @@
         "name": "dog-service",
         "codepoint": "F0AAD",
         "aliases": [
-            "guide-dog"
+            "guide-dog",
+            "k9"
         ],
         "tags": [
             "Animal"
