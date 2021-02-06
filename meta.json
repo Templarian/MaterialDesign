@@ -60176,7 +60176,9 @@
         "id": "94E37A05-1F0E-49EE-92D8-5FE57B54123F",
         "name": "star-check-outline",
         "codepoint": "F156A",
-        "aliases": [],
+        "aliases": [
+            "favorite-check-outline"
+        ],
         "tags": [
             "Shape"
         ],
