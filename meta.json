@@ -45081,7 +45081,8 @@
         "aliases": [
             "slate-open-star",
             "clapperboard-open-star",
-            "film-open-star"
+            "film-open-star",
+            "movie-open-favorite"
         ],
         "tags": [
             "Video \/ Movie"
