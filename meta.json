@@ -25394,7 +25394,8 @@
         "name": "emoticon-confused",
         "codepoint": "F10DE",
         "aliases": [
-            "face-confused"
+            "face-confused",
+            "emoji-confused"
         ],
         "tags": [
             "Emoji"
