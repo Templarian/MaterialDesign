@@ -39029,7 +39029,9 @@
         "id": "180CACBF-4272-4D07-B9A0-63A5625DCB0C",
         "name": "koala",
         "codepoint": "F173F",
-        "aliases": [],
+        "aliases": [
+            "marsupial"
+        ],
         "tags": [
             "Animal"
         ],
