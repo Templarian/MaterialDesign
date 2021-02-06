@@ -44162,7 +44162,9 @@
         "id": "6E372D46-ECFB-4275-B058-036C89A3413B",
         "name": "monitor-star",
         "codepoint": "F0DDC",
-        "aliases": [],
+        "aliases": [
+            "monitor-favorite"
+        ],
         "tags": [
             "Device \/ Tech"
         ],
