@@ -55775,7 +55775,9 @@
         "id": "0A8AB6EF-B388-4086-BF8D-1F0015ADC972",
         "name": "select-multiple-marker",
         "codepoint": "F1282",
-        "aliases": [],
+        "aliases": [
+            "select-multiple-location"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "4.7.95"
