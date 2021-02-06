@@ -46350,7 +46350,8 @@
         "name": "note-plus-outline",
         "codepoint": "F039D",
         "aliases": [
-            "note-add-outline"
+            "note-add-outline",
+            "paper-plus-outline"
         ],
         "tags": [],
         "author": "Austin Andrews",
