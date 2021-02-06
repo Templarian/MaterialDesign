@@ -49743,7 +49743,8 @@
         "name": "penguin",
         "codepoint": "F0EC0",
         "aliases": [
-            "emoji-penguin"
+            "emoji-penguin",
+            "emoticon-penguin"
         ],
         "tags": [
             "Animal"
