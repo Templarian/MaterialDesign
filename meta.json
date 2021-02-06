@@ -64076,7 +64076,8 @@
         "aliases": [
             "lego",
             "plugin",
-            "extension"
+            "extension",
+            "toy-brick-location"
         ],
         "tags": [],
         "author": "Michael Richins",
