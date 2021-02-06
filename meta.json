@@ -52491,7 +52491,9 @@
         "id": "0DA18E4C-075B-4DE5-A428-31FB0BA791E4",
         "name": "puzzle-star",
         "codepoint": "F14D5",
-        "aliases": [],
+        "aliases": [
+            "puzzle-favorite"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
