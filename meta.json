@@ -54264,7 +54264,9 @@
         "id": "8013E3FE-34B6-49F3-919B-85A5E0A5873C",
         "name": "robot-excited-outline",
         "codepoint": "F16A4",
-        "aliases": [],
+        "aliases": [
+            "emoji-robot-excited-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
