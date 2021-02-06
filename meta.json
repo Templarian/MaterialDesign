@@ -41756,7 +41756,8 @@
         "codepoint": "F1277",
         "aliases": [
             "locations-outline",
-            "location-multiple-outline"
+            "location-multiple-outline",
+            "map-markers-outline"
         ],
         "tags": [
             "Navigation",
