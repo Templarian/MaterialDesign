@@ -60119,7 +60119,9 @@
         "id": "07CA9ED6-5D94-4145-AB3E-EA9FD7283E0A",
         "name": "star-box",
         "codepoint": "F0A73",
-        "aliases": [],
+        "aliases": [
+            "favorite-box"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "2.6.95"
