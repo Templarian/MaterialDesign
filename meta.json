@@ -4784,7 +4784,8 @@
         "name": "archive-arrow-down",
         "codepoint": "F1259",
         "aliases": [
-            "box-arrow-down"
+            "box-arrow-down",
+            "this-side-down"
         ],
         "tags": [],
         "author": "frankgrinaert",
