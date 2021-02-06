@@ -30121,7 +30121,9 @@
         "id": "A542AF06-5931-4B8A-8DE0-777F11304ACC",
         "name": "folder-marker-outline",
         "codepoint": "F126E",
-        "aliases": [],
+        "aliases": [
+            "folder-location-outline"
+        ],
         "tags": [
             "Geographic Information System",
             "Files \/ Folders"
