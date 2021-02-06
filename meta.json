@@ -46278,7 +46278,9 @@
         "id": "244AEF5D-38E8-42E6-9C4F-8D4AFF831651",
         "name": "note-minus-outline",
         "codepoint": "F1650",
-        "aliases": [],
+        "aliases": [
+            "paper-minus-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
