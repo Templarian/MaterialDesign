@@ -60443,7 +60443,9 @@
         "id": "30D8C8F6-3BDE-40B8-A015-6E607C370360",
         "name": "star-settings",
         "codepoint": "F166A",
-        "aliases": [],
+        "aliases": [
+            "favorite-settings"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
