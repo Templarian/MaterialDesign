@@ -60190,7 +60190,8 @@
         "name": "star-circle",
         "codepoint": "F04CF",
         "aliases": [
-            "stars"
+            "stars",
+            "favorite-circle"
         ],
         "tags": [],
         "author": "Google",
