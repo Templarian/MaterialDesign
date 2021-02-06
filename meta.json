@@ -26657,7 +26657,8 @@
         "name": "face-man",
         "codepoint": "F0643",
         "aliases": [
-            "face-male"
+            "face-male",
+            "emoji-man"
         ],
         "tags": [
             "People \/ Family"
