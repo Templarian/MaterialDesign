@@ -60224,7 +60224,9 @@
         "id": "D1100539-0788-4C74-AD03-8C5F8383DF2E",
         "name": "star-cog-outline",
         "codepoint": "F1669",
-        "aliases": [],
+        "aliases": [
+            "favorite-cog-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
