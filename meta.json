@@ -41593,7 +41593,8 @@
         "name": "map-marker-alert-outline",
         "codepoint": "F0F06",
         "aliases": [
-            "location-alert-outline"
+            "location-alert-outline",
+            "location-warning-outline"
         ],
         "tags": [
             "Navigation",
