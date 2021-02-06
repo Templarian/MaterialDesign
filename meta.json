@@ -1299,7 +1299,8 @@
         "codepoint": "F0017",
         "aliases": [
             "user-star",
-            "person-star"
+            "person-star",
+            "account-favorite"
         ],
         "tags": [
             "Account \/ User"
