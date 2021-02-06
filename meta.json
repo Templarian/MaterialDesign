@@ -23932,7 +23932,8 @@
         "name": "dog",
         "codepoint": "F0A43",
         "aliases": [
-            "emoji-dog"
+            "emoji-dog",
+            "emoticon-dog"
         ],
         "tags": [
             "Animal"
