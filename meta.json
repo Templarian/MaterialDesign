@@ -41973,7 +41973,9 @@
         "id": "9456009F-0387-4A76-8B0F-22CCBBA53071",
         "name": "map-marker-right-outline",
         "codepoint": "F12DE",
-        "aliases": [],
+        "aliases": [
+            "location-right-outline"
+        ],
         "tags": [
             "Navigation",
             "Geographic Information System"
