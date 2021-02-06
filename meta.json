@@ -60213,7 +60213,9 @@
         "id": "82407F8C-2E0B-4F79-9409-0C267A248470",
         "name": "star-cog",
         "codepoint": "F1668",
-        "aliases": [],
+        "aliases": [
+            "favorite-cog"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
