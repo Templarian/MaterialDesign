@@ -26687,7 +26687,8 @@
         "name": "face-man-profile",
         "codepoint": "F0644",
         "aliases": [
-            "face-male-profile"
+            "face-male-profile",
+            "emoji-man-profile"
         ],
         "tags": [
             "People \/ Family"
