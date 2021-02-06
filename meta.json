@@ -20695,7 +20695,8 @@
         "name": "cow",
         "codepoint": "F019A",
         "aliases": [
-            "emoji-cow"
+            "emoji-cow",
+            "emoticon-cow"
         ],
         "tags": [
             "Animal",
