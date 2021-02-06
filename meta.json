@@ -60403,7 +60403,8 @@
         "name": "star-plus-outline",
         "codepoint": "F1567",
         "aliases": [
-            "star-add-outline"
+            "star-add-outline",
+            "favorite-plus-outline"
         ],
         "tags": [
             "Shape"
