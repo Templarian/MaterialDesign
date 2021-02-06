@@ -45279,7 +45279,8 @@
         "aliases": [
             "slate-star",
             "clapperboard-star",
-            "film-star"
+            "film-star",
+            "movie-favorite"
         ],
         "tags": [
             "Video \/ Movie"
