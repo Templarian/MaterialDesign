@@ -46428,7 +46428,8 @@
         "name": "note-text-outline",
         "codepoint": "F11D7",
         "aliases": [
-            "paper-text-outline"
+            "paper-text-outline",
+            "sticky-note-text-outline"
         ],
         "tags": [],
         "author": "Michael Richins",
