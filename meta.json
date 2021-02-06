@@ -38377,7 +38377,9 @@
         "id": "70EC6F3B-31E9-4F1A-8E48-408CEB706FB8",
         "name": "kangaroo",
         "codepoint": "F1558",
-        "aliases": [],
+        "aliases": [
+            "marsupial"
+        ],
         "tags": [
             "Animal"
         ],
