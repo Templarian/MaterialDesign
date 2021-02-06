@@ -11732,7 +11732,9 @@
         "aliases": [
             "bug-tick-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Animal"
+        ],
         "author": "Michael Richins",
         "version": "2.6.95"
     },
