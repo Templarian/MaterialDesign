@@ -41576,7 +41576,9 @@
         "id": "DE87F14C-101D-47F2-87C5-118BE76F7C58",
         "name": "map-marker-alert",
         "codepoint": "F0F05",
-        "aliases": [],
+        "aliases": [
+            "location-alert"
+        ],
         "tags": [
             "Navigation",
             "Alert \/ Error",
