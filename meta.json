@@ -10007,7 +10007,9 @@
         "id": "69EBC2C1-A3D3-42E6-9868-3E97DD6DD301",
         "name": "book-marker-outline",
         "codepoint": "F1691",
-        "aliases": [],
+        "aliases": [
+            "book-location-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
