@@ -41610,7 +41610,8 @@
         "codepoint": "F0C95",
         "aliases": [
             "map-marker-tick",
-            "where-to-vote"
+            "where-to-vote",
+            "location-check"
         ],
         "tags": [
             "Navigation",
