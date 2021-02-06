@@ -25574,7 +25574,8 @@
         "name": "emoticon-frown",
         "codepoint": "F0F4C",
         "aliases": [
-            "face-frown"
+            "face-frown",
+            "emoji-frown"
         ],
         "tags": [
             "Emoji"
