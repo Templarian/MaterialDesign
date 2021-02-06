@@ -46389,7 +46389,8 @@
         "name": "note-search",
         "codepoint": "F1653",
         "aliases": [
-            "paper-search"
+            "paper-search",
+            "sticky-note-search"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
