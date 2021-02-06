@@ -42003,7 +42003,8 @@
         "name": "map-marker-star-outline",
         "codepoint": "F1609",
         "aliases": [
-            "map-marker-favorite-outline"
+            "map-marker-favorite-outline",
+            "location-star-outline"
         ],
         "tags": [
             "Navigation"
