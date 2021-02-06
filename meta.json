@@ -41739,7 +41739,8 @@
         "name": "map-marker-multiple",
         "codepoint": "F0350",
         "aliases": [
-            "map-markers"
+            "map-markers",
+            "location-multiple"
         ],
         "tags": [
             "Navigation",
