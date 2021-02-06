@@ -41668,7 +41668,9 @@
         "id": "6E4368BF-7150-40D2-861B-375421A7774B",
         "name": "map-marker-down",
         "codepoint": "F1102",
-        "aliases": [],
+        "aliases": [
+            "location-down"
+        ],
         "tags": [
             "Navigation",
             "Geographic Information System"
