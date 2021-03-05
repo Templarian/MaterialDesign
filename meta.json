@@ -32182,7 +32182,8 @@
         "name": "format-vertical-align-center",
         "codepoint": "F0622",
         "aliases": [
-            "format-vertical-align-centre"
+            "format-vertical-align-centre",
+            "arrow-vertical-collapse"
         ],
         "tags": [
             "Text \/ Content \/ Format"
