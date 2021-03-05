@@ -31505,7 +31505,8 @@
         "name": "format-horizontal-align-center",
         "codepoint": "F061E",
         "aliases": [
-            "format-horizontal-align-centre"
+            "format-horizontal-align-centre",
+            "arrow-horizontal-collapse"
         ],
         "tags": [
             "Text \/ Content \/ Format"
