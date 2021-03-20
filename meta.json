@@ -29161,7 +29161,9 @@
         "aliases": [
             "goal"
         ],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
