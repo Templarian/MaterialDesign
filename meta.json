@@ -29158,7 +29158,9 @@
         "id": "B7386AC8-4DBF-4948-AD45-49234A8A019B",
         "name": "flag-checkered",
         "codepoint": "F023C",
-        "aliases": [],
+        "aliases": [
+            "goal"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.5.54"
