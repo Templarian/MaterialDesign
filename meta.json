@@ -15907,7 +15907,9 @@
         "id": "4115E465-01E5-4F3F-929A-81C239289B21",
         "name": "chart-box-outline",
         "codepoint": "F154E",
-        "aliases": [],
+        "aliases": [
+            "poll-box-outline"
+        ],
         "tags": [
             "Math"
         ],
