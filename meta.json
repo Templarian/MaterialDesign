@@ -28299,6 +28299,17 @@
         "version": "6.0.55"
     },
     {
+        "id": "BE46BBCE-2872-4DBE-976E-AC9BC2CE19D3",
+        "name": "file-image-marker-outline",
+        "codepoint": "F1773",
+        "aliases": [
+            "file-image-location-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "C86DDD85-B79F-43C4-9497-839FF4BD7526",
         "name": "file-image-outline",
         "codepoint": "F0EB0",
