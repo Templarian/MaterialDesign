@@ -35364,6 +35364,20 @@
         "version": "6.0.55"
     },
     {
+        "id": "AD90D2EE-E142-45C3-977E-4D8299E12930",
+        "name": "hamburger-plus",
+        "codepoint": "F1779",
+        "aliases": [
+            "burger-plus",
+            "burger-add"
+        ],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "A3F55E77-82C2-48F6-B1B1-92C9259C9C26",
         "name": "hammer",
         "codepoint": "F08EA",
