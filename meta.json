@@ -643,6 +643,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "32388085-89F4-4C2C-BE98-1AEBED8F9B95",
+        "name": "account-eye-outline",
+        "codepoint": "F127B",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "4.7.95"
+    },
+    {
         "id": "839928F4-21EA-472B-94A0-C7DFBD6C263A",
         "name": "account-filter",
         "codepoint": "F0936",
@@ -52237,15 +52246,6 @@
         "tags": [],
         "author": "Austin Andrews",
         "version": "1.5.54"
-    },
-    {
-        "id": "32388085-89F4-4C2C-BE98-1AEBED8F9B95",
-        "name": "poll-box-outline",
-        "codepoint": "F127B",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "4.7.95"
     },
     {
         "id": "5ACE4E72-9576-405A-A17F-314A1FF864C8",
