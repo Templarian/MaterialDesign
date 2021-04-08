@@ -35349,6 +35349,21 @@
         "version": "6.0.55"
     },
     {
+        "id": "540219BD-FDFC-484B-8ACC-D75760F31FD7",
+        "name": "hamburger-off",
+        "codepoint": "F1778",
+        "aliases": [
+            "burger-off",
+            "fast-food-off",
+            "food-off"
+        ],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "A3F55E77-82C2-48F6-B1B1-92C9259C9C26",
         "name": "hammer",
         "codepoint": "F08EA",
