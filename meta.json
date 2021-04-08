@@ -52963,6 +52963,15 @@
         "version": "2.4.85"
     },
     {
+        "id": "2434DDA0-2B39-428D-9764-E8F9A46BF22F",
+        "name": "progress-pencil",
+        "codepoint": "F1787",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.0.55"
+    },
+    {
         "id": "DBF80F38-9B3D-4390-B366-51827F97CC0F",
         "name": "progress-question",
         "codepoint": "F1522",
