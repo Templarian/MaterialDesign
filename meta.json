@@ -649,7 +649,9 @@
         "aliases": [
             "account-view-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.7.95"
     },
