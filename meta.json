@@ -16351,18 +16351,6 @@
         "version": "3.6.95"
     },
     {
-        "id": "E0A0FF12-A5AD-40E3-B286-8958154F0537",
-        "name": "check-box-multiple-outline",
-        "codepoint": "F0C51",
-        "aliases": [
-            "check-boxes-outline",
-            "tick-box-multiple-outline"
-        ],
-        "tags": [],
-        "author": "Michael Richins",
-        "version": "3.2.89"
-    },
-    {
         "id": "EA5B8CC8-FFD6-4128-AC25-DEDCF1097A34",
         "name": "check-box-outline",
         "codepoint": "F0C52",
@@ -16748,6 +16736,18 @@
         ],
         "author": "Austin Andrews",
         "version": "1.5.54"
+    },
+    {
+        "id": "E0A0FF12-A5AD-40E3-B286-8958154F0537",
+        "name": "checkbox-multiple-outline",
+        "codepoint": "F0C51",
+        "aliases": [
+            "check-boxes-outline",
+            "tick-box-multiple-outline"
+        ],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "3.2.89"
     },
     {
         "id": "A5F7D4AF-C7A3-4F38-B21B-B9F3E68770DE",
