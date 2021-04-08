@@ -38850,6 +38850,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "68E3EA61-207C-444B-9CC5-8A7016D9953C",
+        "name": "information-off",
+        "codepoint": "F178C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.55"
+    },
+    {
         "id": "F7C01A96-16E0-44C0-A261-2CF22D056A7F",
         "name": "information-outline",
         "codepoint": "F02FD",
