@@ -5229,6 +5229,19 @@
         "version": "6.0.55"
     },
     {
+        "id": "08484938-1011-46B2-9756-2C227B9BCAAC",
+        "name": "archive-star",
+        "codepoint": "F176D",
+        "aliases": [
+            "archive-favorite",
+            "box-star",
+            "box-favorite"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "F7613EF8-368F-4AA6-B833-7246A01C3961",
         "name": "arm-flex",
         "codepoint": "F0FD7",
