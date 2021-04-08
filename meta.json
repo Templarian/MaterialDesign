@@ -55952,6 +55952,15 @@
         "version": "2.2.43"
     },
     {
+        "id": "AA9C348E-83F3-4EC8-87D5-0E7C8BAAA2DB",
+        "name": "sausage-off",
+        "codepoint": "F1789",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.0.55"
+    },
+    {
         "id": "65F29350-AC15-4F53-B3D0-B7304BA8791A",
         "name": "saw-blade",
         "codepoint": "F0E61",
