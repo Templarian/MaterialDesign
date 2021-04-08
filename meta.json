@@ -5218,6 +5218,17 @@
         "version": "6.0.55"
     },
     {
+        "id": "E07DE8F7-F3D7-4FCB-95EC-5D6C52CAFE32",
+        "name": "archive-settings-outline",
+        "codepoint": "F176C",
+        "aliases": [
+            "box-settings-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "F7613EF8-368F-4AA6-B833-7246A01C3961",
         "name": "arm-flex",
         "codepoint": "F0FD7",
