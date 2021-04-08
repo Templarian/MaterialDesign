@@ -4872,6 +4872,19 @@
         "version": "6.0.55"
     },
     {
+        "id": "8DBB6350-60C3-4433-9805-C8AB712950C4",
+        "name": "archive-clock",
+        "codepoint": "F174F",
+        "aliases": [
+            "box-clock",
+            "box-time",
+            "archive-time"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "4B8AAB0C-9EB8-44D9-B1DF-C2EE6ACB91BE",
         "name": "archive-outline",
         "codepoint": "F120E",
