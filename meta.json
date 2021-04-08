@@ -52822,6 +52822,15 @@
         "version": "6.0.55"
     },
     {
+        "id": "514C36A5-3B40-4493-A1CE-275B9C482012",
+        "name": "printer-outline",
+        "codepoint": "F1786",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.0.55"
+    },
+    {
         "id": "F9D30BAE-7AF6-4C02-83AD-18045895B8B0",
         "name": "printer-pos",
         "codepoint": "F1057",
