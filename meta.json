@@ -12126,6 +12126,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "9A11CA67-107C-4D0A-A244-34E60B1915A0",
+        "name": "brush-off",
+        "codepoint": "F1771",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.0.55"
+    },
+    {
         "id": "1024F530-CFE4-4869-BAA4-062593D42DC9",
         "name": "bucket",
         "codepoint": "F1415",
