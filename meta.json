@@ -47081,6 +47081,21 @@
         "version": "1.5.54"
     },
     {
+        "id": "1673B5E0-CB7A-4430-9D36-9B42F1189D4F",
+        "name": "note-alert",
+        "codepoint": "F177D",
+        "aliases": [
+            "paper-alert",
+            "sticky-note-alert",
+            "post-it-note-alert"
+        ],
+        "tags": [
+            "Alert \/ Error"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "5F9984C8-D7D1-42A8-9167-52B0B849CF22",
         "name": "note-minus",
         "codepoint": "F164F",
