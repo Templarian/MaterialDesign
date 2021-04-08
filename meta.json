@@ -4828,6 +4828,17 @@
         "version": "4.7.95"
     },
     {
+        "id": "656CE7E5-1C31-4428-A609-703A2AA39DA7",
+        "name": "archive-cancel",
+        "codepoint": "F174B",
+        "aliases": [
+            "box-cancel"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "4B8AAB0C-9EB8-44D9-B1DF-C2EE6ACB91BE",
         "name": "archive-outline",
         "codepoint": "F120E",
