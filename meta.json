@@ -634,11 +634,10 @@
         "name": "account-eye",
         "codepoint": "F0420",
         "aliases": [
-            "assessment",
             "insert-chart"
         ],
         "tags": [],
-        "author": "Google",
+        "author": "Michael Irigoyen",
         "version": "1.5.54"
     },
     {
