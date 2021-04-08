@@ -35323,6 +35323,19 @@
         "version": "1.7.12"
     },
     {
+        "id": "15C2280B-B4C8-436A-8D57-80FFD3C4FB62",
+        "name": "hamburger-check",
+        "codepoint": "F1776",
+        "aliases": [
+            "burger-check"
+        ],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "A3F55E77-82C2-48F6-B1B1-92C9259C9C26",
         "name": "hammer",
         "codepoint": "F08EA",
