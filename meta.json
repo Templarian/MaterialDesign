@@ -5141,6 +5141,17 @@
         "version": "6.0.55"
     },
     {
+        "id": "8BFF742C-7BD5-46C0-B280-0813A2431850",
+        "name": "archive-refresh",
+        "codepoint": "F1765",
+        "aliases": [
+            "box-refresh"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "F7613EF8-368F-4AA6-B833-7246A01C3961",
         "name": "arm-flex",
         "codepoint": "F0FD7",
