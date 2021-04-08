@@ -633,7 +633,9 @@
         "id": "5FFF2FB6-08B2-4860-ACCF-72D614641882",
         "name": "account-eye",
         "codepoint": "F0420",
-        "aliases": [],
+        "aliases": [
+            "account-view"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "1.5.54"
