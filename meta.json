@@ -30556,6 +30556,15 @@
         "version": "3.5.94"
     },
     {
+        "id": "D36D03A5-01AD-4F0B-9C63-ACA149117B73",
+        "name": "folder-eye",
+        "codepoint": "F178A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.55"
+    },
+    {
         "id": "B8ACEEFF-E80A-42A9-BCAE-A804D47D8929",
         "name": "folder-google-drive",
         "codepoint": "F024E",
