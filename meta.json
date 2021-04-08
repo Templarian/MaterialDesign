@@ -55956,7 +55956,9 @@
         "name": "sausage-off",
         "codepoint": "F1789",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Contributors",
         "version": "6.0.55"
     },
