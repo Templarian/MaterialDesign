@@ -4942,6 +4942,19 @@
         "version": "6.0.55"
     },
     {
+        "id": "82B3AAAD-92D1-4524-98F4-F29AFB1A5BFA",
+        "name": "archive-eye",
+        "codepoint": "F1755",
+        "aliases": [
+            "archive-view",
+            "box-eye",
+            "box-view"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "4B8AAB0C-9EB8-44D9-B1DF-C2EE6ACB91BE",
         "name": "archive-outline",
         "codepoint": "F120E",
