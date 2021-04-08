@@ -47137,6 +47137,19 @@
         "version": "6.0.55"
     },
     {
+        "id": "80075448-6EB3-4318-9887-6C199DB9A86E",
+        "name": "note-edit",
+        "codepoint": "F1781",
+        "aliases": [
+            "paper-edit",
+            "sticky-note-edit",
+            "post-it-note-edit"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "5F9984C8-D7D1-42A8-9167-52B0B849CF22",
         "name": "note-minus",
         "codepoint": "F164F",
