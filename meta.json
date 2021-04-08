@@ -47217,6 +47217,19 @@
         "version": "1.7.22"
     },
     {
+        "id": "9EE3CDDD-BFF7-4BCF-B07E-B120D646DE0D",
+        "name": "note-off",
+        "codepoint": "F1783",
+        "aliases": [
+            "paper-off",
+            "sticky-note-off",
+            "post-it-note-off"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "DD6D5075-A7F5-4183-9F99-93C295F18B0B",
         "name": "note-outline",
         "codepoint": "F039B",
