@@ -15894,7 +15894,9 @@
         "id": "381420B2-B2EE-4E9F-9DEA-EA0C1F92A226",
         "name": "chart-box",
         "codepoint": "F154D",
-        "aliases": [],
+        "aliases": [
+            "poll-box"
+        ],
         "tags": [
             "Math"
         ],
