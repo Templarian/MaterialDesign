@@ -4990,6 +4990,17 @@
         "version": "6.0.55"
     },
     {
+        "id": "5128174B-10F3-4057-96AE-4DD993B4317F",
+        "name": "archive-lock-open-outline",
+        "codepoint": "F1759",
+        "aliases": [
+            "box-lock-open-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "4B8AAB0C-9EB8-44D9-B1DF-C2EE6ACB91BE",
         "name": "archive-outline",
         "codepoint": "F120E",
