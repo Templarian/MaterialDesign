@@ -646,9 +646,11 @@
         "id": "32388085-89F4-4C2C-BE98-1AEBED8F9B95",
         "name": "account-eye-outline",
         "codepoint": "F127B",
-        "aliases": [],
+        "aliases": [
+            "account-view-outline"
+        ],
         "tags": [],
-        "author": "Google",
+        "author": "Michael Irigoyen",
         "version": "4.7.95"
     },
     {
