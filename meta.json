@@ -47230,6 +47230,19 @@
         "version": "6.0.55"
     },
     {
+        "id": "321C9AFB-4A83-4B8F-A361-ADFA32318258",
+        "name": "note-off-outline",
+        "codepoint": "F1784",
+        "aliases": [
+            "paper-off-outline",
+            "sticky-note-off-outline",
+            "post-it-note-off-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "DD6D5075-A7F5-4183-9F99-93C295F18B0B",
         "name": "note-outline",
         "codepoint": "F039B",
