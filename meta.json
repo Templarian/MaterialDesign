@@ -38859,6 +38859,15 @@
         "version": "6.0.55"
     },
     {
+        "id": "25B8EEBF-60AA-422C-8E9C-E8D6004E9614",
+        "name": "information-off-outline",
+        "codepoint": "F178D",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.55"
+    },
+    {
         "id": "F7C01A96-16E0-44C0-A261-2CF22D056A7F",
         "name": "information-outline",
         "codepoint": "F02FD",
