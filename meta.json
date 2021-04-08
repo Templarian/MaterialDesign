@@ -5266,6 +5266,17 @@
         "version": "6.0.55"
     },
     {
+        "id": "BB297982-E355-4AEE-9D17-CD57BDB0625A",
+        "name": "archive-sync-outline",
+        "codepoint": "F1770",
+        "aliases": [
+            "box-sync-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "F7613EF8-368F-4AA6-B833-7246A01C3961",
         "name": "arm-flex",
         "codepoint": "F0FD7",
