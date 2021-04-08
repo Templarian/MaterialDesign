@@ -38462,6 +38462,17 @@
         "version": "3.6.95"
     },
     {
+        "id": "39EFA2D6-FC32-491C-8ABE-384AA47B94D3",
+        "name": "image-marker",
+        "codepoint": "F177B",
+        "aliases": [
+            "image-location"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "ED40AC55-00BA-4086-8906-1FA1EDA65839",
         "name": "image-minus",
         "codepoint": "F1419",
