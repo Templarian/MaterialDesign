@@ -35378,6 +35378,19 @@
         "version": "6.0.55"
     },
     {
+        "id": "52F5DBCE-78B0-49ED-BBDB-73B8F34084A0",
+        "name": "hamburger-remove",
+        "codepoint": "F177A",
+        "aliases": [
+            "burger-remove"
+        ],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "A3F55E77-82C2-48F6-B1B1-92C9259C9C26",
         "name": "hammer",
         "codepoint": "F08EA",
