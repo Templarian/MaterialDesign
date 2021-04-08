@@ -52981,6 +52981,15 @@
         "version": "5.4.55"
     },
     {
+        "id": "FF05067C-B5B4-48B1-B63C-75D3CBB24E45",
+        "name": "progress-star",
+        "codepoint": "F1788",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.0.55"
+    },
+    {
         "id": "699B5A10-1C4C-448C-A3F4-36A3CACD82EA",
         "name": "progress-upload",
         "codepoint": "F0998",
