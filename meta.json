@@ -5060,6 +5060,17 @@
         "version": "6.0.55"
     },
     {
+        "id": "30D759AA-6F1F-463A-9768-8D92F607207F",
+        "name": "archive-music",
+        "codepoint": "F175F",
+        "aliases": [
+            "box-music"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "4B8AAB0C-9EB8-44D9-B1DF-C2EE6ACB91BE",
         "name": "archive-outline",
         "codepoint": "F120E",
