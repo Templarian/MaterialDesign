@@ -5001,6 +5001,17 @@
         "version": "6.0.55"
     },
     {
+        "id": "E5F9A56B-CB7E-4EEC-B03A-571F9704E32E",
+        "name": "archive-lock-outline",
+        "codepoint": "F175A",
+        "aliases": [
+            "box-lock-outline"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "4B8AAB0C-9EB8-44D9-B1DF-C2EE6ACB91BE",
         "name": "archive-outline",
         "codepoint": "F120E",
