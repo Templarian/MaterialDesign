@@ -16040,7 +16040,9 @@
         "id": "A2839B3A-760A-4061-80CA-41B3FA5817E0",
         "name": "chart-gantt",
         "codepoint": "F066C",
-        "aliases": [],
+        "aliases": [
+            "report-gantt"
+        ],
         "tags": [
             "Math"
         ],
