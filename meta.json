@@ -15917,7 +15917,9 @@
         "id": "35760CC7-EBA2-4445-B88B-7E8224535BB7",
         "name": "chart-bell-curve",
         "codepoint": "F0C50",
-        "aliases": [],
+        "aliases": [
+            "report-bell-curve"
+        ],
         "tags": [
             "Math"
         ],
