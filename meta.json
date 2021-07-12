@@ -15873,7 +15873,8 @@
         "name": "chart-areaspline-variant",
         "codepoint": "F0E91",
         "aliases": [
-            "report-areaspline-variant"
+            "report-areaspline-variant",
+            "widget-areaspline-variant"
         ],
         "tags": [
             "Math"
