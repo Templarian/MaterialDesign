@@ -16119,7 +16119,8 @@
         "codepoint": "F08D4",
         "aliases": [
             "report-multiline",
-            "widget-multiline"
+            "widget-multiline",
+            "graph-multiline"
         ],
         "tags": [
             "Math"
