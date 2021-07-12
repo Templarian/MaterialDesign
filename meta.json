@@ -16292,7 +16292,8 @@
         "name": "chart-tree",
         "codepoint": "F0E94",
         "aliases": [
-            "report-tree"
+            "report-tree",
+            "widget-tree"
         ],
         "tags": [
             "Math"
