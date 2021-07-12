@@ -16197,7 +16197,8 @@
         "aliases": [
             "chart-snakey-variant",
             "report-sankey-variant",
-            "widget-sankey-variant"
+            "widget-sankey-variant",
+            "graph-sankey-variant"
         ],
         "tags": [
             "Math"
