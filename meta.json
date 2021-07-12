@@ -16041,7 +16041,8 @@
         "name": "chart-gantt",
         "codepoint": "F066C",
         "aliases": [
-            "report-gantt"
+            "report-gantt",
+            "timeline"
         ],
         "tags": [
             "Math"
