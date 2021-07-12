@@ -16147,7 +16147,9 @@
         "id": "9C6B53C5-698B-4428-9738-A6700BF8698C",
         "name": "chart-pie",
         "codepoint": "F012B",
-        "aliases": [],
+        "aliases": [
+            "report-pie"
+        ],
         "tags": [
             "Math"
         ],
