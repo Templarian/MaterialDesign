@@ -16104,7 +16104,8 @@
         "aliases": [
             "show-chart",
             "report-line-variant",
-            "widget-line-variant"
+            "widget-line-variant",
+            "graph-line-variant"
         ],
         "tags": [
             "Math"
