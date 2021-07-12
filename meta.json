@@ -16057,7 +16057,8 @@
         "name": "chart-histogram",
         "codepoint": "F0129",
         "aliases": [
-            "report-histogram"
+            "report-histogram",
+            "widget-histogram"
         ],
         "tags": [
             "Math"
