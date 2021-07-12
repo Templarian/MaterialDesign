@@ -15949,7 +15949,8 @@
         "codepoint": "F154D",
         "aliases": [
             "poll-box",
-            "report-box"
+            "report-box",
+            "widget-box"
         ],
         "tags": [
             "Math"
