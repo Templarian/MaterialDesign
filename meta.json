@@ -15902,7 +15902,9 @@
         "id": "FAA40519-5517-44DF-AF2E-30D07874BEB7",
         "name": "chart-bar-stacked",
         "codepoint": "F076A",
-        "aliases": [],
+        "aliases": [
+            "report-bar-stacked"
+        ],
         "tags": [
             "Math"
         ],
