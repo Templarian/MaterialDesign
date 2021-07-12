@@ -16149,7 +16149,8 @@
         "codepoint": "F012B",
         "aliases": [
             "report-pie",
-            "widget-pie"
+            "widget-pie",
+            "graph-pie"
         ],
         "tags": [
             "Math"
