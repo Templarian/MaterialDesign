@@ -15874,7 +15874,8 @@
         "codepoint": "F0E91",
         "aliases": [
             "report-areaspline-variant",
-            "widget-areaspline-variant"
+            "widget-areaspline-variant",
+            "graph-areaspline-variant"
         ],
         "tags": [
             "Math"
