@@ -16012,7 +16012,8 @@
         "aliases": [
             "chart-doughnut",
             "data-usage",
-            "report-donut"
+            "report-donut",
+            "widget-donut"
         ],
         "tags": [
             "Math"
