@@ -15932,7 +15932,9 @@
         "id": "D4E38BC9-5A85-4890-B3DD-92F3D263E26E",
         "name": "chart-bell-curve-cumulative",
         "codepoint": "F0FA7",
-        "aliases": [],
+        "aliases": [
+            "report-bell-curve-cumulative"
+        ],
         "tags": [
             "Math"
         ],
