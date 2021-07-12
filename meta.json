@@ -16243,7 +16243,8 @@
         "codepoint": "F066E",
         "aliases": [
             "report-timeline",
-            "widget-timeline"
+            "widget-timeline",
+            "graph-timeline"
         ],
         "tags": [
             "Math"
