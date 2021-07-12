@@ -16133,7 +16133,8 @@
         "name": "chart-multiple",
         "codepoint": "F1213",
         "aliases": [
-            "report-multiple"
+            "report-multiple",
+            "widget-multiple"
         ],
         "tags": [
             "Math"
