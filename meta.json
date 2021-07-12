@@ -16086,7 +16086,9 @@
         "id": "B53C0CF7-F923-409F-91C3-420513E44231",
         "name": "chart-line-stacked",
         "codepoint": "F076B",
-        "aliases": [],
+        "aliases": [
+            "report-line-stacked"
+        ],
         "tags": [
             "Math"
         ],
