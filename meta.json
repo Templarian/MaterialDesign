@@ -16132,7 +16132,9 @@
         "id": "42E3BF4B-FFE9-449F-AFEE-66F565602A9B",
         "name": "chart-multiple",
         "codepoint": "F1213",
-        "aliases": [],
+        "aliases": [
+            "report-multiple"
+        ],
         "tags": [
             "Math"
         ],
