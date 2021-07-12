@@ -16210,7 +16210,9 @@
         "id": "C268C5A5-0D35-4963-9151-61D2C442015B",
         "name": "chart-scatter-plot",
         "codepoint": "F0E92",
-        "aliases": [],
+        "aliases": [
+            "report-scatter-plot"
+        ],
         "tags": [
             "Math"
         ],
