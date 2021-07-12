@@ -16257,7 +16257,9 @@
         "id": "F41D980A-439A-4F1B-A3B7-850EB1A70416",
         "name": "chart-timeline-variant",
         "codepoint": "F0E93",
-        "aliases": [],
+        "aliases": [
+            "report-timeline-variant"
+        ],
         "tags": [
             "Math"
         ],
