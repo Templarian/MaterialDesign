@@ -16227,7 +16227,8 @@
         "codepoint": "F066D",
         "aliases": [
             "chart-scatterplot-hexbin",
-            "report-scatter-plot-hexbin"
+            "report-scatter-plot-hexbin",
+            "widget-scatter-plot-hexbin"
         ],
         "tags": [
             "Math"
