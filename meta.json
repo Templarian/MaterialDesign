@@ -16241,7 +16241,9 @@
         "id": "922A0C03-C46D-45E7-8B44-9D53F1292360",
         "name": "chart-timeline",
         "codepoint": "F066E",
-        "aliases": [],
+        "aliases": [
+            "report-timeline"
+        ],
         "tags": [
             "Math"
         ],
