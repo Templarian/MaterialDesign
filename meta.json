@@ -15964,7 +15964,8 @@
         "name": "chart-box-outline",
         "codepoint": "F154E",
         "aliases": [
-            "poll-box-outline"
+            "poll-box-outline",
+            "report-box-outline"
         ],
         "tags": [
             "Math"
