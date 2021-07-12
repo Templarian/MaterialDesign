@@ -15904,7 +15904,8 @@
         "codepoint": "F076A",
         "aliases": [
             "report-bar-stacked",
-            "widget-bar-stacked"
+            "widget-bar-stacked",
+            "graph-bar-stacked"
         ],
         "tags": [
             "Math"
