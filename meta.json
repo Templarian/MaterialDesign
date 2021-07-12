@@ -16071,7 +16071,9 @@
         "id": "D996574D-5B42-47C5-91D6-F86555C2FBC5",
         "name": "chart-line",
         "codepoint": "F012A",
-        "aliases": [],
+        "aliases": [
+            "report-line"
+        ],
         "tags": [
             "Math"
         ],
