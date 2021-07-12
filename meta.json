@@ -15858,7 +15858,8 @@
         "name": "chart-areaspline",
         "codepoint": "F0127",
         "aliases": [
-            "report-areaspline"
+            "report-areaspline",
+            "widget-areaspline"
         ],
         "tags": [
             "Math"
