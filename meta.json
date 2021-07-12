@@ -15889,7 +15889,8 @@
         "codepoint": "F0128",
         "aliases": [
             "report-bar",
-            "widget-bar"
+            "widget-bar",
+            "graph-bar"
         ],
         "tags": [
             "Math"
