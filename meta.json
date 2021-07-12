@@ -16134,7 +16134,8 @@
         "codepoint": "F1213",
         "aliases": [
             "report-multiple",
-            "widget-multiple"
+            "widget-multiple",
+            "graph-multiple"
         ],
         "tags": [
             "Math"
