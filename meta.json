@@ -16212,7 +16212,8 @@
         "codepoint": "F0E92",
         "aliases": [
             "report-scatter-plot",
-            "widget-scatter-plot"
+            "widget-scatter-plot",
+            "graph-scatter-plot"
         ],
         "tags": [
             "Math"
