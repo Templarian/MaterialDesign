@@ -16242,7 +16242,8 @@
         "name": "chart-timeline",
         "codepoint": "F066E",
         "aliases": [
-            "report-timeline"
+            "report-timeline",
+            "widget-timeline"
         ],
         "tags": [
             "Math"
