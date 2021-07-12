@@ -29513,7 +29513,8 @@
         "name": "finance",
         "codepoint": "F081F",
         "aliases": [
-            "chart-finance"
+            "chart-finance",
+            "report-finance"
         ],
         "tags": [
             "Banking",
