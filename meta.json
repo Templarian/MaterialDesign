@@ -15918,7 +15918,8 @@
         "name": "chart-bell-curve",
         "codepoint": "F0C50",
         "aliases": [
-            "report-bell-curve"
+            "report-bell-curve",
+            "widget-bell-curve"
         ],
         "tags": [
             "Math"
