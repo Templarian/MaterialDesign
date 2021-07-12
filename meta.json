@@ -52366,7 +52366,8 @@
         "name": "poll",
         "codepoint": "F041F",
         "aliases": [
-            "bar-chart"
+            "bar-chart",
+            "report"
         ],
         "tags": [],
         "author": "Austin Andrews",
