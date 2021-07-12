@@ -28016,7 +28016,8 @@
         "name": "file-chart-outline",
         "codepoint": "F1029",
         "aliases": [
-            "file-graph-outline"
+            "file-graph-outline",
+            "file-report-outline"
         ],
         "tags": [
             "Files \/ Folders"
