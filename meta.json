@@ -16042,7 +16042,8 @@
         "codepoint": "F066C",
         "aliases": [
             "report-gantt",
-            "timeline"
+            "timeline",
+            "widget-gantt"
         ],
         "tags": [
             "Math"
