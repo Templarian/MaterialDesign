@@ -16118,7 +16118,8 @@
         "name": "chart-multiline",
         "codepoint": "F08D4",
         "aliases": [
-            "report-multiline"
+            "report-multiline",
+            "widget-multiline"
         ],
         "tags": [
             "Math"
