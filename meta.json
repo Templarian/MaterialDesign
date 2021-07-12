@@ -15948,7 +15948,8 @@
         "name": "chart-box",
         "codepoint": "F154D",
         "aliases": [
-            "poll-box"
+            "poll-box",
+            "report-box"
         ],
         "tags": [
             "Math"
