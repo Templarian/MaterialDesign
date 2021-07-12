@@ -15872,7 +15872,9 @@
         "id": "C55BFF6F-469B-4D28-835B-537BED8DE99D",
         "name": "chart-areaspline-variant",
         "codepoint": "F0E91",
-        "aliases": [],
+        "aliases": [
+            "report-areaspline-variant"
+        ],
         "tags": [
             "Math"
         ],
