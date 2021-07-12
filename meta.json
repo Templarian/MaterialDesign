@@ -16258,7 +16258,8 @@
         "name": "chart-timeline-variant",
         "codepoint": "F0E93",
         "aliases": [
-            "report-timeline-variant"
+            "report-timeline-variant",
+            "widget-timeline-variant"
         ],
         "tags": [
             "Math"
