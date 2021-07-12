@@ -15888,7 +15888,8 @@
         "name": "chart-bar",
         "codepoint": "F0128",
         "aliases": [
-            "report-bar"
+            "report-bar",
+            "widget-bar"
         ],
         "tags": [
             "Math"
