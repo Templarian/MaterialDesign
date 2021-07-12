@@ -15950,7 +15950,8 @@
         "aliases": [
             "poll-box",
             "report-box",
-            "widget-box"
+            "widget-box",
+            "graph-box"
         ],
         "tags": [
             "Math"
