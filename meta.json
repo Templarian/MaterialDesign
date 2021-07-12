@@ -16165,7 +16165,8 @@
         "aliases": [
             "chart-production-possibility-frontier",
             "report-ppf",
-            "widget-ppf"
+            "widget-ppf",
+            "graph-ppf"
         ],
         "tags": [
             "Math"
