@@ -16260,7 +16260,8 @@
         "aliases": [
             "report-timeline-variant",
             "widget-timeline-variant",
-            "graph-timeline-variant"
+            "graph-timeline-variant",
+            "report-line"
         ],
         "tags": [
             "Math"
