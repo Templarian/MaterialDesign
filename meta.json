@@ -15981,7 +15981,8 @@
         "codepoint": "F154F",
         "aliases": [
             "report-box-plus-outline",
-            "widget-box-plus-outline"
+            "widget-box-plus-outline",
+            "graph-box-plus-outline"
         ],
         "tags": [
             "Math"
