@@ -15903,7 +15903,8 @@
         "name": "chart-bar-stacked",
         "codepoint": "F076A",
         "aliases": [
-            "report-bar-stacked"
+            "report-bar-stacked",
+            "widget-bar-stacked"
         ],
         "tags": [
             "Math"
