@@ -16180,7 +16180,8 @@
         "codepoint": "F11DF",
         "aliases": [
             "chart-snakey",
-            "report-sankey"
+            "report-sankey",
+            "widget-sankey"
         ],
         "tags": [
             "Math"
