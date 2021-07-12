@@ -16087,7 +16087,8 @@
         "name": "chart-line-stacked",
         "codepoint": "F076B",
         "aliases": [
-            "report-line-stacked"
+            "report-line-stacked",
+            "widget-line-stacked"
         ],
         "tags": [
             "Math"
