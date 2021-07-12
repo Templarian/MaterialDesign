@@ -15980,7 +15980,8 @@
         "name": "chart-box-plus-outline",
         "codepoint": "F154F",
         "aliases": [
-            "report-box-plus-outline"
+            "report-box-plus-outline",
+            "widget-box-plus-outline"
         ],
         "tags": [
             "Math"
