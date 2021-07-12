@@ -15933,7 +15933,8 @@
         "name": "chart-bell-curve-cumulative",
         "codepoint": "F0FA7",
         "aliases": [
-            "report-bell-curve-cumulative"
+            "report-bell-curve-cumulative",
+            "widget-bell-curve-cumulative"
         ],
         "tags": [
             "Math"
