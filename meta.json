@@ -28002,7 +28002,8 @@
         "name": "file-chart",
         "codepoint": "F0215",
         "aliases": [
-            "file-report"
+            "file-report",
+            "file-graph"
         ],
         "tags": [
             "Files \/ Folders"
