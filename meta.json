@@ -16011,7 +16011,8 @@
         "codepoint": "F07AF",
         "aliases": [
             "chart-doughnut",
-            "data-usage"
+            "data-usage",
+            "report-donut"
         ],
         "tags": [
             "Math"
