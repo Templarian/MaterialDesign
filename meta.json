@@ -16072,7 +16072,8 @@
         "name": "chart-line",
         "codepoint": "F012A",
         "aliases": [
-            "report-line"
+            "report-line",
+            "widget-line"
         ],
         "tags": [
             "Math"
