@@ -16026,7 +16026,8 @@
         "name": "chart-donut-variant",
         "codepoint": "F07B0",
         "aliases": [
-            "chart-doughnut-variant"
+            "chart-doughnut-variant",
+            "report-donut-variant"
         ],
         "tags": [
             "Math"
