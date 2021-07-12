@@ -16196,7 +16196,8 @@
         "codepoint": "F11E0",
         "aliases": [
             "chart-snakey-variant",
-            "report-sankey-variant"
+            "report-sankey-variant",
+            "widget-sankey-variant"
         ],
         "tags": [
             "Math"
