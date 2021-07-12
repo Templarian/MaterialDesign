@@ -16211,7 +16211,8 @@
         "name": "chart-scatter-plot",
         "codepoint": "F0E92",
         "aliases": [
-            "report-scatter-plot"
+            "report-scatter-plot",
+            "widget-scatter-plot"
         ],
         "tags": [
             "Math"
