@@ -15965,7 +15965,8 @@
         "codepoint": "F154E",
         "aliases": [
             "poll-box-outline",
-            "report-box-outline"
+            "report-box-outline",
+            "widget-box-outline"
         ],
         "tags": [
             "Math"
