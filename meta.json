@@ -28015,7 +28015,9 @@
         "id": "E8F550E7-DE55-47CE-B548-4B6987B9FDE7",
         "name": "file-chart-outline",
         "codepoint": "F1029",
-        "aliases": [],
+        "aliases": [
+            "file-graph-outline"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
