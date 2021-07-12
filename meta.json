@@ -15979,7 +15979,9 @@
         "id": "2F2AA4D1-DB33-4B54-8052-2A2EFCE59168",
         "name": "chart-box-plus-outline",
         "codepoint": "F154F",
-        "aliases": [],
+        "aliases": [
+            "report-box-plus-outline"
+        ],
         "tags": [
             "Math"
         ],
