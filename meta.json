@@ -16088,7 +16088,8 @@
         "codepoint": "F076B",
         "aliases": [
             "report-line-stacked",
-            "widget-line-stacked"
+            "widget-line-stacked",
+            "graph-line-stacked"
         ],
         "tags": [
             "Math"
