@@ -16179,7 +16179,8 @@
         "name": "chart-sankey",
         "codepoint": "F11DF",
         "aliases": [
-            "chart-snakey"
+            "chart-snakey",
+            "report-sankey"
         ],
         "tags": [
             "Math"
