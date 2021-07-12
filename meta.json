@@ -16102,7 +16102,8 @@
         "name": "chart-line-variant",
         "codepoint": "F07B1",
         "aliases": [
-            "show-chart"
+            "show-chart",
+            "report-line-variant"
         ],
         "tags": [
             "Math"
