@@ -16163,7 +16163,8 @@
         "name": "chart-ppf",
         "codepoint": "F1380",
         "aliases": [
-            "chart-production-possibility-frontier"
+            "chart-production-possibility-frontier",
+            "report-ppf"
         ],
         "tags": [
             "Math"
