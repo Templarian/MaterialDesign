@@ -16276,7 +16276,8 @@
         "name": "chart-timeline-variant-shimmer",
         "codepoint": "F15B6",
         "aliases": [
-            "report-timeline-variant-shimmer"
+            "report-timeline-variant-shimmer",
+            "widget-timeline-variant-shimmer"
         ],
         "tags": [],
         "author": "Google",
