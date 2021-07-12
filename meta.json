@@ -16262,7 +16262,8 @@
             "widget-timeline-variant",
             "graph-timeline-variant",
             "report-line",
-            "widget-line"
+            "widget-line",
+            "graph-line"
         ],
         "tags": [
             "Math"
