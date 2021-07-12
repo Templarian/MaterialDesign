@@ -15857,7 +15857,9 @@
         "id": "00654F5E-1B8B-4BD7-933B-0BD65B2C9BAC",
         "name": "chart-areaspline",
         "codepoint": "F0127",
-        "aliases": [],
+        "aliases": [
+            "report-areaspline"
+        ],
         "tags": [
             "Math"
         ],
