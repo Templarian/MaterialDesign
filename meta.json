@@ -16275,7 +16275,9 @@
         "id": "F2256261-8218-48B2-BACA-9E23E42EEC15",
         "name": "chart-timeline-variant-shimmer",
         "codepoint": "F15B6",
-        "aliases": [],
+        "aliases": [
+            "report-timeline-variant-shimmer"
+        ],
         "tags": [],
         "author": "Google",
         "version": "5.6.55"
