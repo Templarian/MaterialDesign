@@ -16228,7 +16228,8 @@
         "aliases": [
             "chart-scatterplot-hexbin",
             "report-scatter-plot-hexbin",
-            "widget-scatter-plot-hexbin"
+            "widget-scatter-plot-hexbin",
+            "graph-scatter-plot-hexbin"
         ],
         "tags": [
             "Math"
