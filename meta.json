@@ -16058,7 +16058,8 @@
         "codepoint": "F0129",
         "aliases": [
             "report-histogram",
-            "widget-histogram"
+            "widget-histogram",
+            "graph-histogram"
         ],
         "tags": [
             "Math"
