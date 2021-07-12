@@ -16277,7 +16277,8 @@
         "codepoint": "F15B6",
         "aliases": [
             "report-timeline-variant-shimmer",
-            "widget-timeline-variant-shimmer"
+            "widget-timeline-variant-shimmer",
+            "graph-timeline-variant-shimmer"
         ],
         "tags": [],
         "author": "Google",
