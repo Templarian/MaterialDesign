@@ -15996,7 +15996,8 @@
         "codepoint": "F05E3",
         "aliases": [
             "bubble-chart",
-            "report-bubble"
+            "report-bubble",
+            "widget-bubble"
         ],
         "tags": [
             "Math"
