@@ -16073,7 +16073,8 @@
         "codepoint": "F012A",
         "aliases": [
             "report-line",
-            "widget-line"
+            "widget-line",
+            "graph-line"
         ],
         "tags": [
             "Math"
