@@ -16056,7 +16056,9 @@
         "id": "8DCC14D7-057F-4DA4-89B2-B26D6B6F0C00",
         "name": "chart-histogram",
         "codepoint": "F0129",
-        "aliases": [],
+        "aliases": [
+            "report-histogram"
+        ],
         "tags": [
             "Math"
         ],
