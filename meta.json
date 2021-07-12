@@ -15844,7 +15844,8 @@
         "name": "chart-arc",
         "codepoint": "F0126",
         "aliases": [
-            "report-arc"
+            "report-arc",
+            "widget-arc"
         ],
         "tags": [
             "Math"
