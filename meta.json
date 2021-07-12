@@ -15966,7 +15966,8 @@
         "aliases": [
             "poll-box-outline",
             "report-box-outline",
-            "widget-box-outline"
+            "widget-box-outline",
+            "graph-box-outline"
         ],
         "tags": [
             "Math"
