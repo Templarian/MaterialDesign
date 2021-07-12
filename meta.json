@@ -16278,7 +16278,8 @@
         "aliases": [
             "report-timeline-variant-shimmer",
             "widget-timeline-variant-shimmer",
-            "graph-timeline-variant-shimmer"
+            "graph-timeline-variant-shimmer",
+            "report-line-shimmer"
         ],
         "tags": [],
         "author": "Google",
