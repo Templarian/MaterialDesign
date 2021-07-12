@@ -15843,7 +15843,9 @@
         "id": "98939E5B-1528-4A2F-B35A-C37C60C75D93",
         "name": "chart-arc",
         "codepoint": "F0126",
-        "aliases": [],
+        "aliases": [
+            "report-arc"
+        ],
         "tags": [
             "Math"
         ],
