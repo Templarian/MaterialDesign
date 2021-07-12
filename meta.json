@@ -16103,7 +16103,8 @@
         "codepoint": "F07B1",
         "aliases": [
             "show-chart",
-            "report-line-variant"
+            "report-line-variant",
+            "widget-line-variant"
         ],
         "tags": [
             "Math"
