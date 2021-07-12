@@ -15934,7 +15934,8 @@
         "codepoint": "F0FA7",
         "aliases": [
             "report-bell-curve-cumulative",
-            "widget-bell-curve-cumulative"
+            "widget-bell-curve-cumulative",
+            "graph-bell-curve-cumulative"
         ],
         "tags": [
             "Math"
