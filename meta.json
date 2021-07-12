@@ -16027,7 +16027,8 @@
         "codepoint": "F07B0",
         "aliases": [
             "chart-doughnut-variant",
-            "report-donut-variant"
+            "report-donut-variant",
+            "widget-donut-variant"
         ],
         "tags": [
             "Math"
