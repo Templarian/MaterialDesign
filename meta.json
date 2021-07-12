@@ -15887,7 +15887,9 @@
         "id": "85D4DC49-5359-4867-A5D1-52C44699387F",
         "name": "chart-bar",
         "codepoint": "F0128",
-        "aliases": [],
+        "aliases": [
+            "report-bar"
+        ],
         "tags": [
             "Math"
         ],
