@@ -566,7 +566,9 @@
         "id": "18963ABD-E908-4E3C-B8DA-D87916F269F7",
         "name": "account-cowboy-hat",
         "codepoint": "F0E9B",
-        "aliases": [],
+        "aliases": [
+            "rancher"
+        ],
         "tags": [
             "Account \/ User"
         ],
