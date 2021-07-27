@@ -4770,10 +4770,8 @@
         "name": "application-edit-outline",
         "codepoint": "F0619",
         "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
+        "tags": [],
+        "author": "Michael Irigoyen",
         "version": "1.6.50"
     },
     {
