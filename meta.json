@@ -15876,17 +15876,6 @@
         "version": "2.1.19"
     },
     {
-        "id": "63D4C7DD-5BEF-41F2-921F-48EB987F0ED3",
-        "name": "celtic-cross",
-        "codepoint": "F0CF5",
-        "aliases": [],
-        "tags": [
-            "Religion"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "3.3.92"
-    },
-    {
         "id": "BAC7F15C-844C-4FEB-A4C0-2CDF80738979",
         "name": "centos",
         "codepoint": "F111A",
@@ -21975,6 +21964,17 @@
         "id": "00B9DE12-462A-483B-90D3-8FA89B3D9FD5",
         "name": "cross-bolnisi",
         "codepoint": "F0CED",
+        "aliases": [],
+        "tags": [
+            "Religion"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "3.3.92"
+    },
+    {
+        "id": "63D4C7DD-5BEF-41F2-921F-48EB987F0ED3",
+        "name": "cross-celtic",
+        "codepoint": "F0CF5",
         "aliases": [],
         "tags": [
             "Religion"
