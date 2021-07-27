@@ -4652,6 +4652,17 @@
         "version": "2.3.50"
     },
     {
+        "id": "86A1CD17-B112-46F8-A076-424D528A25AA",
+        "name": "application-brackets",
+        "codepoint": "F0C8B",
+        "aliases": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
+        "author": "Michael Richins",
+        "version": "3.2.89"
+    },
+    {
         "id": "38278159-AC2C-433A-9335-95B05C1F6F56",
         "name": "application-cog",
         "codepoint": "F0675",
@@ -38291,17 +38302,6 @@
         ],
         "author": "Haley Halcyon",
         "version": "4.9.95"
-    },
-    {
-        "id": "86A1CD17-B112-46F8-A076-424D528A25AA",
-        "name": "iframe",
-        "codepoint": "F0C8B",
-        "aliases": [],
-        "tags": [
-            "Developer \/ Languages"
-        ],
-        "author": "Michael Richins",
-        "version": "3.2.89"
     },
     {
         "id": "B5216901-ECCB-41B3-8F35-BFA701ECDDBC",
