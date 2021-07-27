@@ -43834,6 +43834,17 @@
         "version": "1.7.12"
     },
     {
+        "id": "F2B4075E-3226-40CB-9165-2C66A4BB4BBD",
+        "name": "message-star-outline",
+        "codepoint": "F1250",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "4.6.95"
+    },
+    {
         "id": "D2AFF074-2CE4-442D-AF1A-64B168BC622A",
         "name": "message-text",
         "codepoint": "F0369",
@@ -44147,17 +44158,6 @@
         ],
         "author": "Contributors",
         "version": "1.5.54"
-    },
-    {
-        "id": "F2B4075E-3226-40CB-9165-2C66A4BB4BBD",
-        "name": "microsoft-edge-legacy",
-        "codepoint": "F1250",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "4.6.95"
     },
     {
         "id": "ACD47746-F44B-496D-990B-58FC729F372E",
