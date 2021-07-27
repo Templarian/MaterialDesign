@@ -35292,7 +35292,9 @@
         "id": "9AE6BA3C-694B-47D5-99C3-7D063228F053",
         "name": "greenhouse",
         "codepoint": "F002D",
-        "aliases": [],
+        "aliases": [
+            "glasshouse"
+        ],
         "tags": [
             "Home Automation",
             "Nature"
