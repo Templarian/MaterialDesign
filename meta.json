@@ -35293,7 +35293,8 @@
         "name": "greenhouse",
         "codepoint": "F002D",
         "aliases": [
-            "glasshouse"
+            "glasshouse",
+            "hothouse"
         ],
         "tags": [
             "Home Automation",
