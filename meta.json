@@ -4652,17 +4652,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "55C0C50F-9F4D-44C4-A84B-C79F645A8604",
-        "name": "application",
-        "codepoint": "F0614",
-        "aliases": [
-            "web-asset"
-        ],
-        "tags": [],
-        "author": "Austin Andrews",
-        "version": "1.6.50"
-    },
-    {
         "id": "A3B1663D-87F0-4E57-BAF4-5CB9D0CC6B17",
         "name": "application-cog",
         "codepoint": "F1577",
@@ -4692,6 +4681,17 @@
         "tags": [],
         "author": "Austin Andrews",
         "version": "3.5.94"
+    },
+    {
+        "id": "55C0C50F-9F4D-44C4-A84B-C79F645A8604",
+        "name": "application-outline",
+        "codepoint": "F0614",
+        "aliases": [
+            "web-asset"
+        ],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "1.6.50"
     },
     {
         "id": "EB7E0628-A5CC-4E23-9AD1-CC35CC4E3722",
