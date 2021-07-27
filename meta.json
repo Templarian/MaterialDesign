@@ -4769,7 +4769,9 @@
         "id": "FBD11E2A-7F1F-4CE2-B17D-B3623D4FEA43",
         "name": "application-edit-outline",
         "codepoint": "F0619",
-        "aliases": [],
+        "aliases": [
+            "iframe-edit-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "1.6.50"
