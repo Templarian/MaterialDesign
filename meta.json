@@ -35293,7 +35293,9 @@
         "name": "greenhouse",
         "codepoint": "F002D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Jeff Hilnbrand",
         "version": "1.5.54"
     },
