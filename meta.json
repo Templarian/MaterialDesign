@@ -38120,6 +38120,19 @@
         "version": "2.1.99"
     },
     {
+        "id": "7016027D-C32A-4462-A9E5-98132FA518B4",
+        "name": "human-male-board-poll",
+        "codepoint": "F0846",
+        "aliases": [
+            "microsoft-xamarin-outline"
+        ],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "2.1.19"
+    },
+    {
         "id": "07AB2970-AE77-417B-BEB3-8B6FDEF43EDE",
         "name": "human-male-boy",
         "codepoint": "F0A5C",
@@ -70615,19 +70628,6 @@
         "codepoint": "F0845",
         "aliases": [
             "microsoft-xamarin"
-        ],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "2.1.19"
-    },
-    {
-        "id": "7016027D-C32A-4462-A9E5-98132FA518B4",
-        "name": "xamarin-outline",
-        "codepoint": "F0846",
-        "aliases": [
-            "microsoft-xamarin-outline"
         ],
         "tags": [
             "Brand \/ Logo"
