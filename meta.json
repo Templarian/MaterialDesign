@@ -4680,7 +4680,9 @@
         "id": "0870BDBC-060F-49E5-B72C-CA06949643AF",
         "name": "application-import-outline",
         "codepoint": "F0DAE",
-        "aliases": [],
+        "aliases": [
+            "iframe-import-outline"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "3.5.94"
