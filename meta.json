@@ -41228,9 +41228,7 @@
         "name": "line-scan",
         "codepoint": "F0624",
         "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
+        "tags": [],
         "author": "Contributors",
         "version": "1.6.50"
     },
