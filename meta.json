@@ -4792,7 +4792,9 @@
         "id": "2A524868-FBD4-442F-8E4C-413A1C8DDDEE",
         "name": "application-parentheses",
         "codepoint": "F10F9",
-        "aliases": [],
+        "aliases": [
+            "iframe-parentheses"
+        ],
         "tags": [
             "Developer \/ Languages"
         ],
