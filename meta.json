@@ -4758,7 +4758,9 @@
         "id": "AAF23976-7C9D-4AFA-BE25-CCD225A95EEA",
         "name": "application-edit",
         "codepoint": "F00AE",
-        "aliases": [],
+        "aliases": [
+            "iframe-edit"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "1.5.54"
