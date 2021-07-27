@@ -4711,6 +4711,20 @@
         "version": "1.6.50"
     },
     {
+        "id": "0AA8EAC5-6700-47B6-A38B-0E58CFA0CFE7",
+        "name": "application-settings",
+        "codepoint": "F0B60",
+        "aliases": [
+            "battle-net"
+        ],
+        "tags": [
+            "Brand \/ Logo",
+            "Gaming \/ RPG"
+        ],
+        "author": "Contributors",
+        "version": "3.0.39"
+    },
+    {
         "id": "EB7E0628-A5CC-4E23-9AD1-CC35CC4E3722",
         "name": "application-settings-outline",
         "codepoint": "F1555",
@@ -8991,20 +9005,6 @@
         ],
         "author": "GreenTurtwig",
         "version": "2.4.85"
-    },
-    {
-        "id": "0AA8EAC5-6700-47B6-A38B-0E58CFA0CFE7",
-        "name": "battlenet",
-        "codepoint": "F0B60",
-        "aliases": [
-            "battle-net"
-        ],
-        "tags": [
-            "Brand \/ Logo",
-            "Gaming \/ RPG"
-        ],
-        "author": "Contributors",
-        "version": "3.0.39"
     },
     {
         "id": "FB1FEB37-FA9B-40BF-A7EC-B4A1690E6B77",
