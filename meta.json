@@ -4652,6 +4652,17 @@
         "version": "2.3.50"
     },
     {
+        "id": "38278159-AC2C-433A-9335-95B05C1F6F56",
+        "name": "application-cog",
+        "codepoint": "F0675",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.7.12"
+    },
+    {
         "id": "A3B1663D-87F0-4E57-BAF4-5CB9D0CC6B17",
         "name": "application-cog-outline",
         "codepoint": "F1577",
@@ -7688,17 +7699,6 @@
         "tags": [],
         "author": "Google",
         "version": "3.5.94"
-    },
-    {
-        "id": "38278159-AC2C-433A-9335-95B05C1F6F56",
-        "name": "bandcamp",
-        "codepoint": "F0675",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.7.12"
     },
     {
         "id": "FE08919F-CFFC-4A25-994C-CEDEB299908B",
