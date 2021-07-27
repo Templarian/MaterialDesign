@@ -38123,7 +38123,9 @@
         "id": "7016027D-C32A-4462-A9E5-98132FA518B4",
         "name": "human-male-board-poll",
         "codepoint": "F0846",
-        "aliases": [],
+        "aliases": [
+            "teach-poll"
+        ],
         "tags": [],
         "author": "Contributors",
         "version": "2.1.19"
