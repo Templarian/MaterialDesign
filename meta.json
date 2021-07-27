@@ -4665,6 +4665,17 @@
         "version": "3.2.89"
     },
     {
+        "id": "87F83807-58BE-49C5-981B-CBDFD8EABE4A",
+        "name": "application-brackets-outline",
+        "codepoint": "F0C8C",
+        "aliases": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
+        "author": "Michael Richins",
+        "version": "3.2.89"
+    },
+    {
         "id": "38278159-AC2C-433A-9335-95B05C1F6F56",
         "name": "application-cog",
         "codepoint": "F0675",
@@ -38348,17 +38359,6 @@
         ],
         "author": "Michael Irigoyen",
         "version": "4.3.95"
-    },
-    {
-        "id": "87F83807-58BE-49C5-981B-CBDFD8EABE4A",
-        "name": "iframe-outline",
-        "codepoint": "F0C8C",
-        "aliases": [],
-        "tags": [
-            "Developer \/ Languages"
-        ],
-        "author": "Michael Richins",
-        "version": "3.2.89"
     },
     {
         "id": "2A524868-FBD4-442F-8E4C-413A1C8DDDEE",
