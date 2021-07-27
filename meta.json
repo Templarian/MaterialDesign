@@ -4805,7 +4805,9 @@
         "id": "9FA63D08-5057-4AA3-9FD0-367B8AE55352",
         "name": "application-parentheses-outline",
         "codepoint": "F10FA",
-        "aliases": [],
+        "aliases": [
+            "iframe-parentheses-outline"
+        ],
         "tags": [
             "Developer \/ Languages"
         ],
