@@ -29802,6 +29802,17 @@
         "version": "3.6.95"
     },
     {
+        "id": "5415674F-E6F6-433D-9A9F-E976FD7245F8",
+        "name": "firewire",
+        "codepoint": "F05BE",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "6385008C-99E4-4459-8B18-0CD594EC5C7E",
         "name": "firework",
         "codepoint": "F0E30",
@@ -70632,17 +70643,6 @@
         ],
         "author": "Contributors",
         "version": "2.1.19"
-    },
-    {
-        "id": "5415674F-E6F6-433D-9A9F-E976FD7245F8",
-        "name": "xing",
-        "codepoint": "F05BE",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "994C18D8-DAF1-4311-A30B-CD93F5ADC233",
