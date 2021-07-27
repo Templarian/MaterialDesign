@@ -56249,7 +56249,9 @@
         "id": "82048BA4-F949-4572-B59B-23197F9B36D6",
         "name": "scale-balance",
         "codepoint": "F05D1",
-        "aliases": [],
+        "aliases": [
+            "justice"
+        ],
         "tags": [
             "Science"
         ],
