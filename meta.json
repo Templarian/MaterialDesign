@@ -4668,7 +4668,9 @@
         "id": "87F83807-58BE-49C5-981B-CBDFD8EABE4A",
         "name": "application-brackets-outline",
         "codepoint": "F0C8C",
-        "aliases": [],
+        "aliases": [
+            "iframe-brackets-outline"
+        ],
         "tags": [
             "Developer \/ Languages"
         ],
