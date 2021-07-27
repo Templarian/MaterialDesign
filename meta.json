@@ -4655,7 +4655,9 @@
         "id": "38278159-AC2C-433A-9335-95B05C1F6F56",
         "name": "application-cog",
         "codepoint": "F0675",
-        "aliases": [],
+        "aliases": [
+            "iframe-cog"
+        ],
         "tags": [
             "Brand \/ Logo"
         ],
