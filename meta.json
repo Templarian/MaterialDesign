@@ -4644,9 +4644,11 @@
         "id": "DD3492E1-1F83-4E41-8BA9-9E6A1380D235",
         "name": "application",
         "codepoint": "F08C6",
-        "aliases": [],
+        "aliases": [
+            "iframe"
+        ],
         "tags": [],
-        "author": "Contributors",
+        "author": "Michael Irigoyen",
         "version": "2.3.50"
     },
     {
