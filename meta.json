@@ -4656,7 +4656,8 @@
         "name": "application-cog-outline",
         "codepoint": "F1577",
         "aliases": [
-            "application-settings"
+            "application-settings",
+            "iframe-cog-outline"
         ],
         "tags": [
             "Settings"
