@@ -4703,7 +4703,9 @@
         "id": "EB7E0628-A5CC-4E23-9AD1-CC35CC4E3722",
         "name": "application-settings-outline",
         "codepoint": "F1555",
-        "aliases": [],
+        "aliases": [
+            "iframe-settings-outline"
+        ],
         "tags": [
             "Settings"
         ],
