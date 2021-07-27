@@ -29806,9 +29806,7 @@
         "name": "firewire",
         "codepoint": "F05BE",
         "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
+        "tags": [],
         "author": "Contributors",
         "version": "1.5.54"
     },
