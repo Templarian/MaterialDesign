@@ -41224,6 +41224,19 @@
         "version": "5.1.45"
     },
     {
+        "id": "A19711E4-E339-4016-970B-F81D14B303AC",
+        "name": "line-scan",
+        "codepoint": "F0624",
+        "aliases": [
+            "hackernews"
+        ],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.6.50"
+    },
+    {
         "id": "F718A4A1-9D7B-45E5-B0AD-50FDA06BA3C3",
         "name": "lingerie",
         "codepoint": "F1476",
@@ -70665,19 +70678,6 @@
         ],
         "author": "Contributors",
         "version": "2.0.46"
-    },
-    {
-        "id": "A19711E4-E339-4016-970B-F81D14B303AC",
-        "name": "y-combinator",
-        "codepoint": "F0624",
-        "aliases": [
-            "hackernews"
-        ],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.6.50"
     },
     {
         "id": "63AB3732-B3D1-4AFA-81B5-5D0F40E5D0E0",
