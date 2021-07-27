@@ -35906,9 +35906,7 @@
         "id": "9098736F-D298-4724-AE04-6BEA124F3854",
         "name": "hands-pray",
         "codepoint": "F0579",
-        "aliases": [
-            "vkontakte"
-        ],
+        "aliases": [],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "1.5.54"
