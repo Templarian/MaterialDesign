@@ -4260,15 +4260,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "9AE6BA3C-694B-47D5-99C3-7D063228F053",
-        "name": "amazon",
-        "codepoint": "F002D",
-        "aliases": [],
-        "tags": [],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "DD3492E1-1F83-4E41-8BA9-9E6A1380D235",
         "name": "amazon-alexa",
         "codepoint": "F08C6",
@@ -35296,6 +35287,15 @@
         ],
         "author": "Nick",
         "version": "2.4.85"
+    },
+    {
+        "id": "9AE6BA3C-694B-47D5-99C3-7D063228F053",
+        "name": "greenhouse",
+        "codepoint": "F002D",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Hilnbrand",
+        "version": "1.5.54"
     },
     {
         "id": "8D4C203D-A1F0-42DA-997A-AB7BAC63D97B",
