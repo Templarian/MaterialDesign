@@ -10253,17 +10253,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "00B9DE12-462A-483B-90D3-8FA89B3D9FD5",
-        "name": "bolnisi-cross",
-        "codepoint": "F0CED",
-        "aliases": [],
-        "tags": [
-            "Religion"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "3.3.92"
-    },
-    {
         "id": "4371183D-0D2B-4512-8069-93834BC85DE7",
         "name": "bolt",
         "codepoint": "F0DB3",
@@ -21981,6 +21970,17 @@
         ],
         "author": "Nick",
         "version": "2.4.85"
+    },
+    {
+        "id": "00B9DE12-462A-483B-90D3-8FA89B3D9FD5",
+        "name": "cross-bolnisi",
+        "codepoint": "F0CED",
+        "aliases": [],
+        "tags": [
+            "Religion"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "3.3.92"
     },
     {
         "id": "E7B0A94D-5F09-4E77-A1E0-3DA131398A26",
