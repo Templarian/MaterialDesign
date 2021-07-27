@@ -4759,10 +4759,8 @@
         "name": "application-edit",
         "codepoint": "F00AE",
         "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Google",
+        "tags": [],
+        "author": "Michael Irigoyen",
         "version": "1.5.54"
     },
     {
