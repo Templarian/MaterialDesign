@@ -4694,7 +4694,9 @@
         "id": "3727A772-B282-4785-B291-A7C7EBCB25A8",
         "name": "application-braces-outline",
         "codepoint": "F10F8",
-        "aliases": [],
+        "aliases": [
+            "iframe-braces-outline"
+        ],
         "tags": [
             "Developer \/ Languages"
         ],
