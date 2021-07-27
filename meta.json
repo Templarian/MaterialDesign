@@ -19741,7 +19741,9 @@
         "id": "AC6E8289-8D3C-4CE0-ADA6-D17DC639B7FB",
         "name": "coffin",
         "codepoint": "F0B7F",
-        "aliases": [],
+        "aliases": [
+            "dead"
+        ],
         "tags": [
             "Holiday"
         ],
