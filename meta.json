@@ -4652,6 +4652,17 @@
         "version": "2.3.50"
     },
     {
+        "id": "B5216901-ECCB-41B3-8F35-BFA701ECDDBC",
+        "name": "application-array",
+        "codepoint": "F10F5",
+        "aliases": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "4.3.95"
+    },
+    {
         "id": "86A1CD17-B112-46F8-A076-424D528A25AA",
         "name": "application-brackets",
         "codepoint": "F0C8B",
@@ -38317,17 +38328,6 @@
         ],
         "author": "Haley Halcyon",
         "version": "4.9.95"
-    },
-    {
-        "id": "B5216901-ECCB-41B3-8F35-BFA701ECDDBC",
-        "name": "iframe-array",
-        "codepoint": "F10F5",
-        "aliases": [],
-        "tags": [
-            "Developer \/ Languages"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "4.3.95"
     },
     {
         "id": "D07A9442-941E-47BB-8B31-F2EB41DE069E",
