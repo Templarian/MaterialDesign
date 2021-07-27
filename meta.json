@@ -4655,7 +4655,9 @@
         "id": "B5216901-ECCB-41B3-8F35-BFA701ECDDBC",
         "name": "application-array",
         "codepoint": "F10F5",
-        "aliases": [],
+        "aliases": [
+            "iframe-array"
+        ],
         "tags": [
             "Developer \/ Languages"
         ],
