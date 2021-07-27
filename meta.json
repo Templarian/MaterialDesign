@@ -4855,7 +4855,9 @@
         "id": "DF02C215-E96B-40CA-B372-9767965F11D3",
         "name": "application-variable-outline",
         "codepoint": "F10FC",
-        "aliases": [],
+        "aliases": [
+            "iframe-variable-outline"
+        ],
         "tags": [
             "Developer \/ Languages"
         ],
