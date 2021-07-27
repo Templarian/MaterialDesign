@@ -4755,6 +4755,17 @@
         "version": "5.5.55"
     },
     {
+        "id": "AAF23976-7C9D-4AFA-BE25-CCD225A95EEA",
+        "name": "application-edit",
+        "codepoint": "F00AE",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Google",
+        "version": "1.5.54"
+    },
+    {
         "id": "19852AF4-396B-4BA7-B9A1-3E412D49290A",
         "name": "application-export-outline",
         "codepoint": "F0DAD",
@@ -10111,17 +10122,6 @@
         "aliases": [],
         "tags": [],
         "author": "Austin Andrews",
-        "version": "1.5.54"
-    },
-    {
-        "id": "AAF23976-7C9D-4AFA-BE25-CCD225A95EEA",
-        "name": "blogger",
-        "codepoint": "F00AE",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Google",
         "version": "1.5.54"
     },
     {
