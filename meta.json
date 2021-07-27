@@ -4714,9 +4714,7 @@
         "id": "0AA8EAC5-6700-47B6-A38B-0E58CFA0CFE7",
         "name": "application-settings",
         "codepoint": "F0B60",
-        "aliases": [
-            "battle-net"
-        ],
+        "aliases": [],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "3.0.39"
