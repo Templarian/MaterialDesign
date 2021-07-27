@@ -4766,6 +4766,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "FBD11E2A-7F1F-4CE2-B17D-B3623D4FEA43",
+        "name": "application-edit-outline",
+        "codepoint": "F0619",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.6.50"
+    },
+    {
         "id": "19852AF4-396B-4BA7-B9A1-3E412D49290A",
         "name": "application-export-outline",
         "codepoint": "F0DAD",
@@ -12301,17 +12312,6 @@
         "tags": [],
         "author": "Austin Andrews",
         "version": "5.1.45"
-    },
-    {
-        "id": "FBD11E2A-7F1F-4CE2-B17D-B3623D4FEA43",
-        "name": "buffer",
-        "codepoint": "F0619",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.6.50"
     },
     {
         "id": "B68F24D9-0E45-4729-9DB9-46E0D73589F2",
