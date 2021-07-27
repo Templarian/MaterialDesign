@@ -35903,6 +35903,19 @@
         "version": "4.4.95"
     },
     {
+        "id": "9098736F-D298-4724-AE04-6BEA124F3854",
+        "name": "hands-pray",
+        "codepoint": "F0579",
+        "aliases": [
+            "vkontakte"
+        ],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.5.54"
+    },
+    {
         "id": "A41E35E2-6756-46D9-BE48-4DFA705A6A6A",
         "name": "handshake",
         "codepoint": "F1218",
@@ -68272,19 +68285,6 @@
         ],
         "author": "Michael Irigoyen",
         "version": "5.1.45"
-    },
-    {
-        "id": "9098736F-D298-4724-AE04-6BEA124F3854",
-        "name": "vk",
-        "codepoint": "F0579",
-        "aliases": [
-            "vkontakte"
-        ],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.5.54"
     },
     {
         "id": "3695CD89-BCB2-4D10-A8C5-9190F31F7C92",
