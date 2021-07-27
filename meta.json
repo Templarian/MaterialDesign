@@ -4688,8 +4688,7 @@
         "name": "application-outline",
         "codepoint": "F0614",
         "aliases": [
-            "web-asset",
-            "iframe"
+            "web-asset"
         ],
         "tags": [],
         "author": "Austin Andrews",
