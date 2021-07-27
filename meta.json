@@ -25020,17 +25020,6 @@
         "version": "3.0.39"
     },
     {
-        "id": "FF8D4F38-8A77-4FDD-8C6D-D17F6A44516D",
-        "name": "douban",
-        "codepoint": "F069A",
-        "aliases": [],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Contributors",
-        "version": "1.7.12"
-    },
-    {
         "id": "704F7397-0E85-4213-8D76-FE156DF1795F",
         "name": "download",
         "codepoint": "F01DA",
@@ -43834,6 +43823,17 @@
         ],
         "author": "Michael Irigoyen",
         "version": "4.4.95"
+    },
+    {
+        "id": "FF8D4F38-8A77-4FDD-8C6D-D17F6A44516D",
+        "name": "message-star",
+        "codepoint": "F069A",
+        "aliases": [],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Contributors",
+        "version": "1.7.12"
     },
     {
         "id": "D2AFF074-2CE4-442D-AF1A-64B168BC622A",
