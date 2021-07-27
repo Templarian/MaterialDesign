@@ -4668,7 +4668,9 @@
         "id": "D07A9442-941E-47BB-8B31-F2EB41DE069E",
         "name": "application-array-outline",
         "codepoint": "F10F6",
-        "aliases": [],
+        "aliases": [
+            "iframe-array-outline"
+        ],
         "tags": [
             "Developer \/ Languages"
         ],
