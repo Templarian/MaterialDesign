@@ -25459,7 +25459,9 @@
         "id": "A7F1974D-8084-4EBF-A932-2051938CB985",
         "name": "earth-box-remove",
         "codepoint": "F1408",
-        "aliases": [],
+        "aliases": [
+            "globe-box-remove"
+        ],
         "tags": [],
         "author": "Muhammet Balsoy",
         "version": "5.1.45"
