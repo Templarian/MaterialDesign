@@ -25477,7 +25477,9 @@
         "id": "046CC069-3771-4172-A9E6-F8D18161551F",
         "name": "earth-plus",
         "codepoint": "F1403",
-        "aliases": [],
+        "aliases": [
+            "globe-plus"
+        ],
         "tags": [],
         "author": "Muhammet Balsoy",
         "version": "5.1.45"
