@@ -25460,7 +25460,8 @@
         "name": "earth-box-remove",
         "codepoint": "F1408",
         "aliases": [
-            "globe-box-remove"
+            "globe-box-remove",
+            "world-box-remove"
         ],
         "tags": [],
         "author": "Muhammet Balsoy",
