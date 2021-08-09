@@ -25451,7 +25451,9 @@
         "id": "1C8EADAE-667F-4048-A393-B05980A7CA11",
         "name": "earth-minus",
         "codepoint": "F1404",
-        "aliases": [],
+        "aliases": [
+            "globe-minus"
+        ],
         "tags": [],
         "author": "Muhammet Balsoy",
         "version": "5.1.45"
