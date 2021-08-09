@@ -25446,7 +25446,9 @@
         "id": "5CEC6008-A993-410B-985A-4E41291BE614",
         "name": "earth-box-plus",
         "codepoint": "F1406",
-        "aliases": [],
+        "aliases": [
+            "globe-box-plus"
+        ],
         "tags": [],
         "author": "Muhammet Balsoy",
         "version": "5.1.45"
