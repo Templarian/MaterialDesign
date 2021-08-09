@@ -25478,7 +25478,8 @@
         "name": "earth-plus",
         "codepoint": "F1403",
         "aliases": [
-            "globe-plus"
+            "globe-plus",
+            "world-plus"
         ],
         "tags": [],
         "author": "Muhammet Balsoy",
