@@ -25464,7 +25464,8 @@
         "name": "earth-off",
         "codepoint": "F01E8",
         "aliases": [
-            "globe-off"
+            "globe-off",
+            "world-off"
         ],
         "tags": [
             "Geographic Information System"
