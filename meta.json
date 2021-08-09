@@ -56680,7 +56680,8 @@
         "name": "search-web",
         "codepoint": "F070F",
         "aliases": [
-            "search-globe"
+            "search-globe",
+            "global-search"
         ],
         "tags": [],
         "author": "Michael Richins",
