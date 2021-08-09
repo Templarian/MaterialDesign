@@ -25394,7 +25394,9 @@
         "id": "E6C7261B-1CC0-41EA-844B-0DA761CDCC12",
         "name": "earth-arrow-right",
         "codepoint": "F1311",
-        "aliases": [],
+        "aliases": [
+            "globe-arrow-right"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
