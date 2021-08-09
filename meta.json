@@ -25407,7 +25407,9 @@
         "id": "3F4C3330-49D5-4F2B-8FCC-A3448BEF521E",
         "name": "earth-box",
         "codepoint": "F06CD",
-        "aliases": [],
+        "aliases": [
+            "globe-box"
+        ],
         "tags": [],
         "author": "GreenTurtwig",
         "version": "1.8.36"
