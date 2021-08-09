@@ -16646,7 +16646,7 @@
             "verified"
         ],
         "tags": [],
-        "author": "Jeff Hilnbrand",
+        "author": "Jeff Anders",
         "version": "5.9.55"
     },
     {
@@ -24917,7 +24917,7 @@
         "codepoint": "F15FC",
         "aliases": [],
         "tags": [],
-        "author": "Jeff Hilnbrand",
+        "author": "Jeff Anders",
         "version": "5.6.55"
     },
     {
@@ -24926,7 +24926,7 @@
         "codepoint": "F15FF",
         "aliases": [],
         "tags": [],
-        "author": "Jeff Hilnbrand",
+        "author": "Jeff Anders",
         "version": "5.6.55"
     },
     {
@@ -24977,7 +24977,7 @@
             "perimeter"
         ],
         "tags": [],
-        "author": "Jeff Hilnbrand",
+        "author": "Jeff Anders",
         "version": "5.6.55"
     },
     {
@@ -24986,7 +24986,7 @@
         "codepoint": "F15FE",
         "aliases": [],
         "tags": [],
-        "author": "Jeff Hilnbrand",
+        "author": "Jeff Anders",
         "version": "5.6.55"
     },
     {
@@ -25381,7 +25381,8 @@
         "aliases": [
             "globe",
             "public",
-            "planet"
+            "planet",
+            "world"
         ],
         "tags": [
             "Geographic Information System"
@@ -35304,7 +35305,7 @@
         "tags": [
             "Drawing \/ Art"
         ],
-        "author": "Jeff Hilnbrand",
+        "author": "Jeff Anders",
         "version": "6.0.55"
     },
     {
@@ -35441,7 +35442,7 @@
             "Agriculture",
             "Nature"
         ],
-        "author": "Jeff Hilnbrand",
+        "author": "Jeff Anders",
         "version": "1.5.54"
     },
     {
@@ -57598,7 +57599,7 @@
         "codepoint": "F14FA",
         "aliases": [],
         "tags": [],
-        "author": "Jeff Hilnbrand",
+        "author": "Jeff Anders",
         "version": "5.4.55"
     },
     {
@@ -58390,7 +58391,7 @@
         "codepoint": "F14F9",
         "aliases": [],
         "tags": [],
-        "author": "Jeff Hilnbrand",
+        "author": "Jeff Anders",
         "version": "5.4.55"
     },
     {
@@ -58577,7 +58578,7 @@
         "codepoint": "F14F8",
         "aliases": [],
         "tags": [],
-        "author": "Jeff Hilnbrand",
+        "author": "Jeff Anders",
         "version": "5.4.55"
     },
     {
@@ -60987,7 +60988,7 @@
         "codepoint": "F14FB",
         "aliases": [],
         "tags": [],
-        "author": "Jeff Hilnbrand",
+        "author": "Jeff Anders",
         "version": "5.4.55"
     },
     {
@@ -60996,7 +60997,7 @@
         "codepoint": "F14FC",
         "aliases": [],
         "tags": [],
-        "author": "Jeff Hilnbrand",
+        "author": "Jeff Anders",
         "version": "5.4.55"
     },
     {
@@ -62979,7 +62980,7 @@
         "codepoint": "F1743",
         "aliases": [],
         "tags": [],
-        "author": "Jeff Hilnbrand",
+        "author": "Jeff Anders",
         "version": "5.9.55"
     },
     {
@@ -63454,7 +63455,7 @@
         "tags": [
             "Gaming \/ RPG"
         ],
-        "author": "Jeff Hilnbrand",
+        "author": "Jeff Anders",
         "version": "1.5.54"
     },
     {
@@ -65785,7 +65786,7 @@
         "tags": [
             "Transportation + Other"
         ],
-        "author": "Jeff Hilnbrand",
+        "author": "Jeff Anders",
         "version": "5.4.55"
     },
     {
@@ -65820,7 +65821,7 @@
         "tags": [
             "Transportation + Other"
         ],
-        "author": "Jeff Hilnbrand",
+        "author": "Jeff Anders",
         "version": "5.4.55"
     },
     {
