@@ -25495,7 +25495,8 @@
         "codepoint": "F1405",
         "aliases": [
             "globe-remove",
-            "world-remove"
+            "world-remove",
+            "planet-remove"
         ],
         "tags": [],
         "author": "Muhammet Balsoy",
