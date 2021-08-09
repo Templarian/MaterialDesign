@@ -69754,7 +69754,8 @@
         "name": "web-box",
         "codepoint": "F0F94",
         "aliases": [
-            "language-box"
+            "language-box",
+            "globe-box"
         ],
         "tags": [
             "Geographic Information System"
