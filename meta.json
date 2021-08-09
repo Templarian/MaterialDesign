@@ -25452,7 +25452,8 @@
         "name": "earth-minus",
         "codepoint": "F1404",
         "aliases": [
-            "globe-minus"
+            "globe-minus",
+            "world-minus"
         ],
         "tags": [],
         "author": "Muhammet Balsoy",
