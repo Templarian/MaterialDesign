@@ -25395,7 +25395,8 @@
         "name": "earth-arrow-right",
         "codepoint": "F1311",
         "aliases": [
-            "globe-arrow-right"
+            "globe-arrow-right",
+            "world-arrow-right"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
