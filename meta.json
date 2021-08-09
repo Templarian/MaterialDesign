@@ -35171,7 +35171,9 @@
         "id": "8A61F8F2-511B-45E9-9459-27BBD58936F8",
         "name": "google-earth",
         "codepoint": "F02B7",
-        "aliases": [],
+        "aliases": [
+            "marble"
+        ],
         "tags": [
             "Brand \/ Logo"
         ],
