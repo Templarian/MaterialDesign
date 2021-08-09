@@ -25447,7 +25447,8 @@
         "name": "earth-box-plus",
         "codepoint": "F1406",
         "aliases": [
-            "globe-box-plus"
+            "globe-box-plus",
+            "world-box-plus"
         ],
         "tags": [],
         "author": "Muhammet Balsoy",
