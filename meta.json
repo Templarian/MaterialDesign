@@ -56679,7 +56679,9 @@
         "id": "F6E7F332-1625-4A46-8E10-B6DEC4059E7E",
         "name": "search-web",
         "codepoint": "F070F",
-        "aliases": [],
+        "aliases": [
+            "search-globe"
+        ],
         "tags": [],
         "author": "Michael Richins",
         "version": "1.8.36"
