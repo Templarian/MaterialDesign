@@ -25420,7 +25420,9 @@
         "id": "C6EEACD5-6E55-4A4A-8E66-0CC8233470DA",
         "name": "earth-box-minus",
         "codepoint": "F1407",
-        "aliases": [],
+        "aliases": [
+            "globe-box-minus"
+        ],
         "tags": [],
         "author": "Muhammet Balsoy",
         "version": "5.1.45"
