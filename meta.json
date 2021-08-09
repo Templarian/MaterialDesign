@@ -25489,7 +25489,9 @@
         "id": "75FA6A35-88AE-4790-9B1A-0D0FD453E472",
         "name": "earth-remove",
         "codepoint": "F1405",
-        "aliases": [],
+        "aliases": [
+            "globe-remove"
+        ],
         "tags": [],
         "author": "Muhammet Balsoy",
         "version": "5.1.45"
