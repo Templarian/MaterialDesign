@@ -25463,7 +25463,9 @@
         "id": "519E0041-FD5F-4DAD-96A4-BED1EDE9A20B",
         "name": "earth-off",
         "codepoint": "F01E8",
-        "aliases": [],
+        "aliases": [
+            "globe-off"
+        ],
         "tags": [
             "Geographic Information System"
         ],
