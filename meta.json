@@ -25461,7 +25461,8 @@
         "codepoint": "F1408",
         "aliases": [
             "globe-box-remove",
-            "world-box-remove"
+            "world-box-remove",
+            "planet-box-remove"
         ],
         "tags": [],
         "author": "Muhammet Balsoy",
