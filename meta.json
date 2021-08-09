@@ -25435,7 +25435,8 @@
         "codepoint": "F06CE",
         "aliases": [
             "globe-box-off",
-            "world-box-off"
+            "world-box-off",
+            "planet-box-off"
         ],
         "tags": [],
         "author": "GreenTurtwig",
