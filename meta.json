@@ -69734,7 +69734,8 @@
         "name": "web",
         "codepoint": "F059F",
         "aliases": [
-            "language"
+            "language",
+            "globe"
         ],
         "tags": [
             "Geographic Information System"
