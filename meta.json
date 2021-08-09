@@ -25408,7 +25408,8 @@
         "name": "earth-box",
         "codepoint": "F06CD",
         "aliases": [
-            "globe-box"
+            "globe-box",
+            "world-box"
         ],
         "tags": [],
         "author": "GreenTurtwig",
