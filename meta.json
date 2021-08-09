@@ -25490,7 +25490,8 @@
         "name": "earth-remove",
         "codepoint": "F1405",
         "aliases": [
-            "globe-remove"
+            "globe-remove",
+            "world-remove"
         ],
         "tags": [],
         "author": "Muhammet Balsoy",
