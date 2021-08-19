@@ -32,7 +32,7 @@ body:
   - type: textarea
     id: preview
     attributes:
-      label: Preview
+      label: Share a preview of your contribution.
       description: Generate a preview of your icon using our [preview generator](http://dev.materialdesignicons.com/contribute/github). Your icon *must* be combined down to a single path to generate a preview.
       placeholder: Paste the generated preview of your icon here.
     validations:
@@ -40,8 +40,8 @@ body:
   - type: textarea
     id: source
     attributes:
-      label: Icon Source
-      description: ZIP the SVG source files for your icon(s) and upload it here. Your SVGs should only contain the single path used to generate your preview.
+      label: Upload the icon source.
+      description: Zip up the SVG source files for your icon(s) and upload it here. Your SVGs should only contain the single path used to generate your preview.
       placeholder: Upload your ZIP file here.
     validations:
       required: true

@@ -32,14 +32,14 @@ body:
   - type: textarea
     id: usage
     attributes:
-      label: Usage
+      label: What would you use this icon for?
       description: Please provide some context of how this new icon could be used.
     validations:
       required: true
   - type: textarea
     id: examples
     attributes:
-      label: Examples
+      label: Give us an example of it's usage.
       description: Please upload or provide links to images that exemplify this request. This gives us a better understanding of what you are requesting.
     validations:
       required: true

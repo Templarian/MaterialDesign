@@ -31,7 +31,7 @@ body:
   - type: textarea
     id: bug
     attributes:
-      label: Bug Details
-      description: Please describe the issue you are experiencing.
+      label: What is the issue you are experiencing?
+      description: Please provide as much detail as possible, including reproduction steps if applicable.
     validations:
       required: true
