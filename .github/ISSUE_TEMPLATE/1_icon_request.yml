@@ -2,22 +2,6 @@ name: Request a New Icon 💡
 description: Request a new icon to be added.
 labels: [Icon Request]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        This issue form is for requesting *new* icons for addition only!
-
-        ---
-
-        **_Please note_: [We are no longer accepting new brand icons into MDI.][1]**
-
-        We recommend checking out [SimpleIcons][2]. SimpleIcons is a library specific to brand and product icons. If they do not currently have your requested icon, [you can request it on their GitHub page][3].
-
-        ---
-
-        [1]: http://dev.materialdesignicons.com/roadmap/brand-icons
-        [2]: https://simpleicons.org/
-        [3]: https://github.com/simple-icons/simple-icons/issues
   - type: checkboxes
     id: acknowledgements
     attributes:
@@ -26,6 +10,8 @@ body:
         - label: I have [searched all issues](https://github.com/Templarian/MaterialDesign/issues) to make sure there isn't a request for this icon.
           required: true
         - label: I have [searched the current library](https://materialdesignicons.com/) to make sure the icon doesn't already exist.
+          required: true
+        - label: I understand that [brand icons are no longer being added](http://dev.materialdesignicons.com/roadmap/brand-icons) and I can use [SimpleIcons](https://simpleicons.org/) for my brand icon needs.
           required: true
         - label: I only intend to request a single icon (or a few near-identical ones) in this issue.
           required: true
