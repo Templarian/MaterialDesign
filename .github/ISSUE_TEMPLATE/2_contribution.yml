@@ -21,7 +21,7 @@ body:
   - type: checkboxes
     id: acknowledgements
     attributes:
-      label: "Before submitting a new icon request, please confirm the following:"
+      label: "Before submitting a new icon contribution, please confirm the following:"
       options:
         - label: I have [searched all issues](https://github.com/Templarian/MaterialDesign/issues) to make sure there isn't a request for this icon.
           required: true
