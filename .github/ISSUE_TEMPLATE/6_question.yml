@@ -6,6 +6,7 @@ body:
     id: question
     attributes:
       label: What is your question?
-      description: **Note:** Please make sure it is relevant to the icon pack and not too specific to a Framework/Library.
+      description: Please describe the issue you are experiencing.
+      description: "**Note:** Please make sure it is relevant to the icon pack and not too specific to a Framework/Library."
     validations:
       required: true
