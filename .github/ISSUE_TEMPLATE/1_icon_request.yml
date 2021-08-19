@@ -7,9 +7,13 @@ body:
       value: |
         This issue form is for requesting *new* icons for addition only!
 
-        Please note: [**We are no longer accepting new brand icons into MDI.**][1]
+        ---
+
+        **_Please note_: [We are no longer accepting new brand icons into MDI.][1]**
 
         We recommend checking out [SimpleIcons][2]. SimpleIcons is a library specific to brand and product icons. If they do not currently have your requested icon, [you can request it on their GitHub page][3].
+
+        ---
 
         [1]: http://dev.materialdesignicons.com/roadmap/brand-icons
         [2]: https://simpleicons.org/

@@ -7,7 +7,11 @@ body:
       value: |
         *Make sure you [searched open issues](https://github.com/Templarian/MaterialDesign/issues) before submitting your bug report!*
 
+        ---
+
         Tags work like categories for icons and assist users of <materialdesignicons.com> with a way to narrow their search while browsing for icons to use. Multiple tags may apply for a single icon.
+
+        ---
   - type: input
     id: icon_name
     attributes:
