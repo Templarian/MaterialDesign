@@ -58878,7 +58878,8 @@
         "name": "silverware-clean",
         "codepoint": "F0FDE",
         "aliases": [
-            "silverware-shimmer"
+            "silverware-shimmer",
+            "cutlery-clean"
         ],
         "tags": [
             "Food \/ Drink"
