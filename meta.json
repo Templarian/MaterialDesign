@@ -58932,7 +58932,9 @@
         "id": "A91FC6E1-2613-41E7-A8CA-58740B3322DA",
         "name": "silverware-variant",
         "codepoint": "F04A6",
-        "aliases": [],
+        "aliases": [
+            "cutlery-variant"
+        ],
         "tags": [
             "Food \/ Drink",
             "Places"
