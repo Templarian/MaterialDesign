@@ -40000,7 +40000,8 @@
         "name": "knife",
         "codepoint": "F09FB",
         "aliases": [
-            "silverware-knife"
+            "silverware-knife",
+            "cutlery-knife"
         ],
         "tags": [],
         "author": "Augustin Ursu",
