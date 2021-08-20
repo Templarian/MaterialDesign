@@ -39999,7 +39999,9 @@
         "id": "AF35DB46-1B52-4721-8475-F3CD107325B4",
         "name": "knife",
         "codepoint": "F09FB",
-        "aliases": [],
+        "aliases": [
+            "silverware-knife"
+        ],
         "tags": [],
         "author": "Augustin Ursu",
         "version": "2.5.94"
