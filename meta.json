@@ -58914,7 +58914,9 @@
         "id": "5FCBB812-F381-4E83-B60E-E126992910FB",
         "name": "silverware-spoon",
         "codepoint": "F04A5",
-        "aliases": [],
+        "aliases": [
+            "cutlery-spoon"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
