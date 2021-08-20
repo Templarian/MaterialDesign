@@ -58889,7 +58889,9 @@
         "id": "7B00A99C-3766-4939-993F-657333EE430B",
         "name": "silverware-fork",
         "codepoint": "F04A4",
-        "aliases": [],
+        "aliases": [
+            "cutlery-fork"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
