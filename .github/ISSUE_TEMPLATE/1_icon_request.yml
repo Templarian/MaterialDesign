@@ -25,7 +25,7 @@ body:
   - type: textarea
     id: examples
     attributes:
-      label: Give us an example of it's usage.
+      label: Give us an example of what this icon might look like.
       description: Please upload or provide links to images that exemplify this request. This gives us a better understanding of what you are requesting.
     validations:
       required: true
