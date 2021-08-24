@@ -15522,7 +15522,9 @@
         "id": "326FF6B4-E497-4C9C-8EA5-D3FEACF0B2AE",
         "name": "ceiling-fan-light",
         "codepoint": "F1798",
-        "aliases": [],
+        "aliases": [
+            "ceiling-fan-on"
+        ],
         "tags": [
             "Home Automation"
         ],
