@@ -44964,6 +44964,15 @@
         "version": "6.0.55"
     },
     {
+        "id": "5E742652-9430-4B8E-9C4C-19F326A74523",
+        "name": "mirror-variant",
+        "codepoint": "F17A0",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.55"
+    },
+    {
         "id": "BF0B21D2-7266-4639-B2C4-24199863849D",
         "name": "mixed-martial-arts",
         "codepoint": "F0D8F",
