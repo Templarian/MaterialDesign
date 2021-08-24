@@ -59662,6 +59662,15 @@
         "version": "2.6.95"
     },
     {
+        "id": "EE8752CF-6D3B-4D58-AFD4-1868AAA30933",
+        "name": "smoke",
+        "codepoint": "F1799",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.55"
+    },
+    {
         "id": "1DDC71A0-A86A-4E8F-BF1D-CD33C0B0BEA4",
         "name": "smoke-detector",
         "codepoint": "F0392",
