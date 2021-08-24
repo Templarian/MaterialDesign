@@ -69792,6 +69792,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "3B639E91-D1C4-439A-A1D9-84779901F763",
+        "name": "web-sync",
+        "codepoint": "F1792",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "03483AFB-9D53-4E10-B00C-1095C1873276",
         "name": "webcam",
         "codepoint": "F05A0",
