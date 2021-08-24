@@ -69718,6 +69718,15 @@
         "version": "3.9.97"
     },
     {
+        "id": "A959571D-7AA8-4DD9-8407-D78D4DFBDD79",
+        "name": "web-cancel",
+        "codepoint": "F1790",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "B74213B2-B220-4D15-AFA5-CAE0E40D6CFE",
         "name": "web-check",
         "codepoint": "F0789",
