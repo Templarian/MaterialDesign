@@ -15517,6 +15517,15 @@
         "version": "6.0.55"
     },
     {
+        "id": "326FF6B4-E497-4C9C-8EA5-D3FEACF0B2AE",
+        "name": "ceiling-fan-light",
+        "codepoint": "F1798",
+        "aliases": [],
+        "tags": [],
+        "author": "nilsfast",
+        "version": "6.0.55"
+    },
+    {
         "id": "C45A21A3-671C-4B1A-B405-D625ECA93C11",
         "name": "ceiling-light",
         "codepoint": "F0769",
