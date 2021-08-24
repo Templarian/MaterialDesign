@@ -4339,15 +4339,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "46DE4030-CBE2-401D-82A0-50B99DE514D1",
-        "name": "android-auto",
-        "codepoint": "F0A8E",
-        "aliases": [],
-        "tags": [],
-        "author": "Colton Wiscombe",
-        "version": "2.7.94"
-    },
-    {
         "id": "F9923FF1-E31E-4C03-BBB7-438704CF3909",
         "name": "android-debug-bridge",
         "codepoint": "F0033",
@@ -69783,6 +69774,15 @@
         ],
         "author": "frankgrinaert",
         "version": "4.6.95"
+    },
+    {
+        "id": "46DE4030-CBE2-401D-82A0-50B99DE514D1",
+        "name": "web-off",
+        "codepoint": "F0A8E",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "2.7.94"
     },
     {
         "id": "03483AFB-9D53-4E10-B00C-1095C1873276",
