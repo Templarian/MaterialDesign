@@ -8999,6 +8999,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "F24949D4-ED65-4517-8AA1-71160F05D0F8",
+        "name": "battery-lock",
+        "codepoint": "F179C",
+        "aliases": [],
+        "tags": [],
+        "author": "Fran\u00e7ois Risoud",
+        "version": "6.0.55"
+    },
+    {
         "id": "4BDC283A-A6B7-4B2B-A18A-2B25410AF35C",
         "name": "battery-low",
         "codepoint": "F12A1",
