@@ -66865,15 +66865,6 @@
         "version": "2.4.85"
     },
     {
-        "id": "BC7B3CEA-B4D3-4F52-8378-5ACF408A3D9B",
-        "name": "untappd",
-        "codepoint": "F0551",
-        "aliases": [],
-        "tags": [],
-        "author": "Contributors",
-        "version": "1.5.54"
-    },
-    {
         "id": "1B274396-AAE7-4CD8-8D57-27E31D915F68",
         "name": "update",
         "codepoint": "F06B0",
@@ -69768,6 +69759,15 @@
         "id": "F9923FF1-E31E-4C03-BBB7-438704CF3909",
         "name": "web-plus",
         "codepoint": "F0033",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "1.5.54"
+    },
+    {
+        "id": "BC7B3CEA-B4D3-4F52-8378-5ACF408A3D9B",
+        "name": "web-remove",
+        "codepoint": "F0551",
         "aliases": [],
         "tags": [],
         "author": "Colton Wiscombe",
