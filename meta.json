@@ -69774,6 +69774,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "D0CCF2D3-F7AC-4591-B31E-37B03A843661",
+        "name": "web-refresh",
+        "codepoint": "F1791",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "BC7B3CEA-B4D3-4F52-8378-5ACF408A3D9B",
         "name": "web-remove",
         "codepoint": "F0551",
