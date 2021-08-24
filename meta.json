@@ -44536,15 +44536,6 @@
         "version": "3.6.95"
     },
     {
-        "id": "B74213B2-B220-4D15-AFA5-CAE0E40D6CFE",
-        "name": "microsoft-yammer",
-        "codepoint": "F0789",
-        "aliases": [],
-        "tags": [],
-        "author": "Colton Wiscombe",
-        "version": "1.9.32"
-    },
-    {
         "id": "62F69C7A-4CBA-444A-8BFE-E5B7A891CF5D",
         "name": "microwave",
         "codepoint": "F0C99",
@@ -69736,6 +69727,15 @@
         ],
         "author": "Contributors",
         "version": "3.9.97"
+    },
+    {
+        "id": "B74213B2-B220-4D15-AFA5-CAE0E40D6CFE",
+        "name": "web-check",
+        "codepoint": "F0789",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "1.9.32"
     },
     {
         "id": "FABF6519-0CE7-461D-986D-60B4BF7374A7",
