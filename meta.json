@@ -41022,7 +41022,9 @@
         "id": "F309BA75-39A7-45AC-9B1A-22D1F7D41345",
         "name": "light-recessed",
         "codepoint": "F179B",
-        "aliases": [],
+        "aliases": [
+            "can-light"
+        ],
         "tags": [
             "Home Automation"
         ],
