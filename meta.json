@@ -4339,19 +4339,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "F9923FF1-E31E-4C03-BBB7-438704CF3909",
-        "name": "android-debug-bridge",
-        "codepoint": "F0033",
-        "aliases": [
-            "adb"
-        ],
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Google",
-        "version": "1.5.54"
-    },
-    {
         "id": "55847C89-2AE5-4F91-85AA-761FD8CE57F0",
         "name": "android-messages",
         "codepoint": "F0D45",
@@ -69783,6 +69770,19 @@
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "2.7.94"
+    },
+    {
+        "id": "F9923FF1-E31E-4C03-BBB7-438704CF3909",
+        "name": "web-plus",
+        "codepoint": "F0033",
+        "aliases": [
+            "adb"
+        ],
+        "tags": [
+            "Brand \/ Logo"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "1.5.54"
     },
     {
         "id": "03483AFB-9D53-4E10-B00C-1095C1873276",
