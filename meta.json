@@ -4343,9 +4343,7 @@
         "name": "android-auto",
         "codepoint": "F0A8E",
         "aliases": [],
-        "tags": [
-            "Automotive"
-        ],
+        "tags": [],
         "author": "Colton Wiscombe",
         "version": "2.7.94"
     },
