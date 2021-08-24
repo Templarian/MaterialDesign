@@ -37679,7 +37679,9 @@
         "id": "1DBBF908-7F93-4FAE-8A2A-555851E7C3BE",
         "name": "home-switch",
         "codepoint": "F1794",
-        "aliases": [],
+        "aliases": [
+            "home-swap"
+        ],
         "tags": [
             "Home Automation"
         ],
