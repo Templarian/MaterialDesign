@@ -9003,7 +9003,9 @@
         "name": "battery-lock",
         "codepoint": "F179C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Battery"
+        ],
         "author": "Fran\u00e7ois Risoud",
         "version": "6.0.55"
     },
