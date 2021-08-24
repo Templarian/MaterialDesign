@@ -9014,7 +9014,9 @@
         "name": "battery-lock-open",
         "codepoint": "F179D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Battery"
+        ],
         "author": "Fran\u00e7ois Risoud",
         "version": "6.0.55"
     },
