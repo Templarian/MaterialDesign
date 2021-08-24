@@ -62228,7 +62228,8 @@
         "name": "sun-snowflake",
         "codepoint": "F1796",
         "aliases": [
-            "hot-cold"
+            "hot-cold",
+            "heat-cool"
         ],
         "tags": [],
         "author": "Google",
