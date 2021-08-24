@@ -27967,6 +27967,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "CAFE2FF6-D1D5-4411-9AA1-33C5076F0E4E",
+        "name": "fence",
+        "codepoint": "F179A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.55"
+    },
+    {
         "id": "325210DA-E889-4CBD-B0A7-8A32D706322B",
         "name": "fencing",
         "codepoint": "F14C1",
