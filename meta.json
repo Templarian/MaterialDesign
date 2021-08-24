@@ -15937,7 +15937,9 @@
         "id": "C0F0A8D1-34A5-462C-B417-733507042380",
         "name": "chandelier",
         "codepoint": "F1793",
-        "aliases": [],
+        "aliases": [
+            "ceiling-light"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.0.55"
