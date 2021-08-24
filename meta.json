@@ -30962,6 +30962,15 @@
         "version": "4.3.95"
     },
     {
+        "id": "95C4CD8D-86FA-4F13-91AA-3AAEF0CD5CEE",
+        "name": "folder-hidden",
+        "codepoint": "F179E",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.55"
+    },
+    {
         "id": "EF46E7D8-3062-41E5-8FC6-92D66DEF7603",
         "name": "folder-home",
         "codepoint": "F10B5",
