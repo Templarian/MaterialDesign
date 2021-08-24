@@ -62188,6 +62188,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "2294E545-CE17-4605-8DBD-FFAE9CFDFED6",
+        "name": "sun-snowflake",
+        "codepoint": "F1796",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.0.55"
+    },
+    {
         "id": "E52FC33A-09BD-4B34-AF94-92C891020CDC",
         "name": "sunglasses",
         "codepoint": "F04E0",
