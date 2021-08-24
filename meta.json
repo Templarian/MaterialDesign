@@ -37652,6 +37652,15 @@
         "version": "5.0.45"
     },
     {
+        "id": "1DBBF908-7F93-4FAE-8A2A-555851E7C3BE",
+        "name": "home-switch",
+        "codepoint": "F1794",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.55"
+    },
+    {
         "id": "833E3484-3C40-4F98-96CB-537FB6225711",
         "name": "home-thermometer",
         "codepoint": "F0F54",
