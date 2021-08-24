@@ -15938,7 +15938,8 @@
         "name": "chandelier",
         "codepoint": "F1793",
         "aliases": [
-            "ceiling-light"
+            "ceiling-light",
+            "girandole"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
