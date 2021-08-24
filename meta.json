@@ -59671,7 +59671,9 @@
         "id": "EE8752CF-6D3B-4D58-AFD4-1868AAA30933",
         "name": "smoke",
         "codepoint": "F1799",
-        "aliases": [],
+        "aliases": [
+            "smog"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.0.55"
