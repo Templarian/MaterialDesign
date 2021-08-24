@@ -15943,7 +15943,9 @@
             "candelabra-lamp",
             "suspended-light"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.0.55"
     },
