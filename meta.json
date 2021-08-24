@@ -41025,7 +41025,8 @@
         "aliases": [
             "can-light",
             "pot-light",
-            "high-hat-light"
+            "high-hat-light",
+            "hi-hat-light"
         ],
         "tags": [
             "Home Automation"
