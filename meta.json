@@ -9008,6 +9008,15 @@
         "version": "6.0.55"
     },
     {
+        "id": "20BE6E36-64DD-49BD-BA06-F90480EF33A5",
+        "name": "battery-lock-open",
+        "codepoint": "F179D",
+        "aliases": [],
+        "tags": [],
+        "author": "Fran\u00e7ois Risoud",
+        "version": "6.0.55"
+    },
+    {
         "id": "4BDC283A-A6B7-4B2B-A18A-2B25410AF35C",
         "name": "battery-low",
         "codepoint": "F12A1",
