@@ -41019,6 +41019,15 @@
         "version": "2.1.99"
     },
     {
+        "id": "F309BA75-39A7-45AC-9B1A-22D1F7D41345",
+        "name": "light-recessed",
+        "codepoint": "F179B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.55"
+    },
+    {
         "id": "647E0001-A60B-4D74-B127-BF522712922F",
         "name": "light-switch",
         "codepoint": "F097E",
