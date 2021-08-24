@@ -62231,7 +62231,9 @@
             "hot-cold",
             "heat-cool"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Google",
         "version": "6.0.55"
     },
