@@ -37692,7 +37692,9 @@
         "id": "4C8FD8F1-0690-4B2D-A614-A03F58D48370",
         "name": "home-switch-outline",
         "codepoint": "F1795",
-        "aliases": [],
+        "aliases": [
+            "home-swap-outline"
+        ],
         "tags": [
             "Home Automation"
         ],
