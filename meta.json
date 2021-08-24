@@ -15512,7 +15512,9 @@
         "name": "ceiling-fan",
         "codepoint": "F1797",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "nilsfast",
         "version": "6.0.55"
     },
