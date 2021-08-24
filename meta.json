@@ -15910,6 +15910,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "C0F0A8D1-34A5-462C-B417-733507042380",
+        "name": "chandelier",
+        "codepoint": "F1793",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.55"
+    },
+    {
         "id": "B5589411-20E7-4552-BEC5-A394068B23A7",
         "name": "charity",
         "codepoint": "F0C4F",
