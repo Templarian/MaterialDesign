@@ -15523,7 +15523,9 @@
         "name": "ceiling-fan-light",
         "codepoint": "F1798",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "nilsfast",
         "version": "6.0.55"
     },
