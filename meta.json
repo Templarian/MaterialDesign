@@ -62227,7 +62227,9 @@
         "id": "2294E545-CE17-4605-8DBD-FFAE9CFDFED6",
         "name": "sun-snowflake",
         "codepoint": "F1796",
-        "aliases": [],
+        "aliases": [
+            "hot-cold"
+        ],
         "tags": [],
         "author": "Google",
         "version": "6.0.55"
