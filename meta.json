@@ -41023,7 +41023,8 @@
         "name": "light-recessed",
         "codepoint": "F179B",
         "aliases": [
-            "can-light"
+            "can-light",
+            "pot-light"
         ],
         "tags": [
             "Home Automation"
