@@ -59672,7 +59672,8 @@
         "name": "smoke",
         "codepoint": "F1799",
         "aliases": [
-            "smog"
+            "smog",
+            "fire"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
