@@ -69225,6 +69225,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "A91CF4C0-CC99-4429-BE37-54774E420A9F",
+        "name": "wall-sconce-round-outline",
+        "codepoint": "F17CC",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.80"
+    },
+    {
         "id": "D599F298-0E64-47A7-AD5B-B1AD5CEE1B1E",
         "name": "wall-sconce-round-variant",
         "codepoint": "F091E",
