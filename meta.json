@@ -18032,6 +18032,15 @@
         "version": "2.8.94"
     },
     {
+        "id": "E39C0619-71BD-4EE7-932C-2025F7174550",
+        "name": "chili-alert",
+        "codepoint": "F17EA",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.1.21"
+    },
+    {
         "id": "E868226C-7BE8-4A22-8A9A-8E040004016A",
         "name": "chili-hot",
         "codepoint": "F07B2",
