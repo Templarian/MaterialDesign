@@ -14221,7 +14221,9 @@
         "id": "1D56356A-1601-41FC-9D98-67736772260B",
         "name": "candelabra",
         "codepoint": "F17D2",
-        "aliases": [],
+        "aliases": [
+            "candle"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.1.1"
