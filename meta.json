@@ -69247,6 +69247,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "6A9EE0EE-A559-4A78-9313-0B7DED29C757",
+        "name": "wall-sconce-round-variant-outline",
+        "codepoint": "F17CD",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.80"
+    },
+    {
         "id": "C5ABA786-D897-4770-AA78-CE4CB2A9230E",
         "name": "wallet",
         "codepoint": "F0584",
