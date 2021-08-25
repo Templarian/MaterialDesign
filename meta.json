@@ -13219,7 +13219,9 @@
         "id": "0819B4B2-9D58-438F-943E-E628A3D5BF52",
         "name": "cake-variant-outline",
         "codepoint": "F17F0",
-        "aliases": [],
+        "aliases": [
+            "birthday-cake-outline"
+        ],
         "tags": [
             "Holiday",
             "Food \/ Drink"
