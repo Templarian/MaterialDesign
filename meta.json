@@ -61042,7 +61042,9 @@
         "id": "1A5FBE33-5A69-4ED4-8A33-416EFA9B24CD",
         "name": "soundbar",
         "codepoint": "F17DB",
-        "aliases": [],
+        "aliases": [
+            "speaker-bar"
+        ],
         "tags": [
             "Home Automation"
         ],
