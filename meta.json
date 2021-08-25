@@ -29207,6 +29207,15 @@
         "version": "3.0.39"
     },
     {
+        "id": "7FCFB449-8096-408A-88E4-B73343DB201F",
+        "name": "file-gif-box",
+        "codepoint": "F0D78",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "3.4.93"
+    },
+    {
         "id": "22033CAF-C8AF-4C33-9FCD-9D6FC4EE7EAF",
         "name": "file-hidden",
         "codepoint": "F0613",
@@ -35217,15 +35226,6 @@
         ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
-    },
-    {
-        "id": "7FCFB449-8096-408A-88E4-B73343DB201F",
-        "name": "gif",
-        "codepoint": "F0D78",
-        "aliases": [],
-        "tags": [],
-        "author": "Michael Irigoyen",
-        "version": "3.4.93"
     },
     {
         "id": "62403C7B-F20E-489B-8835-28F7544D9712",
