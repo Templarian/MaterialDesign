@@ -14239,7 +14239,9 @@
         "id": "4FB0AA38-406A-4877-8B0C-15C7ED95F22C",
         "name": "candle",
         "codepoint": "F05E2",
-        "aliases": [],
+        "aliases": [
+            "candle-flame"
+        ],
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
