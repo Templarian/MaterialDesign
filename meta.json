@@ -15362,6 +15362,15 @@
         "version": "6.1.27"
     },
     {
+        "id": "5A952723-5033-43DA-B1A8-A9DD1A5B3DB6",
+        "name": "card-multiple-outline",
+        "codepoint": "F17F2",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.1.27"
+    },
+    {
         "id": "B426A851-795C-4627-9F65-EF585020DE63",
         "name": "card-off",
         "codepoint": "F1602",
