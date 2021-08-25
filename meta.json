@@ -14227,6 +14227,15 @@
         "version": "6.0.80"
     },
     {
+        "id": "CF2B4CE1-69FF-472B-BE94-620D71F5A42F",
+        "name": "candelabra-fire",
+        "codepoint": "F17D3",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.80"
+    },
+    {
         "id": "4FB0AA38-406A-4877-8B0C-15C7ED95F22C",
         "name": "candle",
         "codepoint": "F05E2",
