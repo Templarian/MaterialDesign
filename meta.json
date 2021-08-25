@@ -12320,7 +12320,9 @@
         "id": "6C1979BB-3BFD-4466-9934-945FAB608E90",
         "name": "briefcase-eye-outline",
         "codepoint": "F17DA",
-        "aliases": [],
+        "aliases": [
+            "briefcase-view-outline"
+        ],
         "tags": [],
         "author": "Contributors",
         "version": "6.1.1"
