@@ -69909,7 +69909,8 @@
         "name": "water-sync",
         "codepoint": "F17C6",
         "aliases": [
-            "water-recycle"
+            "water-recycle",
+            "water-reuse"
         ],
         "tags": [],
         "author": "Contributors",
