@@ -38458,7 +38458,9 @@
         "id": "088F07BD-BEA9-46D5-A2DF-0B9FA37BBF99",
         "name": "hoop-house",
         "codepoint": "F0E56",
-        "aliases": [],
+        "aliases": [
+            "green-house"
+        ],
         "tags": [
             "Agriculture"
         ],
