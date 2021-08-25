@@ -9509,6 +9509,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "07911E7E-BA7E-49FD-90B1-7B8D273D9278",
+        "name": "battery-plus",
+        "codepoint": "F17E6",
+        "aliases": [],
+        "tags": [],
+        "author": "Fran\u00e7ois Risoud",
+        "version": "6.1.1"
+    },
+    {
         "id": "A4BD7F0D-E95C-413C-B853-435A53854844",
         "name": "battery-plus-variant",
         "codepoint": "F008F",
