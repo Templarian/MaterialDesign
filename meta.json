@@ -8940,6 +8940,15 @@
         "version": "6.1.1"
     },
     {
+        "id": "DA4F5288-0BD2-4D9F-A49D-8E40E9893789",
+        "name": "battery-arrow-up",
+        "codepoint": "F17E0",
+        "aliases": [],
+        "tags": [],
+        "author": "Fran\u00e7ois Risoud",
+        "version": "6.1.1"
+    },
+    {
         "id": "3DB7EA89-8F0C-40DA-B45A-E5B588F2CC01",
         "name": "battery-bluetooth",
         "codepoint": "F0948",
