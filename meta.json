@@ -57516,6 +57516,15 @@
         "version": "3.8.95"
     },
     {
+        "id": "44145803-0893-44BE-9B63-8BC586FFCCAB",
+        "name": "selection-ellipse-remove",
+        "codepoint": "F17C2",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.0.80"
+    },
+    {
         "id": "DA670815-123E-4443-B813-5BB4A556AB1C",
         "name": "selection-marker",
         "codepoint": "F1283",
