@@ -9518,6 +9518,15 @@
         "version": "6.1.1"
     },
     {
+        "id": "E9A097FD-0484-4E92-BC8F-2726EF5CAB5B",
+        "name": "battery-plus-outline",
+        "codepoint": "F17E7",
+        "aliases": [],
+        "tags": [],
+        "author": "Fran\u00e7ois Risoud",
+        "version": "6.1.1"
+    },
+    {
         "id": "A4BD7F0D-E95C-413C-B853-435A53854844",
         "name": "battery-plus-variant",
         "codepoint": "F008F",
