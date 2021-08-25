@@ -30950,7 +30950,9 @@
         "id": "E53D8FB5-A010-4EFA-91EB-731E8C6B7321",
         "name": "floor-lamp-dual-outline",
         "codepoint": "F17CE",
-        "aliases": [],
+        "aliases": [
+            "floor-light-dual-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.1.1"
