@@ -9323,6 +9323,15 @@
         "version": "2.1.19"
     },
     {
+        "id": "0D73145E-B849-4DA8-AC86-8DA3840ACC38",
+        "name": "battery-check",
+        "codepoint": "F17E2",
+        "aliases": [],
+        "tags": [],
+        "author": "Fran\u00e7ois Risoud",
+        "version": "6.1.1"
+    },
+    {
         "id": "DEE88AFA-DFF3-4100-8475-EB5EB72CCFCB",
         "name": "battery-heart",
         "codepoint": "F120F",
