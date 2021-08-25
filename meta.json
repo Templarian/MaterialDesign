@@ -22504,6 +22504,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "8D0845BB-6518-4178-BE14-BDE99D614A8C",
+        "name": "crown-circle",
+        "codepoint": "F17DC",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.1"
+    },
+    {
         "id": "D0B6994F-78AD-4D69-ADED-CD0C15D0D62B",
         "name": "crown-outline",
         "codepoint": "F11D0",
