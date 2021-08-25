@@ -57565,6 +57565,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "374F7C71-E33D-47CD-9A4E-898B853094C0",
+        "name": "selection-remove",
+        "codepoint": "F17C3",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.0.80"
+    },
+    {
         "id": "2123E467-F48C-4AC6-8061-FEEB686ADB19",
         "name": "selection-search",
         "codepoint": "F1205",
