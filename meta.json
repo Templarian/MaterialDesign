@@ -43900,7 +43900,8 @@
         "name": "menorah-fire",
         "codepoint": "F17D5",
         "aliases": [
-            "menorah-flame"
+            "menorah-flame",
+            "candle-flame"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
