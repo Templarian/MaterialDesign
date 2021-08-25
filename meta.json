@@ -61021,6 +61021,15 @@
         "version": "4.4.95"
     },
     {
+        "id": "1A5FBE33-5A69-4ED4-8A33-416EFA9B24CD",
+        "name": "soundbar",
+        "codepoint": "F17DB",
+        "aliases": [],
+        "tags": [],
+        "author": "GreenTurtwig",
+        "version": "6.1.1"
+    },
+    {
         "id": "5952089F-872D-454C-AD1F-18B205938245",
         "name": "soundcloud",
         "codepoint": "F04C0",
