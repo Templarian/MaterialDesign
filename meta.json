@@ -30963,7 +30963,9 @@
         "id": "9768571C-CF87-4146-A9AF-A4E76BBD9248",
         "name": "floor-lamp-outline",
         "codepoint": "F17C8",
-        "aliases": [],
+        "aliases": [
+            "floor-light-outline"
+        ],
         "tags": [
             "Home Automation"
         ],
