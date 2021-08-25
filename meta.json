@@ -29296,7 +29296,9 @@
         "id": "D5A23F56-0398-40EF-8B0D-640CD1F39669",
         "name": "file-jpg-box",
         "codepoint": "F0225",
-        "aliases": [],
+        "aliases": [
+            "file-jpeg-box"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
