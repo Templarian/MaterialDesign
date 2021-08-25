@@ -15353,6 +15353,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "CCB6A7E7-E036-462A-80BB-8EBFBADD61CB",
+        "name": "card-multiple",
+        "codepoint": "F17F1",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.1.27"
+    },
+    {
         "id": "B426A851-795C-4627-9F65-EF585020DE63",
         "name": "card-off",
         "codepoint": "F1602",
