@@ -30999,7 +30999,8 @@
         "name": "floor-lamp-torchiere-variant-outline",
         "codepoint": "F17CF",
         "aliases": [
-            "floor-light-torchiere-outline"
+            "floor-light-torchiere-outline",
+            "floor-light-torchiere-variant-outline"
         ],
         "tags": [
             "Home Automation"
