@@ -69172,6 +69172,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "46E92A75-74CB-4DCD-A3B0-0D7B685E49E4",
+        "name": "wall-sconce-flat-outline",
+        "codepoint": "F17C9",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.0.80"
+    },
+    {
         "id": "DEAC0604-6FD1-496C-99E1-74068FC27713",
         "name": "wall-sconce-flat-variant",
         "codepoint": "F041C",
