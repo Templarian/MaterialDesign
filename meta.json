@@ -9438,7 +9438,7 @@
     },
     {
         "id": "A4BD7F0D-E95C-413C-B853-435A53854844",
-        "name": "battery-plus",
+        "name": "battery-plus-variant",
         "codepoint": "F008F",
         "aliases": [
             "battery-saver",
