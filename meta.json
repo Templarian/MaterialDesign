@@ -29297,7 +29297,8 @@
         "name": "file-jpg-box",
         "codepoint": "F0225",
         "aliases": [
-            "file-jpeg-box"
+            "file-jpeg-box",
+            "image-jpg-box"
         ],
         "tags": [
             "Files \/ Folders"
