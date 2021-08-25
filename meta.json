@@ -9429,6 +9429,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "C34C0934-799C-40A5-8AD4-CE7A417C170B",
+        "name": "battery-minus",
+        "codepoint": "F17E4",
+        "aliases": [],
+        "tags": [],
+        "author": "Fran\u00e7ois Risoud",
+        "version": "6.1.1"
+    },
+    {
         "id": "15E0E37E-564A-40D5-9D4A-948C932C8E52",
         "name": "battery-minus-variant",
         "codepoint": "F008C",
