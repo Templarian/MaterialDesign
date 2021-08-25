@@ -38504,17 +38504,6 @@
         "version": "2.6.95"
     },
     {
-        "id": "1C9856E1-6945-464E-85E7-A46C4A974C9D",
-        "name": "human-greeting",
-        "codepoint": "F064A",
-        "aliases": [],
-        "tags": [
-            "People \/ Family"
-        ],
-        "author": "Google",
-        "version": "1.6.50"
-    },
-    {
         "id": "200F7489-F20F-4506-A27A-081A0CA8A312",
         "name": "human-greeting-proximity",
         "codepoint": "F159D",
@@ -38527,6 +38516,17 @@
         ],
         "author": "Google",
         "version": "5.5.55"
+    },
+    {
+        "id": "1C9856E1-6945-464E-85E7-A46C4A974C9D",
+        "name": "human-greeting-variant",
+        "codepoint": "F064A",
+        "aliases": [],
+        "tags": [
+            "People \/ Family"
+        ],
+        "author": "Google",
+        "version": "1.6.50"
     },
     {
         "id": "10E7CAB4-7B15-4F73-82B1-E42562B9103C",
