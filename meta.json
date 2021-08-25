@@ -38562,7 +38562,8 @@
         "name": "human-greeting",
         "codepoint": "F17C4",
         "aliases": [
-            "human-hello"
+            "human-hello",
+            "human-welcome"
         ],
         "tags": [
             "People \/ Family"
