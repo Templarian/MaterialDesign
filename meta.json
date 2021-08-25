@@ -30917,6 +30917,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "E53D8FB5-A010-4EFA-91EB-731E8C6B7321",
+        "name": "floor-lamp-dual-outline",
+        "codepoint": "F17CE",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.80"
+    },
+    {
         "id": "9768571C-CF87-4146-A9AF-A4E76BBD9248",
         "name": "floor-lamp-outline",
         "codepoint": "F17C8",
