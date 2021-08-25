@@ -43891,6 +43891,15 @@
         "version": "6.0.80"
     },
     {
+        "id": "05D5D57F-2565-4D15-8241-F778B49430CD",
+        "name": "menorah-fire",
+        "codepoint": "F17D5",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.80"
+    },
+    {
         "id": "0BD2CD08-CCFB-4EC3-B96D-08B0B8230A91",
         "name": "menu",
         "codepoint": "F035C",
