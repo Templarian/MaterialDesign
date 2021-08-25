@@ -29298,7 +29298,8 @@
         "codepoint": "F0225",
         "aliases": [
             "file-jpeg-box",
-            "image-jpg-box"
+            "image-jpg-box",
+            "image-jpeg-box"
         ],
         "tags": [
             "Files \/ Folders"
