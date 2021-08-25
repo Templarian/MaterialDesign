@@ -18137,6 +18137,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "64F2DC11-3647-4EEC-AADF-3EAE1AA47B65",
+        "name": "chili-off-outline",
+        "codepoint": "F17EF",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.1.21"
+    },
+    {
         "id": "A535271B-1114-44AD-9D9D-1984905026FF",
         "name": "chip",
         "codepoint": "F061A",
