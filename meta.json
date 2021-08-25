@@ -29293,6 +29293,19 @@
         "version": "4.1.95"
     },
     {
+        "id": "D5A23F56-0398-40EF-8B0D-640CD1F39669",
+        "name": "file-jpg-box",
+        "codepoint": "F0225",
+        "aliases": [
+            "file-acrobat"
+        ],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "1.5.54"
+    },
+    {
         "id": "E854DC61-449E-4BA2-BAC7-656A3BB3D775",
         "name": "file-key",
         "codepoint": "F1184",
@@ -29461,19 +29474,6 @@
             "Files \/ Folders"
         ],
         "author": "Google",
-        "version": "1.5.54"
-    },
-    {
-        "id": "D5A23F56-0398-40EF-8B0D-640CD1F39669",
-        "name": "file-pdf",
-        "codepoint": "F0225",
-        "aliases": [
-            "file-acrobat"
-        ],
-        "tags": [
-            "Files \/ Folders"
-        ],
-        "author": "Austin Andrews",
         "version": "1.5.54"
     },
     {
