@@ -38561,7 +38561,9 @@
         "id": "59728070-C172-44A6-9076-5D5C29D08880",
         "name": "human-greeting",
         "codepoint": "F17C4",
-        "aliases": [],
+        "aliases": [
+            "human-hello"
+        ],
         "tags": [
             "People \/ Family"
         ],
