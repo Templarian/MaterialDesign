@@ -40645,6 +40645,15 @@
         "version": "1.7.22"
     },
     {
+        "id": "F2FF97D8-A51F-4F32-A18A-6A14437EF5CC",
+        "name": "lamp-outline",
+        "codepoint": "F17D0",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.80"
+    },
+    {
         "id": "9AC5919E-2271-42D0-A5FA-ACB9BE022547",
         "name": "lamps",
         "codepoint": "F1576",
