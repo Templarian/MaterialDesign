@@ -38459,7 +38459,9 @@
         "name": "hoop-house",
         "codepoint": "F0E56",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Agriculture"
+        ],
         "author": "Jeff Anders",
         "version": "3.6.95"
     },
