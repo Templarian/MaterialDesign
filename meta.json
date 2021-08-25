@@ -8922,6 +8922,15 @@
         "version": "4.3.95"
     },
     {
+        "id": "E57A937E-29A3-4FE5-8B47-6E678F3D0539",
+        "name": "battery-arrow-down",
+        "codepoint": "F17DE",
+        "aliases": [],
+        "tags": [],
+        "author": "Fran\u00e7ois Risoud",
+        "version": "6.1.1"
+    },
+    {
         "id": "3DB7EA89-8F0C-40DA-B45A-E5B588F2CC01",
         "name": "battery-bluetooth",
         "codepoint": "F0948",
