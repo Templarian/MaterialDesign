@@ -22507,7 +22507,9 @@
         "id": "8D0845BB-6518-4178-BE14-BDE99D614A8C",
         "name": "crown-circle",
         "codepoint": "F17DC",
-        "aliases": [],
+        "aliases": [
+            "checkers"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
