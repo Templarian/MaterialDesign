@@ -30964,7 +30964,9 @@
         "name": "floor-lamp-outline",
         "codepoint": "F17C8",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Contributors",
         "version": "6.1.1"
     },
