@@ -8206,7 +8206,8 @@
         "name": "basket-plus",
         "codepoint": "F1527",
         "aliases": [
-            "shopping-basket-plus"
+            "shopping-basket-plus",
+            "skip-plus"
         ],
         "tags": [
             "Shopping"
