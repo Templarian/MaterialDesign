@@ -14233,7 +14233,9 @@
         "id": "CF2B4CE1-69FF-472B-BE94-620D71F5A42F",
         "name": "candelabra-fire",
         "codepoint": "F17D3",
-        "aliases": [],
+        "aliases": [
+            "candelabrum-fire"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.1.1"
