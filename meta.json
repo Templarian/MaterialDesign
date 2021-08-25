@@ -9563,6 +9563,15 @@
         "version": "6.1.1"
     },
     {
+        "id": "FC6E9489-07CC-4D0D-B93C-44E0E257A365",
+        "name": "battery-remove-outline",
+        "codepoint": "F17E9",
+        "aliases": [],
+        "tags": [],
+        "author": "Fran\u00e7ois Risoud",
+        "version": "6.1.1"
+    },
+    {
         "id": "80257130-A38B-4BC1-B194-2EB16048D763",
         "name": "battery-unknown",
         "codepoint": "F0091",
