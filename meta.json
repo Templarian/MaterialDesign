@@ -9332,6 +9332,15 @@
         "version": "6.1.1"
     },
     {
+        "id": "75AE3FD5-ADC3-41FD-BC86-882A771C396A",
+        "name": "battery-check-outline",
+        "codepoint": "F17E3",
+        "aliases": [],
+        "tags": [],
+        "author": "Fran\u00e7ois Risoud",
+        "version": "6.1.1"
+    },
+    {
         "id": "DEE88AFA-DFF3-4100-8475-EB5EB72CCFCB",
         "name": "battery-heart",
         "codepoint": "F120F",
