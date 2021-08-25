@@ -21939,6 +21939,15 @@
         "version": "3.8.95"
     },
     {
+        "id": "5EF28B8C-72F7-4C83-8270-7DA1E535022C",
+        "name": "credit-card-edit",
+        "codepoint": "F17D7",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.1.1"
+    },
+    {
         "id": "21D860AE-A880-4ED2-9E11-617D888BD744",
         "name": "credit-card-marker",
         "codepoint": "F06A8",
