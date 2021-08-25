@@ -8150,7 +8150,8 @@
         "name": "basket-minus-outline",
         "codepoint": "F1524",
         "aliases": [
-            "shopping-basket-minus-outline"
+            "shopping-basket-minus-outline",
+            "skip-minus-outline"
         ],
         "tags": [
             "Shopping"
