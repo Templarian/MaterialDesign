@@ -8164,7 +8164,8 @@
         "name": "basket-off",
         "codepoint": "F1525",
         "aliases": [
-            "shopping-basket-off"
+            "shopping-basket-off",
+            "skip-off"
         ],
         "tags": [
             "Shopping"
