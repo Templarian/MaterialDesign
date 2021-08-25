@@ -38504,6 +38504,15 @@
         "version": "2.6.95"
     },
     {
+        "id": "59728070-C172-44A6-9076-5D5C29D08880",
+        "name": "human-greeting",
+        "codepoint": "F17C4",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.0.80"
+    },
+    {
         "id": "200F7489-F20F-4506-A27A-081A0CA8A312",
         "name": "human-greeting-proximity",
         "codepoint": "F159D",
