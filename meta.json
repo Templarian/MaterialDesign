@@ -18113,6 +18113,15 @@
         "version": "2.0.46"
     },
     {
+        "id": "21ECB1D3-C620-4FEF-A6A9-4210D859DE1F",
+        "name": "chili-mild-outline",
+        "codepoint": "F17EE",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.1.21"
+    },
+    {
         "id": "F92E010E-F45D-44CE-8F13-F6419010B0D2",
         "name": "chili-off",
         "codepoint": "F1467",
