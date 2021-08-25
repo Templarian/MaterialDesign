@@ -30982,6 +30982,15 @@
         "version": "6.1.1"
     },
     {
+        "id": "03B09B13-4FA7-46CD-9E3B-48D460AB3986",
+        "name": "floor-lamp-torchiere-outline",
+        "codepoint": "F17CF",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.1"
+    },
+    {
         "id": "85969E2D-500B-4565-8B80-A59FB6C8A73B",
         "name": "floor-lamp-torchiere-variant",
         "codepoint": "F1041",
@@ -30993,15 +31002,6 @@
         ],
         "author": "Borre Haugen",
         "version": "4.1.95"
-    },
-    {
-        "id": "03B09B13-4FA7-46CD-9E3B-48D460AB3986",
-        "name": "floor-lamp-variant-outline",
-        "codepoint": "F17CF",
-        "aliases": [],
-        "tags": [],
-        "author": "Michael Irigoyen",
-        "version": "6.1.1"
     },
     {
         "id": "131D3C5D-880D-486B-A041-039B1F1E5284",
