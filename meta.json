@@ -8234,7 +8234,8 @@
         "name": "basket-remove",
         "codepoint": "F1529",
         "aliases": [
-            "shopping-basket-remove"
+            "shopping-basket-remove",
+            "skip-remove"
         ],
         "tags": [
             "Shopping"
