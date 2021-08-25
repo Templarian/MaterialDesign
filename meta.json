@@ -6808,6 +6808,17 @@
         "version": "6.0.55"
     },
     {
+        "id": "8793E254-1126-4A01-937C-C1827F173538",
+        "name": "arrow-u-left-bottom-bold",
+        "codepoint": "F17B2",
+        "aliases": [
+            "undo"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "3AF49B97-A909-4961-9FBB-82C60D7CC773",
         "name": "arrow-up",
         "codepoint": "F005D",
