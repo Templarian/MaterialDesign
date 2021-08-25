@@ -22513,6 +22513,15 @@
         "version": "6.1.1"
     },
     {
+        "id": "A25B1BFF-7DEC-4A6C-B91A-3B2A149997F1",
+        "name": "crown-circle-outline",
+        "codepoint": "F17DD",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.1"
+    },
+    {
         "id": "D0B6994F-78AD-4D69-ADED-CD0C15D0D62B",
         "name": "crown-outline",
         "codepoint": "F11D0",
