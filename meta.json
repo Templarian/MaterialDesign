@@ -43893,7 +43893,9 @@
         "id": "7D2EBF4F-6B48-4DAE-B5B5-005B4FC7C9BC",
         "name": "menorah",
         "codepoint": "F17D4",
-        "aliases": [],
+        "aliases": [
+            "candelabrum"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.1.1"
