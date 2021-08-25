@@ -29505,19 +29505,6 @@
         "version": "4.0.96"
     },
     {
-        "id": "4DEDCDD8-4C71-46DA-A8C6-04B424DF621C",
-        "name": "file-pdf-outline",
-        "codepoint": "F0E2D",
-        "aliases": [
-            "file-acrobat-outline"
-        ],
-        "tags": [
-            "Files \/ Folders"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "3.6.95"
-    },
-    {
         "id": "267C5350-A0FC-4683-9FA1-30CD64AAA7E5",
         "name": "file-percent",
         "codepoint": "F081E",
@@ -29584,6 +29571,19 @@
         ],
         "author": "Terren",
         "version": "3.8.95"
+    },
+    {
+        "id": "4DEDCDD8-4C71-46DA-A8C6-04B424DF621C",
+        "name": "file-png-box",
+        "codepoint": "F0E2D",
+        "aliases": [
+            "file-acrobat-outline"
+        ],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "3.6.95"
     },
     {
         "id": "62D44147-9B6F-4B4A-A06B-1AF92C2E7F3E",
