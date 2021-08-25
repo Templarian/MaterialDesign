@@ -43899,7 +43899,9 @@
         "id": "05D5D57F-2565-4D15-8241-F778B49430CD",
         "name": "menorah-fire",
         "codepoint": "F17D5",
-        "aliases": [],
+        "aliases": [
+            "menorah-flame"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.1.1"
