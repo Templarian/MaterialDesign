@@ -6874,6 +6874,17 @@
         "version": "6.0.55"
     },
     {
+        "id": "31D886C9-7CC3-4E48-B829-D7870D11641C",
+        "name": "arrow-u-right-top-bold",
+        "codepoint": "F17B8",
+        "aliases": [
+            "redo"
+        ],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "3AF49B97-A909-4961-9FBB-82C60D7CC773",
         "name": "arrow-up",
         "codepoint": "F005D",
