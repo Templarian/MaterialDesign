@@ -69908,7 +69908,9 @@
         "id": "14D06EC0-32F9-4CCE-B890-89DE73A106EA",
         "name": "water-sync",
         "codepoint": "F17C6",
-        "aliases": [],
+        "aliases": [
+            "water-recycle"
+        ],
         "tags": [],
         "author": "Contributors",
         "version": "6.1.1"
