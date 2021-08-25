@@ -30917,6 +30917,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "9768571C-CF87-4146-A9AF-A4E76BBD9248",
+        "name": "floor-lamp-outline",
+        "codepoint": "F17C8",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.0.80"
+    },
+    {
         "id": "9042476D-79AC-4D50-AA53-EE71D3416BF3",
         "name": "floor-lamp-torchiere",
         "codepoint": "F1747",
