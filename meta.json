@@ -12476,6 +12476,15 @@
         "version": "5.3.45"
     },
     {
+        "id": "6C1979BB-3BFD-4466-9934-945FAB608E90",
+        "name": "briefcase-view-outline",
+        "codepoint": "F17DA",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.1.1"
+    },
+    {
         "id": "B3FF12D1-1C76-4E1D-BAD0-468E424BADA7",
         "name": "brightness-1",
         "codepoint": "F00DA",
