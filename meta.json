@@ -6210,6 +6210,15 @@
         "version": "2.5.94"
     },
     {
+        "id": "94A5B560-135A-48EE-AF4D-89E19600F072",
+        "name": "arrow-left-bottom",
+        "codepoint": "F17A5",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "67481609-631A-45C8-AB97-679B3D95F9FB",
         "name": "arrow-left-box",
         "codepoint": "F06C1",
