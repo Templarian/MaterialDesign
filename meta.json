@@ -22523,7 +22523,9 @@
         "aliases": [
             "checkers-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.1"
     },
