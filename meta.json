@@ -8122,7 +8122,9 @@
         "id": "9B7DC550-62F9-4FB0-9B21-0379AA925A19",
         "name": "basket-fill",
         "codepoint": "F0077",
-        "aliases": [],
+        "aliases": [
+            "skip-fill"
+        ],
         "tags": [
             "Shopping"
         ],
