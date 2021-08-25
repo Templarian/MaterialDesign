@@ -8109,7 +8109,8 @@
         "name": "basket",
         "codepoint": "F0076",
         "aliases": [
-            "shopping-basket"
+            "shopping-basket",
+            "skip"
         ],
         "tags": [
             "Shopping"
