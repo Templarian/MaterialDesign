@@ -18089,6 +18089,15 @@
         "version": "2.0.46"
     },
     {
+        "id": "6C57AD0C-11EA-4710-87D4-462B94821A4C",
+        "name": "chili-medium-outline",
+        "codepoint": "F17ED",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.1.21"
+    },
+    {
         "id": "3CE5B420-F103-47EA-800C-A4D145B89508",
         "name": "chili-mild",
         "codepoint": "F07B4",
