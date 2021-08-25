@@ -8192,7 +8192,8 @@
         "name": "basket-outline",
         "codepoint": "F1181",
         "aliases": [
-            "shopping-basket-outline"
+            "shopping-basket-outline",
+            "skip-outline"
         ],
         "tags": [
             "Shopping"
