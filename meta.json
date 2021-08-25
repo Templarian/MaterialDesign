@@ -12308,6 +12308,15 @@
         "version": "3.2.89"
     },
     {
+        "id": "15362BD1-6DB7-4334-B6CF-35A61D7EE2A0",
+        "name": "briefcase-eye",
+        "codepoint": "F17D9",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.1"
+    },
+    {
         "id": "5999899F-7FE5-44EF-87F4-DD1E2F9556B3",
         "name": "briefcase-minus",
         "codepoint": "F0A2A",
