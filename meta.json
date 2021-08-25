@@ -38459,10 +38459,8 @@
         "name": "hoop-house",
         "codepoint": "F0E56",
         "aliases": [],
-        "tags": [
-            "Files \/ Folders"
-        ],
-        "author": "Google",
+        "tags": [],
+        "author": "Jeff Anders",
         "version": "3.6.95"
     },
     {
