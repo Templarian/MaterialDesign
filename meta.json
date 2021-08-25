@@ -30953,7 +30953,9 @@
         "aliases": [
             "floor-light-dual-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.1"
     },
