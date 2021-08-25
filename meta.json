@@ -22520,7 +22520,9 @@
         "id": "A25B1BFF-7DEC-4A6C-B91A-3B2A149997F1",
         "name": "crown-circle-outline",
         "codepoint": "F17DD",
-        "aliases": [],
+        "aliases": [
+            "checkers-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.1.1"
