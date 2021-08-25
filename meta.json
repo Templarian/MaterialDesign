@@ -29492,19 +29492,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "27B28F1C-C311-49C2-B3EE-6D288A9F1165",
-        "name": "file-pdf-box-outline",
-        "codepoint": "F0FB3",
-        "aliases": [
-            "file-acrobat-box-outline"
-        ],
-        "tags": [
-            "Files \/ Folders"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "4.0.96"
-    },
-    {
         "id": "267C5350-A0FC-4683-9FA1-30CD64AAA7E5",
         "name": "file-percent",
         "codepoint": "F081E",
@@ -53626,6 +53613,19 @@
         ],
         "author": "GreenTurtwig",
         "version": "2.3.50"
+    },
+    {
+        "id": "27B28F1C-C311-49C2-B3EE-6D288A9F1165",
+        "name": "power-socket-ch",
+        "codepoint": "F0FB3",
+        "aliases": [
+            "file-acrobat-box-outline"
+        ],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Contributors",
+        "version": "4.0.96"
     },
     {
         "id": "14654BFB-0D87-43E0-8A47-7CF1EE1CF418",
