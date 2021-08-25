@@ -5971,6 +5971,15 @@
         "version": "6.0.55"
     },
     {
+        "id": "28795CBE-011D-440C-9D9C-A1D50C4121B7",
+        "name": "arrow-down-right",
+        "codepoint": "F17A3",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.55"
+    },
+    {
         "id": "E345145F-AD51-4B6F-8F7B-EC22C34E4E89",
         "name": "arrow-down-thick",
         "codepoint": "F0046",
