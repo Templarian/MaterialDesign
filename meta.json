@@ -51329,6 +51329,15 @@
         "version": "3.3.92"
     },
     {
+        "id": "57738B55-57CB-47EF-9758-32686AA78212",
+        "name": "ph",
+        "codepoint": "F17C5",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.80"
+    },
+    {
         "id": "B5BA809F-FCE8-476C-8388-6A9CFFF73015",
         "name": "phone",
         "codepoint": "F03F2",
