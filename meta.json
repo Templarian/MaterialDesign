@@ -30998,7 +30998,9 @@
         "id": "03B09B13-4FA7-46CD-9E3B-48D460AB3986",
         "name": "floor-lamp-torchiere-outline",
         "codepoint": "F17CF",
-        "aliases": [],
+        "aliases": [
+            "floor-light-torchiere-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.1.1"
