@@ -12311,7 +12311,9 @@
         "id": "15362BD1-6DB7-4334-B6CF-35A61D7EE2A0",
         "name": "briefcase-eye",
         "codepoint": "F17D9",
-        "aliases": [],
+        "aliases": [
+            "briefcase-view"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.1.1"
