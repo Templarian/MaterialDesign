@@ -22508,7 +22508,9 @@
         "name": "crown-circle",
         "codepoint": "F17DC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.1"
     },
