@@ -21948,6 +21948,15 @@
         "version": "6.1.1"
     },
     {
+        "id": "4678D0B5-4FF5-4729-9096-2F8EA74447FE",
+        "name": "credit-card-edit-outline",
+        "codepoint": "F17D8",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.1.1"
+    },
+    {
         "id": "21D860AE-A880-4ED2-9E11-617D888BD744",
         "name": "credit-card-marker",
         "codepoint": "F06A8",
