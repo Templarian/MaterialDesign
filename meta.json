@@ -40665,6 +40665,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "7BDA9890-697C-4E97-A604-D34803DAAD39",
+        "name": "lamps-outline",
+        "codepoint": "F17D1",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.0.80"
+    },
+    {
         "id": "A20B1B0B-DC60-4ED1-A7E6-F390BA31D613",
         "name": "lan",
         "codepoint": "F0317",
