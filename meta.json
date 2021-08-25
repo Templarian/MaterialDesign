@@ -14218,6 +14218,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "1D56356A-1601-41FC-9D98-67736772260B",
+        "name": "candelabra",
+        "codepoint": "F17D2",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.0.80"
+    },
+    {
         "id": "4FB0AA38-406A-4877-8B0C-15C7ED95F22C",
         "name": "candle",
         "codepoint": "F05E2",
