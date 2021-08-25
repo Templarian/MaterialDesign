@@ -30973,7 +30973,8 @@
         "name": "floor-lamp-torchiere",
         "codepoint": "F1041",
         "aliases": [
-            "floor-light-variant"
+            "floor-light-variant",
+            "floor-light-torchiere"
         ],
         "tags": [
             "Home Automation"
