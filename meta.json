@@ -8248,7 +8248,8 @@
         "name": "basket-remove-outline",
         "codepoint": "F152A",
         "aliases": [
-            "shopping-basket-remove-outline"
+            "shopping-basket-remove-outline",
+            "skip-remove-outline"
         ],
         "tags": [
             "Shopping"
