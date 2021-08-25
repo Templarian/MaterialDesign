@@ -576,6 +576,15 @@
         "version": "3.7.94"
     },
     {
+        "id": "E1C851E1-3BBD-4661-A6FA-C77AD370DC6A",
+        "name": "account-cowboy-hat-outline",
+        "codepoint": "F17F3",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.1.30"
+    },
+    {
         "id": "3696B7DF-3E12-44EF-B27F-E171AEB5241F",
         "name": "account-details",
         "codepoint": "F0631",
