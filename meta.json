@@ -31001,7 +31001,9 @@
         "aliases": [
             "floor-light-torchiere-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.1"
     },
