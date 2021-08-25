@@ -15899,6 +15899,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "DD107169-7A9D-452F-8DE9-2736B6FB7851",
+        "name": "ceiling-light-outline",
+        "codepoint": "F17C7",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.0.80"
+    },
+    {
         "id": "8898488F-1BE6-40A0-84B7-1C0832AA4754",
         "name": "cellphone",
         "codepoint": "F011C",
