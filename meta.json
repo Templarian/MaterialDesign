@@ -9376,7 +9376,7 @@
     },
     {
         "id": "15E0E37E-564A-40D5-9D4A-948C932C8E52",
-        "name": "battery-minus",
+        "name": "battery-minus-variant",
         "codepoint": "F008C",
         "aliases": [],
         "tags": [
