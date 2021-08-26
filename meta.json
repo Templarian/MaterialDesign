@@ -34820,6 +34820,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "1D07255B-B5EF-4715-9926-B91757893552",
+        "name": "gate-arrow-left",
+        "codepoint": "F17F7",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.33"
+    },
+    {
         "id": "314B9DB4-1D98-4394-BAD4-8FA5FB2EA160",
         "name": "gate-arrow-right",
         "codepoint": "F1169",
