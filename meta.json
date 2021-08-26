@@ -34824,7 +34824,9 @@
         "name": "gate-arrow-left",
         "codepoint": "F17F7",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.33"
     },
