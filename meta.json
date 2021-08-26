@@ -11689,6 +11689,23 @@
         "version": "3.7.94"
     },
     {
+        "id": "F9ADF5B2-435F-4820-8790-EAA72D6D5C75",
+        "name": "boom-gate-arrow-up",
+        "codepoint": "F0E8C",
+        "aliases": [
+            "boom-arm-up",
+            "boom-barrier-up",
+            "arm-barrier-up",
+            "barrier-up",
+            "automatic-gate-up"
+        ],
+        "tags": [
+            "Transportation + Road"
+        ],
+        "author": "Michael Richins",
+        "version": "3.7.94"
+    },
+    {
         "id": "EF1F53B3-DA99-4410-9A20-E12C42FC2461",
         "name": "boom-gate-outline",
         "codepoint": "F0E8B",
@@ -11698,23 +11715,6 @@
             "arm-barrier-outline",
             "barrier-outline",
             "automatic-gate-outline"
-        ],
-        "tags": [
-            "Transportation + Road"
-        ],
-        "author": "Michael Richins",
-        "version": "3.7.94"
-    },
-    {
-        "id": "F9ADF5B2-435F-4820-8790-EAA72D6D5C75",
-        "name": "boom-gate-up",
-        "codepoint": "F0E8C",
-        "aliases": [
-            "boom-arm-up",
-            "boom-barrier-up",
-            "arm-barrier-up",
-            "barrier-up",
-            "automatic-gate-up"
         ],
         "tags": [
             "Transportation + Road"
