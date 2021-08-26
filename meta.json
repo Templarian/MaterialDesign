@@ -28638,6 +28638,17 @@
         "version": "6.1.33"
     },
     {
+        "id": "9B54CB49-9186-4EB1-80D2-A92E616B9603",
+        "name": "fence-electric",
+        "codepoint": "F17F6",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.1.33"
+    },
+    {
         "id": "325210DA-E889-4CBD-B0A7-8A32D706322B",
         "name": "fencing",
         "codepoint": "F14C1",
