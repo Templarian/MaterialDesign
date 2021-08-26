@@ -11744,7 +11744,8 @@
         "name": "boom-gate-up",
         "codepoint": "F17F9",
         "aliases": [
-            "boom-arm-up"
+            "boom-arm-up",
+            "boom-barrier-up"
         ],
         "tags": [
             "Transportation + Road"
