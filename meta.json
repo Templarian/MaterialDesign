@@ -11760,7 +11760,9 @@
         "id": "C42EF32C-0E5A-498E-A633-A2E9C739F514",
         "name": "boom-gate-up-outline",
         "codepoint": "F17FA",
-        "aliases": [],
+        "aliases": [
+            "boom-arm-up-outline"
+        ],
         "tags": [
             "Transportation + Road"
         ],
