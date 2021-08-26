@@ -16199,6 +16199,15 @@
         "version": "5.0.45"
     },
     {
+        "id": "0F2A2942-A58B-428B-B641-8AF2FF3A845B",
+        "name": "cellphone-check",
+        "codepoint": "F17FD",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.40"
+    },
+    {
         "id": "134C82D3-528D-46FA-9107-7F3D5AD8FBC3",
         "name": "cellphone-cog",
         "codepoint": "F0951",
