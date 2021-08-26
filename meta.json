@@ -34735,6 +34735,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "E0AE077B-AE61-4760-95DD-7ACC9423327B",
+        "name": "garage-lock",
+        "codepoint": "F17FB",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.38"
+    },
+    {
         "id": "6B34986A-5D17-4C64-9840-994B66EC00AB",
         "name": "garage-open",
         "codepoint": "F06DA",
