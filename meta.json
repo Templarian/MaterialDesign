@@ -34809,6 +34809,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "C9B04A2B-FB69-4F05-B2E9-32468822F4DD",
+        "name": "gate-alert",
+        "codepoint": "F17F8",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.33"
+    },
+    {
         "id": "01E01742-E5ED-4E63-9F19-48CBE619C7A5",
         "name": "gate-and",
         "codepoint": "F08E1",
