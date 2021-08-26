@@ -16231,22 +16231,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "EC642A5A-34A2-4E29-85F1-60ACAA546FB1",
-        "name": "cellphone-erase",
-        "codepoint": "F094D",
-        "aliases": [
-            "phonelink-erase",
-            "mobile-phone-erase",
-            "smartphone-erase"
-        ],
-        "tags": [
-            "Cellphone \/ Phone",
-            "Device \/ Tech"
-        ],
-        "author": "Google",
-        "version": "2.4.85"
-    },
-    {
         "id": "5B692392-DA8F-40F2-948F-D81832ABA465",
         "name": "cellphone-information",
         "codepoint": "F0F41",
@@ -16400,6 +16384,22 @@
         ],
         "author": "Google",
         "version": "4.1.95"
+    },
+    {
+        "id": "EC642A5A-34A2-4E29-85F1-60ACAA546FB1",
+        "name": "cellphone-remove",
+        "codepoint": "F094D",
+        "aliases": [
+            "phonelink-erase",
+            "mobile-phone-erase",
+            "smartphone-erase"
+        ],
+        "tags": [
+            "Cellphone \/ Phone",
+            "Device \/ Tech"
+        ],
+        "author": "Google",
+        "version": "2.4.85"
     },
     {
         "id": "84F994FA-DF0C-4A5A-88F6-8A2AD1DC1189",
