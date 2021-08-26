@@ -16392,13 +16392,14 @@
         "aliases": [
             "phonelink-erase",
             "mobile-phone-erase",
-            "smartphone-erase"
+            "smartphone-erase",
+            "cellphone-erase"
         ],
         "tags": [
             "Cellphone \/ Phone",
             "Device \/ Tech"
         ],
-        "author": "Google",
+        "author": "Michael Irigoyen",
         "version": "2.4.85"
     },
     {
