@@ -11740,6 +11740,15 @@
         "version": "3.7.94"
     },
     {
+        "id": "615182F4-7F56-403E-8FDA-7DE1A2041F93",
+        "name": "boom-gate-up",
+        "codepoint": "F17F9",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.36"
+    },
+    {
         "id": "DAA06443-AE25-4881-BC62-8033C4420B8E",
         "name": "boombox",
         "codepoint": "F05DC",
