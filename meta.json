@@ -11743,7 +11743,9 @@
         "id": "615182F4-7F56-403E-8FDA-7DE1A2041F93",
         "name": "boom-gate-up",
         "codepoint": "F17F9",
-        "aliases": [],
+        "aliases": [
+            "boom-arm-up"
+        ],
         "tags": [
             "Transportation + Road"
         ],
