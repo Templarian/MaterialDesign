@@ -42060,6 +42060,20 @@
         "version": "6.1.31"
     },
     {
+        "id": "A4DF4624-753B-440B-98C9-A25EE330B0AE",
+        "name": "lightbulb-spot-off",
+        "codepoint": "F17F5",
+        "aliases": [
+            "lightbulb-halogen-off",
+            "lightbulb-gu10-off"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.1.31"
+    },
+    {
         "id": "95534506-8ECD-49B3-9F87-64D52CC874BA",
         "name": "lighthouse",
         "codepoint": "F09FF",
