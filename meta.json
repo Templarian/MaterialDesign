@@ -11761,7 +11761,9 @@
         "name": "boom-gate-up-outline",
         "codepoint": "F17FA",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.38"
     },
