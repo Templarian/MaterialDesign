@@ -11747,7 +11747,8 @@
             "boom-arm-up",
             "boom-barrier-up",
             "arm-barrier-up",
-            "barrier-up"
+            "barrier-up",
+            "automatic-gate-up"
         ],
         "tags": [
             "Transportation + Road"
