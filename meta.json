@@ -11749,6 +11749,15 @@
         "version": "6.1.36"
     },
     {
+        "id": "C42EF32C-0E5A-498E-A633-A2E9C739F514",
+        "name": "boom-gate-up-outline",
+        "codepoint": "F17FA",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.36"
+    },
+    {
         "id": "DAA06443-AE25-4881-BC62-8033C4420B8E",
         "name": "boombox",
         "codepoint": "F05DC",
