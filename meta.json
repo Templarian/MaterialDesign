@@ -34777,6 +34777,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "53BD8FE6-E6BE-48B5-A68C-3064A5C0710E",
+        "name": "garage-variant-lock",
+        "codepoint": "F17FC",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.38"
+    },
+    {
         "id": "7CEC48C5-3A70-4BA2-9FB8-A383387DC4A1",
         "name": "gas-cylinder",
         "codepoint": "F0647",
