@@ -11746,7 +11746,8 @@
         "aliases": [
             "boom-arm-up",
             "boom-barrier-up",
-            "arm-barrier-up"
+            "arm-barrier-up",
+            "barrier-up"
         ],
         "tags": [
             "Transportation + Road"
