@@ -11761,7 +11761,8 @@
         "name": "boom-gate-up-outline",
         "codepoint": "F17FA",
         "aliases": [
-            "boom-arm-up-outline"
+            "boom-arm-up-outline",
+            "boom-barrier-up-outline"
         ],
         "tags": [
             "Transportation + Road"
