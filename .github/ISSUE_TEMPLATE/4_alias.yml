@@ -1,0 +1,30 @@
+name: Suggest an Icon Alias 🔃
+description: Make it easier to find the icons you need by suggesting alternative names.
+labels: [Alias]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        *Make sure you [searched open issues](https://github.com/Templarian/MaterialDesign/issues) before submitting your alias request!*
+
+        ---
+
+        Icon aliases are provide different names the help yourself and others find the icons you are looking for.
+        Aliases *do not* provide you a different way to call a specific icon in your code.
+
+        For example, `account` has an alias of `user`. You can search for "user" on [our website](https://www.materialdesignicons.com), but you must use `account` when refering to the icon in your code.
+
+        ---
+  - type: input
+    id: icon_name
+    attributes:
+      label: What icon would you like to alias?
+    validations:
+      required: true
+  - type: input
+    id: alias
+    attributes:
+      label: What alias(es) should be added to the above icon?
+      description: Provide multiple aliases with a comma-separated list.
+    validations:
+      required: true

@@ -1,0 +1,33 @@
+name: Suggest a Tag 🏷
+description: Suggest a tag for an existing icon (or a new tag entirely).
+labels: [Tag]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        *Make sure you [searched open issues](https://github.com/Templarian/MaterialDesign/issues) before submitting your tag request!*
+
+        ---
+
+        Tags work like categories for icons and assist users of [our website](https://www.materialdesignicons.com) with a way to narrow their search while browsing for icons to use. Multiple tags may apply for a single icon.
+
+        ---
+  - type: input
+    id: icon_name
+    attributes:
+      label: What icon(s) would you like to suggest new tags for?
+      description: Provide multiple icons to tag with a comma-separated list.
+    validations:
+      required: true
+  - type: input
+    id: tag
+    attributes:
+      label: What tag(s) should be added to the above icon(s)?
+      description: Provide multiple tags with a comma-separated list.
+    validations:
+      required: true
+  - type: textarea
+    id: more_info
+    attributes:
+      label: Did you suggest a new tag above?
+      description: If you suggested a tag that does not yet exist, please give us some rationale on why the tag warrants addition.

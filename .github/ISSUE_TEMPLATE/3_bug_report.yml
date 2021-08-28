@@ -1,0 +1,37 @@
+name: Report a Bug 🐛
+description: Report an issue with the website, an icon, or one of our first-party libraries.
+labels: [Bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        *Make sure you [searched open issues](https://github.com/Templarian/MaterialDesign/issues) before submitting your bug report!*
+
+        ---
+
+        If you see an icon on the site, but it is not in the latest release, *this is not a bug*. When new icons are added the library, they will immediately show on the website. However, a new release must  happen before they will be available in our packages.
+        
+        See our [history log](https://materialdesignicons.com/history) for more information.
+
+        ---
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where are you experiencing this bug?
+      options:
+        - materialdesignicons.com
+        - A specific icon glyph
+        - "@mdi/font"
+        - "@mdi/js"
+        - "@mdi/svg"
+        - Another MDI package
+        - Somewhere else
+    validations:
+      required: true
+  - type: textarea
+    id: bug
+    attributes:
+      label: What is the issue you are experiencing?
+      description: Please provide as much detail as possible, including reproduction steps if applicable.
+    validations:
+      required: true

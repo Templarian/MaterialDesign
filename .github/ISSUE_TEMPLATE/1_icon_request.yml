@@ -1,0 +1,31 @@
+name: Request a New Icon 💡
+description: Request a new icon to be added.
+labels: [Icon Request]
+body:
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: "Before submitting a new icon request, please confirm the following:"
+      options:
+        - label: I have [searched all issues](https://github.com/Templarian/MaterialDesign/issues) to make sure there isn't a request for this icon.
+          required: true
+        - label: I have [searched the current library](https://materialdesignicons.com/) to make sure the icon doesn't already exist.
+          required: true
+        - label: I understand that [brand icons are no longer being added](http://dev.materialdesignicons.com/roadmap/brand-icons) and I can use [SimpleIcons](https://simpleicons.org/) for my brand icon needs.
+          required: true
+        - label: I only intend to request a single icon (or a few near-identical ones) in this issue.
+          required: true
+  - type: textarea
+    id: usage
+    attributes:
+      label: What would you use this icon for?
+      description: Please provide some context of how this new icon could be used.
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Give us an example of what this icon might look like.
+      description: Please upload or provide links to images that exemplify this request. This gives us a better understanding of what you are requesting.
+    validations:
+      required: true

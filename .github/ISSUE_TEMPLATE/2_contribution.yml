@@ -1,0 +1,33 @@
+name: Contribute an Icon ➕
+description: Contribute a new icon to the library.
+labels: [Icon Request, Contribution]
+body:
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: "Before submitting a new icon contribution, please confirm the following:"
+      options:
+        - label: I have [searched all issues](https://github.com/Templarian/MaterialDesign/issues) to make sure there isn't a request for this icon.
+          required: true
+        - label: I have [searched the current library](https://materialdesignicons.com/) to make sure the icon doesn't already exist.
+          required: true
+        - label: I understand that [brand icons are no longer being added](http://dev.materialdesignicons.com/roadmap/brand-icons) and I can use [SimpleIcons](https://simpleicons.org/) for my brand icon needs.
+          required: true
+        - label: I have followed the [Material guidelines](https://material.io/design/iconography/system-icons.html) for system icons.
+          required: true
+  - type: textarea
+    id: preview
+    attributes:
+      label: Share a preview of your contribution.
+      description: Generate a preview of your icon using our [preview generator](http://dev.materialdesignicons.com/contribute/github). Your icon *must* be combined down to a single path to generate a preview.
+      placeholder: Paste the generated preview of your icon here.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Upload the icon source.
+      description: Zip up the SVG source files for your icon(s) and upload it here. Your SVGs should only contain the single path used to generate your preview.
+      placeholder: Upload your ZIP file here.
+    validations:
+      required: true

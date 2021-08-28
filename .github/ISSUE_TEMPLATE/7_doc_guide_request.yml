@@ -1,0 +1,11 @@
+name: Request Documentation or Guide 📃
+description: Request a new how-to guide or documentation for a specific framework.
+labels: [Documentation]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: What new documentation or how-to guide would you like to see?
+      description: "**Note:** Please make sure your request is relevant to the icon pack and is not already covered in existing documentation."
+    validations:
+      required: true
