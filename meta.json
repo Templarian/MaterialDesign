@@ -72063,7 +72063,9 @@
         "id": "9DABF133-FBE0-416C-82D8-F47E8A559E12",
         "name": "wind-turbine",
         "codepoint": "F0DA5",
-        "aliases": [],
+        "aliases": [
+            "wind-power"
+        ],
         "tags": [
             "Home Automation"
         ],
