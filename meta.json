@@ -61356,7 +61356,9 @@
         "name": "solar-power",
         "codepoint": "F0A72",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Richins",
         "version": "2.6.95"
     },
