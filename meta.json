@@ -61342,7 +61342,9 @@
         "name": "solar-panel-large",
         "codepoint": "F0D9C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Contributors",
         "version": "3.4.93"
     },
