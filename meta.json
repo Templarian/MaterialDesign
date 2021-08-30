@@ -53960,7 +53960,9 @@
         "name": "power-socket-ch",
         "codepoint": "F0FB3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Contributors",
         "version": "4.0.96"
     },
