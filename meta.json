@@ -61355,7 +61355,9 @@
         "id": "727F32FC-051B-43FE-9888-4616927AE828",
         "name": "solar-power",
         "codepoint": "F0A72",
-        "aliases": [],
+        "aliases": [
+            "solar-energy"
+        ],
         "tags": [
             "Home Automation"
         ],
