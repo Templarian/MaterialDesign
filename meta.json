@@ -42002,7 +42002,9 @@
         "name": "lightbulb-fluorescent-tube-outline",
         "codepoint": "F1805",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "GreenTurtwig",
         "version": "6.1.49"
     },
