@@ -30880,7 +30880,9 @@
             "lightning-bolt-circle",
             "electricity-circle"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Google",
         "version": "2.1.19"
     },
