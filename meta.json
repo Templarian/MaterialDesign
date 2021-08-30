@@ -22115,7 +22115,9 @@
         "id": "4969E6E7-4311-4F1E-B9ED-070DE4473A65",
         "name": "cosine-wave",
         "codepoint": "F1479",
-        "aliases": [],
+        "aliases": [
+            "frequency"
+        ],
         "tags": [
             "Audio"
         ],
