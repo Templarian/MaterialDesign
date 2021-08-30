@@ -60792,6 +60792,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "E523AF46-986A-4E8F-9662-45C61A70A887",
+        "name": "smoke-detector-off",
+        "codepoint": "F1809",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.1.51"
+    },
+    {
         "id": "D1429C1F-766F-4F96-B784-15E6C3ECC588",
         "name": "smoke-detector-outline",
         "codepoint": "F1808",
