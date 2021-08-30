@@ -70006,7 +70006,9 @@
         "name": "wall-sconce-flat-variant-outline",
         "codepoint": "F17CA",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Contributors",
         "version": "6.1.64"
     },
