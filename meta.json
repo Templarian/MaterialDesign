@@ -34798,7 +34798,9 @@
         "name": "garage-lock",
         "codepoint": "F17FB",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.64"
     },
