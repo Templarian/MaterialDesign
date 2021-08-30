@@ -70290,7 +70290,9 @@
             "drop-circle",
             "blood-circle"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.49"
     },
