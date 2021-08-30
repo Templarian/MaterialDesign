@@ -30445,7 +30445,8 @@
             "whatshot",
             "flame",
             "gas",
-            "natural-gas"
+            "natural-gas",
+            "hot"
         ],
         "tags": [
             "Home Automation"
