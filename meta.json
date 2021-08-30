@@ -54245,7 +54245,9 @@
         "name": "printer-outline",
         "codepoint": "F1786",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Printer"
+        ],
         "author": "Google",
         "version": "6.1.64"
     },
