@@ -56527,7 +56527,9 @@
             "emoji-robot",
             "emoticon-robot"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "GreenTurtwig",
         "version": "1.7.12"
     },
