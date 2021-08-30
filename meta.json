@@ -70287,7 +70287,8 @@
         "name": "water-circle",
         "codepoint": "F1806",
         "aliases": [
-            "drop-circle"
+            "drop-circle",
+            "blood-circle"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
