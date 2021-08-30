@@ -63253,7 +63253,8 @@
         "name": "sun-wireless",
         "codepoint": "F17FE",
         "aliases": [
-            "weather-sun-wireless"
+            "weather-sun-wireless",
+            "illuminance"
         ],
         "tags": [
             "Home Automation"
