@@ -54444,7 +54444,9 @@
         "name": "projector-screen-outline",
         "codepoint": "F1724",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.9.55"
     },
