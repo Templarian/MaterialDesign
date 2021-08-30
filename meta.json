@@ -13023,7 +13023,9 @@
         "name": "bunk-bed-outline",
         "codepoint": "F0097",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Simran",
         "version": "1.5.54"
     },
