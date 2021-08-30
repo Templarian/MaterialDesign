@@ -44462,7 +44462,9 @@
             "candelabra",
             "candle"
         ],
-        "tags": [],
+        "tags": [
+            "Religion"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.64"
     },
