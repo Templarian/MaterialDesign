@@ -41987,6 +41987,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "43164D2A-705D-4D6E-9195-E2D559E493B1",
+        "name": "lightbulb-fluorescent-tube",
+        "codepoint": "F1804",
+        "aliases": [],
+        "tags": [],
+        "author": "GreenTurtwig",
+        "version": "6.1.47"
+    },
+    {
         "id": "DB267C0E-F298-4380-99C8-E18FA8E06554",
         "name": "lightbulb-group",
         "codepoint": "F1253",
