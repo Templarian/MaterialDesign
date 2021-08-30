@@ -52003,7 +52003,9 @@
         "id": "57738B55-57CB-47EF-9758-32686AA78212",
         "name": "ph",
         "codepoint": "F17C5",
-        "aliases": [],
+        "aliases": [
+            "acid"
+        ],
         "tags": [
             "Science",
             "Home Automation"
