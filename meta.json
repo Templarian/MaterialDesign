@@ -42321,7 +42321,9 @@
         "name": "lightning-bolt",
         "codepoint": "F140B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Brooke Clifton",
         "version": "5.1.45"
     },
