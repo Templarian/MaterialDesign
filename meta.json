@@ -54402,6 +54402,15 @@
         "version": "6.1.56"
     },
     {
+        "id": "2E4DBF28-60B7-43E2-8786-376D26DDC431",
+        "name": "projector-screen-off-outline",
+        "codepoint": "F180E",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.1.56"
+    },
+    {
         "id": "F2AC4968-73F6-4D91-BF2B-D8653E6863E2",
         "name": "projector-screen-outline",
         "codepoint": "F1724",
