@@ -54479,7 +54479,9 @@
         "name": "projector-screen-variant-off-outline",
         "codepoint": "F1811",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Contributors",
         "version": "6.1.64"
     },
