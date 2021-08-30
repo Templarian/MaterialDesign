@@ -53960,7 +53960,8 @@
         "name": "power-socket-ch",
         "codepoint": "F0FB3",
         "aliases": [
-            "plug-socket-ch"
+            "plug-socket-ch",
+            "power-socket-type-j"
         ],
         "tags": [
             "Home Automation"
