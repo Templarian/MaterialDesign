@@ -60915,7 +60915,9 @@
         "name": "smoke-detector-variant-off",
         "codepoint": "F180C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.64"
     },
