@@ -1801,7 +1801,9 @@
         "name": "alarm-light-off-outline",
         "codepoint": "F171F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.9.55"
     },
