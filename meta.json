@@ -1790,7 +1790,9 @@
         "name": "alarm-light-off",
         "codepoint": "F171E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.9.55"
     },
