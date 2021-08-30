@@ -22116,7 +22116,8 @@
         "name": "cosine-wave",
         "codepoint": "F1479",
         "aliases": [
-            "frequency"
+            "frequency",
+            "amplitude"
         ],
         "tags": [
             "Audio"
