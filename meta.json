@@ -15187,7 +15187,9 @@
         "id": "34DABCA7-B5EF-42DD-9731-ABAA7F3DD322",
         "name": "car-wrench",
         "codepoint": "F1814",
-        "aliases": [],
+        "aliases": [
+            "car-repair"
+        ],
         "tags": [
             "Automotive"
         ],
