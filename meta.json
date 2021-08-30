@@ -42353,7 +42353,8 @@
         "name": "lightning-bolt-outline",
         "codepoint": "F140C",
         "aliases": [
-            "thunder-outline"
+            "thunder-outline",
+            "storm-outline"
         ],
         "tags": [
             "Home Automation"
