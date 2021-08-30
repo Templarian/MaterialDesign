@@ -52856,7 +52856,9 @@
         "name": "pig-variant-outline",
         "codepoint": "F1678",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Agriculture"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.7.55"
     },
