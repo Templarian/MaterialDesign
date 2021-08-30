@@ -72442,7 +72442,9 @@
         "aliases": [
             "zwave"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Contributors",
         "version": "2.7.94"
     },
