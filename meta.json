@@ -41916,6 +41916,15 @@
         "version": "6.1.43"
     },
     {
+        "id": "34AE1531-6F13-40A5-8E15-ABDD1227DB19",
+        "name": "lightbulb-auto-outline",
+        "codepoint": "F1801",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.43"
+    },
+    {
         "id": "7D6FF098-D459-4B89-A13C-C9145A1EB992",
         "name": "lightbulb-cfl",
         "codepoint": "F1208",
