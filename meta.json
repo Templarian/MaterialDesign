@@ -60877,7 +60877,9 @@
         "name": "smoke-detector-off",
         "codepoint": "F1809",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.64"
     },
