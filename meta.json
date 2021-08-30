@@ -72064,7 +72064,8 @@
         "name": "wind-turbine",
         "codepoint": "F0DA5",
         "aliases": [
-            "wind-power"
+            "wind-power",
+            "wind-electricity"
         ],
         "tags": [
             "Home Automation"
