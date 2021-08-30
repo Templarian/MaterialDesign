@@ -63254,7 +63254,8 @@
         "codepoint": "F17FE",
         "aliases": [
             "weather-sun-wireless",
-            "illuminance"
+            "illuminance",
+            "uv-ray"
         ],
         "tags": [
             "Home Automation"
