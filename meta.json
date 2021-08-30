@@ -30465,6 +30465,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "942AE48C-F54D-4CD3-87A0-DC8DDDAD6F44",
+        "name": "fire-circle",
+        "codepoint": "F1807",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.49"
+    },
+    {
         "id": "D056C9A3-AA4C-4220-BEE7-79E189C12711",
         "name": "fire-extinguisher",
         "codepoint": "F0EF2",
