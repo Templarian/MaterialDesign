@@ -30469,7 +30469,8 @@
         "name": "fire-circle",
         "codepoint": "F1807",
         "aliases": [
-            "flame-circle"
+            "flame-circle",
+            "hot-circle"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
