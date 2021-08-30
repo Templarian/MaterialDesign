@@ -42352,7 +42352,9 @@
         "id": "908D1C1F-8D3A-4316-8CF5-ABDF16747DA1",
         "name": "lightning-bolt-outline",
         "codepoint": "F140C",
-        "aliases": [],
+        "aliases": [
+            "thunder-outline"
+        ],
         "tags": [
             "Home Automation"
         ],
