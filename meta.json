@@ -70039,7 +70039,9 @@
         "name": "wall-sconce-round-outline",
         "codepoint": "F17CC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.64"
     },
