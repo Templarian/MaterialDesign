@@ -70409,7 +70409,9 @@
             "trans-fat",
             "ink"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
