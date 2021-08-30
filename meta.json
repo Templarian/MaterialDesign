@@ -52004,7 +52004,9 @@
         "name": "ph",
         "codepoint": "F17C5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.64"
     },
