@@ -42340,7 +42340,8 @@
             "amp",
             "offline-bolt",
             "flash-circle",
-            "electricity-circle"
+            "electricity-circle",
+            "energy-circle"
         ],
         "tags": [
             "Home Automation"
