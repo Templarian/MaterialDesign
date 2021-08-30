@@ -61327,7 +61327,9 @@
         "id": "46CD8278-94CE-46F4-B2A5-01D4595E48A0",
         "name": "solar-panel",
         "codepoint": "F0D9B",
-        "aliases": [],
+        "aliases": [
+            "solar-energy"
+        ],
         "tags": [
             "Home Automation"
         ],
