@@ -60888,7 +60888,9 @@
         "name": "smoke-detector-off-outline",
         "codepoint": "F180A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.64"
     },
