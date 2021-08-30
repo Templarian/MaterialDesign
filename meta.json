@@ -61341,7 +61341,9 @@
         "id": "13BD6DBE-90E0-42A0-8FE6-A168974483CA",
         "name": "solar-panel-large",
         "codepoint": "F0D9C",
-        "aliases": [],
+        "aliases": [
+            "solar-panel-energy"
+        ],
         "tags": [
             "Home Automation"
         ],
