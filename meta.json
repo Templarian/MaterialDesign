@@ -14431,7 +14431,9 @@
             "candle",
             "candelabrum"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.64"
     },
