@@ -44481,7 +44481,9 @@
             "candelabrum-fire",
             "candelabrum-flame"
         ],
-        "tags": [],
+        "tags": [
+            "Religion"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.64"
     },
