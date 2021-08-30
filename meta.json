@@ -42342,7 +42342,8 @@
             "flash-circle",
             "electricity-circle",
             "energy-circle",
-            "thunder-circle"
+            "thunder-circle",
+            "storm-circle"
         ],
         "tags": [
             "Home Automation"
