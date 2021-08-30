@@ -30918,22 +30918,6 @@
         "version": "1.5.54"
     },
     {
-        "id": "F055DA49-5992-4DDC-8C71-E5D331520DEA",
-        "name": "flash-circle",
-        "codepoint": "F0820",
-        "aliases": [
-            "amp",
-            "offline-bolt",
-            "lightning-bolt-circle",
-            "electricity-circle"
-        ],
-        "tags": [
-            "Home Automation"
-        ],
-        "author": "Google",
-        "version": "2.1.19"
-    },
-    {
         "id": "A6D1B09D-EDB0-4241-B42D-E56052A070DE",
         "name": "flash-off",
         "codepoint": "F0243",
@@ -42340,6 +42324,22 @@
         "tags": [],
         "author": "Brooke Clifton",
         "version": "5.1.45"
+    },
+    {
+        "id": "F055DA49-5992-4DDC-8C71-E5D331520DEA",
+        "name": "lightning-bolt-circle",
+        "codepoint": "F0820",
+        "aliases": [
+            "amp",
+            "offline-bolt",
+            "lightning-bolt-circle",
+            "electricity-circle"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "2.1.19"
     },
     {
         "id": "908D1C1F-8D3A-4316-8CF5-ABDF16747DA1",
