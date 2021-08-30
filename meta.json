@@ -54435,7 +54435,9 @@
         "name": "projector-screen-off-outline",
         "codepoint": "F180E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Contributors",
         "version": "6.1.64"
     },
