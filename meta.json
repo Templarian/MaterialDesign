@@ -16576,7 +16576,9 @@
         "id": "822CF3D7-FEB4-4988-A037-0866756D4ADE",
         "name": "chair-rolling",
         "codepoint": "F0F48",
-        "aliases": [],
+        "aliases": [
+            "office-chair"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "3.9.97"
