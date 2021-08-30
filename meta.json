@@ -63269,7 +63269,9 @@
         "id": "2CFA10C3-9284-4120-B104-D196DBF0BF07",
         "name": "sun-wireless-outline",
         "codepoint": "F17FF",
-        "aliases": [],
+        "aliases": [
+            "weather-sun-wireless-outline"
+        ],
         "tags": [
             "Home Automation",
             "Weather"
