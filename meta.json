@@ -70286,7 +70286,9 @@
         "id": "1A50CD86-0127-4730-A090-ED5110A9825F",
         "name": "water-circle",
         "codepoint": "F1806",
-        "aliases": [],
+        "aliases": [
+            "drop-circle"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.1.49"
