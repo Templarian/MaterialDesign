@@ -12838,7 +12838,9 @@
         "name": "buffet",
         "codepoint": "F0578",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "nilsfast",
         "version": "1.5.54"
     },
