@@ -60819,6 +60819,15 @@
         "version": "6.1.51"
     },
     {
+        "id": "99D5165C-0609-4349-9046-E3180B32E684",
+        "name": "smoke-detector-variant",
+        "codepoint": "F180B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.51"
+    },
+    {
         "id": "20A9F2BB-C53E-410E-A433-4CEE2305AD49",
         "name": "smoking",
         "codepoint": "F04B4",
