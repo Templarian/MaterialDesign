@@ -15180,6 +15180,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "34DABCA7-B5EF-42DD-9731-ABAA7F3DD322",
+        "name": "car-wrench",
+        "codepoint": "F1814",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.1.62"
+    },
+    {
         "id": "077EABE1-1DBC-4AC9-AA0E-B45386391968",
         "name": "carabiner",
         "codepoint": "F14C0",
