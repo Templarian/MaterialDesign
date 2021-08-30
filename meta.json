@@ -12837,7 +12837,9 @@
         "id": "B68F24D9-0E45-4729-9DB9-46E0D73589F2",
         "name": "buffet",
         "codepoint": "F0578",
-        "aliases": [],
+        "aliases": [
+            "sideboard"
+        ],
         "tags": [
             "Home Automation"
         ],
