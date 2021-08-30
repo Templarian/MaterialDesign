@@ -15188,7 +15188,8 @@
         "name": "car-wrench",
         "codepoint": "F1814",
         "aliases": [
-            "car-repair"
+            "car-repair",
+            "mechanic"
         ],
         "tags": [
             "Automotive"
