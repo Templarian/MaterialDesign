@@ -69982,7 +69982,9 @@
         "name": "wall-sconce-flat-outline",
         "codepoint": "F17C9",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Contributors",
         "version": "6.1.64"
     },
