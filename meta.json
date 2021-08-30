@@ -63255,7 +63255,8 @@
         "aliases": [
             "weather-sun-wireless",
             "illuminance",
-            "uv-ray"
+            "uv-ray",
+            "ultraviolet"
         ],
         "tags": [
             "Home Automation"
