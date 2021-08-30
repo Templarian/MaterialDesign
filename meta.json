@@ -48391,7 +48391,9 @@
         "id": "2BD17DBC-5002-4378-B885-A1952D740C0B",
         "name": "nfc-variant-off",
         "codepoint": "F0E54",
-        "aliases": [],
+        "aliases": [
+            "near-field-communication-off"
+        ],
         "tags": [
             "Home Automation"
         ],
