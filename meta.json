@@ -53959,7 +53959,9 @@
         "id": "27B28F1C-C311-49C2-B3EE-6D288A9F1165",
         "name": "power-socket-ch",
         "codepoint": "F0FB3",
-        "aliases": [],
+        "aliases": [
+            "plug-socket-ch"
+        ],
         "tags": [
             "Home Automation"
         ],
