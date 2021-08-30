@@ -54429,6 +54429,15 @@
         "version": "6.1.56"
     },
     {
+        "id": "BE2FFED1-BB12-4CBD-A809-7E5BEA984E2F",
+        "name": "projector-screen-variant-off",
+        "codepoint": "F1810",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.1.56"
+    },
+    {
         "id": "F6911BCA-14B1-4DD4-9407-20E138FAB878",
         "name": "propane-tank",
         "codepoint": "F1357",
