@@ -580,7 +580,9 @@
         "name": "account-cowboy-hat-outline",
         "codepoint": "F17F3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Jeff Anders",
         "version": "6.1.64"
     },
