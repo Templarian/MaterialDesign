@@ -48392,7 +48392,9 @@
         "name": "nfc-variant-off",
         "codepoint": "F0E54",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "TheChilliPL",
         "version": "3.6.95"
     },
