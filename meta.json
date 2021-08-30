@@ -42321,7 +42321,8 @@
         "name": "lightning-bolt",
         "codepoint": "F140B",
         "aliases": [
-            "thunder"
+            "thunder",
+            "storm"
         ],
         "tags": [
             "Home Automation"
