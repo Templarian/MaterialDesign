@@ -60344,7 +60344,8 @@
             "current-ac",
             "wave",
             "analog",
-            "frequency"
+            "frequency",
+            "amplitude"
         ],
         "tags": [
             "Audio"
