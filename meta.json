@@ -42199,7 +42199,8 @@
         "name": "lightbulb-variant",
         "codepoint": "F1802",
         "aliases": [
-            "lightbulb-edison"
+            "lightbulb-edison",
+            "lightbulb-filament"
         ],
         "tags": [
             "Home Automation"
