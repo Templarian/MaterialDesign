@@ -55087,7 +55087,9 @@
         "aliases": [
             "heater-off"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "2.7.94"
     },
