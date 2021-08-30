@@ -63270,7 +63270,8 @@
         "name": "sun-wireless-outline",
         "codepoint": "F17FF",
         "aliases": [
-            "weather-sun-wireless-outline"
+            "weather-sun-wireless-outline",
+            "illuminance-outline"
         ],
         "tags": [
             "Home Automation",
