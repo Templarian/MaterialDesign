@@ -30474,7 +30474,9 @@
             "gas-circle",
             "natural-gas-circle"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.49"
     },
