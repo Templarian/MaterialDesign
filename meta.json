@@ -38651,7 +38651,8 @@
             "green-house"
         ],
         "tags": [
-            "Agriculture"
+            "Agriculture",
+            "Home Automation"
         ],
         "author": "Jeff Anders",
         "version": "3.6.95"
