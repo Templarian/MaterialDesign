@@ -41924,7 +41924,9 @@
         "id": "34AE1531-6F13-40A5-8E15-ABDD1227DB19",
         "name": "lightbulb-auto-outline",
         "codepoint": "F1801",
-        "aliases": [],
+        "aliases": [
+            "lightbulb-automatic-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.1.45"
