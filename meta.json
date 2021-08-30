@@ -61328,7 +61328,8 @@
         "name": "solar-panel",
         "codepoint": "F0D9B",
         "aliases": [
-            "solar-energy"
+            "solar-energy",
+            "solar-electricity"
         ],
         "tags": [
             "Home Automation"
