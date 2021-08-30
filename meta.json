@@ -42195,6 +42195,15 @@
         "version": "6.1.45"
     },
     {
+        "id": "52A21A41-EC71-4807-BE6B-CF5ED8BBAD10",
+        "name": "lightbulb-variant",
+        "codepoint": "F1802",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.45"
+    },
+    {
         "id": "95534506-8ECD-49B3-9F87-64D52CC874BA",
         "name": "lighthouse",
         "codepoint": "F09FF",
