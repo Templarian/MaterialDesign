@@ -579,7 +579,9 @@
         "id": "E1C851E1-3BBD-4661-A6FA-C77AD370DC6A",
         "name": "account-cowboy-hat-outline",
         "codepoint": "F17F3",
-        "aliases": [],
+        "aliases": [
+            "rancher-outline"
+        ],
         "tags": [
             "Account \/ User"
         ],
