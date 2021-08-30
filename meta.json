@@ -30468,7 +30468,9 @@
         "id": "942AE48C-F54D-4CD3-87A0-DC8DDDAD6F44",
         "name": "fire-circle",
         "codepoint": "F1807",
-        "aliases": [],
+        "aliases": [
+            "flame-circle"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.1.49"
