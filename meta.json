@@ -42320,7 +42320,9 @@
         "id": "A4A9C031-02B0-45C7-B9C8-EA1541DB9A38",
         "name": "lightning-bolt",
         "codepoint": "F140B",
-        "aliases": [],
+        "aliases": [
+            "thunder"
+        ],
         "tags": [
             "Home Automation"
         ],
