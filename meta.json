@@ -41907,6 +41907,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "DB38FD91-5875-4D53-81A9-A0B5400D53AE",
+        "name": "lightbulb-auto",
+        "codepoint": "F1800",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.43"
+    },
+    {
         "id": "7D6FF098-D459-4B89-A13C-C9145A1EB992",
         "name": "lightbulb-cfl",
         "codepoint": "F1208",
