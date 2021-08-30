@@ -8377,7 +8377,9 @@
         "aliases": [
             "farm"
         ],
-        "tags": [],
+        "tags": [
+            "Agriculture"
+        ],
         "author": "SarinManS",
         "version": "3.0.39"
     },
