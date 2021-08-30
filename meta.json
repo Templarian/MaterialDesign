@@ -63252,7 +63252,9 @@
         "id": "1A5DE4DC-5B3B-4378-ADB2-5D51AA64896D",
         "name": "sun-wireless",
         "codepoint": "F17FE",
-        "aliases": [],
+        "aliases": [
+            "weather-sun-wireless"
+        ],
         "tags": [
             "Home Automation"
         ],
