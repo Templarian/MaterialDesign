@@ -16579,7 +16579,9 @@
         "aliases": [
             "office-chair"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "3.9.97"
     },
