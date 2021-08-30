@@ -12792,7 +12792,9 @@
         "id": "8B433DEE-0DAC-4C0E-80A0-068A00269BEE",
         "name": "brush-variant",
         "codepoint": "F1813",
-        "aliases": [],
+        "aliases": [
+            "paintbrush"
+        ],
         "tags": [
             "Drawing \/ Art"
         ],
