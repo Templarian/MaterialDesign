@@ -61328,7 +61328,9 @@
         "name": "solar-panel",
         "codepoint": "F0D9B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Contributors",
         "version": "3.4.93"
     },
