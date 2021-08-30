@@ -42204,6 +42204,15 @@
         "version": "6.1.45"
     },
     {
+        "id": "70DD894F-1717-4C05-9C34-D7CE1ACF36CC",
+        "name": "lightbulb-variant-outline",
+        "codepoint": "F1803",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.45"
+    },
+    {
         "id": "95534506-8ECD-49B3-9F87-64D52CC874BA",
         "name": "lighthouse",
         "codepoint": "F09FF",
