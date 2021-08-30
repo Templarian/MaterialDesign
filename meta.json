@@ -41911,7 +41911,8 @@
         "name": "lightbulb-auto",
         "codepoint": "F1800",
         "aliases": [
-            "lightbulb-automatic"
+            "lightbulb-automatic",
+            "lightbulb-motion"
         ],
         "tags": [
             "Home Automation"
