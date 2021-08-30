@@ -15188,7 +15188,9 @@
         "name": "car-wrench",
         "codepoint": "F1814",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.64"
     },
