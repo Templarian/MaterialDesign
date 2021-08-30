@@ -1810,7 +1810,9 @@
         "name": "alarm-light-outline",
         "codepoint": "F0BEA",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Austin Andrews",
         "version": "3.2.89"
     },
