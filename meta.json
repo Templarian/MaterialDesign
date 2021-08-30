@@ -42212,7 +42212,9 @@
         "id": "70DD894F-1717-4C05-9C34-D7CE1ACF36CC",
         "name": "lightbulb-variant-outline",
         "codepoint": "F1803",
-        "aliases": [],
+        "aliases": [
+            "lightbulb-edison-outline"
+        ],
         "tags": [
             "Home Automation"
         ],
