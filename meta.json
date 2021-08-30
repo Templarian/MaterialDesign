@@ -72464,7 +72464,9 @@
         "name": "zigbee",
         "codepoint": "F0D41",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Contributors",
         "version": "3.3.92"
     },
