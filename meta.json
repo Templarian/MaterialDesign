@@ -41925,7 +41925,8 @@
         "name": "lightbulb-auto-outline",
         "codepoint": "F1801",
         "aliases": [
-            "lightbulb-automatic-outline"
+            "lightbulb-automatic-outline",
+            "lightbulb-motion-outline"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
