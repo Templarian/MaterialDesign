@@ -60343,7 +60343,8 @@
             "alternating-current",
             "current-ac",
             "wave",
-            "analog"
+            "analog",
+            "frequency"
         ],
         "tags": [
             "Audio"
