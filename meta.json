@@ -72064,7 +72064,9 @@
         "name": "wind-turbine",
         "codepoint": "F0DA5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Google",
         "version": "3.4.93"
     },
