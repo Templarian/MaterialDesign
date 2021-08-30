@@ -63271,7 +63271,8 @@
         "codepoint": "F17FF",
         "aliases": [],
         "tags": [
-            "Home Automation"
+            "Home Automation",
+            "Weather"
         ],
         "author": "Michael Irigoyen",
         "version": "6.1.43"
