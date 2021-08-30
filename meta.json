@@ -42213,7 +42213,9 @@
         "name": "lightbulb-variant-outline",
         "codepoint": "F1803",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.47"
     },
