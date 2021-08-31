@@ -59454,7 +59454,8 @@
         "name": "shield-lock",
         "codepoint": "F099D",
         "aliases": [
-            "security-lock"
+            "security-lock",
+            "alarm-arm-away"
         ],
         "tags": [
             "Lock"
