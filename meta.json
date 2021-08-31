@@ -36893,6 +36893,15 @@
         "version": "3.6.95"
     },
     {
+        "id": "B7FB9D4E-CCF7-4368-88FC-5BDDE33E3FAF",
+        "name": "hand-back-right-off",
+        "codepoint": "F1831",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.1.86"
+    },
+    {
         "id": "F1DF9FAF-F8B8-4B11-BDFB-EE6BEFAC322A",
         "name": "hand-back-right-outline",
         "codepoint": "F182D",
