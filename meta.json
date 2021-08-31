@@ -42854,6 +42854,26 @@
         "version": "5.0.45"
     },
     {
+        "id": "BAB8D475-0C50-46EB-9B05-8101442C4F33",
+        "name": "liquid-spot",
+        "codepoint": "F1826",
+        "aliases": [
+            "ink-spot",
+            "puddle",
+            "water",
+            "blood",
+            "spill",
+            "oil",
+            "dirty"
+        ],
+        "tags": [
+            "Automotive",
+            "Medical \/ Hospital"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.1.64"
+    },
+    {
         "id": "CC9CEDB3-55DE-4CCA-B31F-888383F6C69E",
         "name": "list-status",
         "codepoint": "F15AB",
