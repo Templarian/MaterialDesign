@@ -36920,6 +36920,15 @@
         "version": "2.6.95"
     },
     {
+        "id": "EC0CC485-BD34-49FB-AB06-D8244F1B9166",
+        "name": "hand-front-right-outline",
+        "codepoint": "F182F",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.1.86"
+    },
+    {
         "id": "5B605565-DBBC-4141-8B07-D8009B74D4E1",
         "name": "hand-heart",
         "codepoint": "F10F1",
