@@ -10628,6 +10628,20 @@
         "version": "3.3.92"
     },
     {
+        "id": "C8C79C9B-59FC-417E-9516-E5351594A994",
+        "name": "blender-outline",
+        "codepoint": "F181A",
+        "aliases": [
+            "food-processor-outline"
+        ],
+        "tags": [
+            "Home Automation",
+            "Food \/ Drink"
+        ],
+        "author": "Google",
+        "version": "6.1.64"
+    },
+    {
         "id": "F365BC90-C8EC-4A5C-99FB-C2ED27B5593A",
         "name": "blender-software",
         "codepoint": "F00AB",
