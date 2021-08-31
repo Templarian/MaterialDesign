@@ -59469,7 +59469,8 @@
         "name": "shield-lock-outline",
         "codepoint": "F0CCC",
         "aliases": [
-            "alarm-arm-away-outline"
+            "alarm-arm-away-outline",
+            "security-lock-outline"
         ],
         "tags": [
             "Lock",
