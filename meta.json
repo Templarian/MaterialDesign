@@ -10552,7 +10552,9 @@
         "id": "AC980D29-7F19-4356-970E-A147CFEB64E3",
         "name": "blender",
         "codepoint": "F0CEB",
-        "aliases": [],
+        "aliases": [
+            "food-processor"
+        ],
         "tags": [],
         "author": "Google",
         "version": "3.3.92"
