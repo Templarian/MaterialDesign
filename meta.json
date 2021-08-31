@@ -25790,6 +25790,21 @@
         "version": "6.1.64"
     },
     {
+        "id": "933F6908-12B7-4448-9A83-1FAD909ECC53",
+        "name": "door-sliding-lock",
+        "codepoint": "F181F",
+        "aliases": [
+            "patio-door-lock",
+            "french-door-lock"
+        ],
+        "tags": [
+            "Home Automation",
+            "Lock"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.1.64"
+    },
+    {
         "id": "91D0BB43-E5D4-4F0B-89E7-B379A6F9A455",
         "name": "doorbell",
         "codepoint": "F12E6",
