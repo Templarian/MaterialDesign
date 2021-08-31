@@ -67435,6 +67435,19 @@
         "version": "1.5.54"
     },
     {
+        "id": "912B0C1C-8E8A-4AA4-9166-C1BCCC85BDF9",
+        "name": "traffic-light-outline",
+        "codepoint": "F182A",
+        "aliases": [
+            "traffic-signal-outline"
+        ],
+        "tags": [
+            "Transportation + Road"
+        ],
+        "author": "Google",
+        "version": "6.1.64"
+    },
+    {
         "id": "B6E1232A-3A43-4200-BE34-1BC436B34BF1",
         "name": "train",
         "codepoint": "F052C",
