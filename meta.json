@@ -36884,6 +36884,15 @@
         "version": "3.6.95"
     },
     {
+        "id": "F1DF9FAF-F8B8-4B11-BDFB-EE6BEFAC322A",
+        "name": "hand-back-right-outline",
+        "codepoint": "F182D",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.1.86"
+    },
+    {
         "id": "9A2B8032-A5D9-4E2A-8865-511EFE742611",
         "name": "hand-front-left",
         "codepoint": "F182B",
