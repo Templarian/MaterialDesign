@@ -72277,7 +72277,9 @@
             "wiper-fluid",
             "washer-fluid"
         ],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Michael Irigoyen",
         "version": "3.4.93"
     },
