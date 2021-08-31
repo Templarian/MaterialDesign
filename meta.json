@@ -8715,6 +8715,17 @@
         "version": "6.1.64"
     },
     {
+        "id": "EE0AF53A-2C79-48C3-842C-4AD04DB14D84",
+        "name": "bathtub-outline",
+        "codepoint": "F1819",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.1.64"
+    },
+    {
         "id": "C12D919F-7D0D-4355-8109-912BA37154B5",
         "name": "battery",
         "codepoint": "F0079",
