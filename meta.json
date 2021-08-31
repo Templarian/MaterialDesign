@@ -59458,7 +59458,8 @@
             "alarm-arm-away"
         ],
         "tags": [
-            "Lock"
+            "Lock",
+            "Home Automation"
         ],
         "author": "GreenTurtwig",
         "version": "2.4.85"
