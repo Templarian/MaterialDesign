@@ -22257,6 +22257,20 @@
         "version": "6.1.64"
     },
     {
+        "id": "31920D18-0B33-4CE8-B5D9-7E879DB4E6AA",
+        "name": "countertop-outline",
+        "codepoint": "F181D",
+        "aliases": [
+            "kitchen-counter-outline",
+            "sink-outline"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.1.64"
+    },
+    {
         "id": "1D459B7E-A98C-4E02-929B-FA0BA329B97F",
         "name": "cow",
         "codepoint": "F019A",
