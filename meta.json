@@ -25805,6 +25805,20 @@
         "version": "6.1.64"
     },
     {
+        "id": "B8358F0C-19A7-4E55-AF98-F4FEFA983148",
+        "name": "door-sliding-open",
+        "codepoint": "F1820",
+        "aliases": [
+            "patio-door-open",
+            "french-door-open"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.1.64"
+    },
+    {
         "id": "91D0BB43-E5D4-4F0B-89E7-B379A6F9A455",
         "name": "doorbell",
         "codepoint": "F12E6",
