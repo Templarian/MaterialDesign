@@ -59152,7 +59152,8 @@
             "alarm-arm-home"
         ],
         "tags": [
-            "Account \/ User"
+            "Account \/ User",
+            "Home Automation"
         ],
         "author": "Michael Richins",
         "version": "2.1.99"
