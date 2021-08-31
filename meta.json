@@ -46753,6 +46753,21 @@
         "version": "1.5.54"
     },
     {
+        "id": "60E1CDBF-4EB9-4240-A7F8-B0476CC62CBC",
+        "name": "mosque",
+        "codepoint": "F1827",
+        "aliases": [
+            "islam",
+            "muslim"
+        ],
+        "tags": [
+            "Places",
+            "Religion"
+        ],
+        "author": "Google",
+        "version": "6.1.64"
+    },
+    {
         "id": "12E07384-2645-4F67-9A4F-4DA26FA1F75C",
         "name": "mother-heart",
         "codepoint": "F1314",
