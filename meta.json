@@ -36902,6 +36902,15 @@
         "version": "6.1.86"
     },
     {
+        "id": "09E98CF1-3EEC-4A94-B5F1-A6A734631959",
+        "name": "hand-front-left-outline",
+        "codepoint": "F182E",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.1.86"
+    },
+    {
         "id": "C30FC465-2DF1-4716-AAC9-F48213F23D65",
         "name": "hand-front-right",
         "codepoint": "F0A4F",
