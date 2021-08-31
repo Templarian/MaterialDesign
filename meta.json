@@ -59744,6 +59744,19 @@
         "version": "3.2.89"
     },
     {
+        "id": "622FF7DE-FDD6-4831-9D3D-09157A5FC8AE",
+        "name": "shield-moon",
+        "codepoint": "F1828",
+        "aliases": [
+            "alarm-arm-night"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.1.64"
+    },
+    {
         "id": "BC537F52-4A49-433B-A031-5C698A234A35",
         "name": "shield-off",
         "codepoint": "F099E",
