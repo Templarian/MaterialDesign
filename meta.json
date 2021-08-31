@@ -59148,7 +59148,8 @@
         "aliases": [
             "security-account",
             "shield-user",
-            "shield-person"
+            "shield-person",
+            "alarm-arm-home"
         ],
         "tags": [
             "Account \/ User"
