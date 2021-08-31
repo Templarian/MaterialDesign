@@ -40430,6 +40430,21 @@
         "version": "6.1.64"
     },
     {
+        "id": "82FEA1DA-69DE-436E-9D68-9116ADBE7D9B",
+        "name": "iron-outline",
+        "codepoint": "F1825",
+        "aliases": [
+            "flatiron-outline",
+            "smoothing-iron-outline"
+        ],
+        "tags": [
+            "Home Automation",
+            "Clothing"
+        ],
+        "author": "Google",
+        "version": "6.1.64"
+    },
+    {
         "id": "A39024B8-5991-409C-8E68-DC9562D52F86",
         "name": "island",
         "codepoint": "F104F",
