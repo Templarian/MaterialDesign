@@ -59757,6 +59757,19 @@
         "version": "6.1.64"
     },
     {
+        "id": "C70DD8EF-9F17-41E0-825C-C5AAC60DBF1E",
+        "name": "shield-moon-outline",
+        "codepoint": "F1829",
+        "aliases": [
+            "alarm-arm-night-outline"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.1.64"
+    },
+    {
         "id": "BC537F52-4A49-433B-A031-5C698A234A35",
         "name": "shield-off",
         "codepoint": "F099E",
