@@ -10555,7 +10555,9 @@
         "aliases": [
             "food-processor"
         ],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Google",
         "version": "3.3.92"
     },
