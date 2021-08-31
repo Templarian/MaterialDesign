@@ -20481,6 +20481,15 @@
         "version": "4.2.95"
     },
     {
+        "id": "0E490D96-1352-4592-A544-F80D43681A9E",
+        "name": "coffee-maker-outline",
+        "codepoint": "F181B",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.1.64"
+    },
+    {
         "id": "E3C8FAA1-E273-44BC-8C43-1CB0E5E5C2AB",
         "name": "coffee-off",
         "codepoint": "F0FAA",
