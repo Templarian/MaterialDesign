@@ -793,6 +793,20 @@
         "version": "6.1.64"
     },
     {
+        "id": "DB3273BF-116D-4AD9-8302-16CE79B64498",
+        "name": "account-injury-outline",
+        "codepoint": "F1816",
+        "aliases": [
+            "account-disability-outline"
+        ],
+        "tags": [
+            "Account \/ User",
+            "Medical \/ Hospital"
+        ],
+        "author": "Google",
+        "version": "6.1.64"
+    },
+    {
         "id": "645E04E6-A328-45DD-9B22-03E2296837B1",
         "name": "account-key",
         "codepoint": "F000B",
