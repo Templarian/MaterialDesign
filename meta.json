@@ -25776,6 +25776,20 @@
         "version": "2.1.19"
     },
     {
+        "id": "73FBEFFD-7EE3-4272-AB1F-A480C698FD5E",
+        "name": "door-sliding",
+        "codepoint": "F181E",
+        "aliases": [
+            "patio-door",
+            "french-door"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.1.64"
+    },
+    {
         "id": "91D0BB43-E5D4-4F0B-89E7-B379A6F9A455",
         "name": "doorbell",
         "codepoint": "F12E6",
