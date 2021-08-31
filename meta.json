@@ -39390,6 +39390,20 @@
         "version": "1.5.54"
     },
     {
+        "id": "26B43897-F5DF-4CBC-A89F-514E200B5937",
+        "name": "human-male-female-child",
+        "codepoint": "F1823",
+        "aliases": [
+            "family",
+            "mom-dad-child"
+        ],
+        "tags": [
+            "People \/ Family"
+        ],
+        "author": "Google",
+        "version": "6.1.64"
+    },
+    {
         "id": "764B2DA8-53A8-4D7D-A156-D73CDA4F0C63",
         "name": "human-male-girl",
         "codepoint": "F0A5D",
