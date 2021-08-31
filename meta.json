@@ -59468,7 +59468,9 @@
         "id": "7F797AEE-648F-4FB8-BA7F-4EF60235A061",
         "name": "shield-lock-outline",
         "codepoint": "F0CCC",
-        "aliases": [],
+        "aliases": [
+            "alarm-arm-away-outline"
+        ],
         "tags": [
             "Lock",
             "Home Automation"
