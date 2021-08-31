@@ -36866,6 +36866,15 @@
         "version": "3.6.95"
     },
     {
+        "id": "35FBF26D-56C0-4699-A2A8-19BC2C37D6AF",
+        "name": "hand-back-right",
+        "codepoint": "F0E47",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "3.6.95"
+    },
+    {
         "id": "C30FC465-2DF1-4716-AAC9-F48213F23D65",
         "name": "hand-front-right",
         "codepoint": "F0A4F",
@@ -36958,15 +36967,6 @@
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "2.6.95"
-    },
-    {
-        "id": "35FBF26D-56C0-4699-A2A8-19BC2C37D6AF",
-        "name": "hand-right",
-        "codepoint": "F0E47",
-        "aliases": [],
-        "tags": [],
-        "author": "Google",
-        "version": "3.6.95"
     },
     {
         "id": "A0B645B5-20F6-4682-9E88-96784D8732CF",
