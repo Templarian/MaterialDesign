@@ -67118,7 +67118,9 @@
         "id": "073B4489-5787-432C-9D10-50B270182D34",
         "name": "traffic-light",
         "codepoint": "F052B",
-        "aliases": [],
+        "aliases": [
+            "traffic-signal"
+        ],
         "tags": [
             "Transportation + Road"
         ],
