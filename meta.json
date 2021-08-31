@@ -8143,6 +8143,21 @@
         "version": "3.9.97"
     },
     {
+        "id": "005E0382-9004-4606-AA2A-07E27AF1E77E",
+        "name": "balcony",
+        "codepoint": "F1817",
+        "aliases": [
+            "terrace",
+            "patio",
+            "veranda"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.1.64"
+    },
+    {
         "id": "31D1D255-3E73-41A8-93E2-12DF16DA0C40",
         "name": "balloon",
         "codepoint": "F0A26",
