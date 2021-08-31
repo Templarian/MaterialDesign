@@ -37015,6 +37015,18 @@
         "version": "5.0.45"
     },
     {
+        "id": "2AE6B41D-EC56-4851-BEB2-B6A22B1E9D44",
+        "name": "hand-wave",
+        "codepoint": "F1821",
+        "aliases": [
+            "greeting",
+            "farewell"
+        ],
+        "tags": [],
+        "author": "Google",
+        "version": "6.1.64"
+    },
+    {
         "id": "845C7000-7198-490F-8043-EC1F61CE4F53",
         "name": "handball",
         "codepoint": "F0F53",
