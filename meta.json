@@ -40415,6 +40415,21 @@
         "version": "3.2.89"
     },
     {
+        "id": "43DA7407-CFBA-44CE-9857-D75DF5581CE2",
+        "name": "iron",
+        "codepoint": "F1824",
+        "aliases": [
+            "flatiron",
+            "smoothing-iron"
+        ],
+        "tags": [
+            "Home Automation",
+            "Clothing"
+        ],
+        "author": "Google",
+        "version": "6.1.64"
+    },
+    {
         "id": "A39024B8-5991-409C-8E68-DC9562D52F86",
         "name": "island",
         "codepoint": "F104F",
