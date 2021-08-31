@@ -27846,7 +27846,9 @@
         "aliases": [
             "emergency-exit"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Simran",
         "version": "2.6.95"
     },
