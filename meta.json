@@ -20485,7 +20485,9 @@
         "name": "coffee-maker-outline",
         "codepoint": "F181B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Google",
         "version": "6.1.95"
     },
@@ -53214,7 +53216,7 @@
             "Agriculture",
             "Animal"
         ],
-        "author": "Michael Irigoyen",
+        "author": "Google",
         "version": "5.7.55"
     },
     {
