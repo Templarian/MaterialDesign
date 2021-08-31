@@ -37027,6 +37027,18 @@
         "version": "6.1.64"
     },
     {
+        "id": "0E2992F4-2F2E-4A96-8402-FBA2B9C8675C",
+        "name": "hand-wave-outline",
+        "codepoint": "F1822",
+        "aliases": [
+            "greeting-outline",
+            "farewell-outline"
+        ],
+        "tags": [],
+        "author": "Google",
+        "version": "6.1.64"
+    },
+    {
         "id": "845C7000-7198-490F-8043-EC1F61CE4F53",
         "name": "handball",
         "codepoint": "F0F53",
