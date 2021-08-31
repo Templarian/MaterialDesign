@@ -59404,7 +59404,8 @@
         "name": "shield-home-outline",
         "codepoint": "F0CCB",
         "aliases": [
-            "shield-house-outline"
+            "shield-house-outline",
+            "alarm-arm-home"
         ],
         "tags": [
             "Home Automation"
