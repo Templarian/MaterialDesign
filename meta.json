@@ -68520,6 +68520,15 @@
         "version": "5.4.55"
     },
     {
+        "id": "316E6516-22BC-4191-9DF6-BB4FCA8ECCDE",
+        "name": "tunnel",
+        "codepoint": "F183D",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "2BD0CF2B-70B8-4CFB-9350-A613C189EE7D",
         "name": "turkey",
         "codepoint": "F171B",
