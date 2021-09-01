@@ -68529,6 +68529,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "1F64ACCA-5D8A-40FF-9E9A-CC640E9B9002",
+        "name": "tunnel-outline",
+        "codepoint": "F183E",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "2BD0CF2B-70B8-4CFB-9350-A613C189EE7D",
         "name": "turkey",
         "codepoint": "F171B",
