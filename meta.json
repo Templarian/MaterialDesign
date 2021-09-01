@@ -62651,6 +62651,15 @@
         "version": "1.8.36"
     },
     {
+        "id": "B8B83A21-D267-47BD-868F-BECB081CEC1C",
+        "name": "spear",
+        "codepoint": "F1845",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "F0EE6F6A-2B43-4880-8DC9-6E7515B3BEDE",
         "name": "speedometer",
         "codepoint": "F04C5",
