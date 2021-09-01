@@ -6424,6 +6424,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "A673515F-F8A6-41DC-9CB2-05C315FBDA53",
+        "name": "arrow-projectile",
+        "codepoint": "F1840",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "05F25B05-A6D6-4863-8B21-6969E10329CF",
         "name": "arrow-right",
         "codepoint": "F0054",
