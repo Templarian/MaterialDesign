@@ -23693,6 +23693,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "8C3A8BC3-9144-4D24-A41D-BBE2B557BF51",
+        "name": "curtains",
+        "codepoint": "F1846",
+        "aliases": [],
+        "tags": [],
+        "author": "Teodor Sandu",
+        "version": "6.2.95"
+    },
+    {
         "id": "82D8E45B-5E04-4094-818B-DE18775F9A91",
         "name": "dance-ballroom",
         "codepoint": "F15FB",
