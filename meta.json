@@ -67010,6 +67010,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "F2CBC47D-4716-44EB-81E0-71915241860E",
+        "name": "tooltip-cellphone",
+        "codepoint": "F183B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "B2FDABD3-4E66-461C-8DC0-10D9A18441B8",
         "name": "tooltip-check",
         "codepoint": "F155C",
