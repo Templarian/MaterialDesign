@@ -54093,6 +54093,15 @@
         "version": "4.4.95"
     },
     {
+        "id": "E0ED9455-85A4-4C77-9C79-533CE242ABA5",
+        "name": "police-station",
+        "codepoint": "F1839",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "C4A1DAE5-04E0-47EF-84D8-CB81FA58EF87",
         "name": "poll",
         "codepoint": "F041F",
