@@ -51804,7 +51804,9 @@
             "parasail",
             "paraglide"
         ],
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Google",
         "version": "6.1.95"
     },
