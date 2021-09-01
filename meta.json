@@ -12300,6 +12300,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "3B0FFEAC-477B-436C-A964-F537EC6ADF94",
+        "name": "bow-arrow",
+        "codepoint": "F1841",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "741B300C-06EF-459D-BB3E-95DB8E21194E",
         "name": "bow-tie",
         "codepoint": "F0678",
