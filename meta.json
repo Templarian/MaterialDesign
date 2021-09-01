@@ -43831,6 +43831,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "A7255F1C-0207-4202-B1E5-11DC2BED7161",
+        "name": "magic-staff",
+        "codepoint": "F1844",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "65B3A914-578A-468F-95C1-9C2B6D0C3A52",
         "name": "magnet",
         "codepoint": "F0347",
