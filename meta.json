@@ -43800,6 +43800,15 @@
         "version": "4.2.95"
     },
     {
+        "id": "7AF70024-F9FA-4B50-BD29-3073B6E508B4",
+        "name": "mace",
+        "codepoint": "F1843",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "DC51467E-30C0-4144-9AE6-80762ACA972C",
         "name": "magazine-pistol",
         "codepoint": "F0324",
