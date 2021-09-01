@@ -16477,6 +16477,15 @@
         "version": "2.4.85"
     },
     {
+        "id": "487DEBB1-A270-44B5-A2B9-D7E11F32C0CC",
+        "name": "cellphone-marker",
+        "codepoint": "F183A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "4C511E7E-D658-493D-B34B-B73A4DEE8FF9",
         "name": "cellphone-message",
         "codepoint": "F08D3",
