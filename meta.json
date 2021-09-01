@@ -40549,6 +40549,15 @@
         "version": "6.1.95"
     },
     {
+        "id": "60A790B9-4A75-4778-98A4-84C46B827924",
+        "name": "iron-board",
+        "codepoint": "F1838",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "82FEA1DA-69DE-436E-9D68-9116ADBE7D9B",
         "name": "iron-outline",
         "codepoint": "F1825",
