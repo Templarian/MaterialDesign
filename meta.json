@@ -23702,6 +23702,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "EB23B6A0-2021-405D-83F2-D69D9A5CF1CD",
+        "name": "curtains-closed",
+        "codepoint": "F1847",
+        "aliases": [],
+        "tags": [],
+        "author": "Teodor Sandu",
+        "version": "6.2.95"
+    },
+    {
         "id": "82D8E45B-5E04-4094-818B-DE18775F9A91",
         "name": "dance-ballroom",
         "codepoint": "F15FB",
