@@ -7488,6 +7488,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "C2FB1086-E609-4BD6-BF91-F703CDE00209",
+        "name": "axe-battle",
+        "codepoint": "F1842",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "78DCA9F5-C22C-407A-ABC1-15510C2F977A",
         "name": "axis",
         "codepoint": "F0D48",
