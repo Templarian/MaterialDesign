@@ -9662,6 +9662,15 @@
         "version": "6.1.95"
     },
     {
+        "id": "A78E1E92-F129-4050-AA6F-B308D171A2DC",
+        "name": "battery-sync",
+        "codepoint": "F1834",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "80257130-A38B-4BC1-B194-2EB16048D763",
         "name": "battery-unknown",
         "codepoint": "F0091",
