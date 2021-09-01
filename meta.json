@@ -64982,6 +64982,15 @@
         "version": "5.9.55"
     },
     {
+        "id": "95F556B1-87B0-4219-8E96-B5AF5D652DF4",
+        "name": "table-pivot",
+        "codepoint": "F183C",
+        "aliases": [],
+        "tags": [],
+        "author": "Teodor Sandu",
+        "version": "6.2.95"
+    },
+    {
         "id": "4547E3CF-042C-431F-8B99-4DBE22F1ADEC",
         "name": "table-plus",
         "codepoint": "F0A75",
