@@ -70963,6 +70963,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "EBE654D8-89C1-4DAC-92E5-3534C55281F0",
+        "name": "view-gallery-outline",
+        "codepoint": "F1889",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "E788F50B-B654-4AEC-ACD7-6E9F5AE8B789",
         "name": "view-grid",
         "codepoint": "F0570",
