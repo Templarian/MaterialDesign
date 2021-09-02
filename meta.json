@@ -67163,7 +67163,9 @@
         "id": "D3767EC9-5C06-42A0-B6BE-F5D2CF89FFD1",
         "name": "thermometer-bluetooth",
         "codepoint": "F1895",
-        "aliases": [],
+        "aliases": [
+            "temperature-bluetooth"
+        ],
         "tags": [
             "Weather",
             "Home Automation",
