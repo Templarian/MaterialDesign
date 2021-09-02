@@ -1853,6 +1853,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "4DBDF7D5-FD3A-4CE2-BCC6-306A09694221",
+        "name": "airplane-search",
+        "codepoint": "F1883",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "2B9BB7A1-A94B-4D24-8308-5599504317C2",
         "name": "airplane-takeoff",
         "codepoint": "F05D5",
