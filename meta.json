@@ -37691,7 +37691,9 @@
         "name": "hand-coin-outline",
         "codepoint": "F1890",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Jeff Anders",
         "version": "6.2.95"
     },
