@@ -1844,6 +1844,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "244A039A-5ABD-46F5-8E5E-8F6D84FC116C",
+        "name": "airplane-remove",
+        "codepoint": "F1882",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "2B9BB7A1-A94B-4D24-8308-5599504317C2",
         "name": "airplane-takeoff",
         "codepoint": "F05D5",
