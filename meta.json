@@ -15596,7 +15596,9 @@
         "name": "car-wireless",
         "codepoint": "F1878",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
