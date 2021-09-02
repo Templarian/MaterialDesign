@@ -63081,6 +63081,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "6F9AA4F8-ECC6-495E-87C0-84DCE1327F4D",
+        "name": "square-opacity",
+        "codepoint": "F1854",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "5ED659B5-F175-445F-950D-0B4DDAB3F8B3",
         "name": "square-outline",
         "codepoint": "F0763",
