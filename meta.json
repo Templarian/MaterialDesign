@@ -71455,6 +71455,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "DF6B67F9-DE8F-4183-B7E8-CE99C3B863EE",
+        "name": "waterfall",
+        "codepoint": "F1849",
+        "aliases": [],
+        "tags": [],
+        "author": "Teodor Sandu",
+        "version": "6.2.95"
+    },
+    {
         "id": "5B017D32-0BE9-4A6A-999C-32777F995FBB",
         "name": "watering-can",
         "codepoint": "F1481",
