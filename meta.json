@@ -39436,6 +39436,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "B78A53B2-16C0-40FF-8923-9EE03B7D6059",
+        "name": "horse-variant-fast",
+        "codepoint": "F186E",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "1955609E-8F53-41B3-9C71-0A71E4FBEED3",
         "name": "horseshoe",
         "codepoint": "F0A58",
