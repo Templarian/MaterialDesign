@@ -33602,7 +33602,9 @@
         "id": "70EFA358-6CE3-4CC1-9F46-6283D491F2E2",
         "name": "forest",
         "codepoint": "F1897",
-        "aliases": [],
+        "aliases": [
+            "pine-tree"
+        ],
         "tags": [
             "Nature"
         ],
