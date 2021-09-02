@@ -37680,7 +37680,9 @@
             "charity",
             "donation"
         ],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Jeff Anders",
         "version": "6.2.95"
     },
