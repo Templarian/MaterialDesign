@@ -71506,7 +71506,8 @@
         "name": "water-opacity",
         "codepoint": "F1855",
         "aliases": [
-            "water-transparent"
+            "water-transparent",
+            "water-saver"
         ],
         "tags": [
             "Home Automation"
