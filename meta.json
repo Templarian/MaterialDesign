@@ -215,7 +215,9 @@
         "id": "8149AE23-C281-4BB3-8150-A5988CE17CD2",
         "name": "account-arrow-down-outline",
         "codepoint": "F1869",
-        "aliases": [],
+        "aliases": [
+            "account-download-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
