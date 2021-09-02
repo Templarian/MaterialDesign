@@ -47315,7 +47315,9 @@
         "name": "monitor-small",
         "codepoint": "F1876",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Device \/ Tech"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
