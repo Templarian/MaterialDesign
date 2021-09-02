@@ -1759,6 +1759,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "8C33AFFF-209E-41AC-A403-B1A46B321917",
+        "name": "airplane-clock",
+        "codepoint": "F187C",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "634EE7E8-8280-4CF1-B642-0921E740B6DB",
         "name": "airplane-landing",
         "codepoint": "F05D4",
