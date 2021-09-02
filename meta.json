@@ -27315,7 +27315,9 @@
         "id": "3BDD7A0B-DA90-459E-8219-58EDC08661FE",
         "name": "email-fast",
         "codepoint": "F186F",
-        "aliases": [],
+        "aliases": [
+            "envelope-fast"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
