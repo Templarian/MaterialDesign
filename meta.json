@@ -36409,7 +36409,9 @@
         "name": "glass-fragile",
         "codepoint": "F1873",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
