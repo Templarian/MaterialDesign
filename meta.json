@@ -44279,6 +44279,15 @@
         "version": "2.4.85"
     },
     {
+        "id": "D6842910-49FD-4F74-8D67-86865549097A",
+        "name": "magnify-expand",
+        "codepoint": "F1874",
+        "aliases": [],
+        "tags": [],
+        "author": "snis",
+        "version": "6.2.95"
+    },
+    {
         "id": "36D3966F-BFA2-407B-BF36-D21FBA930930",
         "name": "magnify-minus",
         "codepoint": "F034A",
