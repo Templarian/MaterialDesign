@@ -2511,7 +2511,8 @@
         "name": "all-inclusive-box",
         "codepoint": "F188D",
         "aliases": [
-            "infinity-box"
+            "infinity-box",
+            "forever-box"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
