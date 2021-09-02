@@ -27143,6 +27143,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "8A3DDFE7-F2D8-47F1-8FFB-2B0C2145CE60",
+        "name": "email-fast-outline",
+        "codepoint": "F1870",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "04288F6D-7E3C-4BB6-8FDE-B8951C0D0BDF",
         "name": "email-lock",
         "codepoint": "F01F1",
