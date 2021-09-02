@@ -32167,7 +32167,9 @@
         "id": "00031D77-25BC-41B3-A6A3-F83EF92743A5",
         "name": "flower-pollen",
         "codepoint": "F1885",
-        "aliases": [],
+        "aliases": [
+            "allergy"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
