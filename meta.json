@@ -71810,6 +71810,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "FC4A7A1E-A32E-432E-8EB3-79FFA3E012C1",
+        "name": "waves-arrow-left",
+        "codepoint": "F1859",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "51E32DD0-F286-4039-8242-2BF03E917C37",
         "name": "waze",
         "codepoint": "F0BDE",
