@@ -1913,7 +1913,9 @@
         "name": "airplane-settings",
         "codepoint": "F1884",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Flying"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
