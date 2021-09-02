@@ -14339,6 +14339,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "E18549B4-97EC-49C7-A870-5CA1FBDD86EA",
+        "name": "camera-document-off",
+        "codepoint": "F1872",
+        "aliases": [],
+        "tags": [],
+        "author": "snis",
+        "version": "6.2.95"
+    },
+    {
         "id": "45456446-14D9-49F2-8842-93BAF8233F47",
         "name": "camera-enhance",
         "codepoint": "F0101",
