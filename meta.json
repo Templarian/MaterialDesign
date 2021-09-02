@@ -26485,7 +26485,9 @@
         "id": "15AB1BAE-A458-4107-9C96-07BF755F3EBA",
         "name": "earbuds-outline",
         "codepoint": "F1852",
-        "aliases": [],
+        "aliases": [
+            "headphones-outline"
+        ],
         "tags": [
             "Audio"
         ],
