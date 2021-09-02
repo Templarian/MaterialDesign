@@ -1837,7 +1837,8 @@
         "name": "airplane-marker",
         "codepoint": "F187F",
         "aliases": [
-            "airplane-location"
+            "airplane-location",
+            "airplane-gps"
         ],
         "tags": [
             "Transportation + Flying"
