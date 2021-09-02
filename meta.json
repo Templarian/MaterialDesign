@@ -26486,7 +26486,9 @@
         "name": "earbuds-outline",
         "codepoint": "F1852",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Audio"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
