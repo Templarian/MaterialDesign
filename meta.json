@@ -1889,7 +1889,9 @@
         "name": "airplane-remove",
         "codepoint": "F1882",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Flying"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
