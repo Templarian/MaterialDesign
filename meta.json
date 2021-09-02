@@ -7413,6 +7413,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "2CB292B6-3835-44B4-857B-5231B87B5968",
+        "name": "audio-input-rca",
+        "codepoint": "F186B",
+        "aliases": [],
+        "tags": [],
+        "author": "GreenTurtwig",
+        "version": "6.2.95"
+    },
+    {
         "id": "79CBF0E5-365C-466B-B162-2EBD1531F182",
         "name": "audio-video",
         "codepoint": "F093D",
