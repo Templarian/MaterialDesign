@@ -202,7 +202,9 @@
         "id": "785965F1-58C0-42F8-9433-9B6A3ACF1AE6",
         "name": "account-arrow-down",
         "codepoint": "F1868",
-        "aliases": [],
+        "aliases": [
+            "account-download"
+        ],
         "tags": [
             "Account \/ User"
         ],
