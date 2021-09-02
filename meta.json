@@ -14467,7 +14467,9 @@
         "id": "E18549B4-97EC-49C7-A870-5CA1FBDD86EA",
         "name": "camera-document-off",
         "codepoint": "F1872",
-        "aliases": [],
+        "aliases": [
+            "overhead-projector-off"
+        ],
         "tags": [],
         "author": "snis",
         "version": "6.2.95"
