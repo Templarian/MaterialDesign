@@ -55913,7 +55913,9 @@
         "id": "1C482356-F93E-46FB-B4FF-6142BB859A7F",
         "name": "radioactive-circle-outline",
         "codepoint": "F185E",
-        "aliases": [],
+        "aliases": [
+            "radiation-circle-outline"
+        ],
         "tags": [
             "Science"
         ],
