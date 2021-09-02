@@ -69659,7 +69659,9 @@
         "name": "vector-polygon-variant",
         "codepoint": "F1856",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Vector"
+        ],
         "author": "Jeff Anders",
         "version": "6.2.95"
     },
