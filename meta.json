@@ -71828,6 +71828,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "9C20E25F-2499-4B5F-BC47-74DDA23F6DC3",
+        "name": "waves-arrow-up",
+        "codepoint": "F185B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "51E32DD0-F286-4039-8242-2BF03E917C37",
         "name": "waze",
         "codepoint": "F0BDE",
