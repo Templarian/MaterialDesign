@@ -16080,7 +16080,8 @@
         "codepoint": "F185C",
         "aliases": [],
         "tags": [
-            "Currency"
+            "Currency",
+            "Banking"
         ],
         "author": "Jeff Anders",
         "version": "6.2.95"
