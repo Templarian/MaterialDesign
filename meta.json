@@ -1835,6 +1835,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "4D5B4816-F71A-4413-A065-A58F2A907656",
+        "name": "airplane-plus",
+        "codepoint": "F1881",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "2B9BB7A1-A94B-4D24-8308-5599504317C2",
         "name": "airplane-takeoff",
         "codepoint": "F05D5",
