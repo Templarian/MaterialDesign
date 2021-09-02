@@ -67241,7 +67241,9 @@
         "id": "F2CBC47D-4716-44EB-81E0-71915241860E",
         "name": "tooltip-cellphone",
         "codepoint": "F183B",
-        "aliases": [],
+        "aliases": [
+            "cellphone-location"
+        ],
         "tags": [
             "Cellphone \/ Phone"
         ],
