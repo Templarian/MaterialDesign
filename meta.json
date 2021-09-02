@@ -68734,7 +68734,9 @@
         "name": "tunnel",
         "codepoint": "F183D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
