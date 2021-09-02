@@ -2498,7 +2498,9 @@
         "id": "5596E6E7-916E-4870-9346-5D46BC86C0D5",
         "name": "all-inclusive",
         "codepoint": "F06BE",
-        "aliases": [],
+        "aliases": [
+            "infinity"
+        ],
         "tags": [],
         "author": "Google",
         "version": "1.8.36"
