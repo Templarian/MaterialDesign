@@ -67164,7 +67164,9 @@
         "name": "thermometer-bluetooth",
         "codepoint": "F1895",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Weather"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
