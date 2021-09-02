@@ -69228,6 +69228,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "4A29028B-25F3-423F-B924-BB93FAEC2DCF",
+        "name": "truck-flatbed",
+        "codepoint": "F1891",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "09111629-7960-46BA-A70E-DC85128E4F4A",
         "name": "truck-outline",
         "codepoint": "F129D",
