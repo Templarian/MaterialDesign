@@ -60222,6 +60222,15 @@
         "version": "2.1.19"
     },
     {
+        "id": "E5A72C59-D7AF-47F4-939E-F9F882E3F2FF",
+        "name": "shipping-pallet",
+        "codepoint": "F184E",
+        "aliases": [],
+        "tags": [],
+        "author": "Teodor Sandu",
+        "version": "6.2.95"
+    },
+    {
         "id": "B5B68323-60DD-45BF-83FC-892B436D0400",
         "name": "shoe-ballet",
         "codepoint": "F15CA",
