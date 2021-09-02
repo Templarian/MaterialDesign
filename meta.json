@@ -27329,7 +27329,9 @@
         "id": "8A3DDFE7-F2D8-47F1-8FFB-2B0C2145CE60",
         "name": "email-fast-outline",
         "codepoint": "F1870",
-        "aliases": [],
+        "aliases": [
+            "email-send-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
