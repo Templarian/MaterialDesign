@@ -68140,7 +68140,9 @@
         "id": "C0E839BC-5537-4219-8040-24466FB2F311",
         "name": "town-hall",
         "codepoint": "F1875",
-        "aliases": [],
+        "aliases": [
+            "school"
+        ],
         "tags": [],
         "author": "nilsfast",
         "version": "6.2.95"
