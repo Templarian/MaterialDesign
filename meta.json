@@ -4817,7 +4817,7 @@
     },
     {
         "id": "0870BDBC-060F-49E5-B72C-CA06949643AF",
-        "name": "application-import-outline",
+        "name": "application-import",
         "codepoint": "F0DAE",
         "aliases": [
             "iframe-import-outline"
