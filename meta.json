@@ -62818,7 +62818,9 @@
         "name": "spear",
         "codepoint": "F1845",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
