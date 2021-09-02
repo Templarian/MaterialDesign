@@ -36408,7 +36408,9 @@
         "id": "8D20FB31-71AC-4697-899B-2156B6193F75",
         "name": "glass-fragile",
         "codepoint": "F1873",
-        "aliases": [],
+        "aliases": [
+            "glass-broken"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
