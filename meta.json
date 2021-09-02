@@ -6431,7 +6431,9 @@
         "name": "arrow-projectile-multiple",
         "codepoint": "F183F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
