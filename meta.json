@@ -19501,6 +19501,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "009901AA-479B-419A-89F8-DA4453B5991B",
+        "name": "clock-minus",
+        "codepoint": "F1863",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "7C3F10AF-CB56-4A35-B22A-C833D5C823A3",
         "name": "clock-out",
         "codepoint": "F0154",
