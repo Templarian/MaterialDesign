@@ -6415,15 +6415,6 @@
         "version": "6.1.95"
     },
     {
-        "id": "F3A249F5-9D86-4A3E-A197-C8C410C3721B",
-        "name": "arrow-projecticle-multiple",
-        "codepoint": "F183F",
-        "aliases": [],
-        "tags": [],
-        "author": "Colton Wiscombe",
-        "version": "6.2.95"
-    },
-    {
         "id": "A673515F-F8A6-41DC-9CB2-05C315FBDA53",
         "name": "arrow-projectile",
         "codepoint": "F1840",
@@ -6432,6 +6423,15 @@
             "Gaming \/ RPG",
             "Sport"
         ],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
+        "id": "F3A249F5-9D86-4A3E-A197-C8C410C3721B",
+        "name": "arrow-projectile-multiple",
+        "codepoint": "F183F",
+        "aliases": [],
+        "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
