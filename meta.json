@@ -19572,6 +19572,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "29131074-EFF5-4A47-88A2-D856CB92432F",
+        "name": "clock-remove-outline",
+        "codepoint": "F1866",
+        "aliases": [],
+        "tags": [],
+        "author": "Dylan Oli",
+        "version": "6.2.95"
+    },
+    {
         "id": "85A4435A-CDCF-42BC-8F2C-B46EDF8820BD",
         "name": "clock-start",
         "codepoint": "F0155",
