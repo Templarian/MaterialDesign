@@ -1783,7 +1783,8 @@
         "name": "airplane-clock",
         "codepoint": "F187C",
         "aliases": [
-            "airplane-schedule"
+            "airplane-schedule",
+            "airplane-time"
         ],
         "tags": [
             "Transportation + Flying"
