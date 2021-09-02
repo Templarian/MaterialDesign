@@ -218,7 +218,9 @@
         "aliases": [
             "account-download-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
