@@ -48734,7 +48734,9 @@
         "id": "8D4D600F-56EB-488D-992A-24B393EE6D47",
         "name": "multicast",
         "codepoint": "F1893",
-        "aliases": [],
+        "aliases": [
+            "multiplex"
+        ],
         "tags": [],
         "author": "Simran",
         "version": "6.2.95"
