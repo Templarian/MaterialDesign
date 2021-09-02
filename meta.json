@@ -37691,7 +37691,8 @@
         "name": "hand-coin-outline",
         "codepoint": "F1890",
         "aliases": [
-            "charity-outline"
+            "charity-outline",
+            "donation-outline"
         ],
         "tags": [
             "Banking"
