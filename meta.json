@@ -16079,7 +16079,9 @@
         "name": "cash-fast",
         "codepoint": "F185C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Currency"
+        ],
         "author": "Jeff Anders",
         "version": "6.2.95"
     },
