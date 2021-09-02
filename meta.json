@@ -16529,7 +16529,8 @@
         "name": "cellphone-marker",
         "codepoint": "F183A",
         "aliases": [
-            "cellphone-location"
+            "cellphone-location",
+            "cellphone-map"
         ],
         "tags": [
             "Cellphone \/ Phone"
