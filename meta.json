@@ -44506,7 +44506,9 @@
         "id": "D6842910-49FD-4F74-8D67-86865549097A",
         "name": "magnify-expand",
         "codepoint": "F1874",
-        "aliases": [],
+        "aliases": [
+            "search-expand"
+        ],
         "tags": [],
         "author": "snis",
         "version": "6.2.95"
