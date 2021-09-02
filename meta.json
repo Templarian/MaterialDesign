@@ -32170,7 +32170,9 @@
         "aliases": [
             "allergy"
         ],
-        "tags": [],
+        "tags": [
+            "Nature"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
