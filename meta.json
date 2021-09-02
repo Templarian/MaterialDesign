@@ -47314,7 +47314,9 @@
         "id": "CE677999-FD3D-4120-A755-2EF579A82528",
         "name": "monitor-small",
         "codepoint": "F1876",
-        "aliases": [],
+        "aliases": [
+            "monitor-crt"
+        ],
         "tags": [
             "Device \/ Tech"
         ],
