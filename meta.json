@@ -1899,7 +1899,9 @@
         "id": "4DBDF7D5-FD3A-4CE2-BCC6-306A09694221",
         "name": "airplane-search",
         "codepoint": "F1883",
-        "aliases": [],
+        "aliases": [
+            "airplane-find"
+        ],
         "tags": [
             "Transportation + Flying"
         ],
