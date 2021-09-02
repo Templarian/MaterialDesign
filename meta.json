@@ -14470,7 +14470,9 @@
         "aliases": [
             "overhead-projector-off"
         ],
-        "tags": [],
+        "tags": [
+            "Photography"
+        ],
         "author": "snis",
         "version": "6.2.95"
     },
