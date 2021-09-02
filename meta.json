@@ -67896,6 +67896,15 @@
         "version": "1.7.12"
     },
     {
+        "id": "C0E839BC-5537-4219-8040-24466FB2F311",
+        "name": "town-hall",
+        "codepoint": "F1875",
+        "aliases": [],
+        "tags": [],
+        "author": "nilsfast",
+        "version": "6.2.95"
+    },
+    {
         "id": "DDCE3E75-1E43-45A9-8D94-E24CFD8284B0",
         "name": "toy-brick",
         "codepoint": "F1288",
