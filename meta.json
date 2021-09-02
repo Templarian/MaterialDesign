@@ -1810,6 +1810,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "B92E8598-1A85-4EC5-9082-2CF13684EB13",
+        "name": "airplane-minus",
+        "codepoint": "F1880",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "D2D1D38E-ABE7-47B6-9405-DC6BDBA1C335",
         "name": "airplane-off",
         "codepoint": "F001E",
