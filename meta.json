@@ -40560,7 +40560,9 @@
         "aliases": [
             "ignition"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
