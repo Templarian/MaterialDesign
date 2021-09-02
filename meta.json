@@ -14330,6 +14330,15 @@
         "version": "3.0.39"
     },
     {
+        "id": "8A2FFEED-01B4-44C0-A82A-2E03D8C2A447",
+        "name": "camera-document",
+        "codepoint": "F1871",
+        "aliases": [],
+        "tags": [],
+        "author": "snis",
+        "version": "6.2.95"
+    },
+    {
         "id": "45456446-14D9-49F2-8842-93BAF8233F47",
         "name": "camera-enhance",
         "codepoint": "F0101",
