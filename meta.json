@@ -27316,7 +27316,8 @@
         "name": "email-fast",
         "codepoint": "F186F",
         "aliases": [
-            "envelope-fast"
+            "envelope-fast",
+            "email-quick"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
