@@ -2504,6 +2504,15 @@
         "version": "1.8.36"
     },
     {
+        "id": "C8E30B1A-135A-4B8A-900C-D93FE1699720",
+        "name": "all-inclusive-box",
+        "codepoint": "F188D",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "76B6381F-14CA-4453-8B28-184C508D003B",
         "name": "allergy",
         "codepoint": "F1258",
