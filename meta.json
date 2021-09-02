@@ -37677,7 +37677,8 @@
         "name": "hand-coin",
         "codepoint": "F188F",
         "aliases": [
-            "charity"
+            "charity",
+            "donation"
         ],
         "tags": [],
         "author": "Jeff Anders",
