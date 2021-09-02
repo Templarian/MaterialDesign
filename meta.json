@@ -69655,6 +69655,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "26BC525C-08EA-4929-9114-8FB8F35B32AD",
+        "name": "vector-polygon-variant",
+        "codepoint": "F1856",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.2.95"
+    },
+    {
         "id": "1D1C3847-C645-42AE-A93C-DE1E64685762",
         "name": "vector-polyline",
         "codepoint": "F0561",
