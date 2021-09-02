@@ -69306,7 +69306,9 @@
         "id": "4A29028B-25F3-423F-B924-BB93FAEC2DCF",
         "name": "truck-flatbed",
         "codepoint": "F1891",
-        "aliases": [],
+        "aliases": [
+            "truck-flatbed-tow"
+        ],
         "tags": [
             "Automotive"
         ],
