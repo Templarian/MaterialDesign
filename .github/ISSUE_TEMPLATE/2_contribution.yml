@@ -16,6 +16,13 @@ body:
         - label: I have followed the [Material guidelines](https://material.io/design/iconography/system-icons.html) for system icons.
           required: true
   - type: textarea
+    id: usage
+    attributes:
+      label: Tell us about your contribution.
+      description: What led you to create this icon? Tell us how you would use it.
+    validations:
+      required: true
+  - type: textarea
     id: preview
     attributes:
       label: Share a preview of your contribution.
