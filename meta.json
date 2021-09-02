@@ -71384,6 +71384,15 @@
         "version": "5.4.55"
     },
     {
+        "id": "97D5ABBB-9410-4891-B06C-40121506BAEC",
+        "name": "water-opacity",
+        "codepoint": "F1855",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "DC3CFDE4-8FA9-497A-A937-6F7182B560E1",
         "name": "water-outline",
         "codepoint": "F0E0A",
