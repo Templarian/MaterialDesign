@@ -40455,6 +40455,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "9B626C0C-73AD-4209-BEB6-70AE9BA4D1FF",
+        "name": "induction",
+        "codepoint": "F184C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "8C4EBD04-376D-41AC-86D3-2BBDD56768C7",
         "name": "infinity",
         "codepoint": "F06E4",
