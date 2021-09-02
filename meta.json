@@ -39637,6 +39637,15 @@
         "version": "2.6.95"
     },
     {
+        "id": "0993FCF5-5C89-4F54-ABFC-310CDF2AED15",
+        "name": "human-non-binary",
+        "codepoint": "F1848",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "05DB88BC-FA28-4DF1-8308-541E338E0234",
         "name": "human-pregnant",
         "codepoint": "F05CF",
