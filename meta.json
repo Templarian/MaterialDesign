@@ -63184,7 +63184,9 @@
         "name": "square-opacity",
         "codepoint": "F1854",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Drawing \/ Art"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
