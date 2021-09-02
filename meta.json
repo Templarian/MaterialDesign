@@ -1811,7 +1811,9 @@
         "name": "airplane-edit",
         "codepoint": "F187E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Flying"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
