@@ -26400,6 +26400,15 @@
         "version": "2.6.95"
     },
     {
+        "id": "F809C249-6B8A-4A3E-B945-7EA3D0F71AB0",
+        "name": "earbuds",
+        "codepoint": "F184F",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "0D1618BF-A3AD-4B4A-92EA-5DBF93BF7625",
         "name": "earth",
         "codepoint": "F01E7",
