@@ -16329,6 +16329,20 @@
         "version": "2.0.46"
     },
     {
+        "id": "4B6324CC-D2F7-4CDA-B05F-AC05CA7E238D",
+        "name": "cctv-off",
+        "codepoint": "F185F",
+        "aliases": [
+            "closed-circuit-television-off",
+            "security-camera-off"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "580D06BE-1E88-47D7-9DEE-D1929637B0E3",
         "name": "ceiling-fan",
         "codepoint": "F1797",
