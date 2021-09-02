@@ -53583,6 +53583,15 @@
         "version": "2.1.99"
     },
     {
+        "id": "CAF49DCD-781B-4F6A-B692-9E2ED6D68786",
+        "name": "pipe-valve",
+        "codepoint": "F184D",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "5767EA8C-592F-4CEF-A01D-52F3CD0D111E",
         "name": "pipe-wrench",
         "codepoint": "F1354",
