@@ -27330,7 +27330,8 @@
         "name": "email-fast-outline",
         "codepoint": "F1870",
         "aliases": [
-            "email-send-outline"
+            "email-send-outline",
+            "email-sent-outline"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
