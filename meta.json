@@ -1772,7 +1772,9 @@
         "name": "airplane-check",
         "codepoint": "F187B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Flying"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
