@@ -71820,7 +71820,9 @@
         "name": "waves-arrow-left",
         "codepoint": "F1859",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Nature"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
