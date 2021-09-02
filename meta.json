@@ -26658,7 +26658,9 @@
         "name": "egg-fried",
         "codepoint": "F184A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
