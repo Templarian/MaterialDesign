@@ -16080,7 +16080,8 @@
         "codepoint": "F185C",
         "aliases": [
             "instant-deposit",
-            "instant-transfer"
+            "instant-transfer",
+            "instant-cash"
         ],
         "tags": [
             "Currency",
