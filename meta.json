@@ -15455,7 +15455,9 @@
         "name": "car-select",
         "codepoint": "F1879",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Jeff Anders",
         "version": "6.2.95"
     },
