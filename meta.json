@@ -2522,7 +2522,9 @@
         "id": "C3D587B3-D1F0-4C6F-9E4F-5FEE39AFFE33",
         "name": "all-inclusive-box-outline",
         "codepoint": "F188E",
-        "aliases": [],
+        "aliases": [
+            "forever-box-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
