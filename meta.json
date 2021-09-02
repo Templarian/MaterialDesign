@@ -2499,7 +2499,8 @@
         "name": "all-inclusive",
         "codepoint": "F06BE",
         "aliases": [
-            "infinity"
+            "infinity",
+            "forever"
         ],
         "tags": [],
         "author": "Google",
