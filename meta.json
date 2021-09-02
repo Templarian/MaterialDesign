@@ -9693,7 +9693,9 @@
         "name": "battery-sync",
         "codepoint": "F1834",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Battery"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
