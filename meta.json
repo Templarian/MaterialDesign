@@ -40709,7 +40709,9 @@
         "name": "iron-board",
         "codepoint": "F1838",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
