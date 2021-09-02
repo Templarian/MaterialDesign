@@ -9708,7 +9708,8 @@
         "name": "battery-sync-outline",
         "codepoint": "F1835",
         "aliases": [
-            "battery-saver-outline"
+            "battery-saver-outline",
+            "battery-eco-outline"
         ],
         "tags": [
             "Battery"
