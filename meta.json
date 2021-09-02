@@ -9692,7 +9692,9 @@
         "id": "A78E1E92-F129-4050-AA6F-B308D171A2DC",
         "name": "battery-sync",
         "codepoint": "F1834",
-        "aliases": [],
+        "aliases": [
+            "battery-saver"
+        ],
         "tags": [
             "Battery"
         ],
