@@ -277,7 +277,9 @@
         "name": "account-arrow-up",
         "codepoint": "F1867",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
