@@ -47134,6 +47134,15 @@
         "version": "4.3.95"
     },
     {
+        "id": "CE677999-FD3D-4120-A755-2EF579A82528",
+        "name": "monitor-small",
+        "codepoint": "F1876",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "0D49AB2B-17E4-43B8-B72E-05C4A11500F6",
         "name": "monitor-speaker",
         "codepoint": "F0F5F",
