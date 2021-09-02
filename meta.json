@@ -48688,6 +48688,15 @@
         "version": "2.4.85"
     },
     {
+        "id": "8D4D600F-56EB-488D-992A-24B393EE6D47",
+        "name": "multicast",
+        "codepoint": "F1893",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.2.95"
+    },
+    {
         "id": "489C9004-CF90-483E-83E3-CD40DD5B9ACF",
         "name": "multiplication",
         "codepoint": "F0382",
