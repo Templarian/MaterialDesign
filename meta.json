@@ -1836,7 +1836,9 @@
         "id": "792432E4-3913-4118-80E9-C8F348DEFBA4",
         "name": "airplane-marker",
         "codepoint": "F187F",
-        "aliases": [],
+        "aliases": [
+            "airplane-location"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
