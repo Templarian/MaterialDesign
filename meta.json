@@ -71506,7 +71506,9 @@
         "name": "water-opacity",
         "codepoint": "F1855",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
