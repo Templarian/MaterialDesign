@@ -71505,7 +71505,9 @@
         "id": "97D5ABBB-9410-4891-B06C-40121506BAEC",
         "name": "water-opacity",
         "codepoint": "F1855",
-        "aliases": [],
+        "aliases": [
+            "water-transparent"
+        ],
         "tags": [
             "Home Automation"
         ],
