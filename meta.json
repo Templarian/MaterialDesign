@@ -2523,7 +2523,8 @@
         "name": "all-inclusive-box-outline",
         "codepoint": "F188E",
         "aliases": [
-            "forever-box-outline"
+            "forever-box-outline",
+            "infinity-box-outline"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
