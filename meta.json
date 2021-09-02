@@ -67242,7 +67242,8 @@
         "name": "tooltip-cellphone",
         "codepoint": "F183B",
         "aliases": [
-            "cellphone-location"
+            "cellphone-location",
+            "cellphone-gps"
         ],
         "tags": [
             "Cellphone \/ Phone"
