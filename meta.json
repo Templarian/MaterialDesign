@@ -1797,7 +1797,9 @@
         "id": "BBFABE86-364F-44BA-861F-0EA4502F2E14",
         "name": "airplane-cog",
         "codepoint": "F187D",
-        "aliases": [],
+        "aliases": [
+            "airplane-settings"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
