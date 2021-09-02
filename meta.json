@@ -32937,7 +32937,9 @@
         "id": "71DB0C17-56B2-4664-9AD2-BF6EDB375D59",
         "name": "food-hot-dog",
         "codepoint": "F184B",
-        "aliases": [],
+        "aliases": [
+            "food-weiner"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
