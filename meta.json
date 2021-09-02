@@ -26409,6 +26409,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "3938606F-6B8D-45D2-A835-8F3A08E97CB1",
+        "name": "earbuds-off",
+        "codepoint": "F1850",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "0D1618BF-A3AD-4B4A-92EA-5DBF93BF7625",
         "name": "earth",
         "codepoint": "F01E7",
