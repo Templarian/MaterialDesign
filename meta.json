@@ -67128,6 +67128,15 @@
         "version": "3.5.94"
     },
     {
+        "id": "D3767EC9-5C06-42A0-B6BE-F5D2CF89FFD1",
+        "name": "thermometer-bluetooth",
+        "codepoint": "F1895",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "C888E2C1-306A-4BCB-821E-5B33AC93572D",
         "name": "thermometer-chevron-down",
         "codepoint": "F0E02",
