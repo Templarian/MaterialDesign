@@ -18644,7 +18644,9 @@
         "name": "circle-opacity",
         "codepoint": "F1853",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
