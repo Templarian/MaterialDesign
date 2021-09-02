@@ -15454,6 +15454,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "E0C3B158-D502-4354-94AC-994A48BD90FE",
+        "name": "car-wireless",
+        "codepoint": "F1878",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "34DABCA7-B5EF-42DD-9731-ABAA7F3DD322",
         "name": "car-wrench",
         "codepoint": "F1814",
