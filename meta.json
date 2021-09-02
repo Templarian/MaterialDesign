@@ -71510,7 +71510,8 @@
             "water-saver",
             "blood-saver",
             "blood-transparent",
-            "oil-saver"
+            "oil-saver",
+            "oil-transparent"
         ],
         "tags": [
             "Home Automation"
