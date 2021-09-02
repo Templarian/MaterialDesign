@@ -67822,7 +67822,9 @@
         "id": "5F99B55B-0B1C-4FD7-B9F6-DD35A16DBCF1",
         "name": "tire",
         "codepoint": "F1896",
-        "aliases": [],
+        "aliases": [
+            "tyre"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
