@@ -71849,7 +71849,9 @@
         "id": "9C20E25F-2499-4B5F-BC47-74DDA23F6DC3",
         "name": "waves-arrow-up",
         "codepoint": "F185B",
-        "aliases": [],
+        "aliases": [
+            "water-evaporation"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
