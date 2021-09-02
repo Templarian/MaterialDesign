@@ -54283,7 +54283,9 @@
         "name": "police-station",
         "codepoint": "F1839",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Places"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
