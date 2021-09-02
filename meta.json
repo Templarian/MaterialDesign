@@ -69768,7 +69768,9 @@
         "name": "vector-square-close",
         "codepoint": "F1857",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Vector"
+        ],
         "author": "Jeff Anders",
         "version": "6.2.95"
     },
