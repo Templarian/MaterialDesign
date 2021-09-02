@@ -1761,7 +1761,9 @@
         "name": "airplane-alert",
         "codepoint": "F187A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Flying"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
