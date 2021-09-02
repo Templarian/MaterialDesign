@@ -9707,7 +9707,9 @@
         "id": "5250464D-70A3-4BC2-8969-878E57526CDF",
         "name": "battery-sync-outline",
         "codepoint": "F1835",
-        "aliases": [],
+        "aliases": [
+            "battery-saver-outline"
+        ],
         "tags": [
             "Battery"
         ],
