@@ -43940,7 +43940,9 @@
         "name": "mace",
         "codepoint": "F1843",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
