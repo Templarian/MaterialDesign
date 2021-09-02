@@ -36207,6 +36207,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "8D20FB31-71AC-4697-899B-2156B6193F75",
+        "name": "glass-fragile",
+        "codepoint": "F1873",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "9081982B-5EB6-47C1-A1F3-A83A0ED1B609",
         "name": "glass-mug",
         "codepoint": "F02A6",
