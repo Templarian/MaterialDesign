@@ -1900,7 +1900,9 @@
         "name": "airplane-search",
         "codepoint": "F1883",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Flying"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
