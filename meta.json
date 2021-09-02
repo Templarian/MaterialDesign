@@ -13618,7 +13618,9 @@
         "name": "cabin-a-frame",
         "codepoint": "F188C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Jeff Anders",
         "version": "6.2.95"
     },
