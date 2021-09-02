@@ -39746,7 +39746,9 @@
         "name": "human-non-binary",
         "codepoint": "F1848",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "People \/ Family"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
