@@ -39746,7 +39746,8 @@
         "name": "human-non-binary",
         "codepoint": "F1848",
         "aliases": [
-            "human-genderless"
+            "human-genderless",
+            "human-transgender"
         ],
         "tags": [
             "People \/ Family"
