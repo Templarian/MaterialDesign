@@ -71645,7 +71645,9 @@
         "name": "waterfall",
         "codepoint": "F1849",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Teodor Sandu",
         "version": "6.2.95"
     },
