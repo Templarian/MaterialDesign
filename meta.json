@@ -26464,7 +26464,9 @@
         "name": "earbuds-off",
         "codepoint": "F1850",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Audio"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
