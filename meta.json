@@ -32980,7 +32980,9 @@
         "name": "food-takeout-box",
         "codepoint": "F1836",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Google",
         "version": "6.2.95"
     },
