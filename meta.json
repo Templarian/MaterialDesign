@@ -42713,6 +42713,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "D091B0C7-B40D-4F9B-836A-CCA680354ACE",
+        "name": "layers-edit",
+        "codepoint": "F1892",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.2.95"
+    },
+    {
         "id": "E72B7CB5-1A02-49C0-AC64-DF2559F026F1",
         "name": "layers-minus",
         "codepoint": "F0E4C",
