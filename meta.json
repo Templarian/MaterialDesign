@@ -71819,7 +71819,9 @@
         "id": "FC4A7A1E-A32E-432E-8EB3-79FFA3E012C1",
         "name": "waves-arrow-left",
         "codepoint": "F1859",
-        "aliases": [],
+        "aliases": [
+            "tide-in"
+        ],
         "tags": [
             "Nature",
             "Weather"
