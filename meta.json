@@ -19762,7 +19762,9 @@
         "name": "clock-plus-outline",
         "codepoint": "F1862",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Dylan Oli",
         "version": "6.2.95"
     },
