@@ -2510,7 +2510,9 @@
         "id": "C8E30B1A-135A-4B8A-900C-D93FE1699720",
         "name": "all-inclusive-box",
         "codepoint": "F188D",
-        "aliases": [],
+        "aliases": [
+            "infinity-box"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
