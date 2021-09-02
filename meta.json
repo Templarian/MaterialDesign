@@ -63183,7 +63183,9 @@
         "id": "6F9AA4F8-ECC6-495E-87C0-84DCE1327F4D",
         "name": "square-opacity",
         "codepoint": "F1854",
-        "aliases": [],
+        "aliases": [
+            "square-transparent"
+        ],
         "tags": [
             "Drawing \/ Art",
             "Shape"
