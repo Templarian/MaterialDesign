@@ -67823,7 +67823,8 @@
         "name": "tire",
         "codepoint": "F1896",
         "aliases": [
-            "tyre"
+            "tyre",
+            "wheel"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
