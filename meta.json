@@ -1785,7 +1785,9 @@
         "aliases": [
             "airplanne-schedule"
         ],
-        "tags": [],
+        "tags": [
+            "Transportation + Flying"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
