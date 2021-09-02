@@ -1862,6 +1862,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "7B89A30A-F211-4B69-9629-9148A539D41D",
+        "name": "airplane-settings",
+        "codepoint": "F1884",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "2B9BB7A1-A94B-4D24-8308-5599504317C2",
         "name": "airplane-takeoff",
         "codepoint": "F05D5",
