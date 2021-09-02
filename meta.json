@@ -69773,6 +69773,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "B2FDC7FE-A762-45BE-9405-77F41514BAED",
+        "name": "vector-square-open",
+        "codepoint": "F1858",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.2.95"
+    },
+    {
         "id": "CE6EAE27-922A-48B9-83AF-5C333B20724F",
         "name": "vector-triangle",
         "codepoint": "F0563",
