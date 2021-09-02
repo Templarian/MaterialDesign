@@ -14455,7 +14455,9 @@
         "name": "camera-document",
         "codepoint": "F1871",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Photography"
+        ],
         "author": "snis",
         "version": "6.2.95"
     },
