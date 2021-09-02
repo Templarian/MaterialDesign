@@ -199,6 +199,15 @@
         "version": "3.0.39"
     },
     {
+        "id": "785965F1-58C0-42F8-9433-9B6A3ACF1AE6",
+        "name": "account-arrow-down",
+        "codepoint": "F1868",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "34EAE057-F0E4-476A-B988-9BD149263BDF",
         "name": "account-arrow-left",
         "codepoint": "F0B51",
