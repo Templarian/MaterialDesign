@@ -15322,6 +15322,15 @@
         "version": "4.0.96"
     },
     {
+        "id": "611D7DCF-0792-430C-AB3E-27DB222A197D",
+        "name": "car-select",
+        "codepoint": "F1879",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.2.95"
+    },
+    {
         "id": "4ED4D6FD-9E30-4D99-9FD0-11B316BACB96",
         "name": "car-settings",
         "codepoint": "F13CD",
