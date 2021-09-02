@@ -67826,7 +67826,9 @@
             "tyre",
             "wheel"
         ],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
