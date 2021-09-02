@@ -43973,7 +43973,9 @@
         "name": "magic-staff",
         "codepoint": "F1844",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
