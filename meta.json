@@ -69669,7 +69669,9 @@
         "name": "umbrella-beach",
         "codepoint": "F188A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Weather"
+        ],
         "author": "Google",
         "version": "6.2.95"
     },
