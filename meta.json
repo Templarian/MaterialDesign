@@ -19510,6 +19510,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "F7112A68-9EE1-4B5E-AD2B-30013EA7053A",
+        "name": "clock-minus-outline",
+        "codepoint": "F1864",
+        "aliases": [],
+        "tags": [],
+        "author": "Dylan Oli",
+        "version": "6.2.95"
+    },
+    {
         "id": "7C3F10AF-CB56-4A35-B22A-C833D5C823A3",
         "name": "clock-out",
         "codepoint": "F0154",
