@@ -55899,6 +55899,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "1C482356-F93E-46FB-B4FF-6142BB859A7F",
+        "name": "radioactive-circle-outline",
+        "codepoint": "F185E",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Miday",
+        "version": "6.2.95"
+    },
+    {
         "id": "3AD51A23-9040-4D23-AE50-B28C6DFF82F6",
         "name": "radioactive-off",
         "codepoint": "F0EC1",
