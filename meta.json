@@ -27134,6 +27134,15 @@
         "version": "3.8.95"
     },
     {
+        "id": "3BDD7A0B-DA90-459E-8219-58EDC08661FE",
+        "name": "email-fast",
+        "codepoint": "F186F",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "04288F6D-7E3C-4BB6-8FDE-B8951C0D0BDF",
         "name": "email-lock",
         "codepoint": "F01F1",
