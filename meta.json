@@ -19536,6 +19536,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "DCE6FA3E-EEB6-4AB9-B4D7-60F71B92A489",
+        "name": "clock-plus-outline",
+        "codepoint": "F1862",
+        "aliases": [],
+        "tags": [],
+        "author": "Dylan Oli",
+        "version": "6.2.95"
+    },
+    {
         "id": "85A4435A-CDCF-42BC-8F2C-B46EDF8820BD",
         "name": "clock-start",
         "codepoint": "F0155",
