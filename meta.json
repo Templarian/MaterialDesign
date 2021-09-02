@@ -33871,6 +33871,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "894BF6B9-23A6-4C91-813C-9867E63DA5AD",
+        "name": "format-list-group",
+        "codepoint": "F1860",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "6.2.95"
+    },
+    {
         "id": "EFEB4AB3-780B-4C2D-B673-36BB0A4FE0B2",
         "name": "format-list-numbered",
         "codepoint": "F027B",
