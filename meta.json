@@ -37440,7 +37440,9 @@
         "id": "B990F624-1A91-424E-9AC0-08D95788FC9C",
         "name": "hammer-sickle",
         "codepoint": "F1887",
-        "aliases": [],
+        "aliases": [
+            "communism"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
