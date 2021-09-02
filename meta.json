@@ -1750,6 +1750,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "3771D65E-17FD-41E0-B8E7-D1136B28D672",
+        "name": "airplane-check",
+        "codepoint": "F187B",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "634EE7E8-8280-4CF1-B642-0921E740B6DB",
         "name": "airplane-landing",
         "codepoint": "F05D4",
