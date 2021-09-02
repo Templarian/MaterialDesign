@@ -23735,7 +23735,9 @@
         "id": "8C3A8BC3-9144-4D24-A41D-BBE2B557BF51",
         "name": "curtains",
         "codepoint": "F1846",
-        "aliases": [],
+        "aliases": [
+            "drapes"
+        ],
         "tags": [
             "Home Automation"
         ],
