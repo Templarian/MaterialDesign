@@ -1741,6 +1741,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "C0734996-651C-4CEE-A216-E1D03B2FA6F6",
+        "name": "airplane-alert",
+        "codepoint": "F187A",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "634EE7E8-8280-4CF1-B642-0921E740B6DB",
         "name": "airplane-landing",
         "codepoint": "F05D4",
@@ -1768,7 +1777,7 @@
         "tags": [
             "Transportation + Flying"
         ],
-        "author": "Google",
+        "author": "Colton Wiscombe",
         "version": "1.5.54"
     },
     {
