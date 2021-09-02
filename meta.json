@@ -6428,7 +6428,9 @@
         "name": "arrow-projectile",
         "codepoint": "F1840",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
