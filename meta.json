@@ -15595,7 +15595,9 @@
         "id": "E0C3B158-D502-4354-94AC-994A48BD90FE",
         "name": "car-wireless",
         "codepoint": "F1878",
-        "aliases": [],
+        "aliases": [
+            "car-autonomous"
+        ],
         "tags": [
             "Automotive"
         ],
