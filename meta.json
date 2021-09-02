@@ -19714,7 +19714,9 @@
         "name": "clock-minus-outline",
         "codepoint": "F1864",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Dylan Oli",
         "version": "6.2.95"
     },
