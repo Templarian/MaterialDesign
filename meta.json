@@ -7543,7 +7543,9 @@
         "name": "audio-input-stereo-minijack",
         "codepoint": "F186C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Audio"
+        ],
         "author": "GreenTurtwig",
         "version": "6.2.95"
     },
