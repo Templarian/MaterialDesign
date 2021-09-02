@@ -289,7 +289,9 @@
         "id": "A5BAE236-3B16-41B5-B779-435AD2A6DAEE",
         "name": "account-arrow-up-outline",
         "codepoint": "F186A",
-        "aliases": [],
+        "aliases": [
+            "account-upload-outline"
+        ],
         "tags": [
             "Account \/ User"
         ],
