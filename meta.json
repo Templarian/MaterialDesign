@@ -32991,7 +32991,9 @@
         "name": "food-takeout-box-outline",
         "codepoint": "F1837",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Google",
         "version": "6.2.95"
     },
