@@ -69307,7 +69307,9 @@
         "name": "truck-flatbed",
         "codepoint": "F1891",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
