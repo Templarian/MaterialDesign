@@ -34172,7 +34172,9 @@
         "name": "format-list-group",
         "codepoint": "F1860",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Austin Andrews",
         "version": "6.2.95"
     },
