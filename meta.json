@@ -9708,7 +9708,9 @@
         "name": "battery-sync-outline",
         "codepoint": "F1835",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Battery"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
