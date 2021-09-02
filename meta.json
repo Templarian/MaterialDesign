@@ -26463,7 +26463,9 @@
         "id": "3938606F-6B8D-45D2-A835-8F3A08E97CB1",
         "name": "earbuds-off",
         "codepoint": "F1850",
-        "aliases": [],
+        "aliases": [
+            "headphones-off"
+        ],
         "tags": [
             "Audio"
         ],
