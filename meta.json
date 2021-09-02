@@ -71095,7 +71095,9 @@
         "name": "view-gallery-outline",
         "codepoint": "F1889",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "View"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
