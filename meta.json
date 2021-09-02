@@ -68143,7 +68143,9 @@
         "aliases": [
             "school"
         ],
-        "tags": [],
+        "tags": [
+            "Places"
+        ],
         "author": "nilsfast",
         "version": "6.2.95"
     },
