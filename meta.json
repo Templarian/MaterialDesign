@@ -16079,7 +16079,8 @@
         "name": "cash-fast",
         "codepoint": "F185C",
         "aliases": [
-            "instant-deposit"
+            "instant-deposit",
+            "instant-transfer"
         ],
         "tags": [
             "Currency",
