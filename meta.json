@@ -37423,6 +37423,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "B990F624-1A91-424E-9AC0-08D95788FC9C",
+        "name": "hammer-sickle",
+        "codepoint": "F1887",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "86D5756B-DE86-4273-A475-4E2D9856B0C3",
         "name": "hammer-wrench",
         "codepoint": "F1323",
