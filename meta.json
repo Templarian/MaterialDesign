@@ -27318,7 +27318,8 @@
         "aliases": [
             "envelope-fast",
             "email-quick",
-            "email-sent"
+            "email-sent",
+            "email-send"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
