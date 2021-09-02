@@ -19751,7 +19751,9 @@
         "name": "clock-plus",
         "codepoint": "F1861",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
