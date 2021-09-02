@@ -16531,7 +16531,8 @@
         "aliases": [
             "cellphone-location",
             "cellphone-map",
-            "find-my-phone"
+            "find-my-phone",
+            "cellphone-gps"
         ],
         "tags": [
             "Cellphone \/ Phone"
