@@ -32180,7 +32180,9 @@
         "id": "24A80A28-E963-4E59-BA21-9D97C0434950",
         "name": "flower-pollen-outline",
         "codepoint": "F1886",
-        "aliases": [],
+        "aliases": [
+            "allergy-outline"
+        ],
         "tags": [
             "Nature"
         ],
