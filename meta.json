@@ -65196,7 +65196,9 @@
         "name": "table-pivot",
         "codepoint": "F183C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Teodor Sandu",
         "version": "6.2.95"
     },
