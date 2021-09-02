@@ -26571,6 +26571,15 @@
         "version": "2.7.94"
     },
     {
+        "id": "F7C1B0EE-A1E2-4376-BFB2-C0EEAF251B2C",
+        "name": "egg-fried",
+        "codepoint": "F184A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "AF15DB15-3F15-4D7B-9EBA-EFA8E0735D30",
         "name": "egg-off",
         "codepoint": "F13F0",
