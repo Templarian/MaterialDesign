@@ -32152,6 +32152,15 @@
         "version": "2.5.94"
     },
     {
+        "id": "00031D77-25BC-41B3-A6A3-F83EF92743A5",
+        "name": "flower-pollen",
+        "codepoint": "F1885",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "9C310133-C0AC-4456-B8A0-9ED17F2C08BA",
         "name": "flower-poppy",
         "codepoint": "F0D08",
