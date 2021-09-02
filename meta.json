@@ -16075,6 +16075,15 @@
         "version": "5.4.55"
     },
     {
+        "id": "A10E9739-AA80-4671-B744-ECB9934BB7E4",
+        "name": "cash-fast",
+        "codepoint": "F185C",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.2.95"
+    },
+    {
         "id": "03BA1D57-6374-41F7-A781-C0615B91178B",
         "name": "cash-lock",
         "codepoint": "F14EA",
