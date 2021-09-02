@@ -9694,7 +9694,8 @@
         "codepoint": "F1834",
         "aliases": [
             "battery-saver",
-            "battery-recycle"
+            "battery-recycle",
+            "battery-eco"
         ],
         "tags": [
             "Battery"
