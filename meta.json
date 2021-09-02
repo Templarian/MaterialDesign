@@ -67776,6 +67776,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "5F99B55B-0B1C-4FD7-B9F6-DD35A16DBCF1",
+        "name": "tire",
+        "codepoint": "F1896",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "5042FF4E-78E5-43D5-B992-1AAEAE51AB25",
         "name": "toaster",
         "codepoint": "F1063",
