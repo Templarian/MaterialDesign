@@ -68746,7 +68746,9 @@
         "name": "tunnel-outline",
         "codepoint": "F183E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
