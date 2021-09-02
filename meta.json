@@ -39745,7 +39745,9 @@
         "id": "0993FCF5-5C89-4F54-ABFC-310CDF2AED15",
         "name": "human-non-binary",
         "codepoint": "F1848",
-        "aliases": [],
+        "aliases": [
+            "human-genderless"
+        ],
         "tags": [
             "People \/ Family"
         ],
