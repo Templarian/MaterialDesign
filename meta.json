@@ -1782,9 +1782,7 @@
         "id": "8C33AFFF-209E-41AC-A403-B1A46B321917",
         "name": "airplane-clock",
         "codepoint": "F187C",
-        "aliases": [
-            "airplanne-schedule"
-        ],
+        "aliases": [],
         "tags": [
             "Transportation + Flying"
         ],
