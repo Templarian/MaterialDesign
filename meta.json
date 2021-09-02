@@ -32851,6 +32851,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "71DB0C17-56B2-4664-9AD2-BF6EDB375D59",
+        "name": "food-hot-dog",
+        "codepoint": "F184B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "BC887CBF-E298-4E05-8C7D-B13539C4BA15",
         "name": "food-kosher",
         "codepoint": "F1573",
