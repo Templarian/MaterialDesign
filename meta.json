@@ -40557,7 +40557,9 @@
         "id": "9B626C0C-73AD-4209-BEB6-70AE9BA4D1FF",
         "name": "induction",
         "codepoint": "F184C",
-        "aliases": [],
+        "aliases": [
+            "ignition"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
