@@ -16528,7 +16528,9 @@
         "id": "487DEBB1-A270-44B5-A2B9-D7E11F32C0CC",
         "name": "cellphone-marker",
         "codepoint": "F183A",
-        "aliases": [],
+        "aliases": [
+            "cellphone-location"
+        ],
         "tags": [
             "Cellphone \/ Phone"
         ],
