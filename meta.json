@@ -1777,6 +1777,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "7B7C1A74-3C6D-4CF8-8F29-62F99BD9AC24",
+        "name": "airplane-edit",
+        "codepoint": "F187E",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "634EE7E8-8280-4CF1-B642-0921E740B6DB",
         "name": "airplane-landing",
         "codepoint": "F05D4",
