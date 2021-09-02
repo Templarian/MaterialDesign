@@ -203,7 +203,9 @@
         "name": "account-arrow-down",
         "codepoint": "F1868",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
