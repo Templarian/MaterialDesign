@@ -39684,7 +39684,9 @@
         "name": "horse-variant-fast",
         "codepoint": "F186E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Animal"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
