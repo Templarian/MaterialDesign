@@ -26450,7 +26450,9 @@
         "id": "F809C249-6B8A-4A3E-B945-7EA3D0F71AB0",
         "name": "earbuds",
         "codepoint": "F184F",
-        "aliases": [],
+        "aliases": [
+            "headphones"
+        ],
         "tags": [
             "Audio"
         ],
