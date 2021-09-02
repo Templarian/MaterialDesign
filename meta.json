@@ -62817,7 +62817,9 @@
         "id": "B8B83A21-D267-47BD-868F-BECB081CEC1C",
         "name": "spear",
         "codepoint": "F1845",
-        "aliases": [],
+        "aliases": [
+            "staff"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
