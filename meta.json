@@ -26476,7 +26476,9 @@
         "id": "E9DB591B-AB1E-4C5B-9596-63EA899D54AF",
         "name": "earbuds-off-outline",
         "codepoint": "F1851",
-        "aliases": [],
+        "aliases": [
+            "headphones-off-outline"
+        ],
         "tags": [
             "Audio"
         ],
