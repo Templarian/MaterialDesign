@@ -55900,7 +55900,9 @@
         "id": "DBCBBE8F-7DFA-4C05-8A2C-8BDE851A0322",
         "name": "radioactive-circle",
         "codepoint": "F185D",
-        "aliases": [],
+        "aliases": [
+            "radiation-circle"
+        ],
         "tags": [
             "Science"
         ],
