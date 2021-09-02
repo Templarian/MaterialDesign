@@ -40429,6 +40429,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "B1407DA8-3E25-4878-A31F-34112A2D586B",
+        "name": "hydrogen-station",
+        "codepoint": "F1894",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.2.95"
+    },
+    {
         "id": "C8D5186F-BF39-40DA-9F7A-747DB166EABD",
         "name": "ice-cream",
         "codepoint": "F082A",
