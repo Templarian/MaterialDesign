@@ -19563,6 +19563,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "6B8FD378-5837-45BF-A5A6-B94C37641451",
+        "name": "clock-remove",
+        "codepoint": "F1865",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "85A4435A-CDCF-42BC-8F2C-B46EDF8820BD",
         "name": "clock-start",
         "codepoint": "F0155",
