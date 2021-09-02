@@ -18643,7 +18643,9 @@
         "id": "912F4CEF-F852-49C4-B9BB-A6504988C11E",
         "name": "circle-opacity",
         "codepoint": "F1853",
-        "aliases": [],
+        "aliases": [
+            "circle-transparent"
+        ],
         "tags": [
             "Shape",
             "Drawing \/ Art"
