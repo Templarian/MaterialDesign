@@ -9693,7 +9693,8 @@
         "name": "battery-sync",
         "codepoint": "F1834",
         "aliases": [
-            "battery-saver"
+            "battery-saver",
+            "battery-recycle"
         ],
         "tags": [
             "Battery"
