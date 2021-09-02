@@ -33603,7 +33603,9 @@
         "name": "forest",
         "codepoint": "F1897",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Nature"
+        ],
         "author": "Google",
         "version": "6.2.95"
     },
