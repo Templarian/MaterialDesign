@@ -43972,7 +43972,9 @@
         "id": "A7255F1C-0207-4202-B1E5-11DC2BED7161",
         "name": "magic-staff",
         "codepoint": "F1844",
-        "aliases": [],
+        "aliases": [
+            "staff-shimmer"
+        ],
         "tags": [
             "Gaming \/ RPG"
         ],
