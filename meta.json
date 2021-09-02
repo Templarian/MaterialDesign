@@ -7431,6 +7431,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "030EBE1B-EB48-4332-9E3D-BA6EF9C0AF79",
+        "name": "audio-input-xlr",
+        "codepoint": "F186D",
+        "aliases": [],
+        "tags": [],
+        "author": "GreenTurtwig",
+        "version": "6.2.95"
+    },
+    {
         "id": "79CBF0E5-365C-466B-B162-2EBD1531F182",
         "name": "audio-video",
         "codepoint": "F093D",
