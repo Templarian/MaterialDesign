@@ -71834,7 +71834,9 @@
         "id": "69DDD960-779E-4BD9-9B96-B73ED9CAF55D",
         "name": "waves-arrow-right",
         "codepoint": "F185A",
-        "aliases": [],
+        "aliases": [
+            "tide-out"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
