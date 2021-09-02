@@ -16529,7 +16529,9 @@
         "name": "cellphone-marker",
         "codepoint": "F183A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
