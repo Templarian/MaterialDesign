@@ -67242,7 +67242,9 @@
         "name": "tooltip-cellphone",
         "codepoint": "F183B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
