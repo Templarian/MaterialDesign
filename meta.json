@@ -18610,6 +18610,15 @@
         "version": "4.3.95"
     },
     {
+        "id": "912F4CEF-F852-49C4-B9BB-A6504988C11E",
+        "name": "circle-opacity",
+        "codepoint": "F1853",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.2.95"
+    },
+    {
         "id": "00E1BEF8-DD84-4DCE-BE3C-8AA411DCE5FD",
         "name": "circle-outline",
         "codepoint": "F0766",
