@@ -55914,7 +55914,9 @@
         "name": "radioactive-circle-outline",
         "codepoint": "F185E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Michael Miday",
         "version": "6.2.95"
     },
