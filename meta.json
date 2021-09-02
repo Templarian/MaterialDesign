@@ -2513,6 +2513,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "C3D587B3-D1F0-4C6F-9E4F-5FEE39AFFE33",
+        "name": "all-inclusive-box-outline",
+        "codepoint": "F188E",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "76B6381F-14CA-4453-8B28-184C508D003B",
         "name": "allergy",
         "codepoint": "F1258",
