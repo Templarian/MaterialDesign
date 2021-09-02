@@ -27332,7 +27332,8 @@
         "aliases": [
             "email-send-outline",
             "email-sent-outline",
-            "envelope-fast-outline"
+            "envelope-fast-outline",
+            "email-quick-outline"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
