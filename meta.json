@@ -42756,7 +42756,9 @@
         "name": "layers-edit",
         "codepoint": "F1892",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Geographic Information System"
+        ],
         "author": "Contributors",
         "version": "6.2.95"
     },
