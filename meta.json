@@ -40463,7 +40463,9 @@
         "name": "hydrogen-station",
         "codepoint": "F1894",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Contributors",
         "version": "6.2.95"
     },
