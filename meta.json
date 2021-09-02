@@ -37662,6 +37662,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "11B36B9E-D054-4A10-996E-62F897EF12C7",
+        "name": "hand-coin-outline",
+        "codepoint": "F1890",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.2.95"
+    },
+    {
         "id": "9A2B8032-A5D9-4E2A-8865-511EFE742611",
         "name": "hand-front-left",
         "codepoint": "F182B",
