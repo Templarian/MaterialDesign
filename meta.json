@@ -32181,7 +32181,9 @@
         "name": "flower-pollen-outline",
         "codepoint": "F1886",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Nature"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
