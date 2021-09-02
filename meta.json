@@ -13596,6 +13596,15 @@
         "version": "5.5.55"
     },
     {
+        "id": "5243C745-48FC-4DE9-83F8-138464C7D0D8",
+        "name": "cabin-a-frame",
+        "codepoint": "F188C",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.2.95"
+    },
+    {
         "id": "1D18C000-0A31-4A28-BA96-B47103D727DD",
         "name": "cable-data",
         "codepoint": "F1394",
