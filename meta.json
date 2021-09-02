@@ -32938,7 +32938,9 @@
         "name": "food-hot-dog",
         "codepoint": "F184B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
     },
