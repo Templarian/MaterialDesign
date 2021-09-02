@@ -70954,6 +70954,15 @@
         "version": "5.3.45"
     },
     {
+        "id": "39D66F7E-C38A-4CDC-9A50-6C4A60F70B82",
+        "name": "view-gallery",
+        "codepoint": "F1888",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.2.95"
+    },
+    {
         "id": "E788F50B-B654-4AEC-ACD7-6E9F5AE8B789",
         "name": "view-grid",
         "codepoint": "F0570",
