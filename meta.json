@@ -7422,6 +7422,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "45243722-DE4F-4339-878C-4990A62A1990",
+        "name": "audio-input-stereo-minijack",
+        "codepoint": "F186C",
+        "aliases": [],
+        "tags": [],
+        "author": "GreenTurtwig",
+        "version": "6.2.95"
+    },
+    {
         "id": "79CBF0E5-365C-466B-B162-2EBD1531F182",
         "name": "audio-video",
         "codepoint": "F093D",
