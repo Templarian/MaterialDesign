@@ -55901,7 +55901,9 @@
         "name": "radioactive-circle",
         "codepoint": "F185D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Michael Miday",
         "version": "6.2.95"
     },
