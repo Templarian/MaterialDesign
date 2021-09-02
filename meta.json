@@ -23749,7 +23749,9 @@
         "name": "curtains-closed",
         "codepoint": "F1847",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Teodor Sandu",
         "version": "6.2.95"
     },
