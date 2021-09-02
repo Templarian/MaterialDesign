@@ -48735,7 +48735,8 @@
         "name": "multicast",
         "codepoint": "F1893",
         "aliases": [
-            "multiplex"
+            "multiplex",
+            "broadcast"
         ],
         "tags": [],
         "author": "Simran",
