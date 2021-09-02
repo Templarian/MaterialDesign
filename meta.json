@@ -71084,7 +71084,9 @@
         "name": "view-gallery",
         "codepoint": "F1888",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "View"
+        ],
         "author": "Contributors",
         "version": "6.2.95"
     },
