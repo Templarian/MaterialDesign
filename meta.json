@@ -290,7 +290,9 @@
         "name": "account-arrow-up-outline",
         "codepoint": "F186A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
