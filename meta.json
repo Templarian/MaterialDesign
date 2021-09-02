@@ -16078,7 +16078,9 @@
         "id": "A10E9739-AA80-4671-B744-ECB9934BB7E4",
         "name": "cash-fast",
         "codepoint": "F185C",
-        "aliases": [],
+        "aliases": [
+            "instant-deposit"
+        ],
         "tags": [
             "Currency",
             "Banking"
