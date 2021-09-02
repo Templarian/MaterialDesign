@@ -26418,6 +26418,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "E9DB591B-AB1E-4C5B-9596-63EA899D54AF",
+        "name": "earbuds-off-outline",
+        "codepoint": "F1851",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.2.95"
+    },
+    {
         "id": "0D1618BF-A3AD-4B4A-92EA-5DBF93BF7625",
         "name": "earth",
         "codepoint": "F01E7",
