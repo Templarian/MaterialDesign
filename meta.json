@@ -55920,6 +55920,17 @@
         "version": "4.5.95"
     },
     {
+        "id": "EB4E1E2E-C462-43D0-8D25-4853F62A5397",
+        "name": "printer-3d-nozzle-heat",
+        "codepoint": "F18B8",
+        "aliases": [],
+        "tags": [
+            "Printer"
+        ],
+        "author": "Contributors",
+        "version": "6.3.95"
+    },
+    {
         "id": "7B1B16E0-AB42-490D-8D84-62B9AA0AB4BD",
         "name": "printer-3d-nozzle-outline",
         "codepoint": "F0E5C",
