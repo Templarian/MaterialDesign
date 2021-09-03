@@ -64783,7 +64783,9 @@
         "name": "store-minus",
         "codepoint": "F165E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Places"
+        ],
         "author": "Contributors",
         "version": "5.7.55"
     },
