@@ -64825,7 +64825,9 @@
         "id": "FB5C0EA4-DAA2-4415-856F-2A4E6FA78BA5",
         "name": "store-remove",
         "codepoint": "F1660",
-        "aliases": [],
+        "aliases": [
+            "shop-remove"
+        ],
         "tags": [],
         "author": "Contributors",
         "version": "5.7.55"
