@@ -38045,6 +38045,18 @@
         "version": "6.2.95"
     },
     {
+        "id": "94B9D1E7-C84C-413B-B999-92BD6508D013",
+        "name": "hand-extended",
+        "codepoint": "F18B6",
+        "aliases": [
+            "hand-open",
+            "hand-palm"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "9A2B8032-A5D9-4E2A-8865-511EFE742611",
         "name": "hand-front-left",
         "codepoint": "F182B",
