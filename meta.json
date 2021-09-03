@@ -16295,6 +16295,17 @@
         "version": "6.3.95"
     },
     {
+        "id": "AF3E53EC-69B3-470E-820E-F106CF69D453",
+        "name": "cards-playing-diamond",
+        "codepoint": "F18A6",
+        "aliases": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
+        "author": "GreenTurtwig",
+        "version": "6.3.95"
+    },
+    {
         "id": "C388C342-49AA-4577-A968-12BD804E5A8E",
         "name": "cards-playing-outline",
         "codepoint": "F063A",
