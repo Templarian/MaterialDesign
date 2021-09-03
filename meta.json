@@ -65473,6 +65473,20 @@
         "version": "6.3.95"
     },
     {
+        "id": "93E71904-C645-4682-B4C9-B61124B5C468",
+        "name": "store-off",
+        "codepoint": "F18CE",
+        "aliases": [
+            "shop-off"
+        ],
+        "tags": [
+            "Places",
+            "Shopping"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.3.95"
+    },
+    {
         "id": "6BF9FB77-DF50-40B5-9A93-43E2A22E8633",
         "name": "store-outline",
         "codepoint": "F1361",
