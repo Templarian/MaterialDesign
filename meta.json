@@ -61065,6 +61065,19 @@
         "version": "3.2.89"
     },
     {
+        "id": "E251CF58-8A10-4069-AB6C-CF9DD2383335",
+        "name": "shield-crown",
+        "codepoint": "F18BC",
+        "aliases": [
+            "administrator"
+        ],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
+        "author": "Michael Miday",
+        "version": "6.3.95"
+    },
+    {
         "id": "8CF352CF-2ED0-4DFB-ADCF-AD77FDA6DD25",
         "name": "shield-edit",
         "codepoint": "F11A0",
