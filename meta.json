@@ -74887,7 +74887,8 @@
         "aliases": [
             "wiper-fluid-alert",
             "washer-fluid-alert",
-            "wiper-fluid-low"
+            "wiper-fluid-low",
+            "washer-fluid-low"
         ],
         "tags": [
             "Alert \/ Error",
