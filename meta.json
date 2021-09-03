@@ -16416,6 +16416,17 @@
         "version": "6.3.95"
     },
     {
+        "id": "FECC9B9C-2115-4613-926B-C22A16ABCFE8",
+        "name": "cards-playing-spade-multiple-outline",
+        "codepoint": "F18B0",
+        "aliases": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
+        "author": "GreenTurtwig",
+        "version": "6.3.95"
+    },
+    {
         "id": "B2DEB97A-B08E-4E10-8E24-A4AF2CF98C74",
         "name": "cards-spade",
         "codepoint": "F08D1",
