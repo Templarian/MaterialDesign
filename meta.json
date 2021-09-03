@@ -16240,6 +16240,17 @@
         "version": "1.6.50"
     },
     {
+        "id": "F3847846-75CC-462A-A4E7-74A2AF93AC5A",
+        "name": "cards-playing",
+        "codepoint": "F18A1",
+        "aliases": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "C388C342-49AA-4577-A968-12BD804E5A8E",
         "name": "cards-playing-outline",
         "codepoint": "F063A",
