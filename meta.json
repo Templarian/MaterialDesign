@@ -16339,6 +16339,17 @@
         "version": "6.3.95"
     },
     {
+        "id": "638C8BA0-9D3F-46FF-98F2-2A732D4116F4",
+        "name": "cards-playing-heart",
+        "codepoint": "F18AA",
+        "aliases": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
+        "author": "GreenTurtwig",
+        "version": "6.3.95"
+    },
+    {
         "id": "C388C342-49AA-4577-A968-12BD804E5A8E",
         "name": "cards-playing-outline",
         "codepoint": "F063A",
