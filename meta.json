@@ -64811,7 +64811,9 @@
         "id": "00DB5451-A5BF-4F9C-AC74-041916EACCB6",
         "name": "store-plus",
         "codepoint": "F165F",
-        "aliases": [],
+        "aliases": [
+            "shop-plus"
+        ],
         "tags": [],
         "author": "Contributors",
         "version": "5.7.55"
