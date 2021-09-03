@@ -65871,6 +65871,15 @@
         "version": "6.1.95"
     },
     {
+        "id": "A915898D-3218-4A0E-9732-CEB0701DADA1",
+        "name": "sun-thermometer",
+        "codepoint": "F18D6",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "1A5DE4DC-5B3B-4378-ADB2-5D51AA64896D",
         "name": "sun-wireless",
         "codepoint": "F17FE",
