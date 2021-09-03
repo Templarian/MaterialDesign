@@ -17001,6 +17001,15 @@
         "version": "6.3.95"
     },
     {
+        "id": "11968A7F-D159-497F-9D97-A25CACD6AE8D",
+        "name": "ceiling-light-multiple-outline",
+        "codepoint": "F18DE",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "DD107169-7A9D-452F-8DE9-2736B6FB7851",
         "name": "ceiling-light-outline",
         "codepoint": "F17C7",
