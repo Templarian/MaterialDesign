@@ -16452,6 +16452,17 @@
         "version": "2.3.50"
     },
     {
+        "id": "2A12FA98-57B3-43FC-A927-384419B791EF",
+        "name": "cards-spade-outline",
+        "codepoint": "F18B2",
+        "aliases": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "A000BD20-147F-43FB-AD99-08AE6BA2E80B",
         "name": "cards-variant",
         "codepoint": "F06C7",
