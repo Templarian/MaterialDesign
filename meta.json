@@ -16251,6 +16251,17 @@
         "version": "6.3.95"
     },
     {
+        "id": "CCBA1AB3-8133-4FB0-BB19-DE8D42AD1ADD",
+        "name": "cards-playing-club",
+        "codepoint": "F18A2",
+        "aliases": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
+        "author": "GreenTurtwig",
+        "version": "6.3.95"
+    },
+    {
         "id": "C388C342-49AA-4577-A968-12BD804E5A8E",
         "name": "cards-playing-outline",
         "codepoint": "F063A",
