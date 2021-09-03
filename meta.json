@@ -64814,7 +64814,9 @@
         "aliases": [
             "shop-plus"
         ],
-        "tags": [],
+        "tags": [
+            "Places"
+        ],
         "author": "Contributors",
         "version": "5.7.55"
     },
