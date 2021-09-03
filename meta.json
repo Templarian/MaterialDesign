@@ -71390,6 +71390,19 @@
         "version": "6.2.95"
     },
     {
+        "id": "9373C6A3-8FDD-499A-97EB-34855A15C937",
+        "name": "vector-square-plus",
+        "codepoint": "F18DB",
+        "aliases": [
+            "vector-square-add"
+        ],
+        "tags": [
+            "Vector"
+        ],
+        "author": "Andrea Antonello",
+        "version": "6.3.95"
+    },
+    {
         "id": "CE6EAE27-922A-48B9-83AF-5C333B20724F",
         "name": "vector-triangle",
         "codepoint": "F0563",
