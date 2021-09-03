@@ -65880,6 +65880,21 @@
         "version": "6.3.95"
     },
     {
+        "id": "A92400D5-89B6-46B0-9D55-4980BE45C51D",
+        "name": "sun-thermometer-outline",
+        "codepoint": "F18D7",
+        "aliases": [
+            "external-temperature",
+            "outside-temperature"
+        ],
+        "tags": [
+            "Home Automation",
+            "Weather"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "1A5DE4DC-5B3B-4378-ADB2-5D51AA64896D",
         "name": "sun-wireless",
         "codepoint": "F17FE",
