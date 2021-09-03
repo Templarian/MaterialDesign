@@ -61396,6 +61396,19 @@
         "version": "4.1.95"
     },
     {
+        "id": "614C104E-8424-4D0B-AAFB-3D35CCBDF291",
+        "name": "shield-sword",
+        "codepoint": "F18BE",
+        "aliases": [
+            "moderator"
+        ],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
+        "author": "Michael Miday",
+        "version": "6.3.95"
+    },
+    {
         "id": "AE87ED6F-DF56-449E-A3EF-D010AB6F4D17",
         "name": "shield-sync",
         "codepoint": "F11A2",
