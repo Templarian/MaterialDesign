@@ -65334,6 +65334,26 @@
         "version": "6.3.95"
     },
     {
+        "id": "78BFCE81-D4A5-48E9-812D-82417EE9CDC9",
+        "name": "store-clock-outline",
+        "codepoint": "F18C6",
+        "aliases": [
+            "shop-clock-outline",
+            "store-hours-outline",
+            "shop-hours-outline",
+            "store-time-outline",
+            "shop-time-outline",
+            "store-schedule-outline",
+            "shop-schedule-outline"
+        ],
+        "tags": [
+            "Places",
+            "Shopping"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.3.95"
+    },
+    {
         "id": "D52803B6-8580-4C06-AA9F-96B4748286DB",
         "name": "store-minus",
         "codepoint": "F165E",
