@@ -71366,6 +71366,19 @@
         "version": "6.3.95"
     },
     {
+        "id": "5B415AB4-7F0B-458F-8CB5-CA456D6A48A5",
+        "name": "vector-square-minus",
+        "codepoint": "F18DA",
+        "aliases": [
+            "vector-square-subtract"
+        ],
+        "tags": [
+            "Vector"
+        ],
+        "author": "Andrea Antonello",
+        "version": "6.3.95"
+    },
+    {
         "id": "B2FDC7FE-A762-45BE-9405-77F41514BAED",
         "name": "vector-square-open",
         "codepoint": "F1858",
