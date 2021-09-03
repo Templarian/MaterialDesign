@@ -74884,7 +74884,9 @@
         "id": "0BC113C0-8EC6-479E-86B6-A8F88C6B0371",
         "name": "wiper-wash-alert",
         "codepoint": "F18DF",
-        "aliases": [],
+        "aliases": [
+            "wiper-fluid-alert"
+        ],
         "tags": [
             "Alert \/ Error",
             "Automotive"
