@@ -61705,6 +61705,17 @@
         "version": "4.9.95"
     },
     {
+        "id": "AEA5AABF-3305-44A8-9E85-67F2351CB2E6",
+        "name": "sickle",
+        "codepoint": "F18C0",
+        "aliases": [],
+        "tags": [
+            "Hardware \/ Tools"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "59A98F47-9067-492A-8454-42BEFA2391C1",
         "name": "sigma",
         "codepoint": "F04A0",
