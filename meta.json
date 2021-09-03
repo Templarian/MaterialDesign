@@ -26518,6 +26518,19 @@
         "version": "3.7.94"
     },
     {
+        "id": "578351FA-0F35-41B0-BC7C-A9B33EBEBC4D",
+        "name": "dolphin",
+        "codepoint": "F18B4",
+        "aliases": [
+            "porpoise"
+        ],
+        "tags": [
+            "Animal"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.3.95"
+    },
+    {
         "id": "CA264BA4-62A9-4823-A172-22DD413A6CF5",
         "name": "domain",
         "codepoint": "F01D7",
