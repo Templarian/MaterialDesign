@@ -60788,6 +60788,19 @@
         "version": "5.4.55"
     },
     {
+        "id": "4D7D5865-0AEE-40A3-9015-86661A60DA8C",
+        "name": "shark",
+        "codepoint": "F18BA",
+        "aliases": [
+            "jaws"
+        ],
+        "tags": [
+            "Animal"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.3.95"
+    },
+    {
         "id": "7A618386-2E3E-4B23-BF63-184B76C9CF61",
         "name": "shark-fin",
         "codepoint": "F1673",
