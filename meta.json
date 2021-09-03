@@ -16163,6 +16163,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "6F2A121B-8E9C-43C3-8566-5AA696997778",
+        "name": "cards-club-outline",
+        "codepoint": "F189F",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "0934FB0D-8585-4064-989F-054E52D16FDB",
         "name": "cards-diamond",
         "codepoint": "F08CF",
