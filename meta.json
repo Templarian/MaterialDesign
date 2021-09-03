@@ -1647,6 +1647,19 @@
         "version": "3.7.95"
     },
     {
+        "id": "C3712CBF-1E1C-4794-95B1-F77380FCEB7C",
+        "name": "account-wrench",
+        "codepoint": "F189A",
+        "aliases": [
+            "account-service"
+        ],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "3334E19F-962D-45B4-BE11-F009E1192165",
         "name": "adjust",
         "codepoint": "F001A",
