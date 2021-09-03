@@ -64826,7 +64826,8 @@
         "name": "store-remove",
         "codepoint": "F1660",
         "aliases": [
-            "shop-remove"
+            "shop-remove",
+            "store-delete"
         ],
         "tags": [],
         "author": "Contributors",
