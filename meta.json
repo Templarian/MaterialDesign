@@ -35613,6 +35613,19 @@
         "version": "2.0.46"
     },
     {
+        "id": "AF7C2BB9-3C7B-4309-89BD-58158E0CDF2A",
+        "name": "fuel-cell",
+        "codepoint": "F18B5",
+        "aliases": [
+            "battery"
+        ],
+        "tags": [
+            "Automotive"
+        ],
+        "author": "Contributors",
+        "version": "6.3.95"
+    },
+    {
         "id": "A4F7E2E4-704C-4A71-99D5-4BD19AD8E755",
         "name": "fullscreen",
         "codepoint": "F0293",
