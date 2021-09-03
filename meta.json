@@ -10806,6 +10806,19 @@
         "version": "4.6.95"
     },
     {
+        "id": "63EFAAFD-2EB5-4600-930D-33CEDDC182A5",
+        "name": "bicycle-cargo",
+        "codepoint": "F189C",
+        "aliases": [
+            "bike-cargo"
+        ],
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Teodor Sandu",
+        "version": "6.3.95"
+    },
+    {
         "id": "3923C397-5A00-472A-8FDC-FBBAAF3FA323",
         "name": "bicycle-electric",
         "codepoint": "F15B4",
