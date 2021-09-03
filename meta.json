@@ -70106,6 +70106,19 @@
         "version": "1.5.54"
     },
     {
+        "id": "8C535C82-EAA1-431A-90AE-D0A5032024EB",
+        "name": "truck-cargo-container",
+        "codepoint": "F18D8",
+        "aliases": [
+            "truck-shipping"
+        ],
+        "tags": [
+            "Transportation + Road"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.3.95"
+    },
+    {
         "id": "39C645BD-15AE-42BE-B571-5744CB77E97D",
         "name": "truck-check",
         "codepoint": "F0CD4",
