@@ -16220,6 +16220,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "BA1E8534-7828-4FE0-A0D3-E016FA76CE8C",
+        "name": "cards-heart-outline",
+        "codepoint": "F18A0",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "BB07EFB4-5078-47BA-B441-93D4957AF7F9",
         "name": "cards-outline",
         "codepoint": "F0639",
