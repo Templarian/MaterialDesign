@@ -74881,6 +74881,15 @@
         "version": "3.4.93"
     },
     {
+        "id": "0BC113C0-8EC6-479E-86B6-A8F88C6B0371",
+        "name": "wiper-wash-alert",
+        "codepoint": "F18DF",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "464D9AC5-8A79-4E35-89E3-D84DDC0056A3",
         "name": "wizard-hat",
         "codepoint": "F1477",
