@@ -16394,6 +16394,17 @@
         "version": "1.6.50"
     },
     {
+        "id": "E3254FE1-D955-4E3D-AD8E-385E5F307BA1",
+        "name": "cards-playing-spade",
+        "codepoint": "F18AE",
+        "aliases": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
+        "author": "GreenTurtwig",
+        "version": "6.3.95"
+    },
+    {
         "id": "B2DEB97A-B08E-4E10-8E24-A4AF2CF98C74",
         "name": "cards-spade",
         "codepoint": "F08D1",
