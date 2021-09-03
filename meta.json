@@ -65385,6 +65385,20 @@
         "version": "6.3.95"
     },
     {
+        "id": "738C22C4-6605-437A-821A-10CF8E151422",
+        "name": "store-edit",
+        "codepoint": "F18C9",
+        "aliases": [
+            "shop-edit"
+        ],
+        "tags": [
+            "Places",
+            "Shopping"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.3.95"
+    },
+    {
         "id": "D52803B6-8580-4C06-AA9F-96B4748286DB",
         "name": "store-minus",
         "codepoint": "F165E",
