@@ -60823,6 +60823,19 @@
         "version": "5.7.55"
     },
     {
+        "id": "4CF1A54B-034F-4AB6-A3B2-6ED16E550261",
+        "name": "shark-off",
+        "codepoint": "F18BB",
+        "aliases": [
+            "jaws-off"
+        ],
+        "tags": [
+            "Animal"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.3.95"
+    },
+    {
         "id": "DEA01DF4-6FBD-45B7-AC58-CBF70545FBBA",
         "name": "sheep",
         "codepoint": "F0CC6",
