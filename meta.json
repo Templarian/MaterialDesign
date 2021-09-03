@@ -64782,7 +64782,9 @@
         "id": "D52803B6-8580-4C06-AA9F-96B4748286DB",
         "name": "store-minus",
         "codepoint": "F165E",
-        "aliases": [],
+        "aliases": [
+            "shop-minus"
+        ],
         "tags": [
             "Places",
             "Shopping"
