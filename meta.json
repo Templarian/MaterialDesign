@@ -74885,7 +74885,9 @@
         "name": "wiper-wash-alert",
         "codepoint": "F18DF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
     },
