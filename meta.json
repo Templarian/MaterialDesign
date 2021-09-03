@@ -14047,6 +14047,17 @@
         "version": "5.7.55"
     },
     {
+        "id": "61805380-C5C2-4A69-A0BC-356A642F7188",
+        "name": "calendar-expand-horizontal",
+        "codepoint": "F189E",
+        "aliases": [],
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Austin Andrews",
+        "version": "6.3.95"
+    },
+    {
         "id": "14692438-9215-4003-AF95-04AA7C27DA48",
         "name": "calendar-export",
         "codepoint": "F0B24",
