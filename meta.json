@@ -22135,6 +22135,15 @@
         "version": "5.3.45"
     },
     {
+        "id": "89337179-88B1-4CD0-BA70-F18FC41514DF",
+        "name": "compare-remove",
+        "codepoint": "F18B3",
+        "aliases": [],
+        "tags": [],
+        "author": "nilsfast",
+        "version": "6.3.95"
+    },
+    {
         "id": "2E95C78F-AAF9-4E1F-8241-4F781389EFF7",
         "name": "compare-vertical",
         "codepoint": "F1493",
