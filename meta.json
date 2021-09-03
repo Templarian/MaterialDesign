@@ -64830,7 +64830,9 @@
             "store-delete",
             "shop-delete"
         ],
-        "tags": [],
+        "tags": [
+            "Places"
+        ],
         "author": "Contributors",
         "version": "5.7.55"
     },
