@@ -74885,7 +74885,8 @@
         "name": "wiper-wash-alert",
         "codepoint": "F18DF",
         "aliases": [
-            "wiper-fluid-alert"
+            "wiper-fluid-alert",
+            "washer-fluid-alert"
         ],
         "tags": [
             "Alert \/ Error",
