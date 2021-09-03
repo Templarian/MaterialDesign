@@ -1538,6 +1538,20 @@
         "version": "3.3.92"
     },
     {
+        "id": "07487BB8-778A-4B30-8129-FC2780463D86",
+        "name": "account-tie-hat",
+        "codepoint": "F1898",
+        "aliases": [
+            "account-pilot"
+        ],
+        "tags": [
+            "Account \/ User",
+            "Transportation + Flying"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "0D809FB8-6A27-4972-B4E5-6A308963FD8B",
         "name": "account-tie-outline",
         "codepoint": "F10CA",
