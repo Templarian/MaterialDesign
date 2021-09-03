@@ -65429,6 +65429,22 @@
         "version": "6.3.95"
     },
     {
+        "id": "EA9439C2-511C-4A27-BABD-D0C1F8E824A0",
+        "name": "store-marker-outline",
+        "codepoint": "F18CC",
+        "aliases": [
+            "store-location-outline",
+            "shop-marker-outline",
+            "shop-location-outline"
+        ],
+        "tags": [
+            "Places",
+            "Shopping"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.3.95"
+    },
+    {
         "id": "D52803B6-8580-4C06-AA9F-96B4748286DB",
         "name": "store-minus",
         "codepoint": "F165E",
