@@ -14000,6 +14000,17 @@
         "version": "5.9.55"
     },
     {
+        "id": "D40760C0-3030-4ADC-AF91-6646565212FC",
+        "name": "calendar-collapse-horizontal",
+        "codepoint": "F189D",
+        "aliases": [],
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Austin Andrews",
+        "version": "6.3.95"
+    },
+    {
         "id": "A5F0BBFB-DA5E-4068-B2D5-3C0F3EB26B14",
         "name": "calendar-cursor",
         "codepoint": "F157B",
