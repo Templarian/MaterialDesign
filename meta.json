@@ -19969,6 +19969,15 @@
         "version": "6.3.95"
     },
     {
+        "id": "9A710A09-DB02-441E-A5E6-204937893D50",
+        "name": "clipboard-text-clock-outline",
+        "codepoint": "F18FA",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "37090A31-A50D-43AB-92C4-BFB2C17273E6",
         "name": "clipboard-text-multiple",
         "codepoint": "F126B",
