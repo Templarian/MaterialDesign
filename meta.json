@@ -32003,6 +32003,15 @@
         "version": "3.8.95"
     },
     {
+        "id": "2491A740-6415-4CDB-805F-675D8EBF89A3",
+        "name": "fit-to-screen",
+        "codepoint": "F18F4",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.3.95"
+    },
+    {
         "id": "55271063-77EF-43FA-917C-657E57135A24",
         "name": "flag",
         "codepoint": "F023B",
