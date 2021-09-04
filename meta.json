@@ -72378,6 +72378,15 @@
         "version": "6.3.95"
     },
     {
+        "id": "E2FA3916-A37A-4BB9-8892-DD0079581DAC",
+        "name": "virus-off-outline",
+        "codepoint": "F18E2",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "0F7EE89B-C9E3-4365-B9DC-D3A28D328F66",
         "name": "virus-outline",
         "codepoint": "F13B7",
