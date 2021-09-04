@@ -31531,6 +31531,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "176E2D7F-C16A-4941-9A42-3DBE264E4148",
+        "name": "filter-check",
+        "codepoint": "F18EC",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "36805F11-BE23-49C3-8D72-682859DD5551",
         "name": "filter-menu",
         "codepoint": "F10E5",
