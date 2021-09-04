@@ -73776,6 +73776,15 @@
         "version": "3.6.95"
     },
     {
+        "id": "D7526077-1254-4F32-9496-3B8E5D957F0F",
+        "name": "weather-cloudy-clock",
+        "codepoint": "F18F6",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "9E1AC9CA-0FA4-44C6-BA5D-2EB3CED4899D",
         "name": "weather-fog",
         "codepoint": "F0591",
