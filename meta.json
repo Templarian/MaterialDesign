@@ -8840,6 +8840,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "22A624ED-8F58-41BC-B82D-C1750626AA18",
+        "name": "basket-check",
+        "codepoint": "F18E5",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "9B7DC550-62F9-4FB0-9B21-0379AA925A19",
         "name": "basket-fill",
         "codepoint": "F0077",
