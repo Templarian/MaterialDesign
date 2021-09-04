@@ -72600,7 +72600,9 @@
         "name": "virus-off-outline",
         "codepoint": "F18E2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
     },
