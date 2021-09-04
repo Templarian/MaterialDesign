@@ -45358,6 +45358,15 @@
         "version": "6.3.95"
     },
     {
+        "id": "9EE1A46D-F991-45D7-A170-2DE8AED0D1EA",
+        "name": "map-marker-account-outline",
+        "codepoint": "F18E4",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.3.95"
+    },
+    {
         "id": "DE87F14C-101D-47F2-87C5-118BE76F7C58",
         "name": "map-marker-alert",
         "codepoint": "F0F05",
