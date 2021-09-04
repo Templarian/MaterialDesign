@@ -62990,6 +62990,15 @@
         "version": "4.2.95"
     },
     {
+        "id": "4A41F4FC-7E7C-4EA6-80F7-61274B13CBF4",
+        "name": "smart-card-off",
+        "codepoint": "F18F7",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "D5EED689-19F3-4198-9A00-27C6DAE518E7",
         "name": "smart-card-outline",
         "codepoint": "F10BE",
