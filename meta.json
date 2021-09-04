@@ -22514,6 +22514,15 @@
         "version": "6.3.95"
     },
     {
+        "id": "4A940492-A6C2-4481-BDB0-485920679D1D",
+        "name": "content-save-check-outline",
+        "codepoint": "F18EB",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "E909F872-44CC-4D23-8AD2-95BFE02A5E2D",
         "name": "content-save-cog",
         "codepoint": "F145B",
