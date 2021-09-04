@@ -22505,6 +22505,15 @@
         "version": "3.9.97"
     },
     {
+        "id": "B52FC179-01B3-4E41-821E-DC162E402B5B",
+        "name": "content-save-check",
+        "codepoint": "F18EA",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "E909F872-44CC-4D23-8AD2-95BFE02A5E2D",
         "name": "content-save-cog",
         "codepoint": "F145B",
