@@ -16554,6 +16554,15 @@
         "version": "5.6.55"
     },
     {
+        "id": "CB11E82A-C290-44A7-B9FC-88F47CEF5BC5",
+        "name": "cart-heart",
+        "codepoint": "F18E0",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "D4AF47D5-214B-4856-8450-0ED7C524991D",
         "name": "cart-minus",
         "codepoint": "F0D68",
