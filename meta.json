@@ -32045,6 +32045,15 @@
         "version": "4.2.95"
     },
     {
+        "id": "D670073A-229E-474A-BDF8-ED5F07C1FC41",
+        "name": "flag-off",
+        "codepoint": "F18EE",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "3C0BD546-A778-4BDC-A30A-A627D61CBA47",
         "name": "flag-outline",
         "codepoint": "F023D",
