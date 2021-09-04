@@ -72369,6 +72369,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "7DE3EC50-BFF3-4402-85ED-DC43EE995DCB",
+        "name": "virus-off",
+        "codepoint": "F18E1",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "0F7EE89B-C9E3-4365-B9DC-D3A28D328F66",
         "name": "virus-outline",
         "codepoint": "F13B7",
