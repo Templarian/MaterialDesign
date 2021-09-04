@@ -8849,6 +8849,15 @@
         "version": "6.3.95"
     },
     {
+        "id": "6B0573EB-F745-409B-B065-C492537579C6",
+        "name": "basket-check-outline",
+        "codepoint": "F18E6",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "9B7DC550-62F9-4FB0-9B21-0379AA925A19",
         "name": "basket-fill",
         "codepoint": "F0077",
