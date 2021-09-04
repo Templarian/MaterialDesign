@@ -23295,6 +23295,15 @@
         "version": "6.3.95"
     },
     {
+        "id": "1B3B929E-82A7-438D-823D-4046F3C5F9A1",
+        "name": "credit-card-lock-outline",
+        "codepoint": "F18E8",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "21D860AE-A880-4ED2-9E11-617D888BD744",
         "name": "credit-card-marker",
         "codepoint": "F06A8",
