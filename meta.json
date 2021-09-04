@@ -32012,6 +32012,15 @@
         "version": "6.3.95"
     },
     {
+        "id": "E7D43483-A3ED-4B9B-AEB8-72BF8BC189E4",
+        "name": "fit-to-screen-outline",
+        "codepoint": "F18F5",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.3.95"
+    },
+    {
         "id": "55271063-77EF-43FA-917C-657E57135A24",
         "name": "flag",
         "codepoint": "F023B",
