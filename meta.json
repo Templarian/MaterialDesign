@@ -49885,6 +49885,15 @@
         "version": "6.3.95"
     },
     {
+        "id": "23292DC7-A187-4818-8944-1144B38E183C",
+        "name": "navigation-variant-outline",
+        "codepoint": "F18F1",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.3.95"
+    },
+    {
         "id": "6766F53D-88E4-452A-A222-7F50DDFB757C",
         "name": "near-me",
         "codepoint": "F05CD",
