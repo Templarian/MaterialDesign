@@ -57456,6 +57456,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "AD1242A1-160E-4DF0-9E29-15F0A0ECF974",
+        "name": "refresh-auto",
+        "codepoint": "F18F2",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "9D88AEE3-9749-4B74-8F60-2995BD811AAA",
         "name": "refresh-circle",
         "codepoint": "F1377",
