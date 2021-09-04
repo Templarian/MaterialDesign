@@ -32054,6 +32054,15 @@
         "version": "6.3.95"
     },
     {
+        "id": "07AE6191-FF49-4F10-A6E1-F4BD0E6C9029",
+        "name": "flag-off-outline",
+        "codepoint": "F18EF",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "3C0BD546-A778-4BDC-A30A-A627D61CBA47",
         "name": "flag-outline",
         "codepoint": "F023D",
