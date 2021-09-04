@@ -68534,6 +68534,15 @@
         "version": "1.8.36"
     },
     {
+        "id": "06A80087-C9FF-4A60-A370-BD183676DC0A",
+        "name": "tilde-off",
+        "codepoint": "F18F3",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "348DB89A-B4E2-4CB9-A7A4-B86973243ADE",
         "name": "timelapse",
         "codepoint": "F051A",
