@@ -67604,6 +67604,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "A9D12403-70AF-4022-9AB1-B9CE5EF1F9E9",
+        "name": "teddy-bear",
+        "codepoint": "F18FB",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.3.95"
+    },
+    {
         "id": "66FE04C6-5941-4728-A256-17F9B25534F1",
         "name": "telescope",
         "codepoint": "F0B4E",
