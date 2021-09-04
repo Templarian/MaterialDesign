@@ -35146,6 +35146,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "27068E58-4DC3-4C61-96A2-876C621B6039",
+        "name": "format-underline-wavy",
+        "codepoint": "F18E9",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "723F4461-61B3-4D53-A03D-302F5D9401E1",
         "name": "format-vertical-align-bottom",
         "codepoint": "F0621",
