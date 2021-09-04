@@ -72589,7 +72589,9 @@
         "name": "virus-off",
         "codepoint": "F18E1",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
     },
