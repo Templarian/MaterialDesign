@@ -31540,6 +31540,15 @@
         "version": "6.3.95"
     },
     {
+        "id": "FFDED2FF-7CB6-4D02-BEE6-A82C16625386",
+        "name": "filter-check-outline",
+        "codepoint": "F18ED",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.3.95"
+    },
+    {
         "id": "36805F11-BE23-49C3-8D72-682859DD5551",
         "name": "filter-menu",
         "codepoint": "F10E5",
