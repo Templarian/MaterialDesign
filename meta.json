@@ -16576,7 +16576,8 @@
         "name": "cart-heart",
         "codepoint": "F18E0",
         "aliases": [
-            "cart-favorite"
+            "cart-favorite",
+            "shopping-favorite"
         ],
         "tags": [
             "Shopping"
