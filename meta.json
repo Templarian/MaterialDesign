@@ -73867,7 +73867,8 @@
         "codepoint": "F18F6",
         "aliases": [
             "weather-history",
-            "weather-time"
+            "weather-time",
+            "weather-date"
         ],
         "tags": [
             "Weather"
