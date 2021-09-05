@@ -57525,7 +57525,8 @@
         "codepoint": "F18F2",
         "aliases": [
             "auto-start",
-            "automatic-start"
+            "automatic-start",
+            "auto-stop"
         ],
         "tags": [
             "Automotive"
