@@ -45493,7 +45493,9 @@
         "name": "map-marker-account",
         "codepoint": "F18E3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Google",
         "version": "6.3.95"
     },
