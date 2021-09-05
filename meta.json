@@ -57526,7 +57526,8 @@
         "aliases": [
             "auto-start",
             "automatic-start",
-            "auto-stop"
+            "auto-stop",
+            "automatic-stop"
         ],
         "tags": [
             "Automotive"
