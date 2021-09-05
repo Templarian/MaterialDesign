@@ -16813,7 +16813,9 @@
         "id": "EADBBD96-B2BD-4C31-969E-BFBA6DF519B1",
         "name": "cash-refund",
         "codepoint": "F0A9C",
-        "aliases": [],
+        "aliases": [
+            "cash-return"
+        ],
         "tags": [
             "Banking"
         ],
