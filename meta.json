@@ -67656,7 +67656,9 @@
         "id": "A9D12403-70AF-4022-9AB1-B9CE5EF1F9E9",
         "name": "teddy-bear",
         "codepoint": "F18FB",
-        "aliases": [],
+        "aliases": [
+            "child-toy"
+        ],
         "tags": [],
         "author": "Contributors",
         "version": "6.3.95"
