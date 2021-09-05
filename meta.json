@@ -19972,7 +19972,9 @@
         "id": "EEFDB836-DFC2-43ED-9246-05B972EA2B57",
         "name": "clipboard-text-clock",
         "codepoint": "F18F9",
-        "aliases": [],
+        "aliases": [
+            "clipboard-text-date"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
