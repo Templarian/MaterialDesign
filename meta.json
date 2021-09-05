@@ -57524,7 +57524,9 @@
         "name": "refresh-auto",
         "codepoint": "F18F2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
     },
