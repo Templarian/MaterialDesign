@@ -57524,7 +57524,8 @@
         "name": "refresh-auto",
         "codepoint": "F18F2",
         "aliases": [
-            "auto-start"
+            "auto-start",
+            "automatic-start"
         ],
         "tags": [
             "Automotive"
