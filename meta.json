@@ -19986,7 +19986,8 @@
         "name": "clipboard-text-clock-outline",
         "codepoint": "F18FA",
         "aliases": [
-            "clipboard-text-date-outline"
+            "clipboard-text-date-outline",
+            "clipboard-text-time-outline"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
