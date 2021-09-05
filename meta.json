@@ -8855,7 +8855,9 @@
         "name": "basket-check-outline",
         "codepoint": "F18E6",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shopping"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
     },
