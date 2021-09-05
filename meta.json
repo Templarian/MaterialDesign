@@ -16576,7 +16576,9 @@
         "name": "cart-heart",
         "codepoint": "F18E0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shopping"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
     },
