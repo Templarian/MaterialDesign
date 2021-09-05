@@ -23346,7 +23346,9 @@
         "name": "credit-card-lock-outline",
         "codepoint": "F18E8",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
     },
