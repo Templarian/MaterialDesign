@@ -16814,7 +16814,8 @@
         "name": "cash-refund",
         "codepoint": "F0A9C",
         "aliases": [
-            "cash-return"
+            "cash-return",
+            "cash-chargeback"
         ],
         "tags": [
             "Banking"
