@@ -31576,7 +31576,9 @@
         "id": "FFDED2FF-7CB6-4D02-BEE6-A82C16625386",
         "name": "filter-check-outline",
         "codepoint": "F18ED",
-        "aliases": [],
+        "aliases": [
+            "funnel-check-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
