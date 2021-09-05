@@ -73865,7 +73865,9 @@
         "id": "D7526077-1254-4F32-9496-3B8E5D957F0F",
         "name": "weather-cloudy-clock",
         "codepoint": "F18F6",
-        "aliases": [],
+        "aliases": [
+            "weather-history"
+        ],
         "tags": [
             "Weather"
         ],
