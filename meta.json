@@ -45504,7 +45504,9 @@
         "name": "map-marker-account-outline",
         "codepoint": "F18E4",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Google",
         "version": "6.3.95"
     },
