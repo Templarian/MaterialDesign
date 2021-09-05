@@ -8844,7 +8844,9 @@
         "name": "basket-check",
         "codepoint": "F18E5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shopping"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
     },
