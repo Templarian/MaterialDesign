@@ -63060,7 +63060,9 @@
         "name": "smart-card-off-outline",
         "codepoint": "F18F8",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
     },
