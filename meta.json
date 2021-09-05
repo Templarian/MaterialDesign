@@ -73866,7 +73866,8 @@
         "name": "weather-cloudy-clock",
         "codepoint": "F18F6",
         "aliases": [
-            "weather-history"
+            "weather-history",
+            "weather-time"
         ],
         "tags": [
             "Weather"
