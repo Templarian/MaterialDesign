@@ -19974,7 +19974,8 @@
         "codepoint": "F18F9",
         "aliases": [
             "clipboard-text-date",
-            "clipboard-text-time"
+            "clipboard-text-time",
+            "clipboard-text-history"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
