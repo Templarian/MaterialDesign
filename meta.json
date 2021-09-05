@@ -23335,7 +23335,9 @@
         "name": "credit-card-lock",
         "codepoint": "F18E7",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
     },
