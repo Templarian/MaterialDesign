@@ -57527,7 +57527,8 @@
             "auto-start",
             "automatic-start",
             "auto-stop",
-            "automatic-stop"
+            "automatic-stop",
+            "automatic"
         ],
         "tags": [
             "Automotive"
