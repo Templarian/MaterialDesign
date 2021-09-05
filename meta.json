@@ -35249,7 +35249,9 @@
         "name": "format-underline-wavy",
         "codepoint": "F18E9",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
     },
