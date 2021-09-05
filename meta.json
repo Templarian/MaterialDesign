@@ -15782,7 +15782,8 @@
         "name": "car-wireless",
         "codepoint": "F1878",
         "aliases": [
-            "car-autonomous"
+            "car-autonomous",
+            "car-self-driving"
         ],
         "tags": [
             "Automotive"
