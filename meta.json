@@ -57528,7 +57528,8 @@
             "automatic-start",
             "auto-stop",
             "automatic-stop",
-            "automatic"
+            "automatic",
+            "refresh-automatic"
         ],
         "tags": [
             "Automotive"
