@@ -49951,7 +49951,9 @@
         "name": "navigation-variant-outline",
         "codepoint": "F18F1",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Google",
         "version": "6.3.95"
     },
