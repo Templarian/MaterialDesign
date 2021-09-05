@@ -22477,7 +22477,8 @@
         "name": "content-save",
         "codepoint": "F0193",
         "aliases": [
-            "floppy-disc"
+            "floppy-disc",
+            "floppy-disk"
         ],
         "tags": [],
         "author": "Google",
