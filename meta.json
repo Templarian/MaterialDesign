@@ -63049,7 +63049,9 @@
         "name": "smart-card-off",
         "codepoint": "F18F7",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
     },
