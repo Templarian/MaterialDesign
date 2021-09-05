@@ -73866,7 +73866,9 @@
         "name": "weather-cloudy-clock",
         "codepoint": "F18F6",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Weather"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
     },
