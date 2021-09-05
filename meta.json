@@ -57523,7 +57523,9 @@
         "id": "AD1242A1-160E-4DF0-9E29-15F0A0ECF974",
         "name": "refresh-auto",
         "codepoint": "F18F2",
-        "aliases": [],
+        "aliases": [
+            "auto-start"
+        ],
         "tags": [
             "Automotive"
         ],
