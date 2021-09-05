@@ -67660,7 +67660,9 @@
             "child-toy",
             "children-toy"
         ],
-        "tags": [],
+        "tags": [
+            "Holiday"
+        ],
         "author": "Contributors",
         "version": "6.3.95"
     },
