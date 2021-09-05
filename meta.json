@@ -49940,7 +49940,9 @@
         "name": "navigation-variant",
         "codepoint": "F18F0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Google",
         "version": "6.3.95"
     },
