@@ -32714,7 +32714,9 @@
         "name": "floor-lamp-torchiere-outline",
         "codepoint": "F17D6",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.95"
     },
