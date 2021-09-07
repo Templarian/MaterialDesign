@@ -17036,7 +17036,9 @@
         "id": "95F3D89F-8AE6-4B86-BFE7-7D6A27018E7D",
         "name": "ceiling-light-multiple",
         "codepoint": "F18DD",
-        "aliases": [],
+        "aliases": [
+            "ceiling-lamp-multiple"
+        ],
         "tags": [
             "Home Automation"
         ],
