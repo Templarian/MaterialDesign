@@ -17050,7 +17050,9 @@
         "name": "ceiling-light-multiple-outline",
         "codepoint": "F18DE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
     },
