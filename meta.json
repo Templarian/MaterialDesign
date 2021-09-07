@@ -73559,7 +73559,9 @@
             "water-drop-outline",
             "ink-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "GreenTurtwig",
         "version": "3.5.94"
     },
