@@ -42915,7 +42915,9 @@
         "name": "lamps-outline",
         "codepoint": "F17D1",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.95"
     },
