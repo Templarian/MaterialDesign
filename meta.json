@@ -17037,7 +17037,9 @@
         "name": "ceiling-light-multiple",
         "codepoint": "F18DD",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
     },
