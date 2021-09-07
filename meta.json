@@ -42903,7 +42903,9 @@
         "id": "9AC5919E-2271-42D0-A5FA-ACB9BE022547",
         "name": "lamps",
         "codepoint": "F1576",
-        "aliases": [],
+        "aliases": [
+            "lights"
+        ],
         "tags": [
             "Home Automation"
         ],
