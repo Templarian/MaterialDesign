@@ -17049,7 +17049,9 @@
         "id": "11968A7F-D159-497F-9D97-A25CACD6AE8D",
         "name": "ceiling-light-multiple-outline",
         "codepoint": "F18DE",
-        "aliases": [],
+        "aliases": [
+            "ceiling-lamp-multiple-outline"
+        ],
         "tags": [
             "Home Automation"
         ],
