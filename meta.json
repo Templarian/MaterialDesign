@@ -42914,7 +42914,9 @@
         "id": "7BDA9890-697C-4E97-A604-D34803DAAD39",
         "name": "lamps-outline",
         "codepoint": "F17D1",
-        "aliases": [],
+        "aliases": [
+            "lights-outline"
+        ],
         "tags": [
             "Home Automation"
         ],
