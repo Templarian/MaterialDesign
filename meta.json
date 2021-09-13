@@ -29242,6 +29242,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "B3FA5237-3FE4-4822-87EE-0001DD784EE7",
+        "name": "eye-arrow-left",
+        "codepoint": "F18FD",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "7534EBC5-1A5B-4837-8C13-88CFA5FB4D49",
         "name": "eye-check",
         "codepoint": "F0D04",
