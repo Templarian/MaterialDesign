@@ -40274,7 +40274,8 @@
         "aliases": [
             "home-energy",
             "home-power",
-            "home-electricity"
+            "home-electricity",
+            "home-flash"
         ],
         "tags": [
             "Home Automation"
