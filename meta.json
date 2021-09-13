@@ -43745,7 +43745,9 @@
         "id": "30A6559D-F917-44DE-B7C7-9C1AB4DD8BD4",
         "name": "leaf-circle",
         "codepoint": "F1905",
-        "aliases": [],
+        "aliases": [
+            "green-circle"
+        ],
         "tags": [
             "Nature",
             "Agriculture"
