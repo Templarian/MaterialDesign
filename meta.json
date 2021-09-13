@@ -39931,7 +39931,9 @@
         "name": "home-battery",
         "codepoint": "F1901",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
