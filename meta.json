@@ -15241,7 +15241,9 @@
         "name": "car-brake-low-pressure",
         "codepoint": "F190A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
