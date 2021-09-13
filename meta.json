@@ -15538,7 +15538,9 @@
         "name": "car-light-alert",
         "codepoint": "F190D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
