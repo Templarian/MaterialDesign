@@ -34609,7 +34609,8 @@
         "codepoint": "F0274",
         "aliases": [
             "format-header-hash",
-            "format-heading-pound"
+            "format-heading-pound",
+            "format-heading-hash"
         ],
         "tags": [
             "Text \/ Content \/ Format"
