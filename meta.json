@@ -15215,6 +15215,15 @@
         "version": "3.2.89"
     },
     {
+        "id": "4FBEBCCE-0C62-45B7-AD52-06CD18B8927C",
+        "name": "car-brake-fluid-level",
+        "codepoint": "F1909",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "4F3D37E3-F34C-4720-BC92-1173A85F88FC",
         "name": "car-brake-hold",
         "codepoint": "F0D5E",
