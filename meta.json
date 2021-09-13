@@ -23465,7 +23465,9 @@
         "id": "896151D2-B1B7-42C5-95E7-78517BEC5676",
         "name": "credit-card-fast",
         "codepoint": "F1911",
-        "aliases": [],
+        "aliases": [
+            "credit-card-swipe"
+        ],
         "tags": [],
         "author": "Jeff Anders",
         "version": "6.4.95"
