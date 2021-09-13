@@ -34608,7 +34608,8 @@
         "name": "format-header-pound",
         "codepoint": "F0274",
         "aliases": [
-            "format-header-hash"
+            "format-header-hash",
+            "format-heading-pound"
         ],
         "tags": [
             "Text \/ Content \/ Format"
