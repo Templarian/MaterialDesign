@@ -67815,7 +67815,9 @@
         "id": "4747C432-2B54-4686-8689-A8B931F417DE",
         "name": "tag-search-outline",
         "codepoint": "F1908",
-        "aliases": [],
+        "aliases": [
+            "tag-find-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
