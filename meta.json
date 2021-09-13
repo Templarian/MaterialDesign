@@ -23294,7 +23294,9 @@
         "id": "8FA2AEE7-EBCA-4943-AF59-FF3C4D762C53",
         "name": "cow-off",
         "codepoint": "F18FC",
-        "aliases": [],
+        "aliases": [
+            "dairy-off"
+        ],
         "tags": [
             "Food \/ Drink",
             "Agriculture",
