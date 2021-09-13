@@ -15235,6 +15235,15 @@
         "version": "3.4.93"
     },
     {
+        "id": "A7AFFF81-AC39-478A-AF75-E33E20A44D09",
+        "name": "car-brake-low-pressure",
+        "codepoint": "F190A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "CBCA05E4-718D-4727-8A1B-EDA815D00AE1",
         "name": "car-brake-parking",
         "codepoint": "F0D5F",
