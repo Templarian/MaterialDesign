@@ -39932,7 +39932,8 @@
         "codepoint": "F1901",
         "aliases": [
             "home-energy",
-            "home-power"
+            "home-power",
+            "home-electricity"
         ],
         "tags": [
             "Home Automation",
