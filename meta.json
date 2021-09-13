@@ -39802,6 +39802,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "EFDF1C9C-3566-4312-ACBC-AC5B10EA28DE",
+        "name": "home-battery-outline",
+        "codepoint": "F1902",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "59CB69E0-6F23-4572-90C7-9B360121C266",
         "name": "home-circle",
         "codepoint": "F07D2",
