@@ -23478,7 +23478,9 @@
         "id": "B08C2F32-A29A-4429-BFDA-97F81B704A65",
         "name": "credit-card-fast-outline",
         "codepoint": "F1912",
-        "aliases": [],
+        "aliases": [
+            "credit-card-swipe-outline"
+        ],
         "tags": [],
         "author": "Jeff Anders",
         "version": "6.4.95"
