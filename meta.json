@@ -15746,7 +15746,9 @@
         "name": "car-speed-limiter",
         "codepoint": "F190E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
