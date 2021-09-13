@@ -15285,7 +15285,9 @@
         "name": "car-brake-worn-linings",
         "codepoint": "F190C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
