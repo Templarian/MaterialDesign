@@ -43746,7 +43746,9 @@
         "name": "leaf-circle",
         "codepoint": "F1905",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Nature"
+        ],
         "author": "Jeff Anders",
         "version": "6.4.95"
     },
