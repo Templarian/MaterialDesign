@@ -40288,7 +40288,8 @@
         "name": "home-lightning-bolt-outline",
         "codepoint": "F1904",
         "aliases": [
-            "home-energy"
+            "home-energy",
+            "home-power"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
