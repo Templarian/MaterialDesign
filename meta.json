@@ -15731,6 +15731,15 @@
         "version": "2.0.46"
     },
     {
+        "id": "69EE759D-1F0E-414B-A014-5EB611D6286E",
+        "name": "car-speed-limiter",
+        "codepoint": "F190E",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "97F5ED58-F2AB-40AC-A882-4A90DB5D2018",
         "name": "car-sports",
         "codepoint": "F07AC",
