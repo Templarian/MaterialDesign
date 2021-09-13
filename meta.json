@@ -34503,7 +34503,9 @@
         "id": "00E2A358-A6A9-493C-BFC2-A259AA0092CF",
         "name": "format-header-2",
         "codepoint": "F026C",
-        "aliases": [],
+        "aliases": [
+            "format-heading-2"
+        ],
         "tags": [
             "Text \/ Content \/ Format"
         ],
