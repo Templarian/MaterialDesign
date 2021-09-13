@@ -15274,7 +15274,9 @@
         "name": "car-brake-temperature",
         "codepoint": "F190B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
