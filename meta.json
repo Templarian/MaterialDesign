@@ -34568,7 +34568,9 @@
         "id": "CF17BB12-9537-4F2E-9E88-3E1DE3D0DCE6",
         "name": "format-header-decrease",
         "codepoint": "F0271",
-        "aliases": [],
+        "aliases": [
+            "format-heading-decease"
+        ],
         "tags": [
             "Text \/ Content \/ Format"
         ],
