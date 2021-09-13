@@ -39946,7 +39946,9 @@
         "id": "EFDF1C9C-3566-4312-ACBC-AC5B10EA28DE",
         "name": "home-battery-outline",
         "codepoint": "F1902",
-        "aliases": [],
+        "aliases": [
+            "home-energy-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
