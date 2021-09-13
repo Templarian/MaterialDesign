@@ -39930,7 +39930,9 @@
         "id": "3BCACB97-3EEE-453B-81A7-1136F167B23D",
         "name": "home-battery",
         "codepoint": "F1901",
-        "aliases": [],
+        "aliases": [
+            "home-energy"
+        ],
         "tags": [
             "Home Automation",
             "Battery"
