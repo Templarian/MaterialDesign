@@ -34529,7 +34529,9 @@
         "id": "CC669D6C-53AD-43C2-A660-EFF783847D6F",
         "name": "format-header-4",
         "codepoint": "F026E",
-        "aliases": [],
+        "aliases": [
+            "format-heading-4"
+        ],
         "tags": [
             "Text \/ Content \/ Format"
         ],
