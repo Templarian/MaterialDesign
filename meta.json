@@ -34594,7 +34594,9 @@
         "id": "20BCC8DA-F055-46B0-9C27-68791E3BA80E",
         "name": "format-header-increase",
         "codepoint": "F0273",
-        "aliases": [],
+        "aliases": [
+            "format-heading-increase"
+        ],
         "tags": [
             "Text \/ Content \/ Format"
         ],
