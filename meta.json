@@ -15266,6 +15266,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "663F3528-508B-49EE-8437-9B2E757E7AAD",
+        "name": "car-brake-temperature",
+        "codepoint": "F190B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "6A83FE13-CCAF-473E-B660-F2AD8EE561AD",
         "name": "car-child-seat",
         "codepoint": "F0FA3",
