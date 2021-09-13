@@ -39793,6 +39793,15 @@
         "version": "2.0.46"
     },
     {
+        "id": "3BCACB97-3EEE-453B-81A7-1136F167B23D",
+        "name": "home-battery",
+        "codepoint": "F1901",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "59CB69E0-6F23-4572-90C7-9B360121C266",
         "name": "home-circle",
         "codepoint": "F07D2",
