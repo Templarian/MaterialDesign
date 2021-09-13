@@ -23398,7 +23398,9 @@
         "name": "credit-card-chip",
         "codepoint": "F190F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Jeff Anders",
         "version": "6.4.95"
     },
