@@ -23295,7 +23295,9 @@
         "name": "cow-off",
         "codepoint": "F18FC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
