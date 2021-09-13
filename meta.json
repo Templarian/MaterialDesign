@@ -40272,7 +40272,8 @@
         "name": "home-lightning-bolt",
         "codepoint": "F1903",
         "aliases": [
-            "home-energy"
+            "home-energy",
+            "home-power"
         ],
         "tags": [
             "Home Automation"
