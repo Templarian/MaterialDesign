@@ -34581,7 +34581,9 @@
         "id": "99554AA1-419F-420F-9AEB-0826D411B420",
         "name": "format-header-equal",
         "codepoint": "F0272",
-        "aliases": [],
+        "aliases": [
+            "format-heading-equal"
+        ],
         "tags": [
             "Text \/ Content \/ Format"
         ],
