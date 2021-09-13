@@ -23434,6 +23434,15 @@
         "version": "6.1.95"
     },
     {
+        "id": "896151D2-B1B7-42C5-95E7-78517BEC5676",
+        "name": "credit-card-fast",
+        "codepoint": "F1911",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.4.95"
+    },
+    {
         "id": "7FD3C251-310E-4A0D-B6B9-4BAC16F9909B",
         "name": "credit-card-lock",
         "codepoint": "F18E7",
