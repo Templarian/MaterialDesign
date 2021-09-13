@@ -40293,7 +40293,9 @@
             "home-electricity",
             "home-flash"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
