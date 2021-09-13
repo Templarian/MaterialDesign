@@ -15219,7 +15219,9 @@
         "name": "car-brake-fluid-level",
         "codepoint": "F1909",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Automotive"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
