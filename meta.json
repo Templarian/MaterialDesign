@@ -67804,7 +67804,9 @@
         "id": "2728D780-6100-4AD5-B5B3-67C64DAF983C",
         "name": "tag-search",
         "codepoint": "F1907",
-        "aliases": [],
+        "aliases": [
+            "tag-find"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
