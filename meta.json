@@ -23383,6 +23383,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "DF35C024-A010-482D-8B28-D567A1C9389D",
+        "name": "credit-card-chip-outline",
+        "codepoint": "F1910",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.4.95"
+    },
+    {
         "id": "0FBFF192-59C3-447E-A987-4BE568865C8E",
         "name": "credit-card-clock",
         "codepoint": "F0EE1",
