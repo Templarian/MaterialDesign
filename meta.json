@@ -23224,6 +23224,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "8FA2AEE7-EBCA-4943-AF59-FF3C4D762C53",
+        "name": "cow-off",
+        "codepoint": "F18FC",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "BC9DA934-ED6D-4EC4-9FA4-2B6FF26B3058",
         "name": "cpu-32-bit",
         "codepoint": "F0EDF",
@@ -29782,7 +29791,7 @@
         "codepoint": "F171D",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Hans B\u00f6hm",
         "version": "5.9.55"
     },
     {
@@ -35848,7 +35857,7 @@
         "tags": [
             "Automotive"
         ],
-        "author": "Contributors",
+        "author": "Hans B\u00f6hm",
         "version": "6.3.95"
     },
     {
@@ -40275,7 +40284,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "Hans B\u00f6hm",
         "version": "3.9.97"
     },
     {
@@ -41049,7 +41058,7 @@
         "tags": [
             "Device \/ Tech"
         ],
-        "author": "Contributors",
+        "author": "Hans B\u00f6hm",
         "version": "4.8.95"
     },
     {
@@ -41060,7 +41069,7 @@
         "tags": [
             "Automotive"
         ],
-        "author": "Contributors",
+        "author": "Hans B\u00f6hm",
         "version": "6.2.95"
     },
     {
@@ -43998,7 +44007,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "Hans B\u00f6hm",
         "version": "3.6.95"
     },
     {
@@ -44011,7 +44020,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "Hans B\u00f6hm",
         "version": "3.6.95"
     },
     {
@@ -48144,7 +48153,7 @@
         "tags": [
             "Device \/ Tech"
         ],
-        "author": "Google",
+        "author": "Hans B\u00f6hm",
         "version": "3.9.97"
     },
     {
@@ -48155,7 +48164,7 @@
         "tags": [
             "Device \/ Tech"
         ],
-        "author": "Google",
+        "author": "Hans B\u00f6hm",
         "version": "3.9.97"
     },
     {
@@ -73723,7 +73732,7 @@
         "tags": [
             "Agriculture"
         ],
-        "author": "Contributors",
+        "author": "Hans B\u00f6hm",
         "version": "6.1.95"
     },
     {
