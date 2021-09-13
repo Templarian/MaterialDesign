@@ -29260,6 +29260,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "FFAF8600-64E9-4DEF-B689-D14B95B608CA",
+        "name": "eye-arrow-right",
+        "codepoint": "F18FF",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "7534EBC5-1A5B-4837-8C13-88CFA5FB4D49",
         "name": "eye-check",
         "codepoint": "F0D04",
