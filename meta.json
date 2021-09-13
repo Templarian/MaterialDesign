@@ -43757,7 +43757,9 @@
         "id": "C480BC5A-402E-46EB-B913-51AFA64FA26E",
         "name": "leaf-circle-outline",
         "codepoint": "F1906",
-        "aliases": [],
+        "aliases": [
+            "green-circle-outline"
+        ],
         "tags": [
             "Agriculture",
             "Nature"
