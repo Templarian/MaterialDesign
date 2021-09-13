@@ -43758,7 +43758,9 @@
         "name": "leaf-circle-outline",
         "codepoint": "F1906",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Agriculture"
+        ],
         "author": "Jeff Anders",
         "version": "6.4.95"
     },
