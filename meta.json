@@ -29380,7 +29380,9 @@
         "id": "D979FDDF-45AE-4F37-AC6C-A92B2860BC02",
         "name": "eye-arrow-left-outline",
         "codepoint": "F18FE",
-        "aliases": [],
+        "aliases": [
+            "view-arrow-left-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
