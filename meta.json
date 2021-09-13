@@ -43589,6 +43589,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "C480BC5A-402E-46EB-B913-51AFA64FA26E",
+        "name": "leaf-circle-outline",
+        "codepoint": "F1906",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.4.95"
+    },
+    {
         "id": "C7FF59F8-8D2F-4866-B8D3-27ED83C324F0",
         "name": "leaf-maple",
         "codepoint": "F0C93",
