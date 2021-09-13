@@ -15526,6 +15526,15 @@
         "version": "5.4.55"
     },
     {
+        "id": "311C671E-9503-485D-8C7D-359E2A3A6D36",
+        "name": "car-light-alert",
+        "codepoint": "F190D",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "DA708BEF-4826-49CF-8872-C42996C9616F",
         "name": "car-light-dimmed",
         "codepoint": "F0C4A",
