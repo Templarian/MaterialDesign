@@ -39947,7 +39947,8 @@
         "name": "home-battery-outline",
         "codepoint": "F1902",
         "aliases": [
-            "home-energy-outline"
+            "home-energy-outline",
+            "home-power-outline"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
