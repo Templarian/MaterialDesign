@@ -43580,6 +43580,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "30A6559D-F917-44DE-B7C7-9C1AB4DD8BD4",
+        "name": "leaf-circle",
+        "codepoint": "F1905",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.4.95"
+    },
+    {
         "id": "C7FF59F8-8D2F-4866-B8D3-27ED83C324F0",
         "name": "leaf-maple",
         "codepoint": "F0C93",
