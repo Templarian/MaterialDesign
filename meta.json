@@ -29393,7 +29393,9 @@
         "id": "FFAF8600-64E9-4DEF-B689-D14B95B608CA",
         "name": "eye-arrow-right",
         "codepoint": "F18FF",
-        "aliases": [],
+        "aliases": [
+            "view-arrow-right"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
