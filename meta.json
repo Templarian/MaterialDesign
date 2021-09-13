@@ -23397,7 +23397,9 @@
         "id": "B116C077-E89C-4079-8CEB-7946D054613D",
         "name": "credit-card-chip",
         "codepoint": "F190F",
-        "aliases": [],
+        "aliases": [
+            "credit-card-icc-chip"
+        ],
         "tags": [
             "Banking"
         ],
