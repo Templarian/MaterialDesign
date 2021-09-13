@@ -39931,7 +39931,8 @@
         "name": "home-battery",
         "codepoint": "F1901",
         "aliases": [
-            "home-energy"
+            "home-energy",
+            "home-power"
         ],
         "tags": [
             "Home Automation",
