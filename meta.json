@@ -40120,6 +40120,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "077E7728-7FDE-4846-9F55-9818EB397D58",
+        "name": "home-lightning-bolt",
+        "codepoint": "F1903",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "ECB8FF23-47EC-4038-9673-1A3A1619C071",
         "name": "home-lock",
         "codepoint": "F08EB",
