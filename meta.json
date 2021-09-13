@@ -40287,7 +40287,9 @@
         "id": "12538408-E644-4222-84BF-9A64670E9187",
         "name": "home-lightning-bolt-outline",
         "codepoint": "F1904",
-        "aliases": [],
+        "aliases": [
+            "home-energy"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
