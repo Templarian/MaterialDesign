@@ -29404,7 +29404,9 @@
         "id": "A682E4C4-6048-4BF7-BBCC-57167CE33687",
         "name": "eye-arrow-right-outline",
         "codepoint": "F1900",
-        "aliases": [],
+        "aliases": [
+            "view-arrow-right-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
