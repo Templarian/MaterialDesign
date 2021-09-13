@@ -40273,7 +40273,8 @@
         "codepoint": "F1903",
         "aliases": [
             "home-energy",
-            "home-power"
+            "home-power",
+            "home-electricity"
         ],
         "tags": [
             "Home Automation"
