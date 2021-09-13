@@ -67629,6 +67629,15 @@
         "version": "4.6.95"
     },
     {
+        "id": "2728D780-6100-4AD5-B5B3-67C64DAF983C",
+        "name": "tag-search",
+        "codepoint": "F1907",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "92B97B44-052D-48B5-993F-1AB16F76DC65",
         "name": "tag-text",
         "codepoint": "F1224",
