@@ -34490,7 +34490,9 @@
         "id": "F64E046B-8690-4ACF-90F7-98896159BB34",
         "name": "format-header-1",
         "codepoint": "F026B",
-        "aliases": [],
+        "aliases": [
+            "format-heading-1"
+        ],
         "tags": [
             "Text \/ Content \/ Format"
         ],
