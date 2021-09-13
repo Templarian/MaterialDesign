@@ -34542,7 +34542,9 @@
         "id": "FFC1FF08-CEFF-4623-B715-4731CDEF27D4",
         "name": "format-header-5",
         "codepoint": "F026F",
-        "aliases": [],
+        "aliases": [
+            "format-heading-5"
+        ],
         "tags": [
             "Text \/ Content \/ Format"
         ],
