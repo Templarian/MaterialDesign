@@ -34610,7 +34610,8 @@
         "aliases": [
             "format-header-hash",
             "format-heading-pound",
-            "format-heading-hash"
+            "format-heading-hash",
+            "format-heading-markdown"
         ],
         "tags": [
             "Text \/ Content \/ Format"
