@@ -70724,7 +70724,9 @@
             "energy-from-grid",
             "electricity-from-grid"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
