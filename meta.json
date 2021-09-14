@@ -69488,7 +69488,9 @@
         "id": "78B70624-89F7-4041-B247-9A39EA39957F",
         "name": "timer-cog-outline",
         "codepoint": "F1926",
-        "aliases": [],
+        "aliases": [
+            "timer-settings-outline"
+        ],
         "tags": [
             "Date \/ Time"
         ],
