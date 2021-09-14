@@ -70721,7 +70721,8 @@
         "codepoint": "F192C",
         "aliases": [
             "power-from-grid",
-            "energy-from-grid"
+            "energy-from-grid",
+            "electricity-from-grid"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
