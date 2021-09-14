@@ -1722,7 +1722,9 @@
         "id": "28583E81-1315-4397-8FC5-46325CF1FB94",
         "name": "advertisements-off",
         "codepoint": "F192B",
-        "aliases": [],
+        "aliases": [
+            "ads-off"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
