@@ -23410,7 +23410,9 @@
         "id": "74B57630-EBF9-48DB-886C-36FA79D4350B",
         "name": "cradle",
         "codepoint": "F1928",
-        "aliases": [],
+        "aliases": [
+            "crib"
+        ],
         "tags": [
             "People \/ Family"
         ],
