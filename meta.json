@@ -13621,6 +13621,15 @@
         "version": "2.0.46"
     },
     {
+        "id": "67F98777-D4FA-454C-96D6-835BD7A1D2D5",
+        "name": "bus-electric",
+        "codepoint": "F191D",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "42DCF950-C2F2-4989-8E0B-ACF16326A6A7",
         "name": "bus-marker",
         "codepoint": "F1212",
