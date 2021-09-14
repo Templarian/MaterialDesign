@@ -70715,7 +70715,9 @@
             "power",
             "grid"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "3.3.92"
     },
