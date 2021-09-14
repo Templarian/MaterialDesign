@@ -63731,6 +63731,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "60E74F0E-5537-4021-8223-BAD2B0130463",
+        "name": "smoke-detector-alert-outline",
+        "codepoint": "F192F",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "E523AF46-986A-4E8F-9662-45C61A70A887",
         "name": "smoke-detector-off",
         "codepoint": "F1809",
