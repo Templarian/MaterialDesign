@@ -50541,7 +50541,9 @@
         "id": "AB7248F1-C9F3-4EF3-ACD5-8B7EE11771C3",
         "name": "network-strength-4-cog",
         "codepoint": "F191A",
-        "aliases": [],
+        "aliases": [
+            "network-strength-4-settings"
+        ],
         "tags": [
             "Settings"
         ],
