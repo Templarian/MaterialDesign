@@ -50542,7 +50542,8 @@
         "name": "network-strength-4-cog",
         "codepoint": "F191A",
         "aliases": [
-            "network-strength-4-settings"
+            "network-strength-4-settings",
+            "data-settings"
         ],
         "tags": [
             "Settings"
