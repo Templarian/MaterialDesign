@@ -44858,7 +44858,9 @@
         "id": "48C6596F-07B5-495C-82E2-683B09DD7040",
         "name": "liquor",
         "codepoint": "F191E",
-        "aliases": [],
+        "aliases": [
+            "booze"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
