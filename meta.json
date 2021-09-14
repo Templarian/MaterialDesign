@@ -23411,7 +23411,9 @@
         "name": "cradle",
         "codepoint": "F1928",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "People \/ Family"
+        ],
         "author": "Google",
         "version": "6.4.95"
     },
