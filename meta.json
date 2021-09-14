@@ -1700,6 +1700,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "F368D23C-0F09-44D6-8487-F3229BEB6F1C",
+        "name": "advertisements",
+        "codepoint": "F192A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "FACEA69B-49F0-4588-BDEC-693965AD4649",
         "name": "air-conditioner",
         "codepoint": "F001B",
