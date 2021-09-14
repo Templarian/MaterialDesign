@@ -69489,7 +69489,9 @@
         "name": "timer-cog-outline",
         "codepoint": "F1926",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
