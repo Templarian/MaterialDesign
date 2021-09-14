@@ -1530,7 +1530,9 @@
         "aliases": [
             "account-cache"
         ],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
