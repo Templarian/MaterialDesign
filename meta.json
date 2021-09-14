@@ -35146,7 +35146,9 @@
         "name": "format-page-split",
         "codepoint": "F1917",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
