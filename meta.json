@@ -36304,7 +36304,9 @@
         "name": "gamepad-outline",
         "codepoint": "F1919",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
