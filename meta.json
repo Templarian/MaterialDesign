@@ -69581,7 +69581,9 @@
         "name": "timer-settings-outline",
         "codepoint": "F1924",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
