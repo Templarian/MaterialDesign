@@ -18567,7 +18567,9 @@
         "id": "488DC51C-ABAF-4017-885B-84D3BBDE4B42",
         "name": "checkbox-marked-circle-plus-outline",
         "codepoint": "F1927",
-        "aliases": [],
+        "aliases": [
+            "task-plus"
+        ],
         "tags": [],
         "author": "Teodor Sandu",
         "version": "6.4.95"
