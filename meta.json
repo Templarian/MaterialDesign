@@ -1543,7 +1543,9 @@
         "aliases": [
             "account-cache-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
