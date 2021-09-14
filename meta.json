@@ -50532,6 +50532,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "AB7248F1-C9F3-4EF3-ACD5-8B7EE11771C3",
+        "name": "network-strength-4-cog",
+        "codepoint": "F191A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "E3FEE803-9C91-4BAE-9528-D016588E99AD",
         "name": "network-strength-off",
         "codepoint": "F08FC",
