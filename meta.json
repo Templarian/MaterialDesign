@@ -18569,7 +18569,8 @@
         "codepoint": "F1927",
         "aliases": [
             "task-plus",
-            "task-add"
+            "task-add",
+            "todo-plus"
         ],
         "tags": [],
         "author": "Teodor Sandu",
