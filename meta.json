@@ -69398,6 +69398,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "78B70624-89F7-4041-B247-9A39EA39957F",
+        "name": "timer-cog-outline",
+        "codepoint": "F1926",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "CC698648-1A71-4EC8-A1E3-B5ACC42F2FDB",
         "name": "timer-off",
         "codepoint": "F13AC",
