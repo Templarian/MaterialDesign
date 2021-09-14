@@ -18570,7 +18570,8 @@
         "aliases": [
             "task-plus",
             "task-add",
-            "todo-plus"
+            "todo-plus",
+            "todo-add"
         ],
         "tags": [],
         "author": "Teodor Sandu",
