@@ -70712,7 +70712,8 @@
             "powerline",
             "electricity",
             "energy",
-            "power"
+            "power",
+            "grid"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
