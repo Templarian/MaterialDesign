@@ -1527,7 +1527,9 @@
         "id": "85F768C4-8659-414E-8C96-F2E90EB36971",
         "name": "account-sync",
         "codepoint": "F191B",
-        "aliases": [],
+        "aliases": [
+            "account-cache"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
