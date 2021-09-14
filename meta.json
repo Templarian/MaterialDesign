@@ -70654,6 +70654,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "7CCBC365-A3F5-46BA-869B-AADA93F5D027",
+        "name": "transmission-tower-import",
+        "codepoint": "F192D",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "260712C5-252B-484C-B5A7-33827BBC5487",
         "name": "trash-can",
         "codepoint": "F0A79",
