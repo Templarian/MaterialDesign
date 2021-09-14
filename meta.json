@@ -18568,7 +18568,8 @@
         "name": "checkbox-marked-circle-plus-outline",
         "codepoint": "F1927",
         "aliases": [
-            "task-plus"
+            "task-plus",
+            "task-add"
         ],
         "tags": [],
         "author": "Teodor Sandu",
