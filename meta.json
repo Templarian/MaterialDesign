@@ -34192,7 +34192,9 @@
         "name": "food-outline",
         "codepoint": "F1916",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Google",
         "version": "6.4.95"
     },
