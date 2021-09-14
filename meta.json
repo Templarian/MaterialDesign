@@ -1711,7 +1711,9 @@
         "id": "F368D23C-0F09-44D6-8487-F3229BEB6F1C",
         "name": "advertisements",
         "codepoint": "F192A",
-        "aliases": [],
+        "aliases": [
+            "ads"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
