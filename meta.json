@@ -69389,6 +69389,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "94B9E2FB-1589-418F-A128-C071B10B10EB",
+        "name": "timer-cog",
+        "codepoint": "F1925",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "CC698648-1A71-4EC8-A1E3-B5ACC42F2FDB",
         "name": "timer-off",
         "codepoint": "F13AC",
