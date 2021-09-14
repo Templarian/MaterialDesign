@@ -50542,7 +50542,9 @@
         "name": "network-strength-4-cog",
         "codepoint": "F191A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
