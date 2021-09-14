@@ -42084,7 +42084,9 @@
         "id": "D9D79C34-BE5A-4EA2-BB40-07E941C1632B",
         "name": "integrated-circuit-chip",
         "codepoint": "F1913",
-        "aliases": [],
+        "aliases": [
+            "icc"
+        ],
         "tags": [],
         "author": "Jeff Anders",
         "version": "6.4.95"
