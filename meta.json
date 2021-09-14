@@ -23424,7 +23424,9 @@
         "id": "3CDAD9E8-C4DC-42CA-9262-A0C45B94B139",
         "name": "cradle-outline",
         "codepoint": "F1929",
-        "aliases": [],
+        "aliases": [
+            "bassinet"
+        ],
         "tags": [
             "People \/ Family"
         ],
