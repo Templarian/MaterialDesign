@@ -63726,7 +63726,9 @@
         "name": "smoke-detector-alert",
         "codepoint": "F192E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
