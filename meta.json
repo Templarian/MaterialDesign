@@ -42081,6 +42081,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "D9D79C34-BE5A-4EA2-BB40-07E941C1632B",
+        "name": "integrated-circuit-chip",
+        "codepoint": "F1913",
+        "aliases": [],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.4.95"
+    },
+    {
         "id": "2B0100AC-D0EB-4B85-A9AB-EB921C9A65AC",
         "name": "invert-colors",
         "codepoint": "F0301",
