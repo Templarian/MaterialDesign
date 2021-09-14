@@ -25185,7 +25185,9 @@
         "id": "F80F0F20-77A0-426B-9354-D6F5C2B77473",
         "name": "database-eye-off-outline",
         "codepoint": "F1921",
-        "aliases": [],
+        "aliases": [
+            "database-view-off-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
