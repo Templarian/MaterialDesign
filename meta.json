@@ -63737,7 +63737,9 @@
         "name": "smoke-detector-alert-outline",
         "codepoint": "F192F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
