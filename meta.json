@@ -35129,6 +35129,15 @@
         "version": "1.8.36"
     },
     {
+        "id": "841FF2DA-C31C-48B1-A566-10238590DAF9",
+        "name": "format-page-split",
+        "codepoint": "F1917",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "70232BC6-D883-48CD-B992-9EE1DABEBFD7",
         "name": "format-paint",
         "codepoint": "F027C",
