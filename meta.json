@@ -70720,7 +70720,8 @@
         "name": "transmission-tower-export",
         "codepoint": "F192C",
         "aliases": [
-            "power-from-grid"
+            "power-from-grid",
+            "energy-from-grid"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
