@@ -70731,7 +70731,8 @@
         "aliases": [
             "to-grid",
             "energy-to-grid",
-            "electricity-to-grid"
+            "electricity-to-grid",
+            "return-to-grid"
         ],
         "tags": [
             "Home Automation"
