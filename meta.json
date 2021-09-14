@@ -34164,8 +34164,17 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Austin Andrews",
+        "author": "Google",
         "version": "1.5.54"
+    },
+    {
+        "id": "339A2EDA-7C62-4D1F-AB2E-2E5F7F5200FC",
+        "name": "food-off-outline",
+        "codepoint": "F1915",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.4.95"
     },
     {
         "id": "1A357DD0-01F0-4FF9-83D3-41B9AA22E5D1",
