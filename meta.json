@@ -70719,7 +70719,9 @@
         "id": "F1AC7C0E-CA03-4ED0-AFE9-CE0CEB3C9806",
         "name": "transmission-tower-export",
         "codepoint": "F192C",
-        "aliases": [],
+        "aliases": [
+            "power-from-grid"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
