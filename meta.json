@@ -25203,7 +25203,9 @@
         "name": "database-eye-outline",
         "codepoint": "F1922",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
