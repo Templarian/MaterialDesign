@@ -69475,7 +69475,9 @@
         "id": "94B9E2FB-1589-418F-A128-C071B10B10EB",
         "name": "timer-cog",
         "codepoint": "F1925",
-        "aliases": [],
+        "aliases": [
+            "timer-settings"
+        ],
         "tags": [
             "Date \/ Time"
         ],
