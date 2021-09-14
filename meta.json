@@ -23383,6 +23383,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "3CDAD9E8-C4DC-42CA-9262-A0C45B94B139",
+        "name": "cradle-outline",
+        "codepoint": "F1929",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.4.95"
+    },
+    {
         "id": "8C0FE6E3-3D82-4FCA-9CCC-73CA8C5299D1",
         "name": "crane",
         "codepoint": "F0862",
