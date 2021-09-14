@@ -70730,7 +70730,8 @@
         "codepoint": "F192D",
         "aliases": [
             "to-grid",
-            "energy-to-grid"
+            "energy-to-grid",
+            "electricity-to-grid"
         ],
         "tags": [
             "Home Automation"
