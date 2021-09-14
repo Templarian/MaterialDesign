@@ -18045,6 +18045,15 @@
         "version": "3.7.94"
     },
     {
+        "id": "ABA3B2FE-7270-466B-86F6-00A87B947F6F",
+        "name": "chart-waterfall",
+        "codepoint": "F1918",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "7FF15164-E575-4024-ABAC-A183179F0217",
         "name": "chat",
         "codepoint": "F0B79",
