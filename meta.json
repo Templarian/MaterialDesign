@@ -1540,7 +1540,9 @@
         "id": "4D5C282D-E452-4544-BD36-6EBF5DE7FD85",
         "name": "account-sync-outline",
         "codepoint": "F191C",
-        "aliases": [],
+        "aliases": [
+            "account-cache-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
