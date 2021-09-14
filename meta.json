@@ -25163,7 +25163,9 @@
         "id": "E08D8382-BE58-41F4-B00C-4B6926C1F550",
         "name": "database-eye",
         "codepoint": "F191F",
-        "aliases": [],
+        "aliases": [
+            "database-view"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
