@@ -70729,7 +70729,6 @@
         "name": "transmission-tower-import",
         "codepoint": "F192D",
         "aliases": [
-            "to-grid",
             "energy-to-grid",
             "electricity-to-grid",
             "return-to-grid"
