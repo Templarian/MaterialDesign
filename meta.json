@@ -36304,7 +36304,8 @@
         "name": "gamepad-outline",
         "codepoint": "F1919",
         "aliases": [
-            "controller-outline"
+            "controller-outline",
+            "games-outline"
         ],
         "tags": [
             "Gaming \/ RPG",
