@@ -13643,7 +13643,9 @@
         "name": "bus-electric",
         "codepoint": "F191D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
