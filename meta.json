@@ -70711,7 +70711,8 @@
             "pylon",
             "powerline",
             "electricity",
-            "energy"
+            "energy",
+            "power"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
