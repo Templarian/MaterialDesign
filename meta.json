@@ -70729,7 +70729,8 @@
         "name": "transmission-tower-import",
         "codepoint": "F192D",
         "aliases": [
-            "to-grid"
+            "to-grid",
+            "energy-to-grid"
         ],
         "tags": [
             "Home Automation"
