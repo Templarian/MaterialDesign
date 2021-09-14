@@ -44772,6 +44772,15 @@
         "version": "6.1.95"
     },
     {
+        "id": "48C6596F-07B5-495C-82E2-683B09DD7040",
+        "name": "liquor",
+        "codepoint": "F191E",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.4.95"
+    },
+    {
         "id": "CC9CEDB3-55DE-4CCA-B31F-888383F6C69E",
         "name": "list-status",
         "codepoint": "F15AB",
