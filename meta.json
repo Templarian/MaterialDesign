@@ -44859,7 +44859,9 @@
         "name": "liquor",
         "codepoint": "F191E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Google",
         "version": "6.4.95"
     },
