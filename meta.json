@@ -42085,7 +42085,8 @@
         "name": "integrated-circuit-chip",
         "codepoint": "F1913",
         "aliases": [
-            "icc"
+            "icc",
+            "chip"
         ],
         "tags": [],
         "author": "Jeff Anders",
