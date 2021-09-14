@@ -42088,7 +42088,9 @@
             "icc",
             "chip"
         ],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Jeff Anders",
         "version": "6.4.95"
     },
