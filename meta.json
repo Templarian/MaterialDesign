@@ -69465,6 +69465,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "F8FF1136-69B0-4DCA-9BC6-092AE2CE23F2",
+        "name": "timer-settings",
+        "codepoint": "F1923",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "F06ED6E0-0EB1-4B39-8E85-1A82A273F473",
         "name": "timetable",
         "codepoint": "F0520",
