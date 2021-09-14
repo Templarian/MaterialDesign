@@ -36300,6 +36300,15 @@
         "version": "3.6.95"
     },
     {
+        "id": "57E03360-C609-4F40-85D0-10A2019A1EE4",
+        "name": "gamepad-outline",
+        "codepoint": "F1919",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "D513E54E-6492-4C2A-99E9-3E50C5662B88",
         "name": "gamepad-right",
         "codepoint": "F0E3B",
