@@ -25202,7 +25202,9 @@
         "id": "67DAC11C-DFB0-40C7-B8CF-26A41469DD80",
         "name": "database-eye-outline",
         "codepoint": "F1922",
-        "aliases": [],
+        "aliases": [
+            "database-view-outline"
+        ],
         "tags": [
             "Database"
         ],
