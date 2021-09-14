@@ -70728,7 +70728,9 @@
         "id": "7CCBC365-A3F5-46BA-869B-AADA93F5D027",
         "name": "transmission-tower-import",
         "codepoint": "F192D",
-        "aliases": [],
+        "aliases": [
+            "to-grid"
+        ],
         "tags": [
             "Home Automation"
         ],
