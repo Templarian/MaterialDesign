@@ -1533,6 +1533,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "4D5C282D-E452-4544-BD36-6EBF5DE7FD85",
+        "name": "account-sync-outline",
+        "codepoint": "F191C",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "5EF0B9EA-FECB-409C-999C-FE1ECF0C8B01",
         "name": "account-tie",
         "codepoint": "F0CE3",
