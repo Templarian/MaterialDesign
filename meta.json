@@ -25132,6 +25132,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "67DAC11C-DFB0-40C7-B8CF-26A41469DD80",
+        "name": "database-eye-outline",
+        "codepoint": "F1922",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "733A4C8A-FAA5-42BE-882E-98EC734E8493",
         "name": "database-import",
         "codepoint": "F095D",
