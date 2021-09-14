@@ -25188,7 +25188,9 @@
         "aliases": [
             "database-view-off-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Database"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
