@@ -69570,7 +69570,9 @@
         "name": "timer-settings",
         "codepoint": "F1923",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
