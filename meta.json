@@ -1709,6 +1709,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "28583E81-1315-4397-8FC5-46325CF1FB94",
+        "name": "advertisements-off",
+        "codepoint": "F192B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "FACEA69B-49F0-4588-BDEC-693965AD4649",
         "name": "air-conditioner",
         "codepoint": "F001B",
