@@ -18536,6 +18536,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "488DC51C-ABAF-4017-885B-84D3BBDE4B42",
+        "name": "checkbox-marked-circle-plus-outline",
+        "codepoint": "F1927",
+        "aliases": [],
+        "tags": [],
+        "author": "Teodor Sandu",
+        "version": "6.4.95"
+    },
+    {
         "id": "AB384DA7-C0DA-4A68-96EA-FC54BF0EDED1",
         "name": "checkbox-marked-outline",
         "codepoint": "F0135",
