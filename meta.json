@@ -21791,7 +21791,8 @@
         "name": "cog-play",
         "codepoint": "F1935",
         "aliases": [
-            "settings-play"
+            "settings-play",
+            "gear-play"
         ],
         "tags": [
             "Settings"
