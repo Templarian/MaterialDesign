@@ -21784,6 +21784,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "0238FC32-F3C6-46F5-8223-8B63D96B9749",
+        "name": "cog-play-outline",
+        "codepoint": "F1936",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "5F716B9D-4A30-4D1A-B452-B6B0D8B27EDE",
         "name": "cog-refresh",
         "codepoint": "F145E",
