@@ -21538,6 +21538,15 @@
         "version": "4.2.95"
     },
     {
+        "id": "A82510E6-E7E7-4E2C-96A6-E041EFC72897",
+        "name": "coffee-maker-check",
+        "codepoint": "F1931",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "0E490D96-1352-4592-A544-F80D43681A9E",
         "name": "coffee-maker-outline",
         "codepoint": "F181B",
