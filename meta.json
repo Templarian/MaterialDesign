@@ -50972,6 +50972,15 @@
         "version": "3.8.95"
     },
     {
+        "id": "9E4ABD6C-A1C6-4209-B977-83A7A03667A8",
+        "name": "newspaper-remove",
+        "codepoint": "F1944",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "B7E3A571-DF01-4CBF-A3AE-CDEF835F2A21",
         "name": "newspaper-variant",
         "codepoint": "F1001",
