@@ -31219,7 +31219,9 @@
         "aliases": [
             "file-image-add-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
