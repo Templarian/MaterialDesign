@@ -21856,7 +21856,9 @@
         "id": "F937057A-B769-4F5E-A079-7D9BF4679807",
         "name": "cog-stop-outline",
         "codepoint": "F1938",
-        "aliases": [],
+        "aliases": [
+            "settings-stop-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
