@@ -57353,7 +57353,9 @@
         "name": "publish-off",
         "codepoint": "F1945",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Arrow"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
