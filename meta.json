@@ -21772,7 +21772,9 @@
         "id": "FE314FE9-CDD6-42DF-9F62-F470E3F0E2BF",
         "name": "cog-pause",
         "codepoint": "F1933",
-        "aliases": [],
+        "aliases": [
+            "settings-pause"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
