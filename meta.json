@@ -21842,7 +21842,9 @@
         "id": "FC49E1B1-ED0E-46CB-B29F-ED444E9B85F0",
         "name": "cog-stop",
         "codepoint": "F1937",
-        "aliases": [],
+        "aliases": [
+            "settings-stop"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
