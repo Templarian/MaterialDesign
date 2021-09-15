@@ -73283,7 +73283,9 @@
         "name": "view-dashboard-edit",
         "codepoint": "F1947",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "View"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
