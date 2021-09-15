@@ -50945,6 +50945,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "F329B5C0-F6CC-4402-B4BF-A8744C9D802E",
+        "name": "newspaper-check",
+        "codepoint": "F1943",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "4949C4CF-3395-466E-B459-9FEBA1BFD1AC",
         "name": "newspaper-minus",
         "codepoint": "F0F0C",
