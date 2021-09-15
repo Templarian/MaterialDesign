@@ -31234,7 +31234,9 @@
         "name": "file-image-remove",
         "codepoint": "F193F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
