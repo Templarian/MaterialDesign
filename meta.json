@@ -31203,7 +31203,9 @@
         "id": "687ED5E3-8466-48F0-A5D3-1D5EBB95B9F4",
         "name": "file-image-plus",
         "codepoint": "F193D",
-        "aliases": [],
+        "aliases": [
+            "file-image-add"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
