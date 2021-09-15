@@ -57352,7 +57352,9 @@
         "id": "57375CB0-5F7F-492E-BB25-3EE90669FE6D",
         "name": "publish-off",
         "codepoint": "F1945",
-        "aliases": [],
+        "aliases": [
+            "publish-disabled"
+        ],
         "tags": [
             "Arrow"
         ],
