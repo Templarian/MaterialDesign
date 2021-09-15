@@ -21843,7 +21843,8 @@
         "name": "cog-stop",
         "codepoint": "F1937",
         "aliases": [
-            "settings-stop"
+            "settings-stop",
+            "gear-stop"
         ],
         "tags": [
             "Settings"
