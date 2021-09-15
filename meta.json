@@ -21776,7 +21776,9 @@
             "settings-pause",
             "gear-pause"
         ],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
