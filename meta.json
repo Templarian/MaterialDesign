@@ -31216,7 +31216,9 @@
         "id": "0D25D768-827E-4FE8-9A45-67D883E3B6FA",
         "name": "file-image-plus-outline",
         "codepoint": "F193E",
-        "aliases": [],
+        "aliases": [
+            "file-image-add-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
