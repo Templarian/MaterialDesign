@@ -31175,7 +31175,9 @@
         "name": "file-image-minus",
         "codepoint": "F193B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
