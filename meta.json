@@ -47321,7 +47321,9 @@
         "id": "E3DAA0CA-4F39-49E0-9D3D-5306D764167D",
         "name": "message-badge-outline",
         "codepoint": "F1942",
-        "aliases": [],
+        "aliases": [
+            "message-unread-outline"
+        ],
         "tags": [],
         "author": "Google",
         "version": "6.4.95"
