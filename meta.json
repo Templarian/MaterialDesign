@@ -21857,7 +21857,8 @@
         "name": "cog-stop-outline",
         "codepoint": "F1938",
         "aliases": [
-            "settings-stop-outline"
+            "settings-stop-outline",
+            "gear-stop-outline"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
