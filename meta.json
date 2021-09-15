@@ -21556,7 +21556,9 @@
         "id": "DDF7AAA6-C0A9-428C-9A2A-1B491714AF82",
         "name": "coffee-maker-check-outline",
         "codepoint": "F1932",
-        "aliases": [],
+        "aliases": [
+            "coffee-maker-complete-outline"
+        ],
         "tags": [
             "Home Automation",
             "Food \/ Drink"
