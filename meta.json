@@ -21804,7 +21804,9 @@
         "name": "cog-play-outline",
         "codepoint": "F1936",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
