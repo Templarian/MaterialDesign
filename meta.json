@@ -30338,6 +30338,15 @@
         "version": "3.4.93"
     },
     {
+        "id": "5C0FCEDF-44B3-4F3A-8D6A-6AB54EBC55F6",
+        "name": "fast-forward-15",
+        "codepoint": "F193A",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "23895783-905C-45DE-BF43-D58214199B75",
         "name": "fast-forward-30",
         "codepoint": "F0D06",
