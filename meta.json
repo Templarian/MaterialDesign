@@ -47310,7 +47310,9 @@
         "id": "B34D5D57-7A9B-43CD-B58F-D18CD484DCC9",
         "name": "message-badge",
         "codepoint": "F1941",
-        "aliases": [],
+        "aliases": [
+            "message-unread"
+        ],
         "tags": [],
         "author": "Google",
         "version": "6.4.95"
