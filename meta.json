@@ -31245,7 +31245,9 @@
         "name": "file-image-remove-outline",
         "codepoint": "F1940",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
