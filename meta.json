@@ -47304,6 +47304,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "E3DAA0CA-4F39-49E0-9D3D-5306D764167D",
+        "name": "message-badge-outline",
+        "codepoint": "F1942",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.4.95"
+    },
+    {
         "id": "80D7EBEA-4C3B-43B9-8181-BEEE728D5D90",
         "name": "message-bookmark",
         "codepoint": "F15AC",
