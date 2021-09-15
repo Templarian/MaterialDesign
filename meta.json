@@ -73213,6 +73213,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "F55B37EB-4DE9-49E8-88BC-1D339FA3EF4D",
+        "name": "view-dashboard-edit",
+        "codepoint": "F1947",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "B44B2BB0-0BF9-42B7-BF70-ECC7FF102520",
         "name": "view-dashboard-outline",
         "codepoint": "F0A1D",
