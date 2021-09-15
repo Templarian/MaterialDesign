@@ -23328,6 +23328,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "430A9380-A9BB-43C3-8A16-3F41AE22C3D7",
+        "name": "copyleft",
+        "codepoint": "F1939",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "34B43A77-9873-4723-AA65-45D42992748E",
         "name": "copyright",
         "codepoint": "F05E6",
