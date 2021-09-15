@@ -57333,6 +57333,15 @@
         "version": "1.7.12"
     },
     {
+        "id": "57375CB0-5F7F-492E-BB25-3EE90669FE6D",
+        "name": "publish-off",
+        "codepoint": "F1945",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "2A0F7B5D-5D23-4E76-B97D-9D2281D3C4EA",
         "name": "pulse",
         "codepoint": "F0430",
