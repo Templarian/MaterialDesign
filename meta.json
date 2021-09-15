@@ -21786,7 +21786,9 @@
         "id": "7BC10816-C8A9-4B8D-B11B-B51E0CCB9F72",
         "name": "cog-pause-outline",
         "codepoint": "F1934",
-        "aliases": [],
+        "aliases": [
+            "settings-pause-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
