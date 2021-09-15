@@ -21757,6 +21757,15 @@
         "version": "2.2.43"
     },
     {
+        "id": "FE314FE9-CDD6-42DF-9F62-F470E3F0E2BF",
+        "name": "cog-pause",
+        "codepoint": "F1933",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "5F716B9D-4A30-4D1A-B452-B6B0D8B27EDE",
         "name": "cog-refresh",
         "codepoint": "F145E",
