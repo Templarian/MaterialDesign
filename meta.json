@@ -21805,7 +21805,8 @@
         "name": "cog-play-outline",
         "codepoint": "F1936",
         "aliases": [
-            "settings-play-outline"
+            "settings-play-outline",
+            "gear-play-outline"
         ],
         "tags": [
             "Settings"
