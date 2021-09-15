@@ -31167,6 +31167,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "0D25D768-827E-4FE8-9A45-67D883E3B6FA",
+        "name": "file-image-plus-outline",
+        "codepoint": "F193E",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "1294020B-960A-4390-916F-BF8118A6E7C6",
         "name": "file-import",
         "codepoint": "F0220",
