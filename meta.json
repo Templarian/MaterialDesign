@@ -31204,7 +31204,9 @@
         "name": "file-image-plus",
         "codepoint": "F193D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
