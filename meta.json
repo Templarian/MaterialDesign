@@ -21773,7 +21773,8 @@
         "name": "cog-pause",
         "codepoint": "F1933",
         "aliases": [
-            "settings-pause"
+            "settings-pause",
+            "gear-pause"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
