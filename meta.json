@@ -21541,7 +21541,9 @@
         "id": "A82510E6-E7E7-4E2C-96A6-E041EFC72897",
         "name": "coffee-maker-check",
         "codepoint": "F1931",
-        "aliases": [],
+        "aliases": [
+            "coffee-maker-done"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
