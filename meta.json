@@ -21803,7 +21803,9 @@
         "id": "0238FC32-F3C6-46F5-8223-8B63D96B9749",
         "name": "cog-play-outline",
         "codepoint": "F1936",
-        "aliases": [],
+        "aliases": [
+            "settings-play-outline"
+        ],
         "tags": [
             "Settings"
         ],
