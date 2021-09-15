@@ -73294,7 +73294,9 @@
         "name": "view-dashboard-edit-outline",
         "codepoint": "F1948",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "View"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
