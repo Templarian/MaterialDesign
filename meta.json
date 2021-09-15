@@ -21790,7 +21790,9 @@
             "settings-pause-outline",
             "gear-pause-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
