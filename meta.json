@@ -21542,7 +21542,8 @@
         "name": "coffee-maker-check",
         "codepoint": "F1931",
         "aliases": [
-            "coffee-maker-done"
+            "coffee-maker-done",
+            "coffee-maker-complete"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
