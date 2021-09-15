@@ -21557,7 +21557,9 @@
         "name": "coffee-maker-check-outline",
         "codepoint": "F1932",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
