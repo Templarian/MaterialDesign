@@ -47295,6 +47295,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "B34D5D57-7A9B-43CD-B58F-D18CD484DCC9",
+        "name": "message-badge",
+        "codepoint": "F1941",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.4.95"
+    },
+    {
         "id": "80D7EBEA-4C3B-43B9-8181-BEEE728D5D90",
         "name": "message-bookmark",
         "codepoint": "F15AC",
