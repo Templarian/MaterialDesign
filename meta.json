@@ -59109,6 +59109,15 @@
         "version": "3.3.92"
     },
     {
+        "id": "2DB4A76F-04DC-4E7A-88F0-72C936921B48",
+        "name": "rewind-15",
+        "codepoint": "F1946",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "21F6D751-0E5A-41F8-980C-2C4385A59CC4",
         "name": "rewind-30",
         "codepoint": "F0D96",
