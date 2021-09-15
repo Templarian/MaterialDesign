@@ -21819,6 +21819,15 @@
         "version": "5.2.45"
     },
     {
+        "id": "FC49E1B1-ED0E-46CB-B29F-ED444E9B85F0",
+        "name": "cog-stop",
+        "codepoint": "F1937",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "BEC36759-CFB0-4475-A65B-B10F860E850A",
         "name": "cog-sync",
         "codepoint": "F1460",
