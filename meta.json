@@ -21787,7 +21787,8 @@
         "name": "cog-pause-outline",
         "codepoint": "F1934",
         "aliases": [
-            "settings-pause-outline"
+            "settings-pause-outline",
+            "gear-pause-outline"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
