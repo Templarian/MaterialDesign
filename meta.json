@@ -25021,7 +25021,9 @@
         "name": "cylinder-off",
         "codepoint": "F194F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.4.95"
     },
