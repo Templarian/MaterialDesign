@@ -53145,7 +53145,9 @@
         "name": "octahedron-off",
         "codepoint": "F1951",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.4.95"
     },
