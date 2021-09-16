@@ -25002,6 +25002,15 @@
         "version": "6.2.95"
     },
     {
+        "id": "10ABF378-1E4C-479B-A99E-921605698123",
+        "name": "cylinder",
+        "codepoint": "F194E",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.4.95"
+    },
+    {
         "id": "82D8E45B-5E04-4094-818B-DE18775F9A91",
         "name": "dance-ballroom",
         "codepoint": "F15FB",
