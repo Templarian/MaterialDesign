@@ -57738,6 +57738,15 @@
         "version": "5.3.45"
     },
     {
+        "id": "EB4E13BA-AB0B-4D32-BAAE-2D37A685768B",
+        "name": "pyramid",
+        "codepoint": "F1952",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.4.95"
+    },
+    {
         "id": "1F897ED3-17CC-43F5-9A0B-F7804A8DFABF",
         "name": "qi",
         "codepoint": "F0999",
