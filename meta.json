@@ -53123,7 +53123,9 @@
         "name": "office-building-cog-outline",
         "codepoint": "F194A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Joshua Solomon",
         "version": "6.4.95"
     },
