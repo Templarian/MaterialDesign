@@ -38896,7 +38896,9 @@
         "id": "8FEFA10A-395F-47B9-B5B9-0040905E9E1F",
         "name": "hand-clap",
         "codepoint": "F194B",
-        "aliases": [],
+        "aliases": [
+            "applause"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
