@@ -35351,6 +35351,15 @@
         "version": "4.0.96"
     },
     {
+        "id": "868506A4-50DB-4C9C-9CEA-278969298EF4",
+        "name": "format-letter-spacing",
+        "codepoint": "F1956",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "870F391E-A069-461E-9296-904B34308D98",
         "name": "format-letter-starts-with",
         "codepoint": "F0FBA",
