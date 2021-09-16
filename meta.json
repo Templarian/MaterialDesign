@@ -57766,7 +57766,9 @@
         "name": "pyramid-off",
         "codepoint": "F1953",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.4.95"
     },
