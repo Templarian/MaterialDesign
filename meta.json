@@ -22587,7 +22587,9 @@
         "name": "cone-off",
         "codepoint": "F194D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.4.95"
     },
