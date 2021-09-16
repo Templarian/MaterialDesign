@@ -53113,7 +53113,9 @@
         "id": "4A51F91C-857B-454A-8753-7AACF3B085A9",
         "name": "office-building-cog",
         "codepoint": "F1949",
-        "aliases": [],
+        "aliases": [
+            "office-building-settings"
+        ],
         "tags": [],
         "author": "Joshua Solomon",
         "version": "6.4.95"
