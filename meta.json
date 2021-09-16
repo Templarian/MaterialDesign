@@ -36113,7 +36113,9 @@
         "id": "C7BD4B3A-4B63-4FDE-99D5-87B4DA460492",
         "name": "french-fries",
         "codepoint": "F1957",
-        "aliases": [],
+        "aliases": [
+            "chips"
+        ],
         "tags": [
             "Food \/ Drink"
         ],
