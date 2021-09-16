@@ -53122,6 +53122,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "AD67A41D-5524-4F72-8658-C3F78A06333E",
+        "name": "octahedron-off",
+        "codepoint": "F1951",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.4.95"
+    },
+    {
         "id": "8BB24B94-491F-4465-8E87-45FF8FED7C4A",
         "name": "odnoklassniki",
         "codepoint": "F03C5",
