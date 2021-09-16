@@ -25011,6 +25011,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "0CD686F7-F7EF-416B-A74D-8FDC54EAB7BF",
+        "name": "cylinder-off",
+        "codepoint": "F194F",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.4.95"
+    },
+    {
         "id": "82D8E45B-5E04-4094-818B-DE18775F9A91",
         "name": "dance-ballroom",
         "codepoint": "F15FB",
