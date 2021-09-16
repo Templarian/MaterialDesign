@@ -65338,7 +65338,9 @@
         "name": "sphere-off",
         "codepoint": "F1955",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.4.95"
     },
