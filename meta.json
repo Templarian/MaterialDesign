@@ -65307,6 +65307,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "9E6A501E-659C-4C6B-8ADE-4BF61DAADDD2",
+        "name": "sphere-off",
+        "codepoint": "F1955",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.4.95"
+    },
+    {
         "id": "BCDD4A6F-3064-4FF3-9172-0BBF8BED2D2C",
         "name": "spider",
         "codepoint": "F11EA",
