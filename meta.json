@@ -59156,7 +59156,8 @@
         "name": "restore",
         "codepoint": "F099B",
         "aliases": [
-            "loop"
+            "loop",
+            "rotate-counter-clockwise"
         ],
         "tags": [],
         "author": "Google",
