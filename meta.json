@@ -57755,7 +57755,9 @@
         "name": "pyramid",
         "codepoint": "F1952",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.4.95"
     },
