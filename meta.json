@@ -22576,7 +22576,9 @@
         "name": "cone",
         "codepoint": "F194C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.4.95"
     },
