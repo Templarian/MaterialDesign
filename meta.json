@@ -53122,7 +53122,9 @@
         "id": "09BF7DAE-15CA-4539-BD8A-A741EB7E6405",
         "name": "office-building-cog-outline",
         "codepoint": "F194A",
-        "aliases": [],
+        "aliases": [
+            "office-building-settings-outline"
+        ],
         "tags": [
             "Settings",
             "Places"
