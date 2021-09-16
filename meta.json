@@ -409,7 +409,7 @@
             "Account \/ User",
             "Banking"
         ],
-        "author": "Contributors",
+        "author": "Jacob Wright",
         "version": "4.2.95"
     },
     {
@@ -421,7 +421,7 @@
             "Account \/ User",
             "Banking"
         ],
-        "author": "Contributors",
+        "author": "Jacob Wright",
         "version": "4.2.95"
     },
     {
@@ -2383,7 +2383,7 @@
         "tags": [
             "Alert \/ Error"
         ],
-        "author": "Contributors",
+        "author": "Alessandro Rossignoli",
         "version": "5.3.45"
     },
     {
@@ -2473,7 +2473,7 @@
         "tags": [
             "Alert \/ Error"
         ],
-        "author": "Contributors",
+        "author": "Alessandro Rossignoli",
         "version": "5.3.45"
     },
     {
@@ -4876,7 +4876,7 @@
         "codepoint": "F1257",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "sergiocarlotto",
         "version": "4.6.95"
     },
     {
@@ -5820,7 +5820,7 @@
         "codepoint": "F0FD7",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "yuanruili",
         "version": "4.2.95"
     },
     {
@@ -5829,7 +5829,7 @@
         "codepoint": "F0FD6",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "yuanruili",
         "version": "4.2.95"
     },
     {
@@ -8689,7 +8689,7 @@
         "tags": [
             "Banking"
         ],
-        "author": "Contributors",
+        "author": "Rosemary Stanley",
         "version": "3.5.94"
     },
     {
@@ -10489,7 +10489,7 @@
             "Nature",
             "Agriculture"
         ],
-        "author": "Contributors",
+        "author": "guenth39",
         "version": "5.4.55"
     },
     {
@@ -10623,7 +10623,7 @@
         "tags": [
             "Notification"
         ],
-        "author": "Contributors",
+        "author": "GreenTurtwig",
         "version": "4.5.95"
     },
     {
@@ -10634,7 +10634,7 @@
         "tags": [
             "Notification"
         ],
-        "author": "Contributors",
+        "author": "GreenTurtwig",
         "version": "4.5.95"
     },
     {
@@ -13004,7 +13004,7 @@
         "tags": [
             "Edit \/ Modify"
         ],
-        "author": "Contributors",
+        "author": "theminanaji",
         "version": "2.7.94"
     },
     {
@@ -13037,7 +13037,7 @@
             "briefcase-view-outline"
         ],
         "tags": [],
-        "author": "Contributors",
+        "author": "Andrew Nenakhov",
         "version": "6.1.95"
     },
     {
@@ -13345,7 +13345,7 @@
         "codepoint": "F1771",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Teodor Sandu",
         "version": "6.1.95"
     },
     {
@@ -14205,7 +14205,7 @@
         "tags": [
             "Date \/ Time"
         ],
-        "author": "Contributors",
+        "author": "ButchMonkey",
         "version": "3.4.93"
     },
     {
@@ -16847,7 +16847,7 @@
         "codepoint": "F14EE",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Lucas Crivellari Macieira",
         "version": "5.4.55"
     },
     {
@@ -16909,7 +16909,7 @@
         "codepoint": "F1260",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "sergiocarlotto",
         "version": "4.7.95"
     },
     {
@@ -16932,7 +16932,7 @@
         "codepoint": "F1261",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "sergiocarlotto",
         "version": "4.7.95"
     },
     {
@@ -16959,7 +16959,7 @@
         "tags": [
             "Shopping"
         ],
-        "author": "Contributors",
+        "author": "TheManuz",
         "version": "3.3.92"
     },
     {
@@ -16968,7 +16968,7 @@
         "codepoint": "F1262",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Austin Andrews",
         "version": "4.7.95"
     },
     {
@@ -17005,7 +17005,7 @@
         "tags": [
             "Audio"
         ],
-        "author": "Contributors",
+        "author": "Kinetic Screen",
         "version": "4.1.95"
     },
     {
@@ -17065,7 +17065,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "Google",
         "version": "1.5.54"
     },
     {
@@ -17192,7 +17192,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "Teodor Sandu",
         "version": "6.1.95"
     },
     {
@@ -17552,7 +17552,7 @@
             "Cellphone \/ Phone",
             "Device \/ Tech"
         ],
-        "author": "Contributors",
+        "author": "Austin Andrews",
         "version": "2.1.19"
     },
     {
@@ -18118,7 +18118,7 @@
         "codepoint": "F0B79",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Austin Andrews",
         "version": "3.0.39"
     },
     {
@@ -19870,7 +19870,7 @@
         "tags": [
             "Edit \/ Modify"
         ],
-        "author": "Contributors",
+        "author": "Alison Moura",
         "version": "5.4.55"
     },
     {
@@ -19881,7 +19881,7 @@
         "tags": [
             "Edit \/ Modify"
         ],
-        "author": "Contributors",
+        "author": "Alison Moura",
         "version": "5.4.55"
     },
     {
@@ -19917,7 +19917,7 @@
         "codepoint": "F1117",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Michael Irigoyen",
         "version": "4.3.95"
     },
     {
@@ -19926,7 +19926,7 @@
         "codepoint": "F10D4",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Michael Irigoyen",
         "version": "4.3.95"
     },
     {
@@ -19935,7 +19935,7 @@
         "codepoint": "F10D5",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "kevin-hens",
         "version": "4.3.95"
     },
     {
@@ -22958,7 +22958,7 @@
         "tags": [
             "Settings"
         ],
-        "author": "Contributors",
+        "author": "Ruslan Garifullin",
         "version": "2.8.94"
     },
     {
@@ -24563,7 +24563,7 @@
             "Currency",
             "Banking"
         ],
-        "author": "Contributors",
+        "author": "Austin Andrews",
         "version": "1.5.54"
     },
     {
@@ -24646,7 +24646,7 @@
             "Banking",
             "Currency"
         ],
-        "author": "Contributors",
+        "author": "Austin Andrews",
         "version": "3.2.89"
     },
     {
@@ -24907,7 +24907,7 @@
         "codepoint": "F1127",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Michael Irigoyen",
         "version": "4.3.95"
     },
     {
@@ -24916,7 +24916,7 @@
         "codepoint": "F1128",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "mchvn",
         "version": "4.3.95"
     },
     {
@@ -25518,7 +25518,7 @@
         "tags": [
             "Database"
         ],
-        "author": "Contributors",
+        "author": "Michael Richins",
         "version": "1.5.54"
     },
     {
@@ -26028,7 +26028,7 @@
         "codepoint": "F1239",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Gabriel Grant",
         "version": "4.6.95"
     },
     {
@@ -27325,7 +27325,7 @@
             "menu"
         ],
         "tags": [],
-        "author": "Contributors",
+        "author": "Google",
         "version": "2.0.46"
     },
     {
@@ -27383,7 +27383,7 @@
             "menu"
         ],
         "tags": [],
-        "author": "Contributors",
+        "author": "Austin Andrews",
         "version": "2.0.46"
     },
     {
@@ -29940,7 +29940,7 @@
             "emoticon-agent"
         ],
         "tags": [],
-        "author": "Contributors",
+        "author": "Mark Joseph Monserrat",
         "version": "3.4.93"
     },
     {
@@ -30332,7 +30332,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "Michael Irigoyen",
         "version": "5.2.45"
     },
     {
@@ -30345,7 +30345,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "Michael Irigoyen",
         "version": "5.2.45"
     },
     {
@@ -30358,7 +30358,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "Michael Irigoyen",
         "version": "5.2.45"
     },
     {
@@ -30403,7 +30403,7 @@
         "codepoint": "F11F8",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Austin Andrews",
         "version": "4.6.95"
     },
     {
@@ -30935,7 +30935,7 @@
         "codepoint": "F1517",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Robbert Gurdeep Singh",
         "version": "5.4.55"
     },
     {
@@ -31318,7 +31318,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Contributors",
+        "author": "Michael Irigoyen",
         "version": "4.4.95"
     },
     {
@@ -31329,7 +31329,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Contributors",
+        "author": "Michael Irigoyen",
         "version": "4.4.95"
     },
     {
@@ -31469,7 +31469,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Contributors",
+        "author": "Simran",
         "version": "1.5.54"
     },
     {
@@ -31502,7 +31502,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Contributors",
+        "author": "Victor",
         "version": "4.4.95"
     },
     {
@@ -31513,7 +31513,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Contributors",
+        "author": "Victor",
         "version": "4.4.95"
     },
     {
@@ -31643,7 +31643,7 @@
         "codepoint": "F0541",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Austin Andrews",
         "version": "1.5.54"
     },
     {
@@ -31807,7 +31807,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Contributors",
+        "author": "Michael Miday",
         "version": "4.1.95"
     },
     {
@@ -32196,7 +32196,7 @@
         "codepoint": "F14EF",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "kikuchan",
         "version": "5.4.55"
     },
     {
@@ -32205,7 +32205,7 @@
         "codepoint": "F14F0",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "kikuchan",
         "version": "5.4.55"
     },
     {
@@ -33238,7 +33238,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "Teodor Sandu",
         "version": "6.1.95"
     },
     {
@@ -33299,7 +33299,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "james-fry",
         "version": "2.1.19"
     },
     {
@@ -33694,7 +33694,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Contributors",
+        "author": "Mitch Berninger",
         "version": "4.2.95"
     },
     {
@@ -33705,7 +33705,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Contributors",
+        "author": "Mitch Berninger",
         "version": "4.2.95"
     },
     {
@@ -33820,7 +33820,7 @@
             "Geographic Information System",
             "Files \/ Folders"
         ],
-        "author": "Contributors",
+        "author": "Andrea Antonello",
         "version": "4.7.95"
     },
     {
@@ -33834,7 +33834,7 @@
             "Geographic Information System",
             "Files \/ Folders"
         ],
-        "author": "Contributors",
+        "author": "Andrea Antonello",
         "version": "4.7.95"
     },
     {
@@ -34648,7 +34648,7 @@
         "codepoint": "F0F52",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "aardloper",
         "version": "3.9.97"
     },
     {
@@ -35484,7 +35484,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Contributors",
+        "author": "Michael",
         "version": "3.7.94"
     },
     {
@@ -39917,7 +39917,7 @@
         "tags": [
             "Transportation + Flying"
         ],
-        "author": "Contributors",
+        "author": "Doodlemandk",
         "version": "2.7.94"
     },
     {
@@ -40382,7 +40382,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "bentraynham",
         "version": "2.0.46"
     },
     {
@@ -40918,7 +40918,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "Tim Grelka",
         "version": "3.9.97"
     },
     {
@@ -41462,7 +41462,7 @@
             "teach-poll"
         ],
         "tags": [],
-        "author": "Contributors",
+        "author": "MaksUr",
         "version": "2.1.19"
     },
     {
@@ -41752,7 +41752,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Contributors",
+        "author": "Nikos Pappas",
         "version": "3.8.95"
     },
     {
@@ -42977,7 +42977,7 @@
         "tags": [
             "Automotive"
         ],
-        "author": "Contributors",
+        "author": "Mateo Silguero",
         "version": "5.5.55"
     },
     {
@@ -42988,7 +42988,7 @@
         "tags": [
             "Automotive"
         ],
-        "author": "Contributors",
+        "author": "Mateo Silguero",
         "version": "5.5.55"
     },
     {
@@ -43376,7 +43376,7 @@
         "codepoint": "F135B",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Austin Andrews",
         "version": "4.9.95"
     },
     {
@@ -43416,7 +43416,7 @@
         "tags": [
             "Animal"
         ],
-        "author": "Contributors",
+        "author": "Claire Casaregola",
         "version": "5.9.55"
     },
     {
@@ -44034,7 +44034,7 @@
         "tags": [
             "Geographic Information System"
         ],
-        "author": "Contributors",
+        "author": "ButchMonkey",
         "version": "6.2.95"
     },
     {
@@ -44537,7 +44537,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "undearius",
         "version": "4.7.95"
     },
     {
@@ -44890,7 +44890,7 @@
         "codepoint": "F0624",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "TheSnowfield",
         "version": "1.6.50"
     },
     {
@@ -44905,7 +44905,7 @@
         "tags": [
             "Clothing"
         ],
-        "author": "Contributors",
+        "author": "Kristian Mohl",
         "version": "5.2.45"
     },
     {
@@ -45078,7 +45078,7 @@
         "tags": [
             "Health \/ Beauty"
         ],
-        "author": "Contributors",
+        "author": "iiiiiiines",
         "version": "5.0.45"
     },
     {
@@ -45894,7 +45894,7 @@
             "ammunition-pistol"
         ],
         "tags": [],
-        "author": "Contributors",
+        "author": "Andrew Laws",
         "version": "1.5.54"
     },
     {
@@ -45905,7 +45905,7 @@
             "ammunition-rifle"
         ],
         "tags": [],
-        "author": "Contributors",
+        "author": "Andrew Laws",
         "version": "1.5.54"
     },
     {
@@ -46198,7 +46198,7 @@
             "Navigation",
             "Geographic Information System"
         ],
-        "author": "Contributors",
+        "author": "mocking-mike",
         "version": "3.7.94"
     },
     {
@@ -46212,7 +46212,7 @@
             "Navigation",
             "Geographic Information System"
         ],
-        "author": "Contributors",
+        "author": "mocking-mike",
         "version": "3.7.94"
     },
     {
@@ -47577,7 +47577,7 @@
         "codepoint": "F10BB",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Mike Behnke",
         "version": "4.2.95"
     },
     {
@@ -47688,7 +47688,7 @@
         "codepoint": "F069A",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Teodor Sandu",
         "version": "1.7.12"
     },
     {
@@ -47697,7 +47697,7 @@
         "codepoint": "F1250",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Teodor Sandu",
         "version": "4.6.95"
     },
     {
@@ -48793,7 +48793,7 @@
         "codepoint": "F13B4",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "MaksUr",
         "version": "5.0.45"
     },
     {
@@ -48862,7 +48862,7 @@
         "tags": [
             "Device \/ Tech"
         ],
-        "author": "Contributors",
+        "author": "kevin-hens",
         "version": "4.3.95"
     },
     {
@@ -49978,7 +49978,7 @@
         "tags": [
             "Video \/ Movie"
         ],
-        "author": "Contributors",
+        "author": "fraaalk",
         "version": "2.0.46"
     },
     {
@@ -50142,7 +50142,7 @@
             "Food \/ Drink",
             "Agriculture"
         ],
-        "author": "Contributors",
+        "author": "Chris Thron",
         "version": "2.0.46"
     },
     {
@@ -50183,7 +50183,7 @@
             "Food \/ Drink",
             "Agriculture"
         ],
-        "author": "Contributors",
+        "author": "Chris Thron",
         "version": "2.0.46"
     },
     {
@@ -51557,7 +51557,7 @@
             "diary"
         ],
         "tags": [],
-        "author": "Contributors",
+        "author": "Gabriel Grant",
         "version": "2.1.19"
     },
     {
@@ -51627,7 +51627,7 @@
             "planner-multiple"
         ],
         "tags": [],
-        "author": "Contributors",
+        "author": "Gabriel Grant",
         "version": "3.6.95"
     },
     {
@@ -53101,6 +53101,15 @@
         "version": "2.4.85"
     },
     {
+        "id": "4A51F91C-857B-454A-8753-7AACF3B085A9",
+        "name": "office-building-cog",
+        "codepoint": "F1949",
+        "aliases": [],
+        "tags": [],
+        "author": "Joshua Solomon",
+        "version": "6.4.95"
+    },
+    {
         "id": "8409886F-203E-45A5-8A70-C1670406BBA2",
         "name": "office-building-marker",
         "codepoint": "F1520",
@@ -53108,7 +53117,7 @@
             "office-building-location"
         ],
         "tags": [],
-        "author": "Contributors",
+        "author": "Joshua Solomon",
         "version": "5.4.55"
     },
     {
@@ -53119,7 +53128,7 @@
             "office-building-location-outline"
         ],
         "tags": [],
-        "author": "Contributors",
+        "author": "Joshua Solomon",
         "version": "5.4.55"
     },
     {
@@ -53128,7 +53137,7 @@
         "codepoint": "F151F",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Joshua Solomon",
         "version": "5.4.55"
     },
     {
@@ -54728,7 +54737,7 @@
         "codepoint": "F1278",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "MC\u7684wither\u83cc",
         "version": "4.7.95"
     },
     {
@@ -54809,7 +54818,7 @@
             "Cellphone \/ Phone",
             "Alert \/ Error"
         ],
-        "author": "Contributors",
+        "author": "Patricia Cadenas",
         "version": "3.8.95"
     },
     {
@@ -54821,7 +54830,7 @@
             "Cellphone \/ Phone",
             "Alert \/ Error"
         ],
-        "author": "Contributors",
+        "author": "Michael Irigoyen",
         "version": "4.5.95"
     },
     {
@@ -54859,7 +54868,7 @@
         "tags": [
             "Cellphone \/ Phone"
         ],
-        "author": "Contributors",
+        "author": "Patricia Cadenas",
         "version": "4.2.95"
     },
     {
@@ -54870,7 +54879,7 @@
         "tags": [
             "Cellphone \/ Phone"
         ],
-        "author": "Contributors",
+        "author": "Michael Irigoyen",
         "version": "4.5.95"
     },
     {
@@ -55628,7 +55637,7 @@
             "keep-off-outline"
         ],
         "tags": [],
-        "author": "Contributors",
+        "author": "At Abbey's side",
         "version": "2.3.54"
     },
     {
@@ -56319,7 +56328,7 @@
         "codepoint": "F0D92",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Alex Efremo",
         "version": "3.4.93"
     },
     {
@@ -56330,7 +56339,7 @@
         "tags": [
             "Gaming \/ RPG"
         ],
-        "author": "Contributors",
+        "author": "Austin Andrews",
         "version": "1.5.54"
     },
     {
@@ -56747,7 +56756,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "Stautob",
         "version": "4.0.96"
     },
     {
@@ -56792,7 +56801,7 @@
         "codepoint": "F14FF",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Angelo Fan",
         "version": "5.4.55"
     },
     {
@@ -56946,7 +56955,7 @@
         "tags": [
             "Printer"
         ],
-        "author": "Contributors",
+        "author": "Jon-Luke West",
         "version": "3.6.95"
     },
     {
@@ -56979,7 +56988,7 @@
         "tags": [
             "Printer"
         ],
-        "author": "Contributors",
+        "author": "Kinetic Screen",
         "version": "6.3.95"
     },
     {
@@ -56990,7 +56999,7 @@
         "tags": [
             "Printer"
         ],
-        "author": "Contributors",
+        "author": "Kinetic Screen",
         "version": "6.3.95"
     },
     {
@@ -57001,7 +57010,7 @@
         "tags": [
             "Printer"
         ],
-        "author": "Contributors",
+        "author": "Jon-Luke West",
         "version": "3.6.95"
     },
     {
@@ -57216,7 +57225,7 @@
         "codepoint": "F1787",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Teodor Sandu",
         "version": "6.1.95"
     },
     {
@@ -57234,7 +57243,7 @@
         "codepoint": "F1788",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Teodor Sandu",
         "version": "6.1.95"
     },
     {
@@ -57289,7 +57298,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "pp81381",
         "version": "6.1.95"
     },
     {
@@ -57300,7 +57309,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "pp81381",
         "version": "6.1.95"
     },
     {
@@ -57322,7 +57331,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "pp81381",
         "version": "6.1.95"
     },
     {
@@ -57333,7 +57342,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "pp81381",
         "version": "6.1.95"
     },
     {
@@ -57344,7 +57353,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "pp81381",
         "version": "6.1.95"
     },
     {
@@ -57355,7 +57364,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "pp81381",
         "version": "6.1.95"
     },
     {
@@ -57426,7 +57435,7 @@
         "codepoint": "F1402",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Anton Verburg",
         "version": "5.1.45"
     },
     {
@@ -57920,7 +57929,7 @@
         "codepoint": "F121C",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "zoara",
         "version": "4.6.95"
     },
     {
@@ -59198,7 +59207,7 @@
         "codepoint": "F11F9",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Austin Andrews",
         "version": "4.6.95"
     },
     {
@@ -59563,7 +59572,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "Kristian Mohl",
         "version": "4.6.95"
     },
     {
@@ -59576,7 +59585,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "Kristian Mohl",
         "version": "4.5.95"
     },
     {
@@ -59978,7 +59987,7 @@
         "codepoint": "F11E2",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "sergiocarlotto",
         "version": "4.5.95"
     },
     {
@@ -60349,7 +60358,7 @@
         "tags": [
             "Food \/ Drink"
         ],
-        "author": "Contributors",
+        "author": "SvenVdv",
         "version": "6.1.95"
     },
     {
@@ -60701,7 +60710,7 @@
         "codepoint": "F1725",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Claire Casaregola",
         "version": "5.9.55"
     },
     {
@@ -60732,7 +60741,7 @@
         "codepoint": "F1727",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Claire Casaregola",
         "version": "5.9.55"
     },
     {
@@ -60779,7 +60788,7 @@
             "award"
         ],
         "tags": [],
-        "author": "Contributors",
+        "author": "Tarilonte",
         "version": "4.0.96"
     },
     {
@@ -61068,7 +61077,7 @@
         "codepoint": "F0A6C",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Austin Andrews",
         "version": "2.6.95"
     },
     {
@@ -61099,7 +61108,7 @@
             "select-location"
         ],
         "tags": [],
-        "author": "Contributors",
+        "author": "Austin Andrews",
         "version": "4.7.95"
     },
     {
@@ -61146,7 +61155,7 @@
         "codepoint": "F17C1",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "John Martini",
         "version": "6.1.95"
     },
     {
@@ -61200,7 +61209,7 @@
         "codepoint": "F17C2",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "John Martini",
         "version": "6.1.95"
     },
     {
@@ -61211,7 +61220,7 @@
             "selection-location"
         ],
         "tags": [],
-        "author": "Contributors",
+        "author": "Austin Andrews",
         "version": "4.7.95"
     },
     {
@@ -61249,7 +61258,7 @@
         "codepoint": "F17C3",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "John Martini",
         "version": "6.1.95"
     },
     {
@@ -61315,7 +61324,7 @@
         "codepoint": "F0DF8",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Simran",
         "version": "3.5.94"
     },
     {
@@ -61324,7 +61333,7 @@
         "codepoint": "F0DF9",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Austin Andrews",
         "version": "3.5.94"
     },
     {
@@ -61570,7 +61579,7 @@
         "codepoint": "F14E0",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "s-ki",
         "version": "5.3.45"
     },
     {
@@ -61607,7 +61616,7 @@
         "codepoint": "F14E1",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "s-ki",
         "version": "5.3.45"
     },
     {
@@ -61801,7 +61810,7 @@
         "codepoint": "F11F4",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "sergiocarlotto",
         "version": "4.6.95"
     },
     {
@@ -61810,7 +61819,7 @@
         "codepoint": "F11F5",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "sergiocarlotto",
         "version": "4.6.95"
     },
     {
@@ -62085,7 +62094,7 @@
             "antivirus-outline"
         ],
         "tags": [],
-        "author": "Contributors",
+        "author": "MaksUr",
         "version": "5.1.45"
     },
     {
@@ -63123,7 +63132,7 @@
         "tags": [
             "Agriculture"
         ],
-        "author": "Contributors",
+        "author": "Benjamin Watson",
         "version": "2.8.94"
     },
     {
@@ -64364,7 +64373,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "Kristian Mohl",
         "version": "3.4.93"
     },
     {
@@ -64378,7 +64387,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "Kristian Mohl",
         "version": "3.4.93"
     },
     {
@@ -64458,7 +64467,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Contributors",
+        "author": "Samuele Dassatti",
         "version": "4.4.95"
     },
     {
@@ -64480,7 +64489,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Contributors",
+        "author": "Samuele Dassatti",
         "version": "4.4.95"
     },
     {
@@ -64762,7 +64771,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Contributors",
+        "author": "Michael Irigoyen",
         "version": "4.4.95"
     },
     {
@@ -66606,7 +66615,7 @@
             "Places",
             "Shopping"
         ],
-        "author": "Contributors",
+        "author": "Dylan Oli",
         "version": "5.7.55"
     },
     {
@@ -66677,7 +66686,7 @@
             "Places",
             "Shopping"
         ],
-        "author": "Contributors",
+        "author": "Dylan Oli",
         "version": "5.7.55"
     },
     {
@@ -66707,7 +66716,7 @@
             "Places",
             "Shopping"
         ],
-        "author": "Contributors",
+        "author": "Dylan Oli",
         "version": "5.7.55"
     },
     {
@@ -66928,7 +66937,7 @@
         "codepoint": "F156C",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Andrew Laws",
         "version": "5.5.55"
     },
     {
@@ -68032,7 +68041,7 @@
         "tags": [
             "Settings"
         ],
-        "author": "Contributors",
+        "author": "Che de Bruin",
         "version": "2.1.19"
     },
     {
@@ -68043,7 +68052,7 @@
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Contributors",
+        "author": "Micha\u0142 Kleszczy\u0144ski",
         "version": "5.2.45"
     },
     {
@@ -68426,7 +68435,7 @@
         "codepoint": "F0D3A",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "SLembas",
         "version": "3.3.92"
     },
     {
@@ -68451,7 +68460,7 @@
         "codepoint": "F16DF",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Zach Gover",
         "version": "5.8.55"
     },
     {
@@ -68562,7 +68571,7 @@
         "tags": [
             "Holiday"
         ],
-        "author": "Contributors",
+        "author": "Andy Allsopp",
         "version": "6.3.95"
     },
     {
@@ -68699,7 +68708,7 @@
         "tags": [
             "Device \/ Tech"
         ],
-        "author": "Contributors",
+        "author": "kevin-hens",
         "version": "4.3.95"
     },
     {
@@ -68889,7 +68898,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Contributors",
+        "author": "mocking-mike",
         "version": "3.7.94"
     },
     {
@@ -68903,7 +68912,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Contributors",
+        "author": "mocking-mike",
         "version": "3.7.94"
     },
     {
@@ -70928,7 +70937,7 @@
             "Transportation + Other",
             "Navigation"
         ],
-        "author": "Contributors",
+        "author": "Myron Netterlund",
         "version": "3.9.97"
     },
     {
@@ -70997,7 +71006,7 @@
         "codepoint": "F0E06",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Joshua Solomon",
         "version": "3.5.94"
     },
     {
@@ -71115,7 +71124,7 @@
         "tags": [
             "Arrow"
         ],
-        "author": "Contributors",
+        "author": "arnoldlepineux",
         "version": "1.5.54"
     },
     {
@@ -71128,7 +71137,7 @@
         "tags": [
             "Arrow"
         ],
-        "author": "Contributors",
+        "author": "arnoldlepineux",
         "version": "1.5.54"
     },
     {
@@ -71303,7 +71312,7 @@
         "tags": [
             "Gaming \/ RPG"
         ],
-        "author": "Contributors",
+        "author": "Austin Andrews",
         "version": "3.0.39"
     },
     {
@@ -71340,7 +71349,7 @@
         "tags": [
             "Sport"
         ],
-        "author": "Contributors",
+        "author": "Nikos Pappas",
         "version": "3.4.93"
     },
     {
@@ -72544,7 +72553,7 @@
             "Vector",
             "Geographic Information System"
         ],
-        "author": "Contributors",
+        "author": "Andrea Antonello",
         "version": "1.5.54"
     },
     {
@@ -72555,7 +72564,7 @@
         "tags": [
             "Edit \/ Modify"
         ],
-        "author": "Contributors",
+        "author": "Andrea Antonello",
         "version": "4.6.95"
     },
     {
@@ -72564,7 +72573,7 @@
         "codepoint": "F1226",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Andrea Antonello",
         "version": "4.6.95"
     },
     {
@@ -72573,7 +72582,7 @@
         "codepoint": "F1227",
         "aliases": [],
         "tags": [],
-        "author": "Contributors",
+        "author": "Andrea Antonello",
         "version": "4.6.95"
     },
     {
@@ -72799,7 +72808,7 @@
         "tags": [
             "Video \/ Movie"
         ],
-        "author": "Contributors",
+        "author": "cezar-darac",
         "version": "5.1.45"
     },
     {
@@ -72810,7 +72819,7 @@
         "tags": [
             "Video \/ Movie"
         ],
-        "author": "Contributors",
+        "author": "Matther Miller",
         "version": "3.7.94"
     },
     {
@@ -73110,7 +73119,7 @@
         "tags": [
             "Video \/ Movie"
         ],
-        "author": "Contributors",
+        "author": "Mike G Chambers",
         "version": "2.5.94"
     },
     {
@@ -73363,7 +73372,7 @@
         "tags": [
             "View"
         ],
-        "author": "Contributors",
+        "author": "Saulo Pratti",
         "version": "6.2.95"
     },
     {
@@ -73981,7 +73990,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "Teodor Sandu",
         "version": "6.1.95"
     },
     {
@@ -74005,7 +74014,7 @@
         "tags": [
             "Home Automation"
         ],
-        "author": "Contributors",
+        "author": "Teodor Sandu",
         "version": "6.1.95"
     },
     {
@@ -74212,7 +74221,7 @@
         "tags": [
             "Places"
         ],
-        "author": "Contributors",
+        "author": "Tarilonte",
         "version": "3.9.97"
     },
     {
@@ -74282,7 +74291,7 @@
         "tags": [
             "Device \/ Tech"
         ],
-        "author": "Contributors",
+        "author": "Bradley Nelson",
         "version": "2.1.99"
     },
     {
@@ -74304,7 +74313,7 @@
         "tags": [
             "Device \/ Tech"
         ],
-        "author": "Contributors",
+        "author": "Bradley Nelson",
         "version": "2.1.99"
     },
     {
@@ -74735,7 +74744,7 @@
         "tags": [
             "Agriculture"
         ],
-        "author": "Contributors",
+        "author": "guenth39",
         "version": "5.3.45"
     },
     {
@@ -74748,7 +74757,7 @@
         "tags": [
             "Agriculture"
         ],
-        "author": "Contributors",
+        "author": "guenth39",
         "version": "5.3.45"
     },
     {
@@ -75267,7 +75276,7 @@
         "tags": [
             "Geographic Information System"
         ],
-        "author": "Contributors",
+        "author": "Samuel Jones",
         "version": "3.9.97"
     },
     {
@@ -76272,7 +76281,7 @@
             "unwrap"
         ],
         "tags": [],
-        "author": "Contributors",
+        "author": "Leo SF",
         "version": "3.0.39"
     },
     {
