@@ -22572,6 +22572,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "4819FE23-EEAA-496B-A8DC-C4101A1AC994",
+        "name": "cone",
+        "codepoint": "F194C",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.4.95"
+    },
+    {
         "id": "C66F7470-8691-4B30-A8F6-5250389E1D48",
         "name": "connection",
         "codepoint": "F1616",
