@@ -35362,7 +35362,9 @@
         "id": "868506A4-50DB-4C9C-9CEA-278969298EF4",
         "name": "format-letter-spacing",
         "codepoint": "F1956",
-        "aliases": [],
+        "aliases": [
+            "format-kerning"
+        ],
         "tags": [
             "Text \/ Content \/ Format"
         ],
