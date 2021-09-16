@@ -53110,6 +53110,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "09BF7DAE-15CA-4539-BD8A-A741EB7E6405",
+        "name": "office-building-cog-outline",
+        "codepoint": "F194A",
+        "aliases": [],
+        "tags": [],
+        "author": "Joshua Solomon",
+        "version": "6.4.95"
+    },
+    {
         "id": "8409886F-203E-45A5-8A70-C1670406BBA2",
         "name": "office-building-marker",
         "codepoint": "F1520",
