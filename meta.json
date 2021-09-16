@@ -22581,6 +22581,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "76F233E1-C7AA-4C0F-BDFC-717BF22D40BB",
+        "name": "cone-off",
+        "codepoint": "F194D",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.4.95"
+    },
+    {
         "id": "C66F7470-8691-4B30-A8F6-5250389E1D48",
         "name": "connection",
         "codepoint": "F1616",
