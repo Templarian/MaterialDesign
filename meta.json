@@ -35363,7 +35363,9 @@
         "name": "format-letter-spacing",
         "codepoint": "F1956",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
