@@ -65298,6 +65298,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "C599941B-1EE8-44E8-8FE9-D8AD503BB57B",
+        "name": "sphere",
+        "codepoint": "F1954",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.4.95"
+    },
+    {
         "id": "BCDD4A6F-3064-4FF3-9172-0BBF8BED2D2C",
         "name": "spider",
         "codepoint": "F11EA",
