@@ -65327,7 +65327,9 @@
         "name": "sphere",
         "codepoint": "F1954",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.4.95"
     },
