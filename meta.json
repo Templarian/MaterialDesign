@@ -57747,6 +57747,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "2E5C5383-D159-4741-8970-2E9CCAD0D27D",
+        "name": "pyramid-off",
+        "codepoint": "F1953",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.4.95"
+    },
+    {
         "id": "1F897ED3-17CC-43F5-9A0B-F7804A8DFABF",
         "name": "qi",
         "codepoint": "F0999",
