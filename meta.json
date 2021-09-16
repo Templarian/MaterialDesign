@@ -36114,7 +36114,9 @@
         "name": "french-fries",
         "codepoint": "F1957",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.4.95"
     },
