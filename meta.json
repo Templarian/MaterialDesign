@@ -58849,7 +58849,8 @@
         "codepoint": "F0453",
         "aliases": [
             "car-engine-start",
-            "loop"
+            "loop",
+            "rotate-clockwise"
         ],
         "tags": [
             "Automotive"
