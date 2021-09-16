@@ -36110,6 +36110,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "C7BD4B3A-4B63-4FDE-99D5-87B4DA460492",
+        "name": "french-fries",
+        "codepoint": "F1957",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.4.95"
+    },
+    {
         "id": "A53E5953-2094-419A-A418-57BE05F751C8",
         "name": "frequently-asked-questions",
         "codepoint": "F0EB4",
