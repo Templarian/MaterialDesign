@@ -53134,7 +53134,9 @@
         "name": "octahedron",
         "codepoint": "F1950",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.4.95"
     },
