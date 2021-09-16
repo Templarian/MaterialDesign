@@ -59159,7 +59159,9 @@
             "loop",
             "rotate-counter-clockwise"
         ],
-        "tags": [],
+        "tags": [
+            "Arrow"
+        ],
         "author": "Google",
         "version": "2.4.85"
     },
