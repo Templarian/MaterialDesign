@@ -31508,7 +31508,8 @@
         "name": "file-pdf-box",
         "codepoint": "F0226",
         "aliases": [
-            "file-acrobat-box"
+            "file-acrobat-box",
+            "adobe-acrobat"
         ],
         "tags": [
             "Files \/ Folders"
