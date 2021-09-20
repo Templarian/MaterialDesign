@@ -11,7 +11,7 @@ body:
 
         ### IMPORTANT ⤵️ 
 
-        If you see an icon on the site, but it is not in the latest release, *this is not a bug*. When new icons are added the library, they will immediately show on the website. However, a new release must  happen before they will be available in our packages.
+        If you see an icon on the site, but it is not in the latest release, *this is not a bug*. When new icons are added the library, they will immediately show on [MaterialDesignIcons.com](https://materialdesignicons.com/). However, a new release must happen before they will be available in our packages.
         
         See our [history log](https://materialdesignicons.com/history) for more information.
 
