@@ -28561,7 +28561,8 @@
         "codepoint": "F195B",
         "aliases": [
             "email-certified",
-            "mail-certified"
+            "mail-certified",
+            "mail-seal"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
