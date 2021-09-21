@@ -28563,7 +28563,8 @@
             "email-certified",
             "mail-certified",
             "mail-seal",
-            "email-verified"
+            "email-verified",
+            "mail-verified"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
