@@ -60655,7 +60655,9 @@
         "id": "B473C27C-5557-4B1F-89F1-46DC7700E73A",
         "name": "scent",
         "codepoint": "F1958",
-        "aliases": [],
+        "aliases": [
+            "aroma"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
