@@ -66622,6 +66622,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "5237A946-C396-4C75-B369-751CD362AB5E",
+        "name": "stool-outline",
+        "codepoint": "F195E",
+        "aliases": [],
+        "tags": [],
+        "author": "Teodor Sandu",
+        "version": "6.4.95"
+    },
+    {
         "id": "F1057179-EA45-4D87-A14D-D05442C06503",
         "name": "stop",
         "codepoint": "F04DB",
