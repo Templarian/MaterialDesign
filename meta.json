@@ -60672,7 +60672,8 @@
         "aliases": [
             "aroma-off",
             "smell-off",
-            "fragrance-off"
+            "fragrance-off",
+            "odor-off"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
