@@ -28559,7 +28559,9 @@
         "id": "9671987F-A6B4-4934-90B1-E2C590CEB1B9",
         "name": "email-seal",
         "codepoint": "F195B",
-        "aliases": [],
+        "aliases": [
+            "email-certified"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
