@@ -28556,6 +28556,15 @@
         "version": "5.7.55"
     },
     {
+        "id": "9671987F-A6B4-4934-90B1-E2C590CEB1B9",
+        "name": "email-seal",
+        "codepoint": "F195B",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "AE2AF6F2-9E5A-4949-901F-0B5F599428C7",
         "name": "email-search",
         "codepoint": "F0961",
