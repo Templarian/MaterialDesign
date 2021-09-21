@@ -53994,6 +53994,15 @@
         "version": "4.9.95"
     },
     {
+        "id": "C4B3CA22-1868-4216-807B-ED852BAA3C21",
+        "name": "palette-swatch-variant",
+        "codepoint": "F195A",
+        "aliases": [],
+        "tags": [],
+        "author": "Erdem YILMAZ",
+        "version": "6.4.95"
+    },
+    {
         "id": "787F9145-5272-4028-94C8-46B0623FE039",
         "name": "palm-tree",
         "codepoint": "F1055",
