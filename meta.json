@@ -28575,7 +28575,8 @@
         "name": "email-seal-outline",
         "codepoint": "F195C",
         "aliases": [
-            "email-verified-outline"
+            "email-verified-outline",
+            "email-certified-outline"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
