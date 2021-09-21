@@ -36130,6 +36130,15 @@
         "version": "3.3.92"
     },
     {
+        "id": "2B87DDFB-9230-4374-BE31-996E5D21639C",
+        "name": "fraction-one-half",
+        "codepoint": "F195F",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "54CA035A-3BAB-4349-8FD1-D50A1990D301",
         "name": "freebsd",
         "codepoint": "F08E0",
