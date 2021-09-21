@@ -54017,7 +54017,8 @@
         "name": "palette-swatch-variant",
         "codepoint": "F195A",
         "aliases": [
-            "style"
+            "style",
+            "paint"
         ],
         "tags": [],
         "author": "Erdem YILMAZ",
