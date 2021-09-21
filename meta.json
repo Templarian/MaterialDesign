@@ -60670,7 +60670,8 @@
         "name": "scent-off",
         "codepoint": "F1959",
         "aliases": [
-            "aroma-off"
+            "aroma-off",
+            "smell-off"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
