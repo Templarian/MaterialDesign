@@ -54021,7 +54021,9 @@
             "paint",
             "material"
         ],
-        "tags": [],
+        "tags": [
+            "Drawing \/ Art"
+        ],
         "author": "Erdem YILMAZ",
         "version": "6.4.95"
     },
