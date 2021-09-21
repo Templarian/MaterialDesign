@@ -60652,6 +60652,15 @@
         "version": "3.7.94"
     },
     {
+        "id": "B473C27C-5557-4B1F-89F1-46DC7700E73A",
+        "name": "scent",
+        "codepoint": "F1958",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "A671C11E-0A75-4F41-AA32-EAA99955DEDE",
         "name": "school",
         "codepoint": "F0474",
