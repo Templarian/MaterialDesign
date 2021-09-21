@@ -60656,7 +60656,8 @@
         "name": "scent",
         "codepoint": "F1958",
         "aliases": [
-            "aroma"
+            "aroma",
+            "fragrance"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
