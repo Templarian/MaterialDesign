@@ -60669,7 +60669,9 @@
         "id": "2263B3A2-8BC3-4E1B-B86F-46E9E7CAA92A",
         "name": "scent-off",
         "codepoint": "F1959",
-        "aliases": [],
+        "aliases": [
+            "aroma-off"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
