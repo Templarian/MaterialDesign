@@ -28560,7 +28560,8 @@
         "name": "email-seal",
         "codepoint": "F195B",
         "aliases": [
-            "email-certified"
+            "email-certified",
+            "mail-certified"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
