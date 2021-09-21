@@ -54016,7 +54016,9 @@
         "id": "C4B3CA22-1868-4216-807B-ED852BAA3C21",
         "name": "palette-swatch-variant",
         "codepoint": "F195A",
-        "aliases": [],
+        "aliases": [
+            "style"
+        ],
         "tags": [],
         "author": "Erdem YILMAZ",
         "version": "6.4.95"
