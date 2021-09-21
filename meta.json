@@ -66613,6 +66613,15 @@
         "version": "4.2.95"
     },
     {
+        "id": "411BA388-1AF1-4197-AD0A-CF2313071836",
+        "name": "stool",
+        "codepoint": "F195D",
+        "aliases": [],
+        "tags": [],
+        "author": "Teodor Sandu",
+        "version": "6.4.95"
+    },
+    {
         "id": "F1057179-EA45-4D87-A14D-D05442C06503",
         "name": "stop",
         "codepoint": "F04DB",
