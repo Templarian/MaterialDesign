@@ -28577,7 +28577,8 @@
         "aliases": [
             "email-verified-outline",
             "email-certified-outline",
-            "mail-verified-outline"
+            "mail-verified-outline",
+            "mail-certified-outline"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
