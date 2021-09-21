@@ -60661,6 +60661,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "2263B3A2-8BC3-4E1B-B86F-46E9E7CAA92A",
+        "name": "scent-off",
+        "codepoint": "F1959",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.4.95"
+    },
+    {
         "id": "A671C11E-0A75-4F41-AA32-EAA99955DEDE",
         "name": "school",
         "codepoint": "F0474",
