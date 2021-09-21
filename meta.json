@@ -28562,7 +28562,8 @@
         "aliases": [
             "email-certified",
             "mail-certified",
-            "mail-seal"
+            "mail-seal",
+            "email-verified"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
