@@ -15095,7 +15095,9 @@
             "candle-flame",
             "candle-fire"
         ],
-        "tags": [],
+        "tags": [
+            "Holiday"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
