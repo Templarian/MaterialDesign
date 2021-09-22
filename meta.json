@@ -28194,7 +28194,7 @@
         "tags": [
             "Transportation + Other"
         ],
-        "author": "Moma Design Studio",
+        "author": "Google",
         "version": "4.9.95"
     },
     {
@@ -53650,7 +53650,8 @@
         "codepoint": "F03D2",
         "aliases": [],
         "tags": [
-            "Animal"
+            "Animal",
+            "Holiday"
         ],
         "author": "Simran",
         "version": "1.5.54"
