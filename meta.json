@@ -13040,7 +13040,7 @@
             "briefcase-view-outline"
         ],
         "tags": [],
-        "author": "Andrew Nenakhov",
+        "author": "Andrej Sharapov",
         "version": "6.1.95"
     },
     {
@@ -54210,7 +54210,9 @@
         "name": "panorama",
         "codepoint": "F03DC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Photography"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
