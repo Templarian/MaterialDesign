@@ -70993,7 +70993,8 @@
         "name": "traffic-light",
         "codepoint": "F052B",
         "aliases": [
-            "traffic-signal"
+            "traffic-signal",
+            "stop-light"
         ],
         "tags": [
             "Transportation + Road"
