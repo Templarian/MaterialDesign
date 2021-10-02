@@ -71007,7 +71007,8 @@
         "name": "traffic-light-outline",
         "codepoint": "F182A",
         "aliases": [
-            "traffic-signal-outline"
+            "traffic-signal-outline",
+            "stop-light-outline"
         ],
         "tags": [
             "Transportation + Road"
