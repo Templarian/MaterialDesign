@@ -54243,7 +54243,9 @@
         "name": "panorama-vertical",
         "codepoint": "F03DF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Photography"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
