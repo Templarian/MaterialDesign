@@ -2593,7 +2593,7 @@
         "codepoint": "F11C7",
         "aliases": [],
         "tags": [],
-        "author": "Michael Irigoyen",
+        "author": "Google",
         "version": "4.5.95"
     },
     {
@@ -42689,7 +42689,9 @@
         "id": "4560EF32-158B-40B1-829E-A078219A808A",
         "name": "ip",
         "codepoint": "F0A5F",
-        "aliases": [],
+        "aliases": [
+            "internet-protocol"
+        ],
         "tags": [],
         "author": "Michael Richins",
         "version": "2.6.95"
