@@ -54232,7 +54232,9 @@
         "name": "panorama-horizontal-outline",
         "codepoint": "F03DE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Photography"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
