@@ -54254,7 +54254,9 @@
         "name": "panorama-wide-angle",
         "codepoint": "F03E0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Photography"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
