@@ -30588,7 +30588,8 @@
         "name": "fence-electric",
         "codepoint": "F17F6",
         "aliases": [
-            "railway-electric"
+            "railway-electric",
+            "train-track-electric"
         ],
         "tags": [
             "Home Automation"
