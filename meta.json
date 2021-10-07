@@ -30573,7 +30573,9 @@
         "id": "CAFE2FF6-D1D5-4411-9AA1-33C5076F0E4E",
         "name": "fence",
         "codepoint": "F179A",
-        "aliases": [],
+        "aliases": [
+            "railway"
+        ],
         "tags": [
             "Home Automation"
         ],
@@ -38872,7 +38874,7 @@
             "communism"
         ],
         "tags": [],
-        "author": "Michael Irigoyen",
+        "author": "Colton Wiscombe",
         "version": "6.2.95"
     },
     {
