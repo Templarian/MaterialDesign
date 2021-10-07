@@ -30587,7 +30587,9 @@
         "id": "9B54CB49-9186-4EB1-80D2-A92E616B9603",
         "name": "fence-electric",
         "codepoint": "F17F6",
-        "aliases": [],
+        "aliases": [
+            "railway-electric"
+        ],
         "tags": [
             "Home Automation"
         ],
