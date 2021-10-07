@@ -30574,7 +30574,8 @@
         "name": "fence",
         "codepoint": "F179A",
         "aliases": [
-            "railway"
+            "railway",
+            "train-track"
         ],
         "tags": [
             "Home Automation"
