@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        *Make sure you [searched open issues](https://github.com/Templarian/MaterialDesign/issues) before submitting your alias request!*
+        *Make sure you [searched all issues](https://github.com/Templarian/MaterialDesign/issues?q=is%3Aissue) before submitting your alias request!*
 
         ---
 
