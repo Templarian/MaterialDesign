@@ -56279,6 +56279,19 @@
         "version": "6.5.95"
     },
     {
+        "id": "E463CA1E-92BB-4389-9EE8-BBA74EDA159F",
+        "name": "phone-sync-outline",
+        "codepoint": "F1996",
+        "aliases": [
+            "phone-redial-outline"
+        ],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "43DAD9DC-C484-452A-9450-1F9C83C6B50E",
         "name": "phone-voip",
         "codepoint": "F03FE",
