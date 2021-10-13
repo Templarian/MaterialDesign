@@ -45073,6 +45073,19 @@
         "version": "6.5.95"
     },
     {
+        "id": "9CE460EF-B246-4833-AF6D-B6ACB2A1E9A8",
+        "name": "light-flood-up",
+        "codepoint": "F1988",
+        "aliases": [
+            "floodlight-up"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Tim Grelka",
+        "version": "6.5.95"
+    },
+    {
         "id": "F309BA75-39A7-45AC-9B1A-22D1F7D41345",
         "name": "light-recessed",
         "codepoint": "F179B",
