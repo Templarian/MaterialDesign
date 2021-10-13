@@ -70981,6 +70981,19 @@
         "version": "1.5.54"
     },
     {
+        "id": "A3EC03DF-2DAD-4B48-AFA8-681324AE2460",
+        "name": "timer-sand-complete",
+        "codepoint": "F199F",
+        "aliases": [
+            "hourglass-complete"
+        ],
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Jeff Anders",
+        "version": "6.5.95"
+    },
+    {
         "id": "DD31FFF2-A93B-41F5-BA6C-1732E8A8DEFF",
         "name": "timer-sand-empty",
         "codepoint": "F06AD",
