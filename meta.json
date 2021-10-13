@@ -28538,6 +28538,17 @@
         "version": "6.5.95"
     },
     {
+        "id": "2F62C19F-24FE-45C0-A43F-9A148C4B8042",
+        "name": "elevator-passenger-off-outline",
+        "codepoint": "F197A",
+        "aliases": [],
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "8EA26066-2C66-4A38-996B-8F23E288E0B7",
         "name": "elevator-up",
         "codepoint": "F12C1",
