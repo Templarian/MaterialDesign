@@ -59117,6 +59117,17 @@
         "version": "6.5.95"
     },
     {
+        "id": "FE06C355-A6BB-464A-9B7D-B07CE7D551FC",
+        "name": "razor-single-edge",
+        "codepoint": "F1998",
+        "aliases": [],
+        "tags": [
+            "Hardware \/ Tools"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "F13DC81C-DF03-4A33-99D6-489FBDB5B29C",
         "name": "react",
         "codepoint": "F0708",
