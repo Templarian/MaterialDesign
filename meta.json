@@ -13685,6 +13685,19 @@
         "version": "2.8.94"
     },
     {
+        "id": "ED822193-44D0-481D-B373-F99518240597",
+        "name": "bullhorn-variant",
+        "codepoint": "F196E",
+        "aliases": [
+            "announcement",
+            "megaphone",
+            "loudspeaker"
+        ],
+        "tags": [],
+        "author": "nlsve",
+        "version": "6.5.95"
+    },
+    {
         "id": "ED26BD4D-ACDB-45DC-A0DA-18ECA3B2008E",
         "name": "bullseye",
         "codepoint": "F05DD",
