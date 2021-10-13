@@ -73367,6 +73367,19 @@
         "version": "4.5.95"
     },
     {
+        "id": "280D39D7-C3B6-4C48-827F-D944B4773B0C",
+        "name": "vacuum",
+        "codepoint": "F19A1",
+        "aliases": [
+            "vacuum-cleaner"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.5.95"
+    },
+    {
         "id": "304B1BC9-DF83-41FF-B0F9-1FF4D83A95CB",
         "name": "valve",
         "codepoint": "F1066",
