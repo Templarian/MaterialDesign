@@ -54792,6 +54792,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "E676EFD3-32EC-4F24-9A9A-65EF5518AA01",
+        "name": "panorama-outline",
+        "codepoint": "F198C",
+        "aliases": [],
+        "tags": [
+            "Photography"
+        ],
+        "author": "Google",
+        "version": "6.5.95"
+    },
+    {
         "id": "7EC1E0AF-1AC5-4CC8-BDCC-5E2D3BF2AC70",
         "name": "panorama-vertical-outline",
         "codepoint": "F03DF",
