@@ -71020,6 +71020,19 @@
         "version": "1.9.32"
     },
     {
+        "id": "24C73172-9253-4C99-B214-B1C523115D79",
+        "name": "timer-sand-paused",
+        "codepoint": "F19A0",
+        "aliases": [
+            "hourglass-paused"
+        ],
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Jeff Anders",
+        "version": "6.5.95"
+    },
+    {
         "id": "F8FF1136-69B0-4DCA-9BC6-092AE2CE23F2",
         "name": "timer-settings",
         "codepoint": "F1923",
