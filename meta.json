@@ -66396,6 +66396,22 @@
         "version": "4.1.95"
     },
     {
+        "id": "ECE05EC2-192B-4450-A0CB-78249EC9140A",
+        "name": "sprinkler-fire",
+        "codepoint": "F199D",
+        "aliases": [
+            "sprinkler-mist",
+            "mister",
+            "sprinkler-head"
+        ],
+        "tags": [
+            "Home Automation",
+            "Agriculture"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "4CE94553-ECA2-4C72-B66B-EEE5106F1438",
         "name": "sprinkler-variant",
         "codepoint": "F1060",
