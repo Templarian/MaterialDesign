@@ -56266,6 +56266,19 @@
         "version": "4.5.95"
     },
     {
+        "id": "038DA763-AA65-43B6-B6D6-F6967EE0DC4C",
+        "name": "phone-sync",
+        "codepoint": "F1995",
+        "aliases": [
+            "phone-redial"
+        ],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "43DAD9DC-C484-452A-9450-1F9C83C6B50E",
         "name": "phone-voip",
         "codepoint": "F03FE",
