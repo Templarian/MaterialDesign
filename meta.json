@@ -68608,6 +68608,17 @@
         "version": "2.8.94"
     },
     {
+        "id": "BF6060AC-37F8-4236-B9D1-0C37A9AF09E9",
+        "name": "tab-search",
+        "codepoint": "F199E",
+        "aliases": [
+            "tab-find"
+        ],
+        "tags": [],
+        "author": "Arno Cellarier",
+        "version": "6.5.95"
+    },
+    {
         "id": "9A9059F0-CADA-47EF-82DC-4B1FB2B9E4C5",
         "name": "tab-unselected",
         "codepoint": "F04EA",
