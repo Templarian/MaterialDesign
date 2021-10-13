@@ -54885,6 +54885,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "64F3926D-42E9-4819-92A2-C524031CD9BA",
+        "name": "panorama-wide-angle",
+        "codepoint": "F1992",
+        "aliases": [],
+        "tags": [
+            "Photography"
+        ],
+        "author": "Google",
+        "version": "6.5.95"
+    },
+    {
         "id": "12D83006-87DE-49CE-B8C3-7D6492934CDA",
         "name": "panorama-wide-angle-outline",
         "codepoint": "F03E0",
