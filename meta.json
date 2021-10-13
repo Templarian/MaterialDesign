@@ -27646,6 +27646,17 @@
         "version": "2.7.94"
     },
     {
+        "id": "FDC05366-F73E-4D60-B048-8AA4732B2C1F",
+        "name": "dots-circle",
+        "codepoint": "F1978",
+        "aliases": [
+            "perimeter"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "9BBDE78A-ADFF-4FFB-AC79-C7B1FDAB633E",
         "name": "dots-grid",
         "codepoint": "F15FC",
