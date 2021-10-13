@@ -27142,6 +27142,19 @@
         "version": "6.2.95"
     },
     {
+        "id": "813D489B-3127-4F32-9D6E-4BB8A6F51605",
+        "name": "diving",
+        "codepoint": "F1977",
+        "aliases": [
+            "swim-dive"
+        ],
+        "tags": [
+            "Sport"
+        ],
+        "author": "Google",
+        "version": "6.5.95"
+    },
+    {
         "id": "B57B062B-66A2-4F90-85A3-97446E1934D2",
         "name": "diving-flippers",
         "codepoint": "F0DBF",
