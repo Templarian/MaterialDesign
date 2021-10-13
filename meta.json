@@ -15324,6 +15324,22 @@
         "version": "6.5.95"
     },
     {
+        "id": "7BA63C38-546A-47FE-8FA7-D3E744B2C96E",
+        "name": "candy-off-outline",
+        "codepoint": "F1972",
+        "aliases": [
+            "chocolate-off-outline",
+            "treat-off-outline",
+            "navi-off"
+        ],
+        "tags": [
+            "Food \/ Drink",
+            "Gaming \/ RPG"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "8CAC723B-0FF5-493B-A3A2-5772FDE46A0F",
         "name": "candycane",
         "codepoint": "F010A",
