@@ -64382,6 +64382,18 @@
         "version": "1.5.54"
     },
     {
+        "id": "34B0F8F6-2E20-4B64-B683-2B1789140CA9",
+        "name": "sitemap-outline",
+        "codepoint": "F199C",
+        "aliases": [
+            "workflow-outline",
+            "flowchart-outline"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "81D1F53A-2A63-4C9A-9CA9-547E68BB1329",
         "name": "size-l",
         "codepoint": "F13A6",
