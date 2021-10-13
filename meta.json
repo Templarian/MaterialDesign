@@ -43150,6 +43150,17 @@
         "version": "3.2.89"
     },
     {
+        "id": "C251F57E-6443-4109-A61E-2F98D6609A47",
+        "name": "ip-outline",
+        "codepoint": "F1982",
+        "aliases": [
+            "internet-protocol-outline"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "63BFCC93-117D-45ED-8E42-4019C6D7B970",
         "name": "ipod",
         "codepoint": "F0C91",
