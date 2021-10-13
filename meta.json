@@ -15310,6 +15310,20 @@
         "version": "6.5.95"
     },
     {
+        "id": "9C3124FB-E9F8-468A-9D51-2CAD3342BEE7",
+        "name": "candy-off",
+        "codepoint": "F1971",
+        "aliases": [
+            "chocolate-off",
+            "treat-off"
+        ],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "8CAC723B-0FF5-493B-A3A2-5772FDE46A0F",
         "name": "candycane",
         "codepoint": "F010A",
