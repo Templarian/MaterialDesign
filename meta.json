@@ -904,6 +904,22 @@
         "version": "4.4.95"
     },
     {
+        "id": "255D3923-5FE0-4BDD-AAF4-D71735D52E53",
+        "name": "account-lock-open",
+        "codepoint": "F1960",
+        "aliases": [
+            "account-unlocked",
+            "user-unlocked",
+            "user-lock-open"
+        ],
+        "tags": [
+            "Account \/ User",
+            "Lock"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "F0E25FF6-2E45-4F3D-B9E3-6F251A6B1651",
         "name": "account-lock-outline",
         "codepoint": "F115F",
