@@ -13698,6 +13698,19 @@
         "version": "6.5.95"
     },
     {
+        "id": "D38A39A0-E788-49D7-802B-BE2BF5BB2274",
+        "name": "bullhorn-variant-outline",
+        "codepoint": "F196F",
+        "aliases": [
+            "announcement-outline",
+            "megaphone-outline",
+            "loudspeaker-outline"
+        ],
+        "tags": [],
+        "author": "nlsve",
+        "version": "6.5.95"
+    },
+    {
         "id": "ED26BD4D-ACDB-45DC-A0DA-18ECA3B2008E",
         "name": "bullseye",
         "codepoint": "F05DD",
