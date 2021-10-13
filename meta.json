@@ -63315,6 +63315,19 @@
         "version": "2.4.85"
     },
     {
+        "id": "5B854DDA-2B72-49FC-881D-E88ED51EA636",
+        "name": "shield-lock-open",
+        "codepoint": "F199A",
+        "aliases": [
+            "shield-unlocked"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "7F797AEE-648F-4FB8-BA7F-4EF60235A061",
         "name": "shield-lock-outline",
         "codepoint": "F0CCC",
