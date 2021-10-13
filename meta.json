@@ -2582,6 +2582,17 @@
         "version": "4.5.95"
     },
     {
+        "id": "B4B2B3EB-A8C5-48C3-8F82-4F295424B396",
+        "name": "align-horizontal-distribute",
+        "codepoint": "F1962",
+        "aliases": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
+        "author": "Google",
+        "version": "6.5.95"
+    },
+    {
         "id": "91ED2206-4D41-48DB-964F-5E3AC50F899D",
         "name": "align-horizontal-left",
         "codepoint": "F11C2",
