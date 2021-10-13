@@ -42196,6 +42196,19 @@
         "version": "5.0.45"
     },
     {
+        "id": "D85C481D-1B39-47A3-92D6-975E862AF70A",
+        "name": "human-white-cane",
+        "codepoint": "F1981",
+        "aliases": [
+            "human-blind"
+        ],
+        "tags": [
+            "People \/ Family"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "9A2A1178-7E30-49E7-A639-2D16464EA7EA",
         "name": "humble-bundle",
         "codepoint": "F0744",
