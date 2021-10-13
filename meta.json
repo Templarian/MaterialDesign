@@ -43968,6 +43968,17 @@
         "version": "1.9.32"
     },
     {
+        "id": "8B89609E-5F12-4A3B-99AE-F6698FEA48E4",
+        "name": "kite",
+        "codepoint": "F1985",
+        "aliases": [],
+        "tags": [
+            "Sport"
+        ],
+        "author": "Google",
+        "version": "6.5.95"
+    },
+    {
         "id": "2B23BD24-9796-4D72-85CC-76BE23854F0F",
         "name": "kitesurfing",
         "codepoint": "F1744",
