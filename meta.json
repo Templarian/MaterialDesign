@@ -30262,6 +30262,17 @@
         "version": "6.5.95"
     },
     {
+        "id": "B9A630A0-AF26-4EBC-A822-DFFE9AA01878",
+        "name": "eye-refresh-outline",
+        "codepoint": "F197D",
+        "aliases": [
+            "view-refresh-outline"
+        ],
+        "tags": [],
+        "author": "nlsve",
+        "version": "6.5.95"
+    },
+    {
         "id": "4CAD2E1D-F56B-40AA-B008-46DEFF9C9540",
         "name": "eye-remove",
         "codepoint": "F15E3",
