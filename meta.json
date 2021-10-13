@@ -2631,6 +2631,17 @@
         "version": "4.5.95"
     },
     {
+        "id": "CB64EDBD-09A0-4085-BD1E-0D84EAA56297",
+        "name": "align-vertical-distribute",
+        "codepoint": "F1963",
+        "aliases": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
+        "author": "Google",
+        "version": "6.5.95"
+    },
+    {
         "id": "9069B66B-C7CA-478D-BE02-BC9863E27FDB",
         "name": "align-vertical-top",
         "codepoint": "F11C7",
