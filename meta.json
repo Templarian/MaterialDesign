@@ -15624,6 +15624,15 @@
         "version": "4.0.96"
     },
     {
+        "id": "3AB7B60B-344F-4F2B-AFAD-7DB7BA167E68",
+        "name": "car-clock",
+        "codepoint": "F1974",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "862F1CFE-643B-44BB-9B46-33BF1C75CEE2",
         "name": "car-clutch",
         "codepoint": "F1018",
