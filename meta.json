@@ -43558,6 +43558,15 @@
         "version": "6.5.95"
     },
     {
+        "id": "1038F818-4017-42DB-A290-6FD069D3989C",
+        "name": "key-alert-outline",
+        "codepoint": "F1984",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "7A79C7BB-6669-46CA-8AB0-E3B537D83EA2",
         "name": "key-arrow-right",
         "codepoint": "F1312",
