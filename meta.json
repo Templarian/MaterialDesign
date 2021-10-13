@@ -54803,6 +54803,19 @@
         "version": "6.5.95"
     },
     {
+        "id": "B0B17758-277D-4AA6-8567-E87451EF1139",
+        "name": "panorama-sphere",
+        "codepoint": "F198D",
+        "aliases": [
+            "panorama-360"
+        ],
+        "tags": [
+            "Photography"
+        ],
+        "author": "Google",
+        "version": "6.5.95"
+    },
+    {
         "id": "7EC1E0AF-1AC5-4CC8-BDCC-5E2D3BF2AC70",
         "name": "panorama-vertical-outline",
         "codepoint": "F03DF",
