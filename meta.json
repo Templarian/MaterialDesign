@@ -41828,6 +41828,20 @@
         "version": "1.5.54"
     },
     {
+        "id": "24AA9CD4-6B25-4B7C-A3A2-0C1A29DC5E1F",
+        "name": "human-dolly",
+        "codepoint": "F1980",
+        "aliases": [
+            "human-hand-truck",
+            "human-trolley"
+        ],
+        "tags": [
+            "People \/ Family"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "1B83707C-D3DF-4181-93D5-5B513B649E1C",
         "name": "human-edit",
         "codepoint": "F14E8",
