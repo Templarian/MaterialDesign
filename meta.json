@@ -920,6 +920,22 @@
         "version": "6.5.95"
     },
     {
+        "id": "0E6C1E1C-7F80-445A-92CB-230F04F09093",
+        "name": "account-lock-open-outline",
+        "codepoint": "F1961",
+        "aliases": [
+            "user-lock-open-outline",
+            "user-unlocked-outline",
+            "account-unlocked-outline"
+        ],
+        "tags": [
+            "Account \/ User",
+            "Lock"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "F0E25FF6-2E45-4F3D-B9E3-6F251A6B1651",
         "name": "account-lock-outline",
         "codepoint": "F115F",
