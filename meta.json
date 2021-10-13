@@ -60859,6 +60859,17 @@
         "version": "3.4.93"
     },
     {
+        "id": "38F235DA-809D-4F32-B88E-870A02826E75",
+        "name": "rotate-360",
+        "codepoint": "F1999",
+        "aliases": [],
+        "tags": [
+            "Arrow"
+        ],
+        "author": "Google",
+        "version": "6.5.95"
+    },
+    {
         "id": "E288FD83-7397-4DF3-BAB8-DF7094955B83",
         "name": "rotate-3d",
         "codepoint": "F0EC7",
