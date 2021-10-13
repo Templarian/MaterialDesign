@@ -54846,6 +54846,23 @@
         "version": "6.5.95"
     },
     {
+        "id": "BE67BFD1-97AD-4EC3-B3E7-19BA48708172",
+        "name": "panorama-variant-outline",
+        "codepoint": "F1990",
+        "aliases": [
+            "panorama-vr-outline",
+            "image-vr-outline",
+            "picture-vr-outline",
+            "picture-360-outline",
+            "image-360-outline"
+        ],
+        "tags": [
+            "Photography"
+        ],
+        "author": "Google",
+        "version": "6.5.95"
+    },
+    {
         "id": "7EC1E0AF-1AC5-4CC8-BDCC-5E2D3BF2AC70",
         "name": "panorama-vertical-outline",
         "codepoint": "F03DF",
