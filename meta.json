@@ -6033,6 +6033,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "0A3C9B3E-5A92-45A9-AE11-63B0512981FB",
+        "name": "arrow-bottom-right-bold-box",
+        "codepoint": "F1966",
+        "aliases": [],
+        "tags": [
+            "Arrow"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "ABD34714-B566-4EDF-B876-93BFB6D254CB",
         "name": "arrow-bottom-right-bold-outline",
         "codepoint": "F09B9",
