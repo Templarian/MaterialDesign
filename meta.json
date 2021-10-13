@@ -12150,6 +12150,18 @@
         "version": "6.5.95"
     },
     {
+        "id": "1F563201-43D7-4CDA-8DB5-5F82A438965D",
+        "name": "bookmark-box-multiple-outline",
+        "codepoint": "F196D",
+        "aliases": [
+            "collections-bookmark-outline",
+            "library-bookmark-outline"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "65F155F1-7A9F-49AF-B570-FD6D24553CE5",
         "name": "bookmark-check",
         "codepoint": "F00C1",
