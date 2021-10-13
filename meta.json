@@ -54770,6 +54770,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "FCE8C530-5626-4B4A-9260-ECD7C1E93956",
+        "name": "panorama-horizontal",
+        "codepoint": "F198B",
+        "aliases": [],
+        "tags": [
+            "Photography"
+        ],
+        "author": "Google",
+        "version": "6.5.95"
+    },
+    {
         "id": "42B1DAD8-8731-49DB-B415-9BFD78A8DDEA",
         "name": "panorama-horizontal-outline",
         "codepoint": "F03DE",
