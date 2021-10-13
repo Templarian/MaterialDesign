@@ -25090,6 +25090,22 @@
         "version": "1.5.54"
     },
     {
+        "id": "4C5FB412-6649-4F26-A075-2865BAF41B5F",
+        "name": "currency-rupee",
+        "codepoint": "F1976",
+        "aliases": [
+            "currency-npr",
+            "currency-pkr",
+            "currency-lkr",
+            "currency-inr"
+        ],
+        "tags": [
+            "Banking"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "17CFE8D4-18D7-4414-B8EE-244D5A8FF791",
         "name": "currency-sign",
         "codepoint": "F07BE",
