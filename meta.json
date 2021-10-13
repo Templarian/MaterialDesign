@@ -15296,6 +15296,20 @@
         "version": "1.5.54"
     },
     {
+        "id": "AC3D0F93-E7EB-42DE-BBFE-FEBAE7966B35",
+        "name": "candy",
+        "codepoint": "F1970",
+        "aliases": [
+            "treat",
+            "chocolate"
+        ],
+        "tags": [
+            "Food \/ Drink"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "8CAC723B-0FF5-493B-A3A2-5772FDE46A0F",
         "name": "candycane",
         "codepoint": "F010A",
