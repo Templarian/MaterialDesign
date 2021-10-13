@@ -56139,6 +56139,19 @@
         "version": "6.5.95"
     },
     {
+        "id": "7B9734DE-AFAE-451B-B4DD-D10361B8148C",
+        "name": "phone-refresh-outline",
+        "codepoint": "F1994",
+        "aliases": [
+            "phone-redial-outline"
+        ],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "7AE0A1C1-0FFD-4182-93B5-95F2419AEE8E",
         "name": "phone-remove",
         "codepoint": "F152F",
