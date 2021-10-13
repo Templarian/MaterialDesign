@@ -36023,6 +36023,20 @@
         "version": "1.8.36"
     },
     {
+        "id": "B231DD3B-3FD4-4D82-9BD4-329B5A1F59A5",
+        "name": "format-pilcrow-arrow-left",
+        "codepoint": "F197E",
+        "aliases": [
+            "right-to-left",
+            "rtl"
+        ],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
+        "author": "Google",
+        "version": "6.5.95"
+    },
+    {
         "id": "0450C081-EE6B-4CB1-A7F7-B6F0F524CA99",
         "name": "format-quote-close",
         "codepoint": "F027E",
