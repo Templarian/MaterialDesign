@@ -28549,6 +28549,17 @@
         "version": "6.5.95"
     },
     {
+        "id": "8343D53B-57D1-46B5-AC0F-295E3F261E74",
+        "name": "elevator-passenger-outline",
+        "codepoint": "F197B",
+        "aliases": [],
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Google",
+        "version": "6.5.95"
+    },
+    {
         "id": "8EA26066-2C66-4A38-996B-8F23E288E0B7",
         "name": "elevator-up",
         "codepoint": "F12C1",
