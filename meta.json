@@ -24556,6 +24556,22 @@
         "version": "4.4.95"
     },
     {
+        "id": "FEE6305B-081C-429E-9584-5A5C6D8FD38F",
+        "name": "crowd",
+        "codepoint": "F1975",
+        "aliases": [
+            "family",
+            "crowd-source",
+            "crowdsource"
+        ],
+        "tags": [
+            "Account \/ User",
+            "People \/ Family"
+        ],
+        "author": "Google",
+        "version": "6.5.95"
+    },
+    {
         "id": "266349FD-1B26-4BCD-A682-D25C4469B682",
         "name": "crown",
         "codepoint": "F01A5",
