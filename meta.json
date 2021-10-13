@@ -7200,6 +7200,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "249364CD-93CE-4A11-9556-65579FA8910F",
+        "name": "arrow-top-right-bold-box",
+        "codepoint": "F196A",
+        "aliases": [],
+        "tags": [
+            "Arrow"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "D6A6FF61-6566-4C1D-BBCC-30E00B0655DD",
         "name": "arrow-top-right-bold-outline",
         "codepoint": "F09C5",
