@@ -48547,6 +48547,20 @@
         "version": "2.2.43"
     },
     {
+        "id": "C209FA9B-CE60-4CC6-853D-0180D05CDF93",
+        "name": "microphone-question",
+        "codepoint": "F1989",
+        "aliases": [
+            "microphone-help"
+        ],
+        "tags": [
+            "Audio",
+            "Music"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "E8F70177-01CF-4C20-9956-DCA7B331FED6",
         "name": "microphone-settings",
         "codepoint": "F036F",
