@@ -12138,6 +12138,18 @@
         "version": "1.5.54"
     },
     {
+        "id": "84C06231-55E7-4450-B88D-964B33FCACDA",
+        "name": "bookmark-box-multiple",
+        "codepoint": "F196C",
+        "aliases": [
+            "collections-bookmark",
+            "library-bookmark"
+        ],
+        "tags": [],
+        "author": "Google",
+        "version": "6.5.95"
+    },
+    {
         "id": "65F155F1-7A9F-49AF-B570-FD6D24553CE5",
         "name": "bookmark-check",
         "codepoint": "F00C1",
