@@ -72664,7 +72664,9 @@
         "id": "EEE6A113-50D3-4216-B103-C60D857D7E31",
         "name": "truck-snowflake",
         "codepoint": "F19A6",
-        "aliases": [],
+        "aliases": [
+            "truck-refrigerator"
+        ],
         "tags": [],
         "author": "Simran",
         "version": "6.5.95"
