@@ -72661,6 +72661,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "EEE6A113-50D3-4216-B103-C60D857D7E31",
+        "name": "truck-snowflake",
+        "codepoint": "F19A6",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.5.95"
+    },
+    {
         "id": "6F488FA3-B882-443D-8619-0124217E267C",
         "name": "truck-trailer",
         "codepoint": "F0727",
