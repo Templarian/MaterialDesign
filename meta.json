@@ -15022,7 +15022,9 @@
         "id": "304F1239-9ADE-4371-AFA5-AD2BC3343D24",
         "name": "camera-marker",
         "codepoint": "F19A7",
-        "aliases": [],
+        "aliases": [
+            "camera-location"
+        ],
         "tags": [
             "Photography"
         ],
