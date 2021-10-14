@@ -72732,7 +72732,7 @@
         "tags": [
             "Transportation + Road"
         ],
-        "author": "Simran",
+        "author": "Erdem YILMAZ",
         "version": "6.5.95"
     },
     {
@@ -75682,7 +75682,8 @@
         "name": "water-boiler",
         "codepoint": "F0F92",
         "aliases": [
-            "water-heater"
+            "water-heater",
+            "gas-water-boiler"
         ],
         "tags": [
             "Home Automation"
