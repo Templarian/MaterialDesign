@@ -72713,6 +72713,15 @@
         "version": "6.5.95"
     },
     {
+        "id": "AD0B6233-8DDB-4E1F-85E4-63EB669C8E79",
+        "name": "truck-remove",
+        "codepoint": "F19AF",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "6.5.95"
+    },
+    {
         "id": "EEE6A113-50D3-4216-B103-C60D857D7E31",
         "name": "truck-snowflake",
         "codepoint": "F19A6",
