@@ -75685,7 +75685,8 @@
             "water-heater",
             "gas-water-boiler",
             "electric-water-boiler",
-            "gas-water-heater"
+            "gas-water-heater",
+            "electric-water-heater"
         ],
         "tags": [
             "Home Automation"
