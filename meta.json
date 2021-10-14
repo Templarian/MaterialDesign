@@ -68128,7 +68128,9 @@
             "solar-compass",
             "solar-asimuth"
         ],
-        "tags": [],
+        "tags": [
+            "Weather"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.5.95"
     },
