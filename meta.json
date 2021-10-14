@@ -75684,7 +75684,8 @@
         "aliases": [
             "water-heater",
             "gas-water-boiler",
-            "electric-water-boiler"
+            "electric-water-boiler",
+            "gas-water-heater"
         ],
         "tags": [
             "Home Automation"
