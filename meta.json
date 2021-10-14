@@ -74201,6 +74201,15 @@
         "version": "2.1.19"
     },
     {
+        "id": "08B1B983-F8CC-4CE2-B9FA-4A292766BE31",
+        "name": "video-marker",
+        "codepoint": "F19A9",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.5.95"
+    },
+    {
         "id": "9453CFB6-B0CA-469B-87A0-48C51EA1B64D",
         "name": "video-minus",
         "codepoint": "F09B2",
