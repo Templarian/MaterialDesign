@@ -15035,7 +15035,9 @@
         "id": "FC72F661-E548-4755-9919-B9960175B831",
         "name": "camera-marker-outline",
         "codepoint": "F19A8",
-        "aliases": [],
+        "aliases": [
+            "camera-location-outline"
+        ],
         "tags": [],
         "author": "Simran",
         "version": "6.5.95"
