@@ -75698,7 +75698,9 @@
         "id": "EC21EC05-F45B-4560-A37E-3E721219A728",
         "name": "water-boiler-alert",
         "codepoint": "F11B3",
-        "aliases": [],
+        "aliases": [
+            "water-heater-alert"
+        ],
         "tags": [
             "Home Automation",
             "Alert \/ Error"
