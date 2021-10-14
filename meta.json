@@ -74212,7 +74212,9 @@
         "id": "08B1B983-F8CC-4CE2-B9FA-4A292766BE31",
         "name": "video-marker",
         "codepoint": "F19A9",
-        "aliases": [],
+        "aliases": [
+            "video-location"
+        ],
         "tags": [],
         "author": "Simran",
         "version": "6.5.95"
