@@ -72695,6 +72695,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "CE4CCBED-7E6E-4F0C-ADF9-AC3347BF897D",
+        "name": "truck-plus",
+        "codepoint": "F19AD",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Richins",
+        "version": "6.5.95"
+    },
+    {
         "id": "EEE6A113-50D3-4216-B103-C60D857D7E31",
         "name": "truck-snowflake",
         "codepoint": "F19A6",
