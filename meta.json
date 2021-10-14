@@ -15019,6 +15019,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "304F1239-9ADE-4371-AFA5-AD2BC3343D24",
+        "name": "camera-marker",
+        "codepoint": "F19A7",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.5.95"
+    },
+    {
         "id": "D178034B-0B93-40F5-BBF1-D28B25A86647",
         "name": "camera-metering-center",
         "codepoint": "F07A2",
