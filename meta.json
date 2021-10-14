@@ -15023,7 +15023,9 @@
         "name": "camera-marker",
         "codepoint": "F19A7",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Photography"
+        ],
         "author": "Simran",
         "version": "6.5.95"
     },
