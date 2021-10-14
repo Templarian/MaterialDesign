@@ -56984,6 +56984,15 @@
         "version": "1.7.22"
     },
     {
+        "id": "7AD950E9-0961-4D65-9B78-40FC56D5D206",
+        "name": "pliers",
+        "codepoint": "F19A4",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "2DE4F8E6-F25C-4FCA-8405-109FA8918B78",
         "name": "plus",
         "codepoint": "F0415",
