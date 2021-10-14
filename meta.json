@@ -72665,7 +72665,8 @@
         "name": "truck-snowflake",
         "codepoint": "F19A6",
         "aliases": [
-            "truck-refrigerator"
+            "truck-refrigerator",
+            "truck-freezer"
         ],
         "tags": [],
         "author": "Simran",
