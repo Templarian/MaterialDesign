@@ -75700,7 +75700,8 @@
         "codepoint": "F11B3",
         "aliases": [
             "water-heater-alert",
-            "water-boiler-error"
+            "water-boiler-error",
+            "water-heater-error"
         ],
         "tags": [
             "Home Automation",
