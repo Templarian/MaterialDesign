@@ -56988,7 +56988,9 @@
         "name": "pliers",
         "codepoint": "F19A4",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Hardware \/ Tools"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.5.95"
     },
