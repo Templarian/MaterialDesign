@@ -72668,7 +72668,9 @@
             "truck-refrigerator",
             "truck-freezer"
         ],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Simran",
         "version": "6.5.95"
     },
