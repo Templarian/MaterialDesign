@@ -68124,7 +68124,8 @@
         "name": "sun-compass",
         "codepoint": "F19A5",
         "aliases": [
-            "sun-azimuth"
+            "sun-azimuth",
+            "solar-compass"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
