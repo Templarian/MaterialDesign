@@ -15038,7 +15038,9 @@
         "aliases": [
             "camera-location-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Photography"
+        ],
         "author": "Simran",
         "version": "6.5.95"
     },
