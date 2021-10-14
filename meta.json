@@ -74228,7 +74228,9 @@
         "aliases": [
             "video-location-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "Simran",
         "version": "6.5.95"
     },
