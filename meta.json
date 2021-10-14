@@ -74210,6 +74210,15 @@
         "version": "6.5.95"
     },
     {
+        "id": "D2C8C1CD-F565-4549-8030-8549512C6905",
+        "name": "video-marker-outline",
+        "codepoint": "F19AA",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.5.95"
+    },
+    {
         "id": "9453CFB6-B0CA-469B-87A0-48C51EA1B64D",
         "name": "video-minus",
         "codepoint": "F09B2",
