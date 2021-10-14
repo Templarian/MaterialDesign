@@ -75714,7 +75714,9 @@
         "id": "E7515B82-DE9D-4053-9D48-297511ED48E5",
         "name": "water-boiler-off",
         "codepoint": "F11B4",
-        "aliases": [],
+        "aliases": [
+            "water-heater-off"
+        ],
         "tags": [
             "Home Automation"
         ],
