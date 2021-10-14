@@ -77327,6 +77327,20 @@
         "version": "3.4.93"
     },
     {
+        "id": "E77F8623-2F40-49A2-AE26-40B7B9AFA6AF",
+        "name": "wind-turbine-alert",
+        "codepoint": "F19AB",
+        "aliases": [
+            "wind-power-alert",
+            "wind-turbine-warning"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "0CB92EB7-2EE0-401C-9113-7D52E78DB51E",
         "name": "window-close",
         "codepoint": "F05AD",
