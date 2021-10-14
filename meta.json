@@ -74225,7 +74225,9 @@
         "id": "D2C8C1CD-F565-4549-8030-8549512C6905",
         "name": "video-marker-outline",
         "codepoint": "F19AA",
-        "aliases": [],
+        "aliases": [
+            "video-location-outline"
+        ],
         "tags": [],
         "author": "Simran",
         "version": "6.5.95"
