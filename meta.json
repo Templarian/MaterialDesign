@@ -77341,6 +77341,21 @@
         "version": "6.5.95"
     },
     {
+        "id": "6B86211C-130B-4A90-A9C7-9B58A5228D30",
+        "name": "wind-turbine-check",
+        "codepoint": "F19AC",
+        "aliases": [
+            "wind-power-check",
+            "wind-turbine-success",
+            "wind-power-success"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "0CB92EB7-2EE0-401C-9113-7D52E78DB51E",
         "name": "window-close",
         "codepoint": "F05AD",
