@@ -68120,6 +68120,15 @@
         "version": "1.9.32"
     },
     {
+        "id": "1F513D40-444E-475D-9C1F-E5A95CE61A02",
+        "name": "sun-compass",
+        "codepoint": "F19A5",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "2294E545-CE17-4605-8DBD-FFAE9CFDFED6",
         "name": "sun-snowflake",
         "codepoint": "F1796",
