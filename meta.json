@@ -72806,7 +72806,9 @@
         "name": "truck-remove",
         "codepoint": "F19AF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Michael Richins",
         "version": "6.5.95"
     },
