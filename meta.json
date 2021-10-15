@@ -72773,7 +72773,9 @@
         "aliases": [
             "truck-subtract"
         ],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Michael Richins",
         "version": "6.5.95"
     },
