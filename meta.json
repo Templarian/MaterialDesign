@@ -7782,7 +7782,9 @@
         "name": "arrow-up-thin",
         "codepoint": "F19B2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Arrow"
+        ],
         "author": "Matt Stayner",
         "version": "6.5.95"
     },
