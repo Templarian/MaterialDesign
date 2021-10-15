@@ -6013,7 +6013,9 @@
         "name": "arrow-bottom-left-thin",
         "codepoint": "F19B6",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Arrow"
+        ],
         "author": "Matt Stayner",
         "version": "6.5.95"
     },
