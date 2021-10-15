@@ -72788,7 +72788,9 @@
         "id": "CE4CCBED-7E6E-4F0C-ADF9-AC3347BF897D",
         "name": "truck-plus",
         "codepoint": "F19AD",
-        "aliases": [],
+        "aliases": [
+            "truck-add"
+        ],
         "tags": [
             "Transportation + Road"
         ],
