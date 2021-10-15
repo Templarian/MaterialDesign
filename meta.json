@@ -72789,7 +72789,9 @@
         "name": "truck-plus",
         "codepoint": "F19AD",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Michael Richins",
         "version": "6.5.95"
     },
