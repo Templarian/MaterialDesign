@@ -72770,7 +72770,9 @@
         "id": "3F802DD6-094E-4C91-B78B-9790D1F39D9F",
         "name": "truck-minus",
         "codepoint": "F19AE",
-        "aliases": [],
+        "aliases": [
+            "truck-subtract"
+        ],
         "tags": [],
         "author": "Michael Richins",
         "version": "6.5.95"
