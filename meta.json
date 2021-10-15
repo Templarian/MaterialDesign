@@ -28097,7 +28097,9 @@
         "id": "152EF3D9-A7C4-40AC-8691-D5A4D48CFD37",
         "name": "draw-pen",
         "codepoint": "F19B9",
-        "aliases": [],
+        "aliases": [
+            "sign"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.5.95"
