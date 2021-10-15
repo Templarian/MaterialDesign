@@ -61526,6 +61526,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "18C68B6F-89AD-4F9D-B0AF-AF6185C86AD6",
+        "name": "scale-unbalanced",
+        "codepoint": "F19B8",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "C74BA4DC-A838-471E-AA2D-A5C2D0B74BF3",
         "name": "scan-helper",
         "codepoint": "F13D8",
