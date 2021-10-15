@@ -7721,6 +7721,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "62E619DA-599C-486F-AD85-9B5BAB4F5A92",
+        "name": "arrow-up-thin",
+        "codepoint": "F19B2",
+        "aliases": [],
+        "tags": [],
+        "author": "Matt Stayner",
+        "version": "6.5.95"
+    },
+    {
         "id": "9733F983-7DD1-4230-B792-413D46E0B422",
         "name": "arrow-up-thin-circle-outline",
         "codepoint": "F1597",
