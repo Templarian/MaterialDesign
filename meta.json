@@ -28098,7 +28098,8 @@
         "name": "draw-pen",
         "codepoint": "F19B9",
         "aliases": [
-            "sign"
+            "sign",
+            "signature"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
