@@ -20731,7 +20731,9 @@
         "name": "clock-edit-outline",
         "codepoint": "F19BB",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Sidney Alcantara",
         "version": "6.5.95"
     },
