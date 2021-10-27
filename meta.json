@@ -72881,7 +72881,9 @@
         "id": "583767E2-4272-4483-99B5-5677E6EAB027",
         "name": "truck-minus-outline",
         "codepoint": "F19BD",
-        "aliases": [],
+        "aliases": [
+            "truck-subtract-outline"
+        ],
         "tags": [
             "Transportation + Road"
         ],
