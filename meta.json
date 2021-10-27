@@ -32415,7 +32415,9 @@
         "id": "F6BB607C-B55A-4E62-8C45-490F6AE9F0A2",
         "name": "file-sign",
         "codepoint": "F19C3",
-        "aliases": [],
+        "aliases": [
+            "contract-sign"
+        ],
         "tags": [
             "Banking"
         ],
