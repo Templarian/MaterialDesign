@@ -15194,7 +15194,9 @@
         "name": "camera-off-outline",
         "codepoint": "F19BF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Photography"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.5.95"
     },
