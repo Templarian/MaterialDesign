@@ -41363,7 +41363,9 @@
         "name": "home-group-plus",
         "codepoint": "F19C0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "LEANNOVATORS.TECH",
         "version": "6.5.95"
     },
