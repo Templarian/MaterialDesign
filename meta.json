@@ -72941,7 +72941,9 @@
         "name": "truck-remove-outline",
         "codepoint": "F19BE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.5.95"
     },
