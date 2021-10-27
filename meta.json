@@ -20720,7 +20720,9 @@
         "name": "clock-edit",
         "codepoint": "F19BA",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Sidney Alcantara",
         "version": "6.5.95"
     },
