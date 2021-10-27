@@ -72851,6 +72851,15 @@
         "version": "6.5.95"
     },
     {
+        "id": "E920C53D-E340-42C1-86D6-9A1317D9A584",
+        "name": "truck-plus-outline",
+        "codepoint": "F19BC",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.5.95"
+    },
+    {
         "id": "AD0B6233-8DDB-4E1F-85E4-63EB669C8E79",
         "name": "truck-remove",
         "codepoint": "F19AF",
