@@ -36214,7 +36214,9 @@
         "name": "format-pilcrow-arrow-right",
         "codepoint": "F197F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Google",
         "version": "6.5.95"
     },
