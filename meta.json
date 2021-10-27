@@ -34172,13 +34172,12 @@
         "name": "folder-check",
         "codepoint": "F197E",
         "aliases": [
-            "right-to-left",
             "rtl"
         ],
         "tags": [
             "Text \/ Content \/ Format"
         ],
-        "author": "Google",
+        "author": "Michael Irigoyen",
         "version": "6.5.95"
     },
     {
