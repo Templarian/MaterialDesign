@@ -32416,7 +32416,8 @@
         "name": "file-sign",
         "codepoint": "F19C3",
         "aliases": [
-            "contract-sign"
+            "contract-sign",
+            "document-sign"
         ],
         "tags": [
             "Banking"
