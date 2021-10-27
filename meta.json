@@ -20716,6 +20716,15 @@
         "version": "6.5.95"
     },
     {
+        "id": "E528826E-0ACC-494C-AFA3-B0AFF7FD802A",
+        "name": "clock-edit-outline",
+        "codepoint": "F19BB",
+        "aliases": [],
+        "tags": [],
+        "author": "Sidney Alcantara",
+        "version": "6.5.95"
+    },
+    {
         "id": "F7F5CA75-E8B5-45E1-B0BA-040F225D877D",
         "name": "clock-end",
         "codepoint": "F0151",
