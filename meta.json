@@ -34172,7 +34172,9 @@
         "name": "folder-check",
         "codepoint": "F197E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.5.95"
     },
