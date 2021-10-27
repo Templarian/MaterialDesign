@@ -32416,7 +32416,9 @@
         "name": "file-sign",
         "codepoint": "F19C3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.5.95"
     },
