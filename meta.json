@@ -34179,6 +34179,17 @@
         "version": "6.5.95"
     },
     {
+        "id": "87616DE6-0ADE-412A-B67F-C115DF131B06",
+        "name": "folder-check-outline",
+        "codepoint": "F197F",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Google",
+        "version": "6.5.95"
+    },
+    {
         "id": "A3CB34A0-7E6E-4DF8-B17A-20C9180B3C76",
         "name": "folder-clock",
         "codepoint": "F0ABA",
@@ -36208,17 +36219,6 @@
         ],
         "author": "Michael Richins",
         "version": "1.8.36"
-    },
-    {
-        "id": "87616DE6-0ADE-412A-B67F-C115DF131B06",
-        "name": "format-pilcrow-arrow-right",
-        "codepoint": "F197F",
-        "aliases": [],
-        "tags": [
-            "Files \/ Folders"
-        ],
-        "author": "Google",
-        "version": "6.5.95"
     },
     {
         "id": "0450C081-EE6B-4CB1-A7F7-B6F0F524CA99",
