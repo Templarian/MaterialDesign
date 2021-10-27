@@ -41353,6 +41353,15 @@
         "version": "6.5.95"
     },
     {
+        "id": "A4438B5F-FA4C-4C73-8514-3D0364BBB7A5",
+        "name": "home-group-remove",
+        "codepoint": "F19C2",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "513D2CF1-31F5-4F3B-8543-2499ABB20924",
         "name": "home-heart",
         "codepoint": "F0827",
