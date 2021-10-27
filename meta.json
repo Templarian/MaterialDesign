@@ -41354,7 +41354,9 @@
         "name": "home-group-minus",
         "codepoint": "F19C1",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.5.95"
     },
