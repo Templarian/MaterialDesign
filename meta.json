@@ -15190,6 +15190,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "F90640B1-1F16-41D0-98CF-B4C342BB5E61",
+        "name": "camera-off-outline",
+        "codepoint": "F19BF",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.5.95"
+    },
+    {
         "id": "5ABA45CF-038B-4665-BC3B-7D34CEF3882E",
         "name": "camera-outline",
         "codepoint": "F0D5D",
