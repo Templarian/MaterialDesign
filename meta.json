@@ -72913,7 +72913,9 @@
         "name": "truck-plus-outline",
         "codepoint": "F19BC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.5.95"
     },
