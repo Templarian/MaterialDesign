@@ -32406,6 +32406,15 @@
         "version": "4.2.95"
     },
     {
+        "id": "F6BB607C-B55A-4E62-8C45-490F6AE9F0A2",
+        "name": "file-sign",
+        "codepoint": "F19C3",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.5.95"
+    },
+    {
         "id": "E7E04B34-BC51-466F-92A1-78C8A00DDC9D",
         "name": "file-star",
         "codepoint": "F103A",
