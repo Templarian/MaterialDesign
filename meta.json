@@ -73090,7 +73090,9 @@
         "name": "truck-alert",
         "codepoint": "F19DE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Simran",
         "version": "6.6.95"
     },
