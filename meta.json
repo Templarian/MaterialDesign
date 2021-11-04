@@ -54648,7 +54648,8 @@
         "codepoint": "F19D5",
         "aliases": [
             "box-variant-closed-plus",
-            "package-variant-closed-add"
+            "package-variant-closed-add",
+            "box-variant-closed-add"
         ],
         "tags": [],
         "author": "Ferenc Szabo",
