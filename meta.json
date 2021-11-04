@@ -17634,6 +17634,15 @@
         "version": "2.5.94"
     },
     {
+        "id": "AF03DF0A-3E57-412D-B72E-67938C4FD599",
+        "name": "cellphone-arrow-down-variant",
+        "codepoint": "F19C5",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.6.95"
+    },
+    {
         "id": "E22A55C0-983F-499E-8B43-4A66DB278B4E",
         "name": "cellphone-basic",
         "codepoint": "F011E",
