@@ -72705,7 +72705,8 @@
         "name": "transmission-tower-off",
         "codepoint": "F19DD",
         "aliases": [
-            "powerline-off"
+            "powerline-off",
+            "pylon-off"
         ],
         "tags": [],
         "author": "Simran",
