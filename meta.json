@@ -32007,6 +32007,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "E59676A5-2E82-4B91-8887-4ADDEB5E2204",
+        "name": "file-lock-open",
+        "codepoint": "F19C8",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.6.95"
+    },
+    {
         "id": "658B01A1-E16D-4D8E-B274-C66465BF1CE3",
         "name": "file-lock-outline",
         "codepoint": "F1030",
