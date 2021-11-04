@@ -7923,7 +7923,9 @@
         "id": "08E6060D-0A4F-4A3C-867E-192E737972C6",
         "name": "attachment-lock",
         "codepoint": "F19C4",
-        "aliases": [],
+        "aliases": [
+            "paperclip-lock"
+        ],
         "tags": [],
         "author": "Simran",
         "version": "6.6.95"
