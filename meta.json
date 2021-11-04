@@ -59590,6 +59590,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "C5A53971-FD74-4C82-8CA6-9C1216713365",
+        "name": "receipt-outline",
+        "codepoint": "F19DC",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.6.95"
+    },
+    {
         "id": "F84F1E59-868C-42CE-80EA-159588E83462",
         "name": "record",
         "codepoint": "F044A",
