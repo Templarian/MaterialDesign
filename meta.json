@@ -31382,7 +31382,9 @@
         "name": "file-chart-check-outline",
         "codepoint": "F19C7",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Simran",
         "version": "6.6.95"
     },
