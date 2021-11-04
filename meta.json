@@ -48379,6 +48379,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "1FAB8199-286D-4D00-9AA5-7D4D14AC1B74",
+        "name": "message-fast",
+        "codepoint": "F19CC",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.6.95"
+    },
+    {
         "id": "A9181976-10D1-4CB7-993E-AE8B7DEDEC64",
         "name": "message-flash",
         "codepoint": "F15A9",
