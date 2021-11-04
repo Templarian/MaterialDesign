@@ -34781,7 +34781,9 @@
         "id": "772568CD-A665-4EBA-ACEA-6D6D5D23CDFB",
         "name": "folder-question",
         "codepoint": "F19CA",
-        "aliases": [],
+        "aliases": [
+            "folder-help"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.6.95"
