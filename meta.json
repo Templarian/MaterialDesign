@@ -55367,6 +55367,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "3A005420-791A-45DA-A903-EED63E35C1C6",
+        "name": "paperclip-lock",
+        "codepoint": "F19DA",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.6.95"
+    },
+    {
         "id": "47070C5A-B989-49C6-A635-3B764DC112CB",
         "name": "parachute",
         "codepoint": "F0CB4",
