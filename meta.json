@@ -72704,7 +72704,9 @@
         "id": "C54CC9F5-7BCA-4368-B379-E0CCD221A567",
         "name": "transmission-tower-off",
         "codepoint": "F19DD",
-        "aliases": [],
+        "aliases": [
+            "powerline-off"
+        ],
         "tags": [],
         "author": "Simran",
         "version": "6.6.95"
