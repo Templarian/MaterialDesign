@@ -54688,7 +54688,9 @@
         "id": "1E482E98-310D-4A28-B461-DD48ADE915E8",
         "name": "package-variant-remove",
         "codepoint": "F19D9",
-        "aliases": [],
+        "aliases": [
+            "box-variant-remove"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.6.95"
