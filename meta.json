@@ -53946,6 +53946,7 @@
         "name": "numeric-off",
         "codepoint": "F19D3",
         "aliases": [
+            "123-off",
             "one-two-three-off"
         ],
         "tags": [
