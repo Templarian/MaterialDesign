@@ -32017,7 +32017,9 @@
         "name": "file-lock-open",
         "codepoint": "F19C8",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Simran",
         "version": "6.6.95"
     },
