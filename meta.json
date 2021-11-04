@@ -56235,7 +56235,9 @@
             "phone-schedule",
             "phone-time"
         ],
-        "tags": [],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
         "author": "Simran",
         "version": "6.6.95"
     },
