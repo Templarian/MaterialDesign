@@ -59593,7 +59593,9 @@
         "id": "C5A53971-FD74-4C82-8CA6-9C1216713365",
         "name": "receipt-outline",
         "codepoint": "F19DC",
-        "aliases": [],
+        "aliases": [
+            "invoice-outline"
+        ],
         "tags": [],
         "author": "Google",
         "version": "6.6.95"
