@@ -17640,7 +17640,9 @@
         "aliases": [
             "cellphone-download"
         ],
-        "tags": [],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.6.95"
     },
