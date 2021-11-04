@@ -32029,7 +32029,9 @@
         "name": "file-lock-open-outline",
         "codepoint": "F19C9",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Simran",
         "version": "6.6.95"
     },
