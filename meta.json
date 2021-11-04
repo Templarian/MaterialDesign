@@ -54646,7 +54646,9 @@
         "id": "749AB237-2B69-4BB9-9B2D-6F22B1F85D50",
         "name": "package-variant-closed-plus",
         "codepoint": "F19D5",
-        "aliases": [],
+        "aliases": [
+            "box-variant-closed-plus"
+        ],
         "tags": [],
         "author": "Ferenc Szabo",
         "version": "6.6.95"
