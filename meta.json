@@ -34781,6 +34781,15 @@
         "version": "6.6.95"
     },
     {
+        "id": "DF184C5C-BF3B-47C7-8E37-6992E1E7480E",
+        "name": "folder-question-outline",
+        "codepoint": "F19CB",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.6.95"
+    },
+    {
         "id": "9B23FB77-FAF2-4F8E-B071-D23726EA8632",
         "name": "folder-refresh",
         "codepoint": "F0749",
