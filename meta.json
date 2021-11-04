@@ -31371,7 +31371,9 @@
         "name": "file-chart-check",
         "codepoint": "F19C6",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Simran",
         "version": "6.6.95"
     },
