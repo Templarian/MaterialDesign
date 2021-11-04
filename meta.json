@@ -72706,7 +72706,8 @@
         "codepoint": "F19DD",
         "aliases": [
             "powerline-off",
-            "pylon-off"
+            "pylon-off",
+            "grid-off"
         ],
         "tags": [],
         "author": "Simran",
