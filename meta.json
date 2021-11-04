@@ -49736,7 +49736,9 @@
         "id": "8C772F38-CA90-4CAD-BC26-DE68A84FD6F4",
         "name": "monitor-arrow-down",
         "codepoint": "F19D0",
-        "aliases": [],
+        "aliases": [
+            "monitor-download"
+        ],
         "tags": [
             "Device \/ Tech"
         ],
