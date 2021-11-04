@@ -73022,6 +73022,15 @@
         "version": "6.6.95"
     },
     {
+        "id": "FCE10225-CA09-4B2E-8BE3-5B9D718B13D5",
+        "name": "truck-alert-outline",
+        "codepoint": "F19DF",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.6.95"
+    },
+    {
         "id": "8C535C82-EAA1-431A-90AE-D0A5032024EB",
         "name": "truck-cargo-container",
         "codepoint": "F18D8",
