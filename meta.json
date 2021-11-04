@@ -34797,7 +34797,9 @@
         "aliases": [
             "folder-help-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.6.95"
     },
