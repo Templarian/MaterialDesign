@@ -48683,6 +48683,15 @@
         "version": "4.4.95"
     },
     {
+        "id": "9CD08DBB-70E0-41B6-8BAA-79B9D4FE11AA",
+        "name": "message-text-fast",
+        "codepoint": "F19CE",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.6.95"
+    },
+    {
         "id": "362401F1-947F-45FD-8047-F515CB2F7C44",
         "name": "message-text-lock",
         "codepoint": "F0FCD",
