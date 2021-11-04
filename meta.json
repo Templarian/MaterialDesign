@@ -73013,6 +73013,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "8650D94A-71BC-4B6B-9BA9-A6A2A756063C",
+        "name": "truck-alert",
+        "codepoint": "F19DE",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.6.95"
+    },
+    {
         "id": "8C535C82-EAA1-431A-90AE-D0A5032024EB",
         "name": "truck-cargo-container",
         "codepoint": "F18D8",
