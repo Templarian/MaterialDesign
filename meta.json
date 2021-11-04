@@ -54673,7 +54673,9 @@
         "id": "8E0543FE-6EC4-4D0F-9109-E77254414DD7",
         "name": "package-variant-plus",
         "codepoint": "F19D8",
-        "aliases": [],
+        "aliases": [
+            "box-variant-plus"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.6.95"
