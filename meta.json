@@ -56231,7 +56231,9 @@
         "id": "1B8EA976-32FD-4A71-94FA-EF40FC346FBD",
         "name": "phone-clock",
         "codepoint": "F19DB",
-        "aliases": [],
+        "aliases": [
+            "phone-schedule"
+        ],
         "tags": [],
         "author": "Simran",
         "version": "6.6.95"
