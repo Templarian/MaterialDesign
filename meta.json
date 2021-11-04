@@ -51804,6 +51804,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "EF95D4D3-9095-412A-A109-BF170FA2A1D9",
+        "name": "needle-off",
+        "codepoint": "F19D2",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.6.95"
+    },
+    {
         "id": "7AEF7097-EC88-4D09-A65E-5244DDA99599",
         "name": "netflix",
         "codepoint": "F0746",
