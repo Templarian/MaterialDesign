@@ -49752,7 +49752,9 @@
         "aliases": [
             "monitor-download"
         ],
-        "tags": [],
+        "tags": [
+            "Device \/ Tech"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.6.95"
     },
