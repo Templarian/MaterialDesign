@@ -49738,6 +49738,15 @@
         "version": "6.6.95"
     },
     {
+        "id": "D3299EA1-1120-4457-86B0-7162B329B826",
+        "name": "monitor-arrow-down-variant",
+        "codepoint": "F19D1",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.6.95"
+    },
+    {
         "id": "B2A9CF60-30E4-46DC-9116-ED206912B156",
         "name": "monitor-cellphone",
         "codepoint": "F0989",
