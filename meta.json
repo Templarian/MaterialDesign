@@ -49737,7 +49737,9 @@
         "name": "monitor-arrow-down",
         "codepoint": "F19D0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Device \/ Tech"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.6.95"
     },
