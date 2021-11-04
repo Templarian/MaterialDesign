@@ -48692,6 +48692,15 @@
         "version": "6.6.95"
     },
     {
+        "id": "3EA07D0B-1C28-4140-9CF3-60E741D34A65",
+        "name": "message-text-fast-outline",
+        "codepoint": "F19CF",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.6.95"
+    },
+    {
         "id": "362401F1-947F-45FD-8047-F515CB2F7C44",
         "name": "message-text-lock",
         "codepoint": "F0FCD",
