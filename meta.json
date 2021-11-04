@@ -56190,6 +56190,15 @@
         "version": "4.7.95"
     },
     {
+        "id": "1B8EA976-32FD-4A71-94FA-EF40FC346FBD",
+        "name": "phone-clock",
+        "codepoint": "F19DB",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.6.95"
+    },
+    {
         "id": "8F4DBE23-BD53-447F-917D-5343B4DDE8B8",
         "name": "phone-dial",
         "codepoint": "F1559",
