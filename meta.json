@@ -73101,7 +73101,9 @@
         "name": "truck-alert-outline",
         "codepoint": "F19DF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Simran",
         "version": "6.6.95"
     },
