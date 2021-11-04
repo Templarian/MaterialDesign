@@ -54665,7 +54665,8 @@
         "name": "package-variant-minus",
         "codepoint": "F19D7",
         "aliases": [
-            "box-variant-minus"
+            "box-variant-minus",
+            "package-variant-subtract"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
