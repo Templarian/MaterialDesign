@@ -54646,6 +54646,15 @@
         "version": "6.6.95"
     },
     {
+        "id": "425F62CE-0308-47E5-9825-CEE711EE34B2",
+        "name": "package-variant-closed-remove",
+        "codepoint": "F19D6",
+        "aliases": [],
+        "tags": [],
+        "author": "Ferenc Szabo",
+        "version": "6.6.95"
+    },
+    {
         "id": "DF23FF47-4DD3-4CB3-9BEC-6EE986B0FA65",
         "name": "page-first",
         "codepoint": "F0600",
