@@ -31361,6 +31361,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "B7778AA5-6982-4820-A733-996314D07B82",
+        "name": "file-chart-check",
+        "codepoint": "F19C6",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.6.95"
+    },
+    {
         "id": "E8F550E7-DE55-47CE-B548-4B6987B9FDE7",
         "name": "file-chart-outline",
         "codepoint": "F1029",
