@@ -53945,7 +53945,9 @@
         "id": "560615BB-A023-4B98-88A6-F38FBF3272E2",
         "name": "numeric-off",
         "codepoint": "F19D3",
-        "aliases": [],
+        "aliases": [
+            "one-two-three-off"
+        ],
         "tags": [
             "Alpha \/ Numeric"
         ],
