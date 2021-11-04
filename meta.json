@@ -17637,7 +17637,9 @@
         "id": "AF03DF0A-3E57-412D-B72E-67938C4FD599",
         "name": "cellphone-arrow-down-variant",
         "codepoint": "F19C5",
-        "aliases": [],
+        "aliases": [
+            "cellphone-download"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.6.95"
