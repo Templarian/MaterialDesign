@@ -32016,6 +32016,15 @@
         "version": "6.6.95"
     },
     {
+        "id": "D94F03DE-9FA8-4AF4-AB95-3EDB4DB97522",
+        "name": "file-lock-open-outline",
+        "codepoint": "F19C9",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.6.95"
+    },
+    {
         "id": "658B01A1-E16D-4D8E-B274-C66465BF1CE3",
         "name": "file-lock-outline",
         "codepoint": "F1030",
