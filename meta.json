@@ -55408,7 +55408,9 @@
         "id": "3A005420-791A-45DA-A903-EED63E35C1C6",
         "name": "paperclip-lock",
         "codepoint": "F19DA",
-        "aliases": [],
+        "aliases": [
+            "attachment-lock"
+        ],
         "tags": [],
         "author": "Simran",
         "version": "6.6.95"
