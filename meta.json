@@ -56232,7 +56232,8 @@
         "name": "phone-clock",
         "codepoint": "F19DB",
         "aliases": [
-            "phone-schedule"
+            "phone-schedule",
+            "phone-time"
         ],
         "tags": [],
         "author": "Simran",
