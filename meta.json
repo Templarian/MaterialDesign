@@ -48388,6 +48388,15 @@
         "version": "6.6.95"
     },
     {
+        "id": "13E100B1-AEB4-4398-9A8D-404F8C765642",
+        "name": "message-fast-outline",
+        "codepoint": "F19CD",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.6.95"
+    },
+    {
         "id": "A9181976-10D1-4CB7-993E-AE8B7DEDEC64",
         "name": "message-flash",
         "codepoint": "F15A9",
