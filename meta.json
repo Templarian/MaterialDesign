@@ -7920,6 +7920,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "08E6060D-0A4F-4A3C-867E-192E737972C6",
+        "name": "attachment-lock",
+        "codepoint": "F19C4",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.6.95"
+    },
+    {
         "id": "2CB292B6-3835-44B4-857B-5231B87B5968",
         "name": "audio-input-rca",
         "codepoint": "F186B",
@@ -31979,7 +31988,7 @@
             "Files \/ Folders",
             "Lock"
         ],
-        "author": "Terren",
+        "author": "Simran",
         "version": "4.1.95"
     },
     {
