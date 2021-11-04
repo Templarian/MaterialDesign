@@ -53946,7 +53946,9 @@
         "name": "numeric-off",
         "codepoint": "F19D3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alpha \/ Numeric"
+        ],
         "author": "Piotr \u0141ado\u0144ski",
         "version": "6.6.95"
     },
