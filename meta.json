@@ -72656,6 +72656,15 @@
         "version": "6.4.95"
     },
     {
+        "id": "C54CC9F5-7BCA-4368-B379-E0CCD221A567",
+        "name": "transmission-tower-off",
+        "codepoint": "F19DD",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.6.95"
+    },
+    {
         "id": "260712C5-252B-484C-B5A7-33827BBC5487",
         "name": "trash-can",
         "codepoint": "F0A79",
