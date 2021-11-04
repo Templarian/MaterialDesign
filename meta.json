@@ -72709,7 +72709,9 @@
             "pylon-off",
             "grid-off"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Simran",
         "version": "6.6.95"
     },
