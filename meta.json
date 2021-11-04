@@ -54664,7 +54664,9 @@
         "id": "C204643B-C7FA-48A9-9910-C2258F77E707",
         "name": "package-variant-minus",
         "codepoint": "F19D7",
-        "aliases": [],
+        "aliases": [
+            "box-variant-minus"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.6.95"
