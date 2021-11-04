@@ -53942,6 +53942,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "560615BB-A023-4B98-88A6-F38FBF3272E2",
+        "name": "numeric-off",
+        "codepoint": "F19D3",
+        "aliases": [],
+        "tags": [],
+        "author": "Piotr \u0141ado\u0144ski",
+        "version": "6.6.95"
+    },
+    {
         "id": "73DE8F6E-A301-42D1-B2C3-3699265BA2BB",
         "name": "numeric-positive-1",
         "codepoint": "F15CB",
