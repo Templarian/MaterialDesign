@@ -37251,7 +37251,9 @@
         "name": "function",
         "codepoint": "F0295",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Math"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
