@@ -37262,7 +37262,9 @@
         "name": "function-variant",
         "codepoint": "F0871",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Math"
+        ],
         "author": "Michael Richins",
         "version": "2.1.99"
     },
