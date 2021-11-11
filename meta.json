@@ -68826,7 +68826,8 @@
         "name": "swap-horizontal",
         "codepoint": "F04E1",
         "aliases": [
-            "arrow-left-right"
+            "arrow-left-right",
+            "transfer"
         ],
         "tags": [
             "Arrow"
