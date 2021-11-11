@@ -68828,7 +68828,8 @@
         "aliases": [
             "arrow-left-right",
             "transfer",
-            "exchange"
+            "exchange",
+            "switch"
         ],
         "tags": [
             "Arrow"
