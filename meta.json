@@ -11531,6 +11531,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "2ECDAB32-FFDA-4E29-9465-D932794C53EF",
+        "name": "bone-off",
+        "codepoint": "F19E0",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.6.95"
+    },
+    {
         "id": "FFF82791-D12F-4643-8128-71CF5FE38C9B",
         "name": "book",
         "codepoint": "F00BA",
