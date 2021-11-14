@@ -45740,6 +45740,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "CB600C6A-E43E-4723-A8F0-963222692C23",
+        "name": "lightbulb-question",
+        "codepoint": "F19E3",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.6.95"
+    },
+    {
         "id": "2D6C2BB9-CF5E-4BD1-A44B-262F2A61FAC2",
         "name": "lightbulb-spot",
         "codepoint": "F17F4",
