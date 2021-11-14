@@ -45449,6 +45449,15 @@
         "version": "6.6.95"
     },
     {
+        "id": "AC5BBA36-C64C-4E2F-B0E9-2B35A4D9FFE8",
+        "name": "lightbulb-alert-outline",
+        "codepoint": "F19E2",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.6.95"
+    },
+    {
         "id": "DB38FD91-5875-4D53-81A9-A0B5400D53AE",
         "name": "lightbulb-auto",
         "codepoint": "F1800",
