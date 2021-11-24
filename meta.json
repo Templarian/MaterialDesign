@@ -10089,6 +10089,20 @@
         "version": "6.6.95"
     },
     {
+        "id": "5756A4F3-FBED-4F81-8B97-AF391EC4D893",
+        "name": "battery-clock-outline",
+        "codepoint": "F19E6",
+        "aliases": [
+            "batter-0-clock",
+            "battery-empty-clock"
+        ],
+        "tags": [
+            "Battery"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "DEE88AFA-DFF3-4100-8475-EB5EB72CCFCB",
         "name": "battery-heart",
         "codepoint": "F120F",
