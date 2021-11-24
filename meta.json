@@ -10075,6 +10075,20 @@
         "version": "6.1.95"
     },
     {
+        "id": "11C7A5CA-DA77-453A-BAA8-6345949394C7",
+        "name": "battery-clock",
+        "codepoint": "F19E5",
+        "aliases": [
+            "battery-full-clock",
+            "battery-100-clock"
+        ],
+        "tags": [
+            "Battery"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "DEE88AFA-DFF3-4100-8475-EB5EB72CCFCB",
         "name": "battery-heart",
         "codepoint": "F120F",
