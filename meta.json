@@ -48401,7 +48401,8 @@
         "name": "message-badge-outline",
         "codepoint": "F1942",
         "aliases": [
-            "message-unread-outline"
+            "message-unread-outline",
+            "message-notification-outline"
         ],
         "tags": [],
         "author": "Google",
