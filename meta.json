@@ -48389,7 +48389,8 @@
         "name": "message-badge",
         "codepoint": "F1941",
         "aliases": [
-            "message-unread"
+            "message-unread",
+            "message-notification"
         ],
         "tags": [],
         "author": "Google",
