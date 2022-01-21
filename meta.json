@@ -34434,6 +34434,17 @@
         "version": "6.6.95"
     },
     {
+        "id": "54D65B1D-7337-435B-8E69-BA2E721F9DE5",
+        "name": "folder-cancel-outline",
+        "codepoint": "F19F5",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "B231DD3B-3FD4-4D82-9BD4-329B5A1F59A5",
         "name": "folder-check",
         "codepoint": "F197E",
