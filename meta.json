@@ -34985,6 +34985,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "C3FACC18-E546-4E6F-A140-48541C0B808E",
+        "name": "folder-play",
+        "codepoint": "F19FA",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "BAE32170-6509-4D1F-A6A5-A2FD1A0C679B",
         "name": "folder-plus",
         "codepoint": "F0257",
