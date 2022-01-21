@@ -62178,6 +62178,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "EC5767A6-FA73-4A93-AA73-3EE66CB7374B",
+        "name": "sale-outline",
+        "codepoint": "F1A06",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "6.6.95"
+    },
+    {
         "id": "D7963D7C-396F-45DB-A5D7-AA18AE32FE53",
         "name": "salesforce",
         "codepoint": "F088E",
