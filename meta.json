@@ -34939,6 +34939,17 @@
         "version": "6.6.95"
     },
     {
+        "id": "3DA5D076-3943-4968-A375-3DB3A73C3E69",
+        "name": "folder-off-outline",
+        "codepoint": "F19F9",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "7BBC57AE-0EBA-4198-8B85-5082A38522DE",
         "name": "folder-open",
         "codepoint": "F0770",
