@@ -34313,6 +34313,17 @@
         "version": "6.6.95"
     },
     {
+        "id": "25BB41F5-0A33-4F15-8C92-FBA086F0C6EA",
+        "name": "folder-arrow-left",
+        "codepoint": "F19EA",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "B231DD3B-3FD4-4D82-9BD4-329B5A1F59A5",
         "name": "folder-check",
         "codepoint": "F197E",
