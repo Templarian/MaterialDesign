@@ -34928,6 +34928,17 @@
         "version": "3.2.89"
     },
     {
+        "id": "A792FD60-AF2F-4EDD-8CCB-42FFBEE61286",
+        "name": "folder-off",
+        "codepoint": "F19F8",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "7BBC57AE-0EBA-4198-8B85-5082A38522DE",
         "name": "folder-open",
         "codepoint": "F0770",
