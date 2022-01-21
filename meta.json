@@ -53028,6 +53028,15 @@
         "version": "5.4.55"
     },
     {
+        "id": "BA533C71-48B2-4D1D-8069-98F53EC6224B",
+        "name": "notebook-heart",
+        "codepoint": "F1A0B",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "6.6.95"
+    },
+    {
         "id": "60952B51-85EE-45B0-9834-7117F8DED9D7",
         "name": "notebook-minus",
         "codepoint": "F1610",
