@@ -56448,6 +56448,15 @@
         "version": "6.6.95"
     },
     {
+        "id": "CA4A3F7A-B20E-4937-9FD6-207B1F974DE8",
+        "name": "percent-circle",
+        "codepoint": "F1A04",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "0625AC7C-AD52-4221-8F53-A9AE6DAA57BD",
         "name": "percent-outline",
         "codepoint": "F1278",
