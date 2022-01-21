@@ -34291,6 +34291,17 @@
         "version": "3.5.94"
     },
     {
+        "id": "40D3B512-FD3C-4F69-922E-DE4EC33AB3A5",
+        "name": "folder-arrow-down",
+        "codepoint": "F19E8",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "B231DD3B-3FD4-4D82-9BD4-329B5A1F59A5",
         "name": "folder-check",
         "codepoint": "F197E",
