@@ -34583,6 +34583,17 @@
         "version": "6.1.95"
     },
     {
+        "id": "92D3CAE7-0191-42CE-8D9F-7AE3C8D067DA",
+        "name": "folder-file",
+        "codepoint": "F19F6",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "B8ACEEFF-E80A-42A9-BCAE-A804D47D8929",
         "name": "folder-google-drive",
         "codepoint": "F024E",
