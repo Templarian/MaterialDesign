@@ -56439,6 +56439,15 @@
         "version": "6.6.95"
     },
     {
+        "id": "4B5165F6-736B-44F7-961C-420A1F2EEFE7",
+        "name": "percent-box-outline",
+        "codepoint": "F1A03",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "0625AC7C-AD52-4221-8F53-A9AE6DAA57BD",
         "name": "percent-outline",
         "codepoint": "F1278",
