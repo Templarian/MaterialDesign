@@ -34594,6 +34594,17 @@
         "version": "6.6.95"
     },
     {
+        "id": "9DEB2414-C7DC-4AE8-831C-32FE8C5ECFCF",
+        "name": "folder-file-outline",
+        "codepoint": "F19F7",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "B8ACEEFF-E80A-42A9-BCAE-A804D47D8929",
         "name": "folder-google-drive",
         "codepoint": "F024E",
