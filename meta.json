@@ -43329,6 +43329,15 @@
         "version": "6.6.95"
     },
     {
+        "id": "243DB52F-654F-488F-86DB-BD7EA47B3BA8",
+        "name": "image-refresh-outline",
+        "codepoint": "F19FF",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "95B5A056-E7FE-4C3F-95A6-1E826DD80076",
         "name": "image-remove",
         "codepoint": "F1418",
