@@ -8048,6 +8048,22 @@
         "version": "1.5.54"
     },
     {
+        "id": "E140F6DB-8C47-4F0F-9293-0D8EE1106B64",
+        "name": "autorenew-off",
+        "codepoint": "F19E7",
+        "aliases": [
+            "clockwise-arrows-off",
+            "circular-arrows-off",
+            "circle-arrows-off",
+            "sync-off"
+        ],
+        "tags": [
+            "Arrow"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "A118E3CD-FF18-48FD-B26C-B4A48641E4C5",
         "name": "av-timer",
         "codepoint": "F006B",
