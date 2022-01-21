@@ -43392,6 +43392,15 @@
         "version": "3.2.89"
     },
     {
+        "id": "8597FAE8-2093-48A1-8B87-9717D9AB968B",
+        "name": "image-sync",
+        "codepoint": "F1A00",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "E404BB7C-724B-4390-9DE4-D08DA29B151A",
         "name": "image-text",
         "codepoint": "F160D",
