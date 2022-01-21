@@ -73427,6 +73427,17 @@
         "version": "6.6.95"
     },
     {
+        "id": "D7C0A028-070C-4E9B-88B8-910365A3FE41",
+        "name": "triangle-small-up",
+        "codepoint": "F1A0A",
+        "aliases": [
+            "trending-up-variant"
+        ],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.6.95"
+    },
+    {
         "id": "59CAC75D-7028-4672-9EC2-1B9E797BA9D1",
         "name": "triangle-wave",
         "codepoint": "F147C",
