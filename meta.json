@@ -67531,6 +67531,18 @@
         "version": "6.6.95"
     },
     {
+        "id": "336D96D3-5E97-434B-BEF7-651BF94FA347",
+        "name": "square-rounded-badge-outline",
+        "codepoint": "F1A08",
+        "aliases": [
+            "app-badge-outline",
+            "push-notification-outline"
+        ],
+        "tags": [],
+        "author": "Jeff Anders",
+        "version": "6.6.95"
+    },
+    {
         "id": "9E46259E-F519-4CCA-BE7E-0DAC8230B3A4",
         "name": "square-rounded-outline",
         "codepoint": "F14FC",
