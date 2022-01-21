@@ -34996,6 +34996,17 @@
         "version": "6.6.95"
     },
     {
+        "id": "63119A3C-5E35-4BC5-9DA6-74EB4DD748DB",
+        "name": "folder-play-outline",
+        "codepoint": "F19FB",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "BAE32170-6509-4D1F-A6A5-A2FD1A0C679B",
         "name": "folder-plus",
         "codepoint": "F0257",
