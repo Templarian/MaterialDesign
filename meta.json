@@ -35345,6 +35345,17 @@
         "version": "4.3.95"
     },
     {
+        "id": "4A9F791A-45FC-42C8-BBBB-1963868C4E44",
+        "name": "folder-wrench",
+        "codepoint": "F19FC",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "1573C575-7FBA-4BCD-A960-02D42043FE6F",
         "name": "folder-zip",
         "codepoint": "F06EB",
