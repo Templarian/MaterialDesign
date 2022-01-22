@@ -37480,6 +37480,15 @@
         "version": "4.1.95"
     },
     {
+        "id": "E17D31CC-F130-4832-95AD-EBC299E1B8E5",
+        "name": "fruit-pear",
+        "codepoint": "F1A0E",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.6.95"
+    },
+    {
         "id": "F28FDEF7-E169-45AA-84E7-13DB0A6CA241",
         "name": "fruit-pineapple",
         "codepoint": "F1046",
