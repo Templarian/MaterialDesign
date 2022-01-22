@@ -59994,6 +59994,17 @@
         "version": "6.6.95"
     },
     {
+        "id": "8882E66A-7C74-4F2A-B38F-94AF59CFB92B",
+        "name": "raw-off",
+        "codepoint": "F1A10",
+        "aliases": [],
+        "tags": [
+            "Photography"
+        ],
+        "author": "Google",
+        "version": "6.6.95"
+    },
+    {
         "id": "935371AF-0FF0-4D1E-86F8-DB6E5C5510F9",
         "name": "ray-end",
         "codepoint": "F0440",
