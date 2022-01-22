@@ -59983,6 +59983,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "0B304D53-8218-4F49-9330-1AB9CCB11C01",
+        "name": "raw",
+        "codepoint": "F1A0F",
+        "aliases": [],
+        "tags": [
+            "Photography"
+        ],
+        "author": "Google",
+        "version": "6.6.95"
+    },
+    {
         "id": "935371AF-0FF0-4D1E-86F8-DB6E5C5510F9",
         "name": "ray-end",
         "codepoint": "F0440",
