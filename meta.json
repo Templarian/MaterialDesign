@@ -76324,6 +76324,15 @@
         "version": "2.0.46"
     },
     {
+        "id": "436644E2-0AFD-47DE-A15F-EF6BD02C5F5A",
+        "name": "wall-fire",
+        "codepoint": "F1A11",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "6.6.95"
+    },
+    {
         "id": "EABFE131-4690-406C-9042-EFCA33E97A00",
         "name": "wall-sconce",
         "codepoint": "F091C",
