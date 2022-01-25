@@ -41561,6 +41561,15 @@
         "version": "6.6.95"
     },
     {
+        "id": "9ADA7472-66EE-4F9A-8494-C4292C29207C",
+        "name": "home-clock-outline",
+        "codepoint": "F1A13",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "6D381D99-24F0-46B5-AD04-F527B97830AE",
         "name": "home-edit",
         "codepoint": "F1159",
