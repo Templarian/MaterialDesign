@@ -41552,6 +41552,15 @@
         "version": "3.3.92"
     },
     {
+        "id": "F3391DCE-6EC9-4C63-869D-36ED374054FC",
+        "name": "home-clock",
+        "codepoint": "F1A12",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.6.95"
+    },
+    {
         "id": "6D381D99-24F0-46B5-AD04-F527B97830AE",
         "name": "home-edit",
         "codepoint": "F1159",
