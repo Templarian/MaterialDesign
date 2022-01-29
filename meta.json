@@ -57754,6 +57754,15 @@
         "version": "6.6.95"
     },
     {
+        "id": "3C88B8D8-AFDD-4A9F-A976-BCD74895D1F5",
+        "name": "play-box-lock-open-outline",
+        "codepoint": "F1A18",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.6.95"
+    },
+    {
         "id": "9700DCD7-8658-479A-A817-1241A09F9654",
         "name": "play-box-multiple",
         "codepoint": "F0D19",
