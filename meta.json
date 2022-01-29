@@ -15191,6 +15191,17 @@
         "version": "6.6.95"
     },
     {
+        "id": "662A0A34-3FEC-47DB-BD66-608D95F912EF",
+        "name": "camera-lock-outline",
+        "codepoint": "F1A15",
+        "aliases": [],
+        "tags": [
+            "Photography"
+        ],
+        "author": "Austin Andrews",
+        "version": "6.6.95"
+    },
+    {
         "id": "304F1239-9ADE-4371-AFA5-AD2BC3343D24",
         "name": "camera-marker",
         "codepoint": "F19A7",
