@@ -61553,6 +61553,15 @@
         "version": "2.8.94"
     },
     {
+        "id": "318E8495-2191-4315-A58D-77D697743290",
+        "name": "robot-industrial-outline",
+        "codepoint": "F1A1A",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "6.6.95"
+    },
+    {
         "id": "2EFA6B95-27BD-4A52-90AF-991A3574FD2C",
         "name": "robot-love",
         "codepoint": "F16A5",
