@@ -15180,6 +15180,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "46E0AE7F-ECCB-4EAC-BADC-176B2A1FD338",
+        "name": "camera-lock",
+        "codepoint": "F1A14",
+        "aliases": [],
+        "tags": [
+            "Photography"
+        ],
+        "author": "Austin Andrews",
+        "version": "6.6.95"
+    },
+    {
         "id": "304F1239-9ADE-4371-AFA5-AD2BC3343D24",
         "name": "camera-marker",
         "codepoint": "F19A7",
