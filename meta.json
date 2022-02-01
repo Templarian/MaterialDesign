@@ -75224,6 +75224,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "0E676B63-2A2E-4182-91BD-F2A5D8D89595",
+        "name": "video-2d",
+        "codepoint": "F1A1C",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "6.6.95"
+    },
+    {
         "id": "3F4D3E00-72CA-4167-A269-F9DD1A94540D",
         "name": "video-3d",
         "codepoint": "F07FD",
