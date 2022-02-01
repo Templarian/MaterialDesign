@@ -38078,6 +38078,15 @@
         "version": "6.1.95"
     },
     {
+        "id": "BB98FED5-2967-4D6D-B133-8447CE90C089",
+        "name": "gas-burner",
+        "codepoint": "F1A1B",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "6.6.95"
+    },
+    {
         "id": "7CEC48C5-3A70-4BA2-9FB8-A383387DC4A1",
         "name": "gas-cylinder",
         "codepoint": "F0647",
