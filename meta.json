@@ -11843,6 +11843,15 @@
         "version": "5.8.55"
     },
     {
+        "id": "4A830C97-1A09-495F-91A5-8F02571C54C6",
+        "name": "book-heart",
+        "codepoint": "F1A1D",
+        "aliases": [],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "6.6.95"
+    },
+    {
         "id": "4A6A20D1-3F8E-440A-BFB1-38CFB3FB3EC6",
         "name": "book-information-variant",
         "codepoint": "F106F",
