@@ -1404,6 +1404,15 @@
         "version": "2.8.94"
     },
     {
+        "id": "BE45DEDF-3BBC-442F-9EDD-4A16570B91A0",
+        "name": "account-school",
+        "codepoint": "F1A20",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.6.95"
+    },
+    {
         "id": "48E9C474-C544-4868-9966-C3A8D7808FCA",
         "name": "account-search",
         "codepoint": "F0016",
