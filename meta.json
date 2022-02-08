@@ -1413,6 +1413,15 @@
         "version": "6.6.95"
     },
     {
+        "id": "DB767D52-F1C9-4986-B785-98314B70B2FF",
+        "name": "account-school-outline",
+        "codepoint": "F1A21",
+        "aliases": [],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.6.95"
+    },
+    {
         "id": "48E9C474-C544-4868-9966-C3A8D7808FCA",
         "name": "account-search",
         "codepoint": "F0016",
