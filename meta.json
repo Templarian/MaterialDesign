@@ -59274,6 +59274,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "BCC3FC58-92BE-4C05-9273-FA1EB03C3E3E",
+        "name": "projector-off",
+        "codepoint": "F1A23",
+        "aliases": [],
+        "tags": [],
+        "author": "Terren",
+        "version": "6.6.95"
+    },
+    {
         "id": "A152DD64-B013-4AE7-B89F-49FC90B2E471",
         "name": "projector-screen",
         "codepoint": "F042F",
