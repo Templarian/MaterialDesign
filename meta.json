@@ -27289,7 +27289,8 @@
         "name": "disc",
         "codepoint": "F05EE",
         "aliases": [
-            "cd-rom"
+            "cd-rom",
+            "dvd"
         ],
         "tags": [
             "Music"
