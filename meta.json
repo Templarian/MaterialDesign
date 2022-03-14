@@ -27288,7 +27288,9 @@
         "id": "95CEA0DD-5123-4FFA-B906-E6C55766030D",
         "name": "disc",
         "codepoint": "F05EE",
-        "aliases": [],
+        "aliases": [
+            "cd-rom"
+        ],
         "tags": [
             "Music"
         ],
