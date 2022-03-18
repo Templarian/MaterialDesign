@@ -1407,7 +1407,9 @@
         "id": "BE45DEDF-3BBC-442F-9EDD-4A16570B91A0",
         "name": "account-school",
         "codepoint": "F1A20",
-        "aliases": [],
+        "aliases": [
+            "account-student"
+        ],
         "tags": [
             "Account \/ User"
         ],
