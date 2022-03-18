@@ -35135,7 +35135,9 @@
         "id": "63119A3C-5E35-4BC5-9DA6-74EB4DD748DB",
         "name": "folder-play-outline",
         "codepoint": "F19FB",
-        "aliases": [],
+        "aliases": [
+            "folder-media-outline"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
