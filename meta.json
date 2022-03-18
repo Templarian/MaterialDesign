@@ -43533,7 +43533,9 @@
         "name": "image-refresh-outline",
         "codepoint": "F19FF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Photography"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.6.95"
     },
