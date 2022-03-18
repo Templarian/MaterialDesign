@@ -1408,7 +1408,8 @@
         "name": "account-school",
         "codepoint": "F1A20",
         "aliases": [
-            "account-student"
+            "account-student",
+            "account-graduation"
         ],
         "tags": [
             "Account \/ User"
