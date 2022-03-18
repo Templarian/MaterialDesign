@@ -34526,7 +34526,9 @@
         "id": "0D1FD0C5-6A2C-475F-8824-A1EC1B93E85F",
         "name": "folder-arrow-up-down-outline",
         "codepoint": "F19F2",
-        "aliases": [],
+        "aliases": [
+            "folder-transfer-outline"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
