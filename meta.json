@@ -13690,7 +13690,9 @@
         "name": "brightness-percent",
         "codepoint": "F0CF2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shopping"
+        ],
         "author": "Michael Irigoyen",
         "version": "3.3.92"
     },
