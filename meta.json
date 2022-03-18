@@ -45864,11 +45864,13 @@
         "id": "647E0001-A60B-4D74-B127-BF522712922F",
         "name": "light-switch",
         "codepoint": "F097E",
-        "aliases": [],
+        "aliases": [
+            "toggle-switch"
+        ],
         "tags": [
             "Home Automation"
         ],
-        "author": "Google",
+        "author": "Matthias de Baat",
         "version": "2.4.85"
     },
     {
