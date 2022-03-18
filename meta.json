@@ -46309,7 +46309,9 @@
         "id": "CB600C6A-E43E-4723-A8F0-963222692C23",
         "name": "lightbulb-question",
         "codepoint": "F19E3",
-        "aliases": [],
+        "aliases": [
+            "lightbulb-help"
+        ],
         "tags": [
             "Home Automation"
         ],
