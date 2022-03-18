@@ -52467,7 +52467,8 @@
         "aliases": [
             "syringe-off",
             "injection-off",
-            "medicine-off"
+            "medicine-off",
+            "shot-off"
         ],
         "tags": [
             "Medical \/ Hospital"
