@@ -52464,7 +52464,9 @@
         "id": "EF95D4D3-9095-412A-A109-BF170FA2A1D9",
         "name": "needle-off",
         "codepoint": "F19D2",
-        "aliases": [],
+        "aliases": [
+            "syringe-off"
+        ],
         "tags": [
             "Medical \/ Hospital"
         ],
