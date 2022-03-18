@@ -52468,7 +52468,8 @@
             "syringe-off",
             "injection-off",
             "medicine-off",
-            "shot-off"
+            "shot-off",
+            "drug-off"
         ],
         "tags": [
             "Medical \/ Hospital"
