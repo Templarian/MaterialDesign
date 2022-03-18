@@ -46002,7 +46002,9 @@
         "name": "lightbulb-alert",
         "codepoint": "F19E1",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.6.95"
     },
