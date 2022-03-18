@@ -38197,7 +38197,8 @@
         "name": "gas-burner",
         "codepoint": "F1A1B",
         "aliases": [
-            "stove-burner"
+            "stove-burner",
+            "cooktop-burner"
         ],
         "tags": [
             "Home Automation"
