@@ -72376,6 +72376,20 @@
         "version": "6.6.95"
     },
     {
+        "id": "E22551ED-0CEC-46B4-9CAE-FF9CC5C11CF2",
+        "name": "toggle-switch-variant-off",
+        "codepoint": "F1A26",
+        "aliases": [
+            "light-switch-off",
+            "rocker-switch-off"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Matthias de Baat",
+        "version": "6.6.95"
+    },
+    {
         "id": "5A1815F9-FC9E-4420-B723-AF4B324262A4",
         "name": "toilet",
         "codepoint": "F09AB",
