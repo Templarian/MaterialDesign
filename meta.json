@@ -41708,7 +41708,8 @@
         "name": "home-clock",
         "codepoint": "F1A12",
         "aliases": [
-            "home-time"
+            "home-time",
+            "home-schedule"
         ],
         "tags": [
             "Home Automation"
