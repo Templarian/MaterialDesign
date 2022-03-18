@@ -38197,7 +38197,9 @@
         "name": "gas-burner",
         "codepoint": "F1A1B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Austin Andrews",
         "version": "6.6.95"
     },
