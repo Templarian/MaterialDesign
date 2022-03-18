@@ -52465,7 +52465,9 @@
         "name": "needle-off",
         "codepoint": "F19D2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.6.95"
     },
