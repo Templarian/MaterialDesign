@@ -35120,7 +35120,9 @@
         "id": "C3FACC18-E546-4E6F-A140-48541C0B808E",
         "name": "folder-play",
         "codepoint": "F19FA",
-        "aliases": [],
+        "aliases": [
+            "folder-media"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
