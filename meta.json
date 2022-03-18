@@ -56772,7 +56772,9 @@
             "discount-circle-outline",
             "sale-circle-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Math"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.6.95"
     },
