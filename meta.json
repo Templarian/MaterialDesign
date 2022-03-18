@@ -13689,7 +13689,9 @@
         "id": "CBC38577-44FC-45B5-9454-3D04AA9CEAE3",
         "name": "brightness-percent",
         "codepoint": "F0CF2",
-        "aliases": [],
+        "aliases": [
+            "discount"
+        ],
         "tags": [
             "Shopping"
         ],
