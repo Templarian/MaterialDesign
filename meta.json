@@ -59463,7 +59463,9 @@
         "name": "projector-off",
         "codepoint": "F1A23",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Device \/ Tech"
+        ],
         "author": "Terren",
         "version": "6.6.95"
     },
