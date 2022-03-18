@@ -46014,7 +46014,9 @@
         "id": "AC5BBA36-C64C-4E2F-B0E9-2B35A4D9FFE8",
         "name": "lightbulb-alert-outline",
         "codepoint": "F19E2",
-        "aliases": [],
+        "aliases": [
+            "lightbulb-error-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.6.95"
