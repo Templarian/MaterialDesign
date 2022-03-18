@@ -46310,7 +46310,9 @@
         "name": "lightbulb-question",
         "codepoint": "F19E3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.6.95"
     },
