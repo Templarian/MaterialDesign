@@ -56768,7 +56768,9 @@
         "id": "30332F97-18B5-4866-A31F-912C262ACDBE",
         "name": "percent-circle-outline",
         "codepoint": "F1A05",
-        "aliases": [],
+        "aliases": [
+            "discount-circle-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.6.95"
