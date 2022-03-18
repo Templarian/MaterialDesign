@@ -1421,7 +1421,9 @@
         "id": "DB767D52-F1C9-4986-B785-98314B70B2FF",
         "name": "account-school-outline",
         "codepoint": "F1A21",
-        "aliases": [],
+        "aliases": [
+            "account-student-outline"
+        ],
         "tags": [
             "Account \/ User"
         ],
