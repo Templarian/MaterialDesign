@@ -56708,7 +56708,9 @@
         "id": "3AB307BF-41D9-4CA4-9D44-58C82304C7BB",
         "name": "percent",
         "codepoint": "F03F0",
-        "aliases": [],
+        "aliases": [
+            "discount"
+        ],
         "tags": [
             "Math"
         ],
