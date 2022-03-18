@@ -56740,7 +56740,9 @@
             "discount-box-outline",
             "sale-box-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Math"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.6.95"
     },
