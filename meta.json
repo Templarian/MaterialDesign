@@ -46322,7 +46322,9 @@
         "id": "8EFBF4AB-73DD-41EC-BF3C-2503A5BDF93E",
         "name": "lightbulb-question-outline",
         "codepoint": "F19E4",
-        "aliases": [],
+        "aliases": [
+            "lightbulb-help-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.6.95"
