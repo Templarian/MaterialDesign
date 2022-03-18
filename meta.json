@@ -38196,7 +38196,9 @@
         "id": "BB98FED5-2967-4D6D-B133-8447CE90C089",
         "name": "gas-burner",
         "codepoint": "F1A1B",
-        "aliases": [],
+        "aliases": [
+            "stove-burner"
+        ],
         "tags": [
             "Home Automation"
         ],
