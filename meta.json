@@ -43522,7 +43522,9 @@
         "name": "image-refresh",
         "codepoint": "F19FE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Photography"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.6.95"
     },
