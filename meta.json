@@ -56720,7 +56720,9 @@
         "name": "percent-box",
         "codepoint": "F1A02",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Math"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.6.95"
     },
