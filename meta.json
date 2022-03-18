@@ -52465,7 +52465,8 @@
         "name": "needle-off",
         "codepoint": "F19D2",
         "aliases": [
-            "syringe-off"
+            "syringe-off",
+            "injection-off"
         ],
         "tags": [
             "Medical \/ Hospital"
