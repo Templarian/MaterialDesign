@@ -13755,7 +13755,9 @@
         "id": "0C2A4D14-A68C-444C-B01C-70CBD6DE0A69",
         "name": "brush-outline",
         "codepoint": "F1A0D",
-        "aliases": [],
+        "aliases": [
+            "paintbrush-outline"
+        ],
         "tags": [],
         "author": "Google",
         "version": "6.6.95"
