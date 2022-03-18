@@ -11634,7 +11634,9 @@
         "name": "bone-off",
         "codepoint": "F19E0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Animal"
+        ],
         "author": "Simran",
         "version": "6.6.95"
     },
