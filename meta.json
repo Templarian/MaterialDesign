@@ -41721,7 +41721,9 @@
         "id": "9ADA7472-66EE-4F9A-8494-C4292C29207C",
         "name": "home-clock-outline",
         "codepoint": "F1A13",
-        "aliases": [],
+        "aliases": [
+            "home-time-outline"
+        ],
         "tags": [
             "Home Automation"
         ],
