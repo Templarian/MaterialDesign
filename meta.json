@@ -74016,7 +74016,9 @@
         "id": "FCE10225-CA09-4B2E-8BE3-5B9D718B13D5",
         "name": "truck-alert-outline",
         "codepoint": "F19DF",
-        "aliases": [],
+        "aliases": [
+            "truck-error-outline"
+        ],
         "tags": [
             "Transportation + Road"
         ],
