@@ -808,7 +808,9 @@
             "worker-outline",
             "construction-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Contributors",
         "version": "6.6.95"
     },
