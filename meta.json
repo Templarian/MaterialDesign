@@ -35136,7 +35136,8 @@
         "name": "folder-play-outline",
         "codepoint": "F19FB",
         "aliases": [
-            "folder-media-outline"
+            "folder-media-outline",
+            "folder-music-outline"
         ],
         "tags": [
             "Files \/ Folders"
