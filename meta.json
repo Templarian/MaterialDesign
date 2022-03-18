@@ -1422,7 +1422,8 @@
         "name": "account-school-outline",
         "codepoint": "F1A21",
         "aliases": [
-            "account-student-outline"
+            "account-student-outline",
+            "account-graduation-outline"
         ],
         "tags": [
             "Account \/ User"
