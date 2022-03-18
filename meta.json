@@ -37619,7 +37619,9 @@
         "name": "fruit-pear",
         "codepoint": "F1A0E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Food \/ Drink"
+        ],
         "author": "Contributors",
         "version": "6.6.95"
     },
