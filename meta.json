@@ -62579,7 +62579,9 @@
         "aliases": [
             "discount"
         ],
-        "tags": [],
+        "tags": [
+            "Shopping"
+        ],
         "author": "Simran",
         "version": "1.5.54"
     },
