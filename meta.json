@@ -53305,7 +53305,9 @@
         "id": "0F8BCA10-0144-4507-850B-777AE12B3A80",
         "name": "notebook-heart-outline",
         "codepoint": "F1A0C",
-        "aliases": [],
+        "aliases": [
+            "notebook-favorite-outline"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "6.6.95"
