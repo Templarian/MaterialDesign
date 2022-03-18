@@ -46017,7 +46017,9 @@
         "aliases": [
             "lightbulb-error-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.6.95"
     },
