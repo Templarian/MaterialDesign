@@ -72363,6 +72363,19 @@
         "version": "2.5.94"
     },
     {
+        "id": "7B449AE2-593A-435F-A5C2-FEA8E1BE0FBB",
+        "name": "toggle-switch-variant",
+        "codepoint": "F1A25",
+        "aliases": [
+            "light-switch-on"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Matthias de Baat",
+        "version": "6.6.95"
+    },
+    {
         "id": "5A1815F9-FC9E-4420-B723-AF4B324262A4",
         "name": "toilet",
         "codepoint": "F09AB",
