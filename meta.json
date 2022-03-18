@@ -75527,7 +75527,9 @@
         "name": "video-2d",
         "codepoint": "F1A1C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "Austin Andrews",
         "version": "6.6.95"
     },
