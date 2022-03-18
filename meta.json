@@ -13758,7 +13758,9 @@
         "aliases": [
             "paintbrush-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Drawing \/ Art"
+        ],
         "author": "Google",
         "version": "6.6.95"
     },
