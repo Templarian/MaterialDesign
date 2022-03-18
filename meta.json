@@ -11916,7 +11916,9 @@
         "id": "72206137-0CFE-4A3C-BA21-16EB71D39821",
         "name": "book-heart-outline",
         "codepoint": "F1A1E",
-        "aliases": [],
+        "aliases": [
+            "book-favorite-outline"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "6.6.95"
