@@ -76731,7 +76731,9 @@
         "id": "436644E2-0AFD-47DE-A15F-EF6BD02C5F5A",
         "name": "wall-fire",
         "codepoint": "F1A11",
-        "aliases": [],
+        "aliases": [
+            "firewall"
+        ],
         "tags": [
             "Device \/ Tech"
         ],
