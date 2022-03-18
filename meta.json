@@ -56709,7 +56709,8 @@
         "name": "percent",
         "codepoint": "F03F0",
         "aliases": [
-            "discount"
+            "discount",
+            "sale"
         ],
         "tags": [
             "Math"
