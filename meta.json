@@ -52470,7 +52470,8 @@
             "medicine-off",
             "shot-off",
             "drug-off",
-            "immunization-off"
+            "immunization-off",
+            "pharmaceutical-off"
         ],
         "tags": [
             "Medical \/ Hospital"
