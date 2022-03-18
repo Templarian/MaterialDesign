@@ -41708,7 +41708,9 @@
         "name": "home-clock",
         "codepoint": "F1A12",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.6.95"
     },
