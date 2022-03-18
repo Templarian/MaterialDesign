@@ -10169,7 +10169,8 @@
             "battery-empty-clock"
         ],
         "tags": [
-            "Battery"
+            "Battery",
+            "Home Automation"
         ],
         "author": "Colton Wiscombe",
         "version": "6.6.95"
