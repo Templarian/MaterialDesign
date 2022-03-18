@@ -34427,7 +34427,9 @@
         "id": "65D7B690-9532-44AC-B537-82B136036F15",
         "name": "folder-arrow-down-outline",
         "codepoint": "F19E9",
-        "aliases": [],
+        "aliases": [
+            "folder-download-outline"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
