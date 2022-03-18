@@ -34541,7 +34541,9 @@
         "id": "320546E6-E809-47EA-BF2A-7EE3369AA89D",
         "name": "folder-arrow-up-outline",
         "codepoint": "F19F3",
-        "aliases": [],
+        "aliases": [
+            "folder-upload-outline"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
