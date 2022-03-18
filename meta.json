@@ -41707,7 +41707,9 @@
         "id": "F3391DCE-6EC9-4C63-869D-36ED374054FC",
         "name": "home-clock",
         "codepoint": "F1A12",
-        "aliases": [],
+        "aliases": [
+            "home-time"
+        ],
         "tags": [
             "Home Automation"
         ],
