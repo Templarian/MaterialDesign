@@ -56737,7 +56737,8 @@
         "name": "percent-box-outline",
         "codepoint": "F1A03",
         "aliases": [
-            "discount-box-outline"
+            "discount-box-outline",
+            "sale-box-outline"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
