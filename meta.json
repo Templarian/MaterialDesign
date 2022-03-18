@@ -11905,7 +11905,8 @@
         "name": "book-heart",
         "codepoint": "F1A1D",
         "aliases": [
-            "book-favorite"
+            "book-favorite",
+            "book-love"
         ],
         "tags": [],
         "author": "Austin Andrews",
