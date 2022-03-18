@@ -45864,7 +45864,9 @@
         "id": "1A100B37-6238-49F0-81EB-05FDE23DAA3E",
         "name": "library-outline",
         "codepoint": "F1A22",
-        "aliases": [],
+        "aliases": [
+            "local-library-outline"
+        ],
         "tags": [
             "Places"
         ],
