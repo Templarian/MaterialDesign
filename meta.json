@@ -56751,7 +56751,8 @@
         "name": "percent-circle",
         "codepoint": "F1A04",
         "aliases": [
-            "discount-circle"
+            "discount-circle",
+            "sale-circle"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
