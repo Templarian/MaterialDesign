@@ -56719,7 +56719,9 @@
         "id": "DD3C1F53-8265-4133-8C96-BC9EFF0A30D5",
         "name": "percent-box",
         "codepoint": "F1A02",
-        "aliases": [],
+        "aliases": [
+            "discount-box"
+        ],
         "tags": [
             "Math"
         ],
