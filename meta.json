@@ -45865,7 +45865,9 @@
         "name": "library-outline",
         "codepoint": "F1A22",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Places"
+        ],
         "author": "Jeff Anders",
         "version": "6.6.95"
     },
