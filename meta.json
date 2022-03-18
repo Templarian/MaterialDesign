@@ -9125,9 +9125,11 @@
         "id": "CD3098D2-892F-49F5-9FA7-1A5FDC53A15C",
         "name": "barrel",
         "codepoint": "F0074",
-        "aliases": [],
+        "aliases": [
+            "oil-barrel"
+        ],
         "tags": [],
-        "author": "Austin Andrews",
+        "author": "Google",
         "version": "1.5.54"
     },
     {
