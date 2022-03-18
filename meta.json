@@ -34414,7 +34414,9 @@
         "id": "40D3B512-FD3C-4F69-922E-DE4EC33AB3A5",
         "name": "folder-arrow-down",
         "codepoint": "F19E8",
-        "aliases": [],
+        "aliases": [
+            "folder-download"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
