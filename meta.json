@@ -74003,7 +74003,9 @@
         "id": "8650D94A-71BC-4B6B-9BA9-A6A2A756063C",
         "name": "truck-alert",
         "codepoint": "F19DE",
-        "aliases": [],
+        "aliases": [
+            "truck-error"
+        ],
         "tags": [
             "Transportation + Road"
         ],
