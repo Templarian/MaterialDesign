@@ -43609,7 +43609,9 @@
         "name": "image-sync-outline",
         "codepoint": "F1A01",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Photography"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.6.95"
     },
