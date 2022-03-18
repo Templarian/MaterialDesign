@@ -13690,7 +13690,8 @@
         "name": "brightness-percent",
         "codepoint": "F0CF2",
         "aliases": [
-            "discount"
+            "discount",
+            "sale"
         ],
         "tags": [
             "Shopping"
