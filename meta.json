@@ -7883,6 +7883,17 @@
         "version": "1.8.36"
     },
     {
+        "id": "1A9A6BE7-2B58-458C-9DA5-3CCA65D67414",
+        "name": "asterisk-circle-outline",
+        "codepoint": "F1A27",
+        "aliases": [
+            "required-circle"
+        ],
+        "tags": [],
+        "author": "mocking-mike",
+        "version": "6.6.95"
+    },
+    {
         "id": "9FC24609-9C8B-4DBA-A473-F5EFAFCC90DF",
         "name": "at",
         "codepoint": "F0065",
