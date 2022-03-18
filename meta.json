@@ -53294,7 +53294,8 @@
         "name": "notebook-heart",
         "codepoint": "F1A0B",
         "aliases": [
-            "notebook-favorite"
+            "notebook-favorite",
+            "notebook-love"
         ],
         "tags": [],
         "author": "Austin Andrews",
