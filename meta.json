@@ -45865,7 +45865,8 @@
         "name": "light-switch",
         "codepoint": "F097E",
         "aliases": [
-            "toggle-switch"
+            "toggle-switch",
+            "rocker-switch"
         ],
         "tags": [
             "Home Automation"
