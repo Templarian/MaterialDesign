@@ -58014,7 +58014,9 @@
         "name": "play-box-lock-outline",
         "codepoint": "F1A19",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "Simran",
         "version": "6.6.95"
     },
