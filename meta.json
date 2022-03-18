@@ -57994,7 +57994,9 @@
         "name": "play-box-lock-open",
         "codepoint": "F1A17",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "Simran",
         "version": "6.6.95"
     },
