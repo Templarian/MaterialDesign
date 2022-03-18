@@ -1422,7 +1422,9 @@
         "name": "account-school-outline",
         "codepoint": "F1A21",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Contributors",
         "version": "6.6.95"
     },
