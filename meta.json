@@ -52469,7 +52469,8 @@
             "injection-off",
             "medicine-off",
             "shot-off",
-            "drug-off"
+            "drug-off",
+            "immunization-off"
         ],
         "tags": [
             "Medical \/ Hospital"
