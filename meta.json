@@ -35121,7 +35121,8 @@
         "name": "folder-play",
         "codepoint": "F19FA",
         "aliases": [
-            "folder-media"
+            "folder-media",
+            "folder-music"
         ],
         "tags": [
             "Files \/ Folders"
