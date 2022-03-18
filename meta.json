@@ -76732,7 +76732,9 @@
         "name": "wall-fire",
         "codepoint": "F1A11",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Device \/ Tech"
+        ],
         "author": "Austin Andrews",
         "version": "6.6.95"
     },
