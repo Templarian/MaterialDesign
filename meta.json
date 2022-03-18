@@ -62587,7 +62587,9 @@
         "id": "EC5767A6-FA73-4A93-AA73-3EE66CB7374B",
         "name": "sale-outline",
         "codepoint": "F1A06",
-        "aliases": [],
+        "aliases": [
+            "discount-outline"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "6.6.95"
