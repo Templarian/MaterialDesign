@@ -62590,7 +62590,9 @@
         "aliases": [
             "discount-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Shopping"
+        ],
         "author": "Austin Andrews",
         "version": "6.6.95"
     },
