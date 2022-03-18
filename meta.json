@@ -56720,7 +56720,8 @@
         "name": "percent-box",
         "codepoint": "F1A02",
         "aliases": [
-            "discount-box"
+            "discount-box",
+            "sale-box"
         ],
         "tags": [
             "Math"
