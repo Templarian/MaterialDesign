@@ -9126,7 +9126,8 @@
         "name": "barrel",
         "codepoint": "F0074",
         "aliases": [
-            "oil-barrel"
+            "oil-barrel",
+            "energy"
         ],
         "tags": [],
         "author": "Google",
