@@ -35488,7 +35488,9 @@
         "id": "4A9F791A-45FC-42C8-BBBB-1963868C4E44",
         "name": "folder-wrench",
         "codepoint": "F19FC",
-        "aliases": [],
+        "aliases": [
+            "folder-settings"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
