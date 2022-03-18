@@ -11904,7 +11904,9 @@
         "id": "4A830C97-1A09-495F-91A5-8F02571C54C6",
         "name": "book-heart",
         "codepoint": "F1A1D",
-        "aliases": [],
+        "aliases": [
+            "book-favorite"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "6.6.95"
