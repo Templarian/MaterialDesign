@@ -57983,7 +57983,9 @@
         "name": "play-box-lock",
         "codepoint": "F1A16",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "Simran",
         "version": "6.6.95"
     },
