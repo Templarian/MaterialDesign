@@ -41722,7 +41722,8 @@
         "name": "home-clock-outline",
         "codepoint": "F1A13",
         "aliases": [
-            "home-time-outline"
+            "home-time-outline",
+            "home-schedule-outline"
         ],
         "tags": [
             "Home Automation"
