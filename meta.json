@@ -56750,7 +56750,9 @@
         "id": "CA4A3F7A-B20E-4937-9FD6-207B1F974DE8",
         "name": "percent-circle",
         "codepoint": "F1A04",
-        "aliases": [],
+        "aliases": [
+            "discount-circle"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.6.95"
