@@ -53293,7 +53293,9 @@
         "id": "BA533C71-48B2-4D1D-8069-98F53EC6224B",
         "name": "notebook-heart",
         "codepoint": "F1A0B",
-        "aliases": [],
+        "aliases": [
+            "notebook-favorite"
+        ],
         "tags": [],
         "author": "Austin Andrews",
         "version": "6.6.95"
