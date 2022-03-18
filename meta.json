@@ -44207,7 +44207,7 @@
         "tags": [
             "Sport"
         ],
-        "author": "Michael Richins",
+        "author": "Google",
         "version": "2.1.19"
     },
     {
@@ -77755,7 +77755,9 @@
         "id": "880967C4-85F9-4953-A6D0-73C9370BC987",
         "name": "weather-hurricane",
         "codepoint": "F0898",
-        "aliases": [],
+        "aliases": [
+            "cyclone"
+        ],
         "tags": [
             "Weather"
         ],
