@@ -804,7 +804,9 @@
         "id": "5A21DE4E-D502-4D12-8B2A-58FB95BE0964",
         "name": "account-hard-hat-outline",
         "codepoint": "F1A1F",
-        "aliases": [],
+        "aliases": [
+            "worker-outline"
+        ],
         "tags": [],
         "author": "Contributors",
         "version": "6.6.95"
