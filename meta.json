@@ -73878,7 +73878,9 @@
         "aliases": [
             "trending-up-variant"
         ],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Jeff Anders",
         "version": "6.6.95"
     },
