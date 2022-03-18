@@ -46001,7 +46001,9 @@
         "id": "1FED2710-D8D6-41FC-9318-51A23EDD13CF",
         "name": "lightbulb-alert",
         "codepoint": "F19E1",
-        "aliases": [],
+        "aliases": [
+            "lightbulb-error"
+        ],
         "tags": [
             "Home Automation"
         ],
