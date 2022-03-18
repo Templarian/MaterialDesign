@@ -35501,7 +35501,9 @@
         "id": "D489D931-A6B8-4363-B4E4-C76190FE4B18",
         "name": "folder-wrench-outline",
         "codepoint": "F19FD",
-        "aliases": [],
+        "aliases": [
+            "folder-settings-outline"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
