@@ -1408,7 +1408,9 @@
         "name": "account-school",
         "codepoint": "F1A20",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Contributors",
         "version": "6.6.95"
     },
