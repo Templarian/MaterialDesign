@@ -41722,7 +41722,9 @@
         "name": "home-clock-outline",
         "codepoint": "F1A13",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.6.95"
     },
