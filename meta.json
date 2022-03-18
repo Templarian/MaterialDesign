@@ -34502,7 +34502,9 @@
         "id": "90B8DA2E-A381-4226-8F27-E085B391B5A1",
         "name": "folder-arrow-up",
         "codepoint": "F19F0",
-        "aliases": [],
+        "aliases": [
+            "folder-upload"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
