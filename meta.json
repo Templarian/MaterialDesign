@@ -34513,7 +34513,9 @@
         "id": "F710484C-04A2-41A6-82BA-D0900A94E2DB",
         "name": "folder-arrow-up-down",
         "codepoint": "F19F1",
-        "aliases": [],
+        "aliases": [
+            "folder-transfer"
+        ],
         "tags": [
             "Files \/ Folders"
         ],
