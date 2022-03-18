@@ -45877,6 +45877,20 @@
         "version": "2.4.85"
     },
     {
+        "id": "39A7777B-C9F7-4468-95B0-FE0037A635E9",
+        "name": "light-switch-off",
+        "codepoint": "F1A24",
+        "aliases": [
+            "toggle-switch-off",
+            "rocker-switch-off"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Matthias de Baat",
+        "version": "6.6.95"
+    },
+    {
         "id": "ECC94305-DFA6-4D9B-85C8-CC79F3F05FB5",
         "name": "lightbulb",
         "codepoint": "F0335",
