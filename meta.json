@@ -69526,7 +69526,8 @@
         "name": "sun-thermometer",
         "codepoint": "F18D6",
         "aliases": [
-            "heat-index"
+            "heat-index",
+            "sun-temperature"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
