@@ -63281,7 +63281,9 @@
             "home-theater",
             "home-theatre"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Google",
         "version": "3.2.89"
     },
