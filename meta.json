@@ -69530,7 +69530,9 @@
             "sun-temperature",
             "day-temperature"
         ],
-        "tags": [],
+        "tags": [
+            "Weather"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
     },
