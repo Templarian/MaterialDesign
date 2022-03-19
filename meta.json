@@ -69529,7 +69529,8 @@
             "heat-index",
             "sun-temperature",
             "day-temperature",
-            "external-temperature"
+            "external-temperature",
+            "outdoor-temperature"
         ],
         "tags": [
             "Weather",
