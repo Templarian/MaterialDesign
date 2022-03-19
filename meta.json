@@ -10723,7 +10723,9 @@
             "hotel-outline",
             "guest-room-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
