@@ -10730,7 +10730,9 @@
         "id": "0DB69F3A-8C9B-48D0-8D37-5A1CF6B03B68",
         "name": "bed-queen",
         "codepoint": "F0FD0",
-        "aliases": [],
+        "aliases": [
+            "bedroom"
+        ],
         "tags": [
             "Home Automation",
             "Holiday"
