@@ -18215,7 +18215,8 @@
         "name": "chair-rolling",
         "codepoint": "F0F48",
         "aliases": [
-            "office-chair"
+            "office-chair",
+            "study-chair"
         ],
         "tags": [
             "Home Automation"
