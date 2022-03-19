@@ -10691,7 +10691,9 @@
         "id": "D6763D57-A47E-4BFA-A493-5F25C164FB2F",
         "name": "bed-king",
         "codepoint": "F0FD2",
-        "aliases": [],
+        "aliases": [
+            "bedroom"
+        ],
         "tags": [
             "Home Automation",
             "Holiday"
