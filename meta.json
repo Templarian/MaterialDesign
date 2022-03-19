@@ -43451,7 +43451,9 @@
         "aliases": [
             "hallway"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Google",
         "version": "3.6.95"
     },
