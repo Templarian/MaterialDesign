@@ -74412,7 +74412,9 @@
         "id": "E9DC2320-5FD4-403B-8445-9EB68B4468B6",
         "name": "tumble-dryer-off",
         "codepoint": "F11BB",
-        "aliases": [],
+        "aliases": [
+            "laundry-room-off"
+        ],
         "tags": [
             "Home Automation"
         ],
