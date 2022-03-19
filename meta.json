@@ -69528,7 +69528,8 @@
         "aliases": [
             "heat-index",
             "sun-temperature",
-            "day-temperature"
+            "day-temperature",
+            "external-temperature"
         ],
         "tags": [
             "Weather",
