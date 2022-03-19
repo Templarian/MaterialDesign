@@ -43456,7 +43456,8 @@
         "name": "image-frame",
         "codepoint": "F0E49",
         "aliases": [
-            "hallway"
+            "hallway",
+            "foyer"
         ],
         "tags": [
             "Home Automation"
