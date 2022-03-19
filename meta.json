@@ -21933,7 +21933,8 @@
         "name": "coat-rack",
         "codepoint": "F109E",
         "aliases": [
-            "foyer"
+            "foyer",
+            "hallway"
         ],
         "tags": [
             "Home Automation",
