@@ -69527,7 +69527,8 @@
         "codepoint": "F18D6",
         "aliases": [
             "heat-index",
-            "sun-temperature"
+            "sun-temperature",
+            "day-temperature"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
