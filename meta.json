@@ -65145,7 +65145,8 @@
         "name": "shower",
         "codepoint": "F09A0",
         "aliases": [
-            "bathtub"
+            "bathtub",
+            "bathroom"
         ],
         "tags": [
             "Home Automation"
