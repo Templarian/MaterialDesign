@@ -77142,7 +77142,9 @@
         "id": "9B318E52-E7BE-4BE1-94DF-96CA020CE55D",
         "name": "washing-machine-off",
         "codepoint": "F11BD",
-        "aliases": [],
+        "aliases": [
+            "laundry-room-off"
+        ],
         "tags": [
             "Home Automation"
         ],
