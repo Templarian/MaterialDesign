@@ -21932,7 +21932,9 @@
         "id": "21D89E60-3522-4F1F-A1D2-60E67B2C9552",
         "name": "coat-rack",
         "codepoint": "F109E",
-        "aliases": [],
+        "aliases": [
+            "foyer"
+        ],
         "tags": [
             "Home Automation",
             "Clothing"
