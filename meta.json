@@ -10744,7 +10744,9 @@
         "id": "DC8A5BF4-BEA0-4D7D-B364-4765854CD4CE",
         "name": "bed-queen-outline",
         "codepoint": "F0FDB",
-        "aliases": [],
+        "aliases": [
+            "bedroom-outline"
+        ],
         "tags": [
             "Home Automation",
             "Holiday"
