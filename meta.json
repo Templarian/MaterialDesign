@@ -42236,7 +42236,8 @@
         "name": "home-roof",
         "codepoint": "F112B",
         "aliases": [
-            "home-chimney"
+            "home-chimney",
+            "home-attic"
         ],
         "tags": [
             "Home Automation"
