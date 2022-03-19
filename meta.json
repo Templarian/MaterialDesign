@@ -70311,7 +70311,9 @@
             "kitchen",
             "dining-room"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "nilsfast",
         "version": "1.5.54"
     },
