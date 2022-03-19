@@ -10720,7 +10720,8 @@
         "name": "bed-outline",
         "codepoint": "F0099",
         "aliases": [
-            "hotel-outline"
+            "hotel-outline",
+            "guest-room-outline"
         ],
         "tags": [],
         "author": "Google",
