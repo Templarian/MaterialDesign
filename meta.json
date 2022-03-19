@@ -69542,7 +69542,8 @@
         "codepoint": "F18D7",
         "aliases": [
             "external-temperature",
-            "outside-temperature"
+            "outside-temperature",
+            "heat-index"
         ],
         "tags": [
             "Home Automation",
