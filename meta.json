@@ -10758,7 +10758,9 @@
         "id": "A9C924A7-EAA8-42FC-963A-C74E36448A1B",
         "name": "bed-single",
         "codepoint": "F106D",
-        "aliases": [],
+        "aliases": [
+            "bedroom"
+        ],
         "tags": [
             "Home Automation",
             "Holiday"
