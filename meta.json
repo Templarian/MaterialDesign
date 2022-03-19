@@ -10665,7 +10665,9 @@
         "id": "6061EF08-3805-4F30-88A1-0DC3419E6989",
         "name": "bed-double-outline",
         "codepoint": "F0FD3",
-        "aliases": [],
+        "aliases": [
+            "bedroom-outline"
+        ],
         "tags": [
             "Home Automation",
             "Holiday"
