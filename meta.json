@@ -10705,7 +10705,9 @@
         "id": "E84472BF-7730-4700-B468-E5096FD65531",
         "name": "bed-king-outline",
         "codepoint": "F0FD1",
-        "aliases": [],
+        "aliases": [
+            "bedroom-outline"
+        ],
         "tags": [
             "Home Automation",
             "Holiday"
