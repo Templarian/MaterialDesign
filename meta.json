@@ -69543,7 +69543,8 @@
         "aliases": [
             "external-temperature",
             "outside-temperature",
-            "heat-index"
+            "heat-index",
+            "day-temperature"
         ],
         "tags": [
             "Home Automation",
