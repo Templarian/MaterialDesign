@@ -77128,7 +77128,9 @@
         "id": "A00D0B3E-D24A-4BC9-915C-7B264B63F2F4",
         "name": "washing-machine-alert",
         "codepoint": "F11BC",
-        "aliases": [],
+        "aliases": [
+            "laundry-room-alert"
+        ],
         "tags": [
             "Home Automation",
             "Alert \/ Error"
