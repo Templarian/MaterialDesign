@@ -66793,7 +66793,9 @@
             "couch-outline",
             "chair-accent-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
     },
