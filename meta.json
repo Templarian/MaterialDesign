@@ -43448,7 +43448,9 @@
         "id": "27E31ADA-EF15-4A4E-A17A-45F4C032256F",
         "name": "image-frame",
         "codepoint": "F0E49",
-        "aliases": [],
+        "aliases": [
+            "hallway"
+        ],
         "tags": [],
         "author": "Google",
         "version": "3.6.95"
