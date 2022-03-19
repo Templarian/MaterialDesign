@@ -65158,7 +65158,9 @@
         "id": "F0E6B2EB-7E10-42C8-AEF1-84A461E1E2B3",
         "name": "shower-head",
         "codepoint": "F09A1",
-        "aliases": [],
+        "aliases": [
+            "bathroom"
+        ],
         "tags": [
             "Home Automation"
         ],
