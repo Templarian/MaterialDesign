@@ -74400,7 +74400,9 @@
         "id": "D21E17B9-0D84-4C21-977C-D1056E934449",
         "name": "tumble-dryer-alert",
         "codepoint": "F11BA",
-        "aliases": [],
+        "aliases": [
+            "laundry-room-alert"
+        ],
         "tags": [
             "Home Automation",
             "Alert \/ Error"
