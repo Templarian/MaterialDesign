@@ -10637,7 +10637,8 @@
         "name": "bed",
         "codepoint": "F02E3",
         "aliases": [
-            "hotel"
+            "hotel",
+            "guest-room"
         ],
         "tags": [
             "Home Automation",
