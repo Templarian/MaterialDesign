@@ -72630,7 +72630,8 @@
         "name": "toilet",
         "codepoint": "F09AB",
         "aliases": [
-            "bathroom"
+            "bathroom",
+            "lavatory"
         ],
         "tags": [
             "Home Automation"
