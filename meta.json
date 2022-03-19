@@ -69525,7 +69525,9 @@
         "id": "A915898D-3218-4A0E-9732-CEB0701DADA1",
         "name": "sun-thermometer",
         "codepoint": "F18D6",
-        "aliases": [],
+        "aliases": [
+            "heat-index"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
