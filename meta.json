@@ -10651,7 +10651,9 @@
         "id": "76E0CC3D-3FF4-421A-A7F0-0F38C68C92A2",
         "name": "bed-double",
         "codepoint": "F0FD4",
-        "aliases": [],
+        "aliases": [
+            "bedroom"
+        ],
         "tags": [
             "Home Automation",
             "Holiday"
