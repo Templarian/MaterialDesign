@@ -66744,7 +66744,9 @@
             "living-room",
             "family-room"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "1.5.54"
     },
