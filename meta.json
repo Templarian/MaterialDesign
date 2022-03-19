@@ -74387,7 +74387,9 @@
         "id": "7796F195-34DA-4CAA-8F58-1179343EFB18",
         "name": "tumble-dryer",
         "codepoint": "F0917",
-        "aliases": [],
+        "aliases": [
+            "laundry-room"
+        ],
         "tags": [
             "Home Automation"
         ],
