@@ -10772,7 +10772,9 @@
         "id": "C9FEB434-571C-41C6-A0E5-1FA68368ACC3",
         "name": "bed-single-outline",
         "codepoint": "F106E",
-        "aliases": [],
+        "aliases": [
+            "bedroom-outline"
+        ],
         "tags": [
             "Home Automation",
             "Holiday"
