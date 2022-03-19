@@ -70307,7 +70307,9 @@
         "id": "9A7A9F69-9BC4-4619-981D-DF8423A22FF2",
         "name": "table-furniture",
         "codepoint": "F05BC",
-        "aliases": [],
+        "aliases": [
+            "kitchen"
+        ],
         "tags": [],
         "author": "nilsfast",
         "version": "1.5.54"
