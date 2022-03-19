@@ -69531,7 +69531,8 @@
             "day-temperature"
         ],
         "tags": [
-            "Weather"
+            "Weather",
+            "Home Automation"
         ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
