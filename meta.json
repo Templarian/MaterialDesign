@@ -70308,7 +70308,8 @@
         "name": "table-furniture",
         "codepoint": "F05BC",
         "aliases": [
-            "kitchen"
+            "kitchen",
+            "dining-room"
         ],
         "tags": [],
         "author": "nilsfast",
