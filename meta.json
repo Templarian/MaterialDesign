@@ -20071,7 +20071,9 @@
         "name": "circle-half-full",
         "codepoint": "F1396",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Simran",
         "version": "5.0.45"
     },
