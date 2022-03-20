@@ -61274,7 +61274,9 @@
         "id": "9AEE0CB7-46B9-414F-A8A8-AFB127CB7057",
         "name": "repeat",
         "codepoint": "F0456",
-        "aliases": [],
+        "aliases": [
+            "repost"
+        ],
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
