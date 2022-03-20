@@ -20060,7 +20060,9 @@
         "aliases": [
             "brightness-half"
         ],
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Simran",
         "version": "5.0.45"
     },
