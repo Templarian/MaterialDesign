@@ -20057,7 +20057,9 @@
         "id": "901AA3C4-B9A4-4764-ABA4-FD51FA6D68ED",
         "name": "circle-half",
         "codepoint": "F1395",
-        "aliases": [],
+        "aliases": [
+            "brightness-half"
+        ],
         "tags": [],
         "author": "Simran",
         "version": "5.0.45"
