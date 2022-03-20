@@ -61308,7 +61308,8 @@
         "name": "repeat-variant",
         "codepoint": "F0547",
         "aliases": [
-            "twitter-retweet"
+            "twitter-retweet",
+            "repost"
         ],
         "tags": [
             "Arrow"
