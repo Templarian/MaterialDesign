@@ -78426,7 +78426,9 @@
         "aliases": [
             "accessible"
         ],
-        "tags": [],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
         "author": "Doug C. Hardester",
         "version": "1.5.54"
     },
