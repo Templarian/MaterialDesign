@@ -43033,7 +43033,9 @@
         "id": "B0529853-AE3D-475C-94EB-0C775E934806",
         "name": "human-wheelchair",
         "codepoint": "F138D",
-        "aliases": [],
+        "aliases": [
+            "human-accessible"
+        ],
         "tags": [
             "People \/ Family"
         ],
