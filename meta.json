@@ -70657,6 +70657,21 @@
         "version": "6.1.95"
     },
     {
+        "id": "57D0B351-8C4C-4F9C-9D62-23DE9E00C9AA",
+        "name": "sun-snowflake-variant",
+        "codepoint": "F1A79",
+        "aliases": [
+            "hot-cold",
+            "heat-cool"
+        ],
+        "tags": [
+            "Home Automation",
+            "Weather"
+        ],
+        "author": "Hans B\u00f6hm",
+        "version": "6.7.95"
+    },
+    {
         "id": "A915898D-3218-4A0E-9732-CEB0701DADA1",
         "name": "sun-thermometer",
         "codepoint": "F18D6",
