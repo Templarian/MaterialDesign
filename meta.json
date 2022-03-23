@@ -80416,6 +80416,19 @@
         "version": "4.3.95"
     },
     {
+        "id": "E71049A9-FDB3-47BD-A1CA-9CA952627DDE",
+        "name": "window-shutter-cog",
+        "codepoint": "F1A8A",
+        "aliases": [
+            "window-shutter-settings"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "955A5813-3414-4712-ADF4-62878A42D3B9",
         "name": "window-shutter-open",
         "codepoint": "F111E",
