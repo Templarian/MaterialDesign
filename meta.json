@@ -60838,6 +60838,23 @@
         "version": "6.7.95"
     },
     {
+        "id": "3A22546F-5A22-4E53-A13D-05FB82BAB08F",
+        "name": "rabbit-variant-outline",
+        "codepoint": "F1A62",
+        "aliases": [
+            "easter-outline",
+            "bunny-outline",
+            "hare-outline",
+            "cruelty-free-outline"
+        ],
+        "tags": [
+            "Animal",
+            "Holiday"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "59B7D141-A76F-4794-A484-CE089FCF7C46",
         "name": "racing-helmet",
         "codepoint": "F0D93",
