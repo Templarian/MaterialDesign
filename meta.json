@@ -31376,6 +31376,21 @@
         "version": "5.2.45"
     },
     {
+        "id": "BF3F7855-4971-4FA7-9BB8-8ED99E697D7A",
+        "name": "fan-clock",
+        "codepoint": "F1A3A",
+        "aliases": [
+            "fan-clock",
+            "fan-schedule",
+            "fan-timer"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "FB53FDB5-A8D0-42F6-882F-63C1A683577E",
         "name": "fan-minus",
         "codepoint": "F1470",
