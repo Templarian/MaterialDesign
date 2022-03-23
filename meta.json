@@ -41587,6 +41587,17 @@
         "version": "5.7.55"
     },
     {
+        "id": "12F2787E-C3CE-4321-98D5-3376DFD0606D",
+        "name": "heat-pump",
+        "codepoint": "F1A43",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "47397A0C-273D-4D13-A4FD-61572F3E4953",
         "name": "helicopter",
         "codepoint": "F0AC2",
