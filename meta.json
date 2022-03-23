@@ -42581,6 +42581,19 @@
         "version": "6.7.95"
     },
     {
+        "id": "8AFA6E09-694A-4C0B-9F34-6567B3CA1690",
+        "name": "home-off-outline",
+        "codepoint": "F1A47",
+        "aliases": [
+            "house-off-outline"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "B4E2287E-8872-48AD-B765-83D82AF66CA3",
         "name": "home-outline",
         "codepoint": "F06A1",
