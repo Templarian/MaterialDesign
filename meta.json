@@ -11512,7 +11512,9 @@
         "id": "926ACBEB-C5F6-4EF4-829E-E0B05501DDD6",
         "name": "blinds",
         "codepoint": "F00AC",
-        "aliases": [],
+        "aliases": [
+            "roller-shade-closed"
+        ],
         "tags": [
             "Home Automation"
         ],
