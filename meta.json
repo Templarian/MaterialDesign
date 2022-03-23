@@ -45610,6 +45610,20 @@
         "version": "1.5.54"
     },
     {
+        "id": "AD048AA5-6C71-49DF-B5B2-427F634C3538",
+        "name": "landslide",
+        "codepoint": "F1A48",
+        "aliases": [
+            "avalanche",
+            "mudslide"
+        ],
+        "tags": [
+            "Nature"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "082F25B3-8413-4CC7-B908-8BBD40BB32D8",
         "name": "language-c",
         "codepoint": "F0671",
