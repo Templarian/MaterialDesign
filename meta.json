@@ -45624,6 +45624,20 @@
         "version": "6.7.95"
     },
     {
+        "id": "847329AA-B841-48A2-9700-6363FA219184",
+        "name": "landslide-outline",
+        "codepoint": "F1A49",
+        "aliases": [
+            "avalanche-outline",
+            "mudslide-outline"
+        ],
+        "tags": [
+            "Nature"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "082F25B3-8413-4CC7-B908-8BBD40BB32D8",
         "name": "language-c",
         "codepoint": "F0671",
