@@ -46766,6 +46766,21 @@
         "version": "4.6.95"
     },
     {
+        "id": "E544DBA9-FBF4-4563-82BB-2D6F37788E2F",
+        "name": "lightbulb-night",
+        "codepoint": "F1A4C",
+        "aliases": [
+            "night-light",
+            "nite-light",
+            "lightbulb-moon-star"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "14D09F5A-C467-428B-9C5A-F2B3939D1678",
         "name": "lightbulb-off",
         "codepoint": "F0E4F",
