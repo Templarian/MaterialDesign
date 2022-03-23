@@ -62939,6 +62939,17 @@
         "version": "6.7.95"
     },
     {
+        "id": "796C645E-B8C8-4898-AE15-981077DEC280",
+        "name": "roller-shade-closed",
+        "codepoint": "F1A6C",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "6EFB213D-87A6-454A-AB37-AB87CE853E4B",
         "name": "roller-skate",
         "codepoint": "F0D2B",
