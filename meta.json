@@ -61320,6 +61320,17 @@
         "version": "6.7.95"
     },
     {
+        "id": "14E01759-3C9F-42FE-8831-4634FFF35029",
+        "name": "receipt-text-check-outline",
+        "codepoint": "F1A64",
+        "aliases": [
+            "invoice-check-outline"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "F84F1E59-868C-42CE-80EA-159588E83462",
         "name": "record",
         "codepoint": "F044A",
