@@ -23438,6 +23438,18 @@
         "version": "4.9.95"
     },
     {
+        "id": "75C5A894-CC25-4326-A270-6F70BE0D8AAB",
+        "name": "compost",
+        "codepoint": "F1A38",
+        "aliases": [],
+        "tags": [
+            "Agriculture",
+            "Nature"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "4819FE23-EEAA-496B-A8DC-C4101A1AC994",
         "name": "cone",
         "codepoint": "F194C",
