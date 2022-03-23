@@ -77803,6 +77803,19 @@
         "version": "6.7.95"
     },
     {
+        "id": "EF1E667D-78DD-4460-BD7B-B5E7A70BDF54",
+        "name": "volcano-outline",
+        "codepoint": "F1A84",
+        "aliases": [
+            "eruption-outline"
+        ],
+        "tags": [
+            "Nature"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "3978DABC-FC98-4D3E-A971-88716AD5D600",
         "name": "volleyball",
         "codepoint": "F09B4",
