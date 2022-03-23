@@ -63433,7 +63433,9 @@
         "id": "D541EB73-227A-419B-A5F7-7242EB02D916",
         "name": "run-fast",
         "codepoint": "F046E",
-        "aliases": [],
+        "aliases": [
+            "velocity"
+        ],
         "tags": [
             "Home Automation",
             "Sport"
