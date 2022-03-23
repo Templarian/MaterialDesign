@@ -62955,7 +62955,8 @@
         "name": "roller-shade-closed",
         "codepoint": "F1A6C",
         "aliases": [
-            "blinds-closed"
+            "blinds-closed",
+            "window-closed"
         ],
         "tags": [
             "Home Automation"
