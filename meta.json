@@ -72625,6 +72625,17 @@
         "version": "6.7.95"
     },
     {
+        "id": "694846A9-15AD-4FA3-9130-20863F5ED8EE",
+        "name": "text-box-edit-outline",
+        "codepoint": "F1A7D",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "60E9BECF-1FDF-4077-9BD7-F7B1863C2F66",
         "name": "text-box-minus",
         "codepoint": "F0EA8",
