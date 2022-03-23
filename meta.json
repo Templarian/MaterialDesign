@@ -40221,6 +40221,17 @@
         "version": "2.1.19"
     },
     {
+        "id": "450F9873-EC55-4361-99EB-BBFF202647C6",
+        "name": "gymnastics",
+        "codepoint": "F1A41",
+        "aliases": [],
+        "tags": [
+            "Sport"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "B4AC04DD-9F29-4F55-ABB6-A4AE4F272EC4",
         "name": "hail",
         "codepoint": "F0AC1",
