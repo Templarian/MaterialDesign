@@ -50124,6 +50124,19 @@
         "version": "6.7.95"
     },
     {
+        "id": "7960EDB3-0C0D-47C8-B837-C606FEA6B524",
+        "name": "meter-gas-outline",
+        "codepoint": "F1A5A",
+        "aliases": [
+            "natural-gas-outline"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "13256CBF-E284-4229-AAB9-5612FBADD060",
         "name": "metronome",
         "codepoint": "F07DA",
