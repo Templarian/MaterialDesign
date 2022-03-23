@@ -70597,6 +70597,21 @@
         "version": "1.9.32"
     },
     {
+        "id": "B467AA69-1E9D-444C-B6E4-764F1D180140",
+        "name": "sun-clock",
+        "codepoint": "F1A77",
+        "aliases": [
+            "sun-schedule",
+            "sun-time",
+            "time-of-day"
+        ],
+        "tags": [
+            "Weather"
+        ],
+        "author": "Hans B\u00f6hm",
+        "version": "6.7.95"
+    },
+    {
         "id": "1F513D40-444E-475D-9C1F-E5A95CE61A02",
         "name": "sun-compass",
         "codepoint": "F19A5",
