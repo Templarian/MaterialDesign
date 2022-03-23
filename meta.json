@@ -61379,6 +61379,17 @@
         "version": "6.7.95"
     },
     {
+        "id": "66F972AC-ADC8-4583-B358-C5D6FD241316",
+        "name": "receipt-text-remove",
+        "codepoint": "F1A69",
+        "aliases": [
+            "invoice-remove"
+        ],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.7.95"
+    },
+    {
         "id": "F84F1E59-868C-42CE-80EA-159588E83462",
         "name": "record",
         "codepoint": "F044A",
