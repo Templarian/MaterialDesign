@@ -50097,6 +50097,20 @@
         "version": "6.7.95"
     },
     {
+        "id": "463AE2E1-1BA3-444B-9182-D252575B2C8E",
+        "name": "meter-electric-outline",
+        "codepoint": "F1A58",
+        "aliases": [
+            "power-meter-outline",
+            "electricity-outline"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "13256CBF-E284-4229-AAB9-5612FBADD060",
         "name": "metronome",
         "codepoint": "F07DA",
