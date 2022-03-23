@@ -50083,6 +50083,20 @@
         "version": "1.6.50"
     },
     {
+        "id": "A42A0B48-3570-4056-9745-6FEC4CE8EB8E",
+        "name": "meter-electric",
+        "codepoint": "F1A57",
+        "aliases": [
+            "power-meter",
+            "electricity"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "13256CBF-E284-4229-AAB9-5612FBADD060",
         "name": "metronome",
         "codepoint": "F07DA",
