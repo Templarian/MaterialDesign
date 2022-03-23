@@ -69941,6 +69941,18 @@
         "version": "1.6.50"
     },
     {
+        "id": "2C19B9EA-AB7C-401A-B84F-A0DCD2336BBE",
+        "name": "storage-tank",
+        "codepoint": "F1A75",
+        "aliases": [
+            "propane-tank",
+            "gas-tank"
+        ],
+        "tags": [],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "3C3AEDE0-B6DA-4CB9-A686-869634678D5D",
         "name": "store",
         "codepoint": "F04DC",
