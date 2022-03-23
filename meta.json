@@ -73096,6 +73096,21 @@
         "version": "3.5.94"
     },
     {
+        "id": "23736622-5488-4BE7-BB70-225F5F17AF2B",
+        "name": "thermometer-water",
+        "codepoint": "F1A80",
+        "aliases": [
+            "dew-point",
+            "water-temperature",
+            "boiling-point"
+        ],
+        "tags": [
+            "Weather"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "628D16E2-7E57-43CA-8451-012B8AB852DA",
         "name": "thermostat",
         "codepoint": "F0393",
