@@ -21944,6 +21944,21 @@
         "version": "1.5.54"
     },
     {
+        "id": "63C6361B-587A-4EF6-9308-8E54DD1BB68E",
+        "name": "cloud-percent",
+        "codepoint": "F1A35",
+        "aliases": [
+            "humidity",
+            "rain-chance",
+            "cloud-discount"
+        ],
+        "tags": [
+            "Weather"
+        ],
+        "author": "Simran",
+        "version": "6.7.95"
+    },
+    {
         "id": "DB32F759-BA18-488B-9260-9A38529BE7A8",
         "name": "cloud-print",
         "codepoint": "F0165",
