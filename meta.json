@@ -80440,6 +80440,17 @@
         "version": "4.3.95"
     },
     {
+        "id": "1361AC2A-CE62-44C5-99BE-3DBA2B14D318",
+        "name": "window-shutter-settings",
+        "codepoint": "F1A8B",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "0D2A52AA-2CAE-427F-887E-6198929D6855",
         "name": "windsock",
         "codepoint": "F15FA",
