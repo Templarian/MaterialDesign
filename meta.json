@@ -11582,7 +11582,9 @@
         "id": "293F404C-5568-4F17-A6EB-0750931EE2B6",
         "name": "blinds-vertical-closed",
         "codepoint": "F1A2E",
-        "aliases": [],
+        "aliases": [
+            "window-closed"
+        ],
         "tags": [
             "Home Automation"
         ],
