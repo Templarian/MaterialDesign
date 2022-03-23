@@ -11528,7 +11528,8 @@
         "codepoint": "F1A2B",
         "aliases": [
             "blinds-open",
-            "mini-blinds"
+            "mini-blinds",
+            "window-open"
         ],
         "tags": [
             "Home Automation"
