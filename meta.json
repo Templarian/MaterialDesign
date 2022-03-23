@@ -61353,6 +61353,19 @@
         "version": "6.7.95"
     },
     {
+        "id": "044F6733-211D-496D-B957-F523D80A6F91",
+        "name": "receipt-text-plus",
+        "codepoint": "F1A67",
+        "aliases": [
+            "invoice-plus",
+            "invoice-add",
+            "receipt-text-add"
+        ],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.7.95"
+    },
+    {
         "id": "F84F1E59-868C-42CE-80EA-159588E83462",
         "name": "record",
         "codepoint": "F044A",
