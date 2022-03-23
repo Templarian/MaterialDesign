@@ -25547,6 +25547,15 @@
         "version": "4.8.95"
     },
     {
+        "id": "7FFA202C-D65F-4F9C-AC9B-6A17AB4C611E",
+        "name": "currency-fra",
+        "codepoint": "F1A39",
+        "aliases": [],
+        "tags": [],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "F9BD830F-EBB6-45A4-A576-0DEC27084A95",
         "name": "currency-gbp",
         "codepoint": "F01AE",
