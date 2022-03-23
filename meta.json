@@ -67633,6 +67633,21 @@
         "version": "5.4.55"
     },
     {
+        "id": "C9E4ABED-D38C-45EC-9340-C6C8ADAD1CDF",
+        "name": "snowflake-thermometer",
+        "codepoint": "F1A71",
+        "aliases": [
+            "frost-point",
+            "freezing-point",
+            "snowflake-temperature"
+        ],
+        "tags": [
+            "Weather"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "50B6D484-E7DC-4B88-9981-9C962C9A9EB6",
         "name": "snowflake-variant",
         "codepoint": "F0F2A",
