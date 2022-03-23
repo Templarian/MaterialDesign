@@ -46837,6 +46837,19 @@
         "version": "1.8.36"
     },
     {
+        "id": "5AF7B110-A35F-437B-B4F2-5DAED54DE86F",
+        "name": "lightbulb-on-10",
+        "codepoint": "F1A4E",
+        "aliases": [
+            "lightbulb-dimmer-10"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "1FDA626F-5858-43AE-92A0-9CCE7168F08F",
         "name": "lightbulb-on-outline",
         "codepoint": "F06E9",
