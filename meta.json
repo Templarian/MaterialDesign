@@ -11343,7 +11343,9 @@
         "id": "2C312B6E-73D4-4A98-A701-D49E31F95E7B",
         "name": "bike-fast",
         "codepoint": "F111F",
-        "aliases": [],
+        "aliases": [
+            "velocity"
+        ],
         "tags": [
             "Transportation + Other"
         ],
