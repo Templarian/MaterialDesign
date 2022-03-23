@@ -78846,6 +78846,22 @@
         "version": "6.7.95"
     },
     {
+        "id": "D69A4155-E2D7-4A9F-82CD-904D346E8A6E",
+        "name": "water-thermometer-outline",
+        "codepoint": "F1A86",
+        "aliases": [
+            "dew-point-outline",
+            "water-temperature-outline",
+            "boil-point-outline"
+        ],
+        "tags": [
+            "Weather",
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "4EE62E99-C30B-4A90-B89D-ADF4C26EF888",
         "name": "water-well",
         "codepoint": "F106B",
