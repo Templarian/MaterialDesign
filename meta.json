@@ -11567,6 +11567,17 @@
         "version": "6.7.95"
     },
     {
+        "id": "293F404C-5568-4F17-A6EB-0750931EE2B6",
+        "name": "blinds-vertical-closed",
+        "codepoint": "F1A2E",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "5832B598-DAAA-4497-B995-CF940A1C7F20",
         "name": "block-helper",
         "codepoint": "F00AD",
