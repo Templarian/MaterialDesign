@@ -61331,6 +61331,17 @@
         "version": "6.7.95"
     },
     {
+        "id": "E923B212-FD3F-40F0-AFD5-1C91F3649E68",
+        "name": "receipt-text-minus",
+        "codepoint": "F1A65",
+        "aliases": [
+            "invoice-minus"
+        ],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.7.95"
+    },
+    {
         "id": "F84F1E59-868C-42CE-80EA-159588E83462",
         "name": "record",
         "codepoint": "F044A",
