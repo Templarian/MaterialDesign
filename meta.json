@@ -67864,6 +67864,20 @@
         "version": "6.7.95"
     },
     {
+        "id": "3EF2EC63-DBE4-4825-9AFD-5567C0A081E2",
+        "name": "solar-power-variant-outline",
+        "codepoint": "F1A74",
+        "aliases": [
+            "solar-energy-outline",
+            "solar-electricity-outline"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "4A90CB52-2637-4E5D-8333-467DD85B36F6",
         "name": "soldering-iron",
         "codepoint": "F1092",
