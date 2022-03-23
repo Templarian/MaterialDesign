@@ -11513,7 +11513,8 @@
         "name": "blinds",
         "codepoint": "F00AC",
         "aliases": [
-            "roller-shade-closed"
+            "roller-shade-closed",
+            "window-closed"
         ],
         "tags": [
             "Home Automation"
