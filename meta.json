@@ -11554,7 +11554,8 @@
         "name": "blinds-open",
         "codepoint": "F1011",
         "aliases": [
-            "roller-shade-open"
+            "roller-shade-open",
+            "window-open"
         ],
         "tags": [
             "Home Automation"
