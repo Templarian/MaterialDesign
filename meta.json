@@ -59408,6 +59408,19 @@
         "version": "1.5.54"
     },
     {
+        "id": "7216DA73-CAB3-46A6-8940-809FFE3DBD26",
+        "name": "pool-thermometer",
+        "codepoint": "F1A5F",
+        "aliases": [
+            "pool-temperature"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "3401BCC7-DECF-4A92-9B6C-34AF063B2FED",
         "name": "popcorn",
         "codepoint": "F0422",
