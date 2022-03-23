@@ -71916,6 +71916,17 @@
         "version": "6.7.95"
     },
     {
+        "id": "1E060329-9C85-4470-8140-DD96F6877E76",
+        "name": "tag-check-outline",
+        "codepoint": "F1A7B",
+        "aliases": [
+            "tag-approve-outline"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "5DCE0F4D-F740-4D9A-AC93-281D3477E9AF",
         "name": "tag-faces",
         "codepoint": "F04FA",
