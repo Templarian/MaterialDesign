@@ -61342,6 +61342,17 @@
         "version": "6.7.95"
     },
     {
+        "id": "0AED24B5-1FC4-4E34-8617-A80675E9B2E4",
+        "name": "receipt-text-minus-outline",
+        "codepoint": "F1A66",
+        "aliases": [
+            "invoice-minus-outline"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "F84F1E59-868C-42CE-80EA-159588E83462",
         "name": "record",
         "codepoint": "F044A",
