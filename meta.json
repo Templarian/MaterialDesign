@@ -41598,6 +41598,17 @@
         "version": "6.7.95"
     },
     {
+        "id": "926E83A9-0AF9-4933-B30E-E7D17680B611",
+        "name": "heat-pump-outline",
+        "codepoint": "F1A44",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "47397A0C-273D-4D13-A4FD-61572F3E4953",
         "name": "helicopter",
         "codepoint": "F0AC2",
