@@ -61309,6 +61309,17 @@
         "version": "6.6.95"
     },
     {
+        "id": "9B57706E-4682-4A41-8E2E-D05601DE5FC4",
+        "name": "receipt-text-check",
+        "codepoint": "F1A63",
+        "aliases": [
+            "invoice-check"
+        ],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.7.95"
+    },
+    {
         "id": "F84F1E59-868C-42CE-80EA-159588E83462",
         "name": "record",
         "codepoint": "F044A",
