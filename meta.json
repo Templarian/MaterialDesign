@@ -80239,6 +80239,20 @@
         "version": "1.5.54"
     },
     {
+        "id": "4A21CDF6-CF3E-46DB-8A1E-A5F51225DDE3",
+        "name": "wind-power",
+        "codepoint": "F1A88",
+        "aliases": [
+            "wind-energy",
+            "wind-electricity"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "9DABF133-FBE0-416C-82D8-F47E8A559E12",
         "name": "wind-turbine",
         "codepoint": "F0DA5",
