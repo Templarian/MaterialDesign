@@ -15080,6 +15080,19 @@
         "version": "1.5.54"
     },
     {
+        "id": "9ACB9882-BE7B-44A3-AFCC-FDA2A5061EF1",
+        "name": "calendar-today-outline",
+        "codepoint": "F1A30",
+        "aliases": [
+            "calendar-day-outline"
+        ],
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "F2D23B1E-EA12-4EF5-9365-E698D1CD1319",
         "name": "calendar-week",
         "codepoint": "F0A33",
