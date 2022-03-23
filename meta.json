@@ -72812,6 +72812,17 @@
         "version": "5.1.45"
     },
     {
+        "id": "B1B403FA-FBA6-4219-8561-23DE3833029F",
+        "name": "text-search-variant",
+        "codepoint": "F1A7E",
+        "aliases": [
+            "notes-search-variant"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "4595BB97-16B7-4B19-8AC5-9C33167A6D20",
         "name": "text-shadow",
         "codepoint": "F0669",
