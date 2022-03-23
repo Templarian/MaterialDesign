@@ -59116,6 +59116,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "04ACEC00-DCEE-4FC8-9608-A2875F7A92A1",
+        "name": "plus-lock",
+        "codepoint": "F1A5D",
+        "aliases": [
+            "plus-secure"
+        ],
+        "tags": [],
+        "author": "Contributors",
+        "version": "6.7.95"
+    },
+    {
         "id": "34BDA78C-9BF6-441A-9924-E8619719C333",
         "name": "plus-minus",
         "codepoint": "F0992",
