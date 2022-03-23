@@ -13997,6 +13997,17 @@
         "version": "3.5.94"
     },
     {
+        "id": "5CCE8821-5952-49CA-A3C2-53AB5E50CA19",
+        "name": "bulkhead-light",
+        "codepoint": "F1A2F",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "76D6F847-8DC7-41CB-B88C-9407CC2B18AA",
         "name": "bulldozer",
         "codepoint": "F0B22",
