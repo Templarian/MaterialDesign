@@ -67850,6 +67850,20 @@
         "version": "2.6.95"
     },
     {
+        "id": "9A0563D4-0CEB-4F7F-8CA2-27606F24603F",
+        "name": "solar-power-variant",
+        "codepoint": "F1A73",
+        "aliases": [
+            "solar-energy",
+            "solar-electricity"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "4A90CB52-2637-4E5D-8333-467DD85B36F6",
         "name": "soldering-iron",
         "codepoint": "F1092",
