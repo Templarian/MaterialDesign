@@ -46781,6 +46781,21 @@
         "version": "6.7.95"
     },
     {
+        "id": "2C6EE261-B451-4F1F-A260-D34AA0EB341A",
+        "name": "lightbulb-night-outline",
+        "codepoint": "F1A4D",
+        "aliases": [
+            "night-light-outline",
+            "nite-light-outline",
+            "lightbulb-moon-star-outline"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "14D09F5A-C467-428B-9C5A-F2B3939D1678",
         "name": "lightbulb-off",
         "codepoint": "F0E4F",
