@@ -66064,6 +66064,17 @@
         "version": "3.9.97"
     },
     {
+        "id": "68885584-9904-492E-AEC4-0FEC2C266F6E",
+        "name": "shopping-search-outline",
+        "codepoint": "F1A6F",
+        "aliases": [],
+        "tags": [
+            "Shopping"
+        ],
+        "author": "Ken Gregory",
+        "version": "6.7.95"
+    },
+    {
         "id": "9F0501F0-7F2C-4806-8AC4-F8D76AA194CD",
         "name": "shore",
         "codepoint": "F14F9",
