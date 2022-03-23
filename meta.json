@@ -15119,6 +15119,19 @@
         "version": "2.6.95"
     },
     {
+        "id": "420E6A80-6C58-48A6-A8A8-8119D53633D7",
+        "name": "calendar-week-begin-outline",
+        "codepoint": "F1A31",
+        "aliases": [
+            "event-week-begin-outline"
+        ],
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "E873A542-F4E7-44F4-B7CD-19474188D5BC",
         "name": "calendar-weekend",
         "codepoint": "F0ED9",
