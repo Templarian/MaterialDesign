@@ -62941,7 +62941,9 @@
         "id": "223BB690-0799-4F91-A756-5425358A7C4D",
         "name": "roller-shade",
         "codepoint": "F1A6B",
-        "aliases": [],
+        "aliases": [
+            "blinds-open"
+        ],
         "tags": [
             "Home Automation"
         ],
