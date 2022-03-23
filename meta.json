@@ -70612,6 +70612,21 @@
         "version": "6.7.95"
     },
     {
+        "id": "39AB9880-94EC-44BF-96FC-D5ACA1AA3356",
+        "name": "sun-clock-outline",
+        "codepoint": "F1A78",
+        "aliases": [
+            "sun-schedule-outline",
+            "sun-time-outline",
+            "time-of-day-outline"
+        ],
+        "tags": [
+            "Weather"
+        ],
+        "author": "Hans B\u00f6hm",
+        "version": "6.7.95"
+    },
+    {
         "id": "1F513D40-444E-475D-9C1F-E5A95CE61A02",
         "name": "sun-compass",
         "codepoint": "F19A5",
