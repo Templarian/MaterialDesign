@@ -9135,6 +9135,19 @@
         "version": "1.5.54"
     },
     {
+        "id": "DBEE4FC0-D708-4293-B06B-E46FAC217031",
+        "name": "barrel-outline",
+        "codepoint": "F1A28",
+        "aliases": [
+            "oil-barrel-outline",
+            "fossil-fuel-outline",
+            "energy-outline"
+        ],
+        "tags": [],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "EDAC5CB7-39B3-4DAD-89ED-38D7EA914211",
         "name": "baseball",
         "codepoint": "F0852",
