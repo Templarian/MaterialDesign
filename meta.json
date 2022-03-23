@@ -79667,6 +79667,21 @@
         "version": "5.4.55"
     },
     {
+        "id": "1984D53A-267C-4E05-956A-ABED5B2029BE",
+        "name": "wheelchair",
+        "codepoint": "F1A87",
+        "aliases": [
+            "accessible",
+            "isa",
+            "international-symbol-of-access"
+        ],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "FB4E1390-EFB1-4364-B6EE-F936C5715163",
         "name": "wheelchair-accessibility",
         "codepoint": "F05A4",
