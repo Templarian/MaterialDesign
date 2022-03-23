@@ -77790,6 +77790,19 @@
         "version": "1.5.54"
     },
     {
+        "id": "F319008C-CAC3-4D75-8DED-8164D252A015",
+        "name": "volcano",
+        "codepoint": "F1A83",
+        "aliases": [
+            "eruption"
+        ],
+        "tags": [
+            "Nature"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "3978DABC-FC98-4D3E-A971-88716AD5D600",
         "name": "volleyball",
         "codepoint": "F09B4",
