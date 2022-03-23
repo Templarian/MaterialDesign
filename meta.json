@@ -11553,7 +11553,9 @@
         "id": "5DCCF3FA-F418-4052-9B93-6FA85C2659F5",
         "name": "blinds-open",
         "codepoint": "F1011",
-        "aliases": [],
+        "aliases": [
+            "roller-shade-open"
+        ],
         "tags": [
             "Home Automation"
         ],
