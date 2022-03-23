@@ -58456,6 +58456,22 @@
         "version": "1.5.54"
     },
     {
+        "id": "70E290E6-75B8-4976-8206-C066C02C5344",
+        "name": "pill-off",
+        "codepoint": "F1A5C",
+        "aliases": [
+            "medicine-off",
+            "capsule-off",
+            "drug-off",
+            "pharmaceutical-off"
+        ],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
+        "author": "Contributors",
+        "version": "6.7.95"
+    },
+    {
         "id": "AD451D24-BA4B-466E-8146-D3FBBDA6E275",
         "name": "pillar",
         "codepoint": "F0702",
