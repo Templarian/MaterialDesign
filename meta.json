@@ -67596,6 +67596,19 @@
         "version": "3.8.95"
     },
     {
+        "id": "F489E6B1-12CD-4847-B039-8577751B2DFE",
+        "name": "snowflake-check",
+        "codepoint": "F1A70",
+        "aliases": [
+            "snowflake-approve"
+        ],
+        "tags": [
+            "Weather"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "017BAEB6-E5B4-4BEF-8CA3-D0ABA689DE2C",
         "name": "snowflake-melt",
         "codepoint": "F12CB",
