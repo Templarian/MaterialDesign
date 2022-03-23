@@ -33436,6 +33436,17 @@
         "version": "6.7.95"
     },
     {
+        "id": "9124AC57-0F66-4F90-ABF4-167CDA8E46BC",
+        "name": "filter-multiple-outline",
+        "codepoint": "F1A40",
+        "aliases": [
+            "funnel-multiple-outline"
+        ],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.7.95"
+    },
+    {
         "id": "049BC23B-DE87-4AB6-AFC3-38AC296045A3",
         "name": "filter-off",
         "codepoint": "F14EF",
