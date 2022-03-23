@@ -40500,6 +40500,17 @@
         "version": "6.4.95"
     },
     {
+        "id": "9B126394-E75C-416A-8959-F76B5FE2A5E0",
+        "name": "hand-clap-off",
+        "codepoint": "F1A42",
+        "aliases": [
+            "applause-off"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "861C015B-47CA-41A6-8994-E43D980ECD58",
         "name": "hand-coin",
         "codepoint": "F188F",
