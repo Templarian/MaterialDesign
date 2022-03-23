@@ -42568,6 +42568,19 @@
         "version": "1.5.54"
     },
     {
+        "id": "D9B08A72-EDEB-459D-89C9-C12DFB088E98",
+        "name": "home-off",
+        "codepoint": "F1A46",
+        "aliases": [
+            "house-off"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "B4E2287E-8872-48AD-B765-83D82AF66CA3",
         "name": "home-outline",
         "codepoint": "F06A1",
