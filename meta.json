@@ -41609,6 +41609,21 @@
         "version": "6.7.95"
     },
     {
+        "id": "8AD5E52C-320C-4071-B891-552B4D71A42C",
+        "name": "heat-wave",
+        "codepoint": "F1A45",
+        "aliases": [
+            "keep-warm",
+            "warmth"
+        ],
+        "tags": [
+            "Home Automation",
+            "Weather"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "47397A0C-273D-4D13-A4FD-61572F3E4953",
         "name": "helicopter",
         "codepoint": "F0AC2",
