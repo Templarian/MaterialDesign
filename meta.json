@@ -46297,6 +46297,19 @@
         "version": "4.1.95"
     },
     {
+        "id": "6EAFDD56-E5C5-459A-B31A-0BAC693931E0",
+        "name": "led-strip-variant-off",
+        "codepoint": "F1A4B",
+        "aliases": [
+            "light-strip-variant-off"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "BBDD4244-D5C9-4150-9936-31C775AA463F",
         "name": "led-variant-off",
         "codepoint": "F032E",
