@@ -11532,6 +11532,19 @@
         "version": "6.7.95"
     },
     {
+        "id": "18949103-543E-4756-83E4-394E60DD1036",
+        "name": "blinds-horizontal-closed",
+        "codepoint": "F1A2C",
+        "aliases": [
+            "mini-blinds"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "5DCCF3FA-F418-4052-9B93-6FA85C2659F5",
         "name": "blinds-open",
         "codepoint": "F1011",
