@@ -59443,6 +59443,19 @@
         "version": "4.0.96"
     },
     {
+        "id": "DA9F3CE2-81E2-4113-B8E7-64CE579D0890",
+        "name": "post-lamp",
+        "codepoint": "F1A60",
+        "aliases": [
+            "post-light"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "benjocaz45",
+        "version": "6.7.95"
+    },
+    {
         "id": "A7CB61B3-B3C5-4EEE-AC94-D0B2347FFA1B",
         "name": "post-outline",
         "codepoint": "F1009",
