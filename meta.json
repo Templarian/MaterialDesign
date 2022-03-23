@@ -21959,6 +21959,21 @@
         "version": "6.7.95"
     },
     {
+        "id": "CB1A76AC-F998-48D8-A4DC-C29CD02CDFF7",
+        "name": "cloud-percent-outline",
+        "codepoint": "F1A36",
+        "aliases": [
+            "cloud-discount-outline",
+            "humidity-outline",
+            "rain-chance-outline"
+        ],
+        "tags": [
+            "Weather"
+        ],
+        "author": "Simran",
+        "version": "6.7.95"
+    },
+    {
         "id": "DB32F759-BA18-488B-9260-9A38529BE7A8",
         "name": "cloud-print",
         "codepoint": "F0165",
