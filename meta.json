@@ -11542,7 +11542,8 @@
         "name": "blinds-horizontal-closed",
         "codepoint": "F1A2C",
         "aliases": [
-            "mini-blinds"
+            "mini-blinds",
+            "window-closed"
         ],
         "tags": [
             "Home Automation"
