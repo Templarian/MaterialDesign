@@ -69953,6 +69953,18 @@
         "version": "6.7.95"
     },
     {
+        "id": "6140C9BE-C66B-4ADC-957F-74A59541EA1A",
+        "name": "storage-tank-outline",
+        "codepoint": "F1A76",
+        "aliases": [
+            "propane-tank-outline",
+            "gas-tank-outline"
+        ],
+        "tags": [],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "3C3AEDE0-B6DA-4CB9-A686-869634678D5D",
         "name": "store",
         "codepoint": "F04DC",
