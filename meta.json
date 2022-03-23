@@ -51108,6 +51108,22 @@
         "version": "1.5.54"
     },
     {
+        "id": "F40F74F4-288D-495A-9B2E-1C9D3160B272",
+        "name": "monitor-account",
+        "codepoint": "F1A5B",
+        "aliases": [
+            "teleconference",
+            "virtual-meeting",
+            "video-chat"
+        ],
+        "tags": [
+            "Account \/ User",
+            "Device \/ Tech"
+        ],
+        "author": "John Brissette",
+        "version": "6.7.95"
+    },
+    {
         "id": "8C772F38-CA90-4CAD-BC26-DE68A84FD6F4",
         "name": "monitor-arrow-down",
         "codepoint": "F19D0",
