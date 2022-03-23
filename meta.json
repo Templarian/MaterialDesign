@@ -62942,7 +62942,8 @@
         "name": "roller-shade",
         "codepoint": "F1A6B",
         "aliases": [
-            "blinds-open"
+            "blinds-open",
+            "window-open"
         ],
         "tags": [
             "Home Automation"
