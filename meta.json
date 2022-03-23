@@ -21155,7 +21155,9 @@
         "id": "111210EB-0EF4-4DCB-ABBD-6A75F15EEB44",
         "name": "clock-fast",
         "codepoint": "F0152",
-        "aliases": [],
+        "aliases": [
+            "velocity"
+        ],
         "tags": [
             "Date \/ Time"
         ],
