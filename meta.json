@@ -60821,6 +60821,23 @@
         "version": "2.3.50"
     },
     {
+        "id": "8CEA8CC8-F495-4F1B-B28B-BAA2D2F2EA44",
+        "name": "rabbit-variant",
+        "codepoint": "F1A61",
+        "aliases": [
+            "bunny",
+            "easter",
+            "hare",
+            "cruelty-free"
+        ],
+        "tags": [
+            "Animal",
+            "Holiday"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "59B7D141-A76F-4794-A484-CE089FCF7C46",
         "name": "racing-helmet",
         "codepoint": "F0D93",
