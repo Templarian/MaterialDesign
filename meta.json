@@ -33425,6 +33425,17 @@
         "version": "3.8.95"
     },
     {
+        "id": "EC7474F7-BE1F-4076-8CDB-DD5779095168",
+        "name": "filter-multiple",
+        "codepoint": "F1A3F",
+        "aliases": [
+            "funnel-multiple"
+        ],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.7.95"
+    },
+    {
         "id": "049BC23B-DE87-4AB6-AFC3-38AC296045A3",
         "name": "filter-off",
         "codepoint": "F14EF",
