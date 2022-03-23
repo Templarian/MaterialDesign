@@ -25941,7 +25941,8 @@
         "name": "curtains-closed",
         "codepoint": "F1847",
         "aliases": [
-            "drapes-closed"
+            "drapes-closed",
+            "window-closed"
         ],
         "tags": [
             "Home Automation"
