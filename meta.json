@@ -11569,7 +11569,9 @@
         "id": "F57CEB13-5A41-498C-BCF5-D7036E7B1122",
         "name": "blinds-vertical",
         "codepoint": "F1A2D",
-        "aliases": [],
+        "aliases": [
+            "window"
+        ],
         "tags": [
             "Home Automation"
         ],
