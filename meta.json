@@ -72960,6 +72960,21 @@
         "version": "6.2.95"
     },
     {
+        "id": "E01A628C-01EA-4F7E-B150-FCCDBED99EF9",
+        "name": "thermometer-check",
+        "codepoint": "F1A7F",
+        "aliases": [
+            "thermometer-approve",
+            "temperature-check",
+            "temperature-approve"
+        ],
+        "tags": [
+            "Weather"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "C888E2C1-306A-4BCB-821E-5B33AC93572D",
         "name": "thermometer-chevron-down",
         "codepoint": "F0E02",
