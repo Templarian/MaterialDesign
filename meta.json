@@ -64336,6 +64336,20 @@
         "version": "6.7.95"
     },
     {
+        "id": "01263D30-0B40-46AA-A17B-31EABA51DD48",
+        "name": "seed-plus-outline",
+        "codepoint": "F1A6E",
+        "aliases": [
+            "seed-add-outline"
+        ],
+        "tags": [
+            "Agriculture",
+            "Nature"
+        ],
+        "author": "Jeff Anders",
+        "version": "6.7.95"
+    },
+    {
         "id": "B2FB9E28-A275-4BC8-AFD9-8A8D90153ED9",
         "name": "seesaw",
         "codepoint": "F15A4",
