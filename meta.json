@@ -11556,6 +11556,17 @@
         "version": "4.1.95"
     },
     {
+        "id": "F57CEB13-5A41-498C-BCF5-D7036E7B1122",
+        "name": "blinds-vertical",
+        "codepoint": "F1A2D",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "5832B598-DAAA-4497-B995-CF940A1C7F20",
         "name": "block-helper",
         "codepoint": "F00AD",
