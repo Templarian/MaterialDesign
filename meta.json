@@ -62928,6 +62928,17 @@
         "version": "4.9.95"
     },
     {
+        "id": "223BB690-0799-4F91-A756-5425358A7C4D",
+        "name": "roller-shade",
+        "codepoint": "F1A6B",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "6EFB213D-87A6-454A-AB37-AB87CE853E4B",
         "name": "roller-skate",
         "codepoint": "F0D2B",
