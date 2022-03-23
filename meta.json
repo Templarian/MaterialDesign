@@ -22131,6 +22131,21 @@
         "version": "4.1.95"
     },
     {
+        "id": "D4A857FB-53DF-4726-9B49-986C83844E40",
+        "name": "coach-lamp-variant",
+        "codepoint": "F1A37",
+        "aliases": [
+            "coach-light",
+            "carriage-light",
+            "carriage-lamp"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Borre Haugen",
+        "version": "6.7.95"
+    },
+    {
         "id": "21D89E60-3522-4F1F-A1D2-60E67B2C9552",
         "name": "coat-rack",
         "codepoint": "F109E",
