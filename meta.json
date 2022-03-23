@@ -11054,6 +11054,20 @@
         "version": "6.7.95"
     },
     {
+        "id": "51BF300C-2921-4364-B362-56E4D81DA629",
+        "name": "bell-cog-outline",
+        "codepoint": "F1A2A",
+        "aliases": [
+            "bell-settings-outline",
+            "notification-settings-outline"
+        ],
+        "tags": [
+            "Notification"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.7.95"
+    },
+    {
         "id": "C25507E4-8865-47BF-A6AB-D97978AB4397",
         "name": "bell-minus",
         "codepoint": "F13E9",
