@@ -11040,6 +11040,20 @@
         "version": "3.4.93"
     },
     {
+        "id": "8191437C-298C-4A5F-8EC3-A2DA4584BF0D",
+        "name": "bell-cog",
+        "codepoint": "F1A29",
+        "aliases": [
+            "bell-settings",
+            "notification-settings"
+        ],
+        "tags": [
+            "Notification"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.7.95"
+    },
+    {
         "id": "C25507E4-8865-47BF-A6AB-D97978AB4397",
         "name": "bell-minus",
         "codepoint": "F13E9",
