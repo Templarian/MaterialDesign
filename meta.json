@@ -45902,6 +45902,22 @@
         "version": "1.5.54"
     },
     {
+        "id": "63808048-CB00-41F6-AE66-3CB683197A9E",
+        "name": "laptop-account",
+        "codepoint": "F1A4A",
+        "aliases": [
+            "teleconference",
+            "virtual-meeting",
+            "video-chat"
+        ],
+        "tags": [
+            "Account \/ User",
+            "Device \/ Tech"
+        ],
+        "author": "John Brissette",
+        "version": "6.7.95"
+    },
+    {
         "id": "C9A08F85-B996-498D-ADDC-20A9B77B5489",
         "name": "laptop-off",
         "codepoint": "F06E7",
