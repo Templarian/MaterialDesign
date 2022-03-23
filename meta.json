@@ -67683,6 +67683,17 @@
         "version": "1.8.36"
     },
     {
+        "id": "D9F59FE2-7B27-4B54-8935-AC2A83CE084B",
+        "name": "snowshoeing",
+        "codepoint": "F1A72",
+        "aliases": [],
+        "tags": [
+            "Sport"
+        ],
+        "author": "Google",
+        "version": "6.7.95"
+    },
+    {
         "id": "B4AFB6A4-C315-4B06-AE4D-AC633F3ED0A7",
         "name": "soccer",
         "codepoint": "F04B8",
