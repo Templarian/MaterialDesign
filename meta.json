@@ -32881,6 +32881,20 @@
         "version": "4.1.95"
     },
     {
+        "id": "1111BC67-6DD5-4AE2-9541-9D5E890D823A",
+        "name": "file-rotate-left",
+        "codepoint": "F1A3B",
+        "aliases": [
+            "file-rotate-counter-clockwise",
+            "file-rotate-ccw"
+        ],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "8FA2DBB9-E874-4CBB-A466-2691223D0FEF",
         "name": "file-search",
         "codepoint": "F0C7C",
