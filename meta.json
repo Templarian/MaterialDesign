@@ -15132,6 +15132,19 @@
         "version": "6.7.95"
     },
     {
+        "id": "56F3CE33-D13F-43F3-B626-2728FF09D778",
+        "name": "calendar-week-end",
+        "codepoint": "F1A32",
+        "aliases": [
+            "event-week-end"
+        ],
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.95"
+    },
+    {
         "id": "E873A542-F4E7-44F4-B7CD-19474188D5BC",
         "name": "calendar-weekend",
         "codepoint": "F0ED9",
