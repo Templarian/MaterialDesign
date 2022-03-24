@@ -49869,6 +49869,20 @@
         "version": "1.8.36"
     },
     {
+        "id": "EC9D77A4-739A-4641-BE6C-86050DD25FFE",
+        "name": "medical-cotton-swab",
+        "codepoint": "F1AB8",
+        "aliases": [
+            "covid-test",
+            "medicine"
+        ],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
+        "author": "Google",
+        "version": "6.8.95"
+    },
+    {
         "id": "B68AA118-B8B5-4A2A-BCA2-A12C8C119319",
         "name": "meditation",
         "codepoint": "F117B",
