@@ -33878,7 +33878,9 @@
         "id": "FC722964-4A11-4A22-94B1-D4812E1FE2C1",
         "name": "filter-settings-outline",
         "codepoint": "F1AA6",
-        "aliases": [],
+        "aliases": [
+            "funnel-settings-outline"
+        ],
         "tags": [],
         "author": "Simran",
         "version": "6.8.95"
