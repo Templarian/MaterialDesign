@@ -37996,6 +37996,15 @@
         "version": "6.8.95"
     },
     {
+        "id": "E7013FF6-E962-4ED4-BCA9-5BE12DF03146",
+        "name": "forum-remove",
+        "codepoint": "F1AAD",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.8.95"
+    },
+    {
         "id": "EAE07425-A6D5-4B33-A9C5-6D7E9E9E1908",
         "name": "forward",
         "codepoint": "F028D",
