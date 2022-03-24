@@ -35650,6 +35650,18 @@
         "version": "6.8.95"
     },
     {
+        "id": "E201B591-1235-409C-A620-862909114374",
+        "name": "folder-lock-outline",
+        "codepoint": "F1AA8",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders",
+            "Lock"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.8.95"
+    },
+    {
         "id": "00FD0F50-240F-4654-9712-C219B0FF9A97",
         "name": "folder-marker",
         "codepoint": "F126D",
