@@ -35638,6 +35638,18 @@
         "version": "1.5.54"
     },
     {
+        "id": "27E16474-6081-4DA7-AD05-707CC64369C7",
+        "name": "folder-lock-open-outline",
+        "codepoint": "F1AA7",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders",
+            "Lock"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "00FD0F50-240F-4654-9712-C219B0FF9A97",
         "name": "folder-marker",
         "codepoint": "F126D",
