@@ -33720,6 +33720,15 @@
         "version": "6.8.95"
     },
     {
+        "id": "6E54B42B-896D-4598-83D7-96E592B1B15F",
+        "name": "filter-cog-outline",
+        "codepoint": "F1AA4",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.8.95"
+    },
+    {
         "id": "36805F11-BE23-49C3-8D72-682859DD5551",
         "name": "filter-menu",
         "codepoint": "F10E5",
