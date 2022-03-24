@@ -63576,6 +63576,15 @@
         "version": "3.0.39"
     },
     {
+        "id": "19AA4DCD-7270-48A6-ADB1-819098F2250A",
+        "name": "rolodex",
+        "codepoint": "F1AB9",
+        "aliases": [],
+        "tags": [],
+        "author": "arnoldlepineux",
+        "version": "6.8.95"
+    },
+    {
         "id": "7E900912-C3AE-4D82-BCF0-1162ACC7EB15",
         "name": "roman-numeral-1",
         "codepoint": "F1088",
