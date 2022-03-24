@@ -38023,7 +38023,9 @@
         "id": "E7013FF6-E962-4ED4-BCA9-5BE12DF03146",
         "name": "forum-remove",
         "codepoint": "F1AAD",
-        "aliases": [],
+        "aliases": [
+            "forum-delete"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.8.95"
