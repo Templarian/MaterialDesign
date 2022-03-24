@@ -37979,7 +37979,9 @@
         "id": "B62A5E78-9D61-47C7-97DA-B1DFFDACFACC",
         "name": "forum-minus-outline",
         "codepoint": "F1AAA",
-        "aliases": [],
+        "aliases": [
+            "chat-minus-outline"
+        ],
         "tags": [],
         "author": "nlsve",
         "version": "6.8.95"
