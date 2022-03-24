@@ -42064,6 +42064,20 @@
         "version": "6.7.95"
     },
     {
+        "id": "FD4E8AC3-C868-429A-A7B9-5460AD347BC2",
+        "name": "heating-coil",
+        "codepoint": "F1AAF",
+        "aliases": [
+            "radiator-coil",
+            "heated-floor"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.8.95"
+    },
+    {
         "id": "47397A0C-273D-4D13-A4FD-61572F3E4953",
         "name": "helicopter",
         "codepoint": "F0AC2",
