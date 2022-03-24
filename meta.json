@@ -33711,6 +33711,15 @@
         "version": "6.3.95"
     },
     {
+        "id": "F8F482FA-5AA4-462B-8B38-717FF8568270",
+        "name": "filter-cog",
+        "codepoint": "F1AA3",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.8.95"
+    },
+    {
         "id": "36805F11-BE23-49C3-8D72-682859DD5551",
         "name": "filter-menu",
         "codepoint": "F10E5",
