@@ -17842,6 +17842,22 @@
         "version": "4.7.95"
     },
     {
+        "id": "6F96F219-FD7D-4EB5-B341-777F00AF6EBB",
+        "name": "cash-sync",
+        "codepoint": "F1A92",
+        "aliases": [
+            "auto-pay",
+            "recurring-payment",
+            "scheduled-payment",
+            "cash-cycle"
+        ],
+        "tags": [
+            "Banking"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.8.95"
+    },
+    {
         "id": "EF35081A-EABF-4C6B-B858-7F2177B60F95",
         "name": "cassette",
         "codepoint": "F09D4",
