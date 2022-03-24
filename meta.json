@@ -32848,6 +32848,17 @@
         "version": "6.1.95"
     },
     {
+        "id": "64C92887-5567-486D-97DC-C0353EA9EA98",
+        "name": "file-minus",
+        "codepoint": "F1AA1",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Simran",
+        "version": "6.8.95"
+    },
+    {
         "id": "BB72067F-4002-409B-BD46-6FD6F9CEBA51",
         "name": "file-move",
         "codepoint": "F0AB9",
