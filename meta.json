@@ -38005,6 +38005,15 @@
         "version": "6.8.95"
     },
     {
+        "id": "D58EAFB0-F7C3-4541-A585-43F80F273833",
+        "name": "forum-remove-outline",
+        "codepoint": "F1AAE",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.8.95"
+    },
+    {
         "id": "EAE07425-A6D5-4B33-A9C5-6D7E9E9E1908",
         "name": "forward",
         "codepoint": "F028D",
