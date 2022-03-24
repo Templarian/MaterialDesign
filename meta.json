@@ -46092,6 +46092,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "A06B998D-336F-4FDC-A0C8-04BD7AE6AAB3",
+        "name": "land-fields",
+        "codepoint": "F1AB2",
+        "aliases": [],
+        "tags": [
+            "Agriculture"
+        ],
+        "author": "Jeff Anders",
+        "version": "6.8.95"
+    },
+    {
         "id": "AD048AA5-6C71-49DF-B5B2-427F634C3538",
         "name": "landslide",
         "codepoint": "F1A48",
