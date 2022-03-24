@@ -33729,7 +33729,9 @@
         "id": "6E54B42B-896D-4598-83D7-96E592B1B15F",
         "name": "filter-cog-outline",
         "codepoint": "F1AA4",
-        "aliases": [],
+        "aliases": [
+            "filter-settings-outline"
+        ],
         "tags": [],
         "author": "Simran",
         "version": "6.8.95"
