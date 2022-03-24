@@ -72764,6 +72764,20 @@
         "version": "6.8.95"
     },
     {
+        "id": "0D7E150C-A65F-4A77-86A4-B0F5F2B60347",
+        "name": "tally-mark-5",
+        "codepoint": "F1AC0",
+        "aliases": [
+            "counting-5",
+            "five"
+        ],
+        "tags": [
+            "Math"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.8.95"
+    },
+    {
         "id": "A7147BE3-0B04-4B61-94F3-48B0D9C5551E",
         "name": "tangram",
         "codepoint": "F04F8",
