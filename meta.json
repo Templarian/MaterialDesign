@@ -33873,6 +33873,15 @@
         "version": "6.8.95"
     },
     {
+        "id": "FC722964-4A11-4A22-94B1-D4812E1FE2C1",
+        "name": "filter-settings-outline",
+        "codepoint": "F1AA6",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.8.95"
+    },
+    {
         "id": "AECECEA4-9E56-4B4B-ACD6-2C85AB09788A",
         "name": "filter-variant",
         "codepoint": "F0236",
