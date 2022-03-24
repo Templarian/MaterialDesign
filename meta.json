@@ -33714,7 +33714,9 @@
         "id": "F8F482FA-5AA4-462B-8B38-717FF8568270",
         "name": "filter-cog",
         "codepoint": "F1AA3",
-        "aliases": [],
+        "aliases": [
+            "funnel-settings"
+        ],
         "tags": [],
         "author": "Simran",
         "version": "6.8.95"
