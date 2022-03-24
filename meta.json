@@ -32301,6 +32301,17 @@
         "version": "3.5.94"
     },
     {
+        "id": "A7695AE5-5CF1-42B3-BBAE-516D143CF87C",
+        "name": "file-document-minus",
+        "codepoint": "F1A9B",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Simran",
+        "version": "6.8.95"
+    },
+    {
         "id": "05A5AF1D-055E-4FBB-BDD4-D20F3EF105DC",
         "name": "file-document-multiple",
         "codepoint": "F1517",
