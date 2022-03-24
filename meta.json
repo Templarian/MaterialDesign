@@ -33867,7 +33867,9 @@
         "id": "2F76CF21-B111-4B8D-A09A-6B6B98366375",
         "name": "filter-settings",
         "codepoint": "F1AA5",
-        "aliases": [],
+        "aliases": [
+            "funnel-settings"
+        ],
         "tags": [],
         "author": "Simran",
         "version": "6.8.95"
