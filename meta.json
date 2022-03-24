@@ -33715,7 +33715,8 @@
         "name": "filter-cog",
         "codepoint": "F1AA3",
         "aliases": [
-            "funnel-settings"
+            "funnel-settings",
+            "filter-settings"
         ],
         "tags": [],
         "author": "Simran",
