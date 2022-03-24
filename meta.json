@@ -1721,6 +1721,20 @@
         "version": "4.8.95"
     },
     {
+        "id": "7D6F703D-10AF-459F-9349-69B6D05BD7CE",
+        "name": "account-tie-woman",
+        "codepoint": "F1A8C",
+        "aliases": [
+            "business-woman"
+        ],
+        "tags": [
+            "Account \/ User",
+            "People \/ Family"
+        ],
+        "author": "Simran",
+        "version": "6.8.95"
+    },
+    {
         "id": "F1EEA910-2CD7-448A-A12F-A1BD0FDC6010",
         "name": "account-voice",
         "codepoint": "F05CB",
@@ -35290,7 +35304,7 @@
             "Lock",
             "Files \/ Folders"
         ],
-        "author": "Austin Andrews",
+        "author": "Colton Wiscombe",
         "version": "1.5.54"
     },
     {
