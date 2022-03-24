@@ -13485,6 +13485,19 @@
         "version": "3.3.92"
     },
     {
+        "id": "6DB6F4EA-1ACC-481A-8EC5-3D9FA65408BE",
+        "name": "briefcase-arrow-left-right",
+        "codepoint": "F1A8D",
+        "aliases": [
+            "briefcase-transfer",
+            "briefcase-exchange",
+            "briefcase-swap"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.8.95"
+    },
+    {
         "id": "4182182E-F79B-4153-B652-2A4B4AC231E1",
         "name": "briefcase-check",
         "codepoint": "F00D7",
