@@ -37997,7 +37997,9 @@
         "id": "148303DA-1AF8-48FF-82C4-A4B91108B231",
         "name": "forum-plus",
         "codepoint": "F1AAB",
-        "aliases": [],
+        "aliases": [
+            "chat-plus"
+        ],
         "tags": [],
         "author": "nlsve",
         "version": "6.8.95"
