@@ -32352,6 +32352,19 @@
         "version": "2.5.94"
     },
     {
+        "id": "2382A261-E45B-429D-A2E2-29DA654064E1",
+        "name": "file-document-plus",
+        "codepoint": "F1A9D",
+        "aliases": [
+            "file-document-add"
+        ],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Simran",
+        "version": "6.8.95"
+    },
+    {
         "id": "305DC085-34BD-4CC1-8943-E8A3B64FD110",
         "name": "file-download",
         "codepoint": "F0965",
