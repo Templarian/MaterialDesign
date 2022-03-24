@@ -38025,7 +38025,8 @@
         "codepoint": "F1AAD",
         "aliases": [
             "forum-delete",
-            "chat-remove"
+            "chat-remove",
+            "chat-delete"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
