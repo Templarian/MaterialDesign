@@ -33718,7 +33718,8 @@
             "funnel-settings",
             "filter-settings",
             "funnel-cog",
-            "filter-gear"
+            "filter-gear",
+            "funnel-gear"
         ],
         "tags": [],
         "author": "Simran",
