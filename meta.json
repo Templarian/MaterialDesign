@@ -68825,6 +68825,15 @@
         "version": "3.2.89"
     },
     {
+        "id": "9F5F2EFA-5AED-4914-9ADC-3C2C7EC60386",
+        "name": "sort-variant-off",
+        "codepoint": "F1ABB",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.8.95"
+    },
+    {
         "id": "51D1A98E-7CD7-4BD7-88C9-333B5435C580",
         "name": "sort-variant-remove",
         "codepoint": "F1147",
