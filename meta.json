@@ -32859,6 +32859,17 @@
         "version": "6.8.95"
     },
     {
+        "id": "02C02D19-06BA-45DF-AE33-40EA2B7F5E19",
+        "name": "file-minus-outline",
+        "codepoint": "F1AA2",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Simran",
+        "version": "6.8.95"
+    },
+    {
         "id": "BB72067F-4002-409B-BD46-6FD6F9CEBA51",
         "name": "file-move",
         "codepoint": "F0AB9",
