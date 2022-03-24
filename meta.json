@@ -37980,7 +37980,8 @@
         "name": "forum-minus-outline",
         "codepoint": "F1AAA",
         "aliases": [
-            "chat-minus-outline"
+            "chat-minus-outline",
+            "forum-subtract-outline"
         ],
         "tags": [],
         "author": "nlsve",
