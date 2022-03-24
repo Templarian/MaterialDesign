@@ -38037,7 +38037,8 @@
         "name": "forum-remove-outline",
         "codepoint": "F1AAE",
         "aliases": [
-            "forum-delete-outline"
+            "forum-delete-outline",
+            "chat-remove-outline"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
