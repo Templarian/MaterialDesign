@@ -37998,7 +37998,8 @@
         "name": "forum-plus",
         "codepoint": "F1AAB",
         "aliases": [
-            "chat-plus"
+            "chat-plus",
+            "forum-add"
         ],
         "tags": [],
         "author": "nlsve",
