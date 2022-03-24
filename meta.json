@@ -46147,6 +46147,17 @@
         "version": "6.8.95"
     },
     {
+        "id": "0CE60AA4-FF6E-4899-AE30-830BD1E4F898",
+        "name": "land-rows-vertical",
+        "codepoint": "F1AB7",
+        "aliases": [],
+        "tags": [
+            "Agriculture"
+        ],
+        "author": "Jeff Anders",
+        "version": "6.8.95"
+    },
+    {
         "id": "AD048AA5-6C71-49DF-B5B2-427F634C3538",
         "name": "landslide",
         "codepoint": "F1A48",
