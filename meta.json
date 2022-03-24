@@ -72750,6 +72750,20 @@
         "version": "6.8.95"
     },
     {
+        "id": "85D71807-B7C3-48C8-8E8D-951AA54B68C7",
+        "name": "tally-mark-4",
+        "codepoint": "F1ABF",
+        "aliases": [
+            "counting-4",
+            "four"
+        ],
+        "tags": [
+            "Math"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.8.95"
+    },
+    {
         "id": "A7147BE3-0B04-4B61-94F3-48B0D9C5551E",
         "name": "tangram",
         "codepoint": "F04F8",
