@@ -33864,6 +33864,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "2F76CF21-B111-4B8D-A09A-6B6B98366375",
+        "name": "filter-settings",
+        "codepoint": "F1AA5",
+        "aliases": [],
+        "tags": [],
+        "author": "Simran",
+        "version": "6.8.95"
+    },
+    {
         "id": "AECECEA4-9E56-4B4B-ACD6-2C85AB09788A",
         "name": "filter-variant",
         "codepoint": "F0236",
