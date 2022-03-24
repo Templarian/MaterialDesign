@@ -38010,7 +38010,9 @@
         "id": "9AFD97C2-4B94-49EB-8D08-E2802D6FC377",
         "name": "forum-plus-outline",
         "codepoint": "F1AAC",
-        "aliases": [],
+        "aliases": [
+            "chat-plus-outline"
+        ],
         "tags": [],
         "author": "nlsve",
         "version": "6.8.95"
