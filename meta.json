@@ -31883,6 +31883,22 @@
         "version": "6.8.95"
     },
     {
+        "id": "8D429186-1CB7-4DC1-AD90-43F2F41AF424",
+        "name": "file-arrow-up-down",
+        "codepoint": "F1A95",
+        "aliases": [
+            "file-exchange",
+            "file-swap",
+            "file-transfer",
+            "file-upload-download"
+        ],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "1B650467-2000-4A2D-B16D-9BD8A8F32B85",
         "name": "file-cabinet",
         "codepoint": "F0AB6",
