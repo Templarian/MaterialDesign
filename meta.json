@@ -38036,7 +38036,9 @@
         "id": "D58EAFB0-F7C3-4541-A585-43F80F273833",
         "name": "forum-remove-outline",
         "codepoint": "F1AAE",
-        "aliases": [],
+        "aliases": [
+            "forum-delete-outline"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "6.8.95"
