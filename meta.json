@@ -63585,6 +63585,15 @@
         "version": "6.8.95"
     },
     {
+        "id": "A00CFDF9-821F-4F98-9767-22163517ED0F",
+        "name": "rolodex-outline",
+        "codepoint": "F1ABA",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.8.95"
+    },
+    {
         "id": "7E900912-C3AE-4D82-BCF0-1162ACC7EB15",
         "name": "roman-numeral-1",
         "codepoint": "F1088",
