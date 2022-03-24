@@ -13524,6 +13524,19 @@
         "version": "6.8.95"
     },
     {
+        "id": "8C3B52BE-A1AC-4D59-B88C-D50B6C088827",
+        "name": "briefcase-arrow-up-down-outline",
+        "codepoint": "F1A90",
+        "aliases": [
+            "briefcase-exchange-outline",
+            "briefcase-transfer-outline",
+            "briefcase-swap-outline"
+        ],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.8.95"
+    },
+    {
         "id": "4182182E-F79B-4153-B652-2A4B4AC231E1",
         "name": "briefcase-check",
         "codepoint": "F00D7",
