@@ -33730,7 +33730,8 @@
         "name": "filter-cog-outline",
         "codepoint": "F1AA4",
         "aliases": [
-            "filter-settings-outline"
+            "filter-settings-outline",
+            "filter-gear-outline"
         ],
         "tags": [],
         "author": "Simran",
