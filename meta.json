@@ -17705,6 +17705,22 @@
         "version": "5.4.55"
     },
     {
+        "id": "D9D0A7DF-0450-4F67-9F50-D46733A1DF3B",
+        "name": "cash-clock",
+        "codepoint": "F1A91",
+        "aliases": [
+            "cash-schedule",
+            "payment-schedule",
+            "payment-clock",
+            "auto-pay"
+        ],
+        "tags": [
+            "Banking"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.8.95"
+    },
+    {
         "id": "A10E9739-AA80-4671-B744-ECB9934BB7E4",
         "name": "cash-fast",
         "codepoint": "F185C",
