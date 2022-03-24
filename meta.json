@@ -44352,6 +44352,20 @@
         "version": "6.8.95"
     },
     {
+        "id": "1F5591F3-542A-4369-9F1B-721E54C513B2",
+        "name": "image-lock-outline",
+        "codepoint": "F1AB1",
+        "aliases": [
+            "image-secure-outline"
+        ],
+        "tags": [
+            "Photography",
+            "Lock"
+        ],
+        "author": "Simran",
+        "version": "6.8.95"
+    },
+    {
         "id": "39EFA2D6-FC32-491C-8ABE-384AA47B94D3",
         "name": "image-marker",
         "codepoint": "F177B",
