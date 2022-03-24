@@ -31899,6 +31899,22 @@
         "version": "6.8.95"
     },
     {
+        "id": "4D08B9C5-576C-430B-9319-597190ABA71D",
+        "name": "file-arrow-up-down-outline",
+        "codepoint": "F1A96",
+        "aliases": [
+            "file-exchange-outline",
+            "file-swap-outline",
+            "file-transfer-outline",
+            "file-upload-download-outline"
+        ],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "1B650467-2000-4A2D-B16D-9BD8A8F32B85",
         "name": "file-cabinet",
         "codepoint": "F0AB6",
