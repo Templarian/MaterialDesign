@@ -68829,7 +68829,9 @@
         "name": "sort-variant-off",
         "codepoint": "F1ABB",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.8.95"
     },
