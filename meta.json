@@ -32378,6 +32378,19 @@
         "version": "6.8.95"
     },
     {
+        "id": "E5F73E5B-9876-469A-B992-EC6DA553DE1B",
+        "name": "file-document-remove",
+        "codepoint": "F1A9F",
+        "aliases": [
+            "file-document-delete"
+        ],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Simran",
+        "version": "6.8.95"
+    },
+    {
         "id": "305DC085-34BD-4CC1-8943-E8A3B64FD110",
         "name": "file-download",
         "codepoint": "F0965",
