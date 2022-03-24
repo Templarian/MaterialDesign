@@ -32247,6 +32247,19 @@
         "version": "6.8.95"
     },
     {
+        "id": "F51E0270-13FD-4DA5-945B-FE8C4C45AF60",
+        "name": "file-document-check",
+        "codepoint": "F1A99",
+        "aliases": [
+            "file-document-tick"
+        ],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Simran",
+        "version": "6.8.95"
+    },
+    {
         "id": "83E06672-D36B-41FF-8463-080EB639F00F",
         "name": "file-document-edit",
         "codepoint": "F0DC8",
