@@ -32312,6 +32312,17 @@
         "version": "6.8.95"
     },
     {
+        "id": "17759ECD-FE1E-446F-96C1-ED8C0F5EA783",
+        "name": "file-document-minus-outline",
+        "codepoint": "F1A9C",
+        "aliases": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Simran",
+        "version": "6.8.95"
+    },
+    {
         "id": "05A5AF1D-055E-4FBB-BDD4-D20F3EF105DC",
         "name": "file-document-multiple",
         "codepoint": "F1517",
