@@ -46114,6 +46114,17 @@
         "version": "6.8.95"
     },
     {
+        "id": "9D236600-B0B0-41E8-9F93-91F0E97B3C81",
+        "name": "land-plots-circle",
+        "codepoint": "F1AB4",
+        "aliases": [],
+        "tags": [
+            "Agriculture"
+        ],
+        "author": "Jeff Anders",
+        "version": "6.8.95"
+    },
+    {
         "id": "AD048AA5-6C71-49DF-B5B2-427F634C3538",
         "name": "landslide",
         "codepoint": "F1A48",
