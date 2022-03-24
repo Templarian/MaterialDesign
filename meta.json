@@ -37968,7 +37968,9 @@
         "id": "7FA0128C-C4DF-413B-9D6A-070344D26FFD",
         "name": "forum-minus",
         "codepoint": "F1AA9",
-        "aliases": [],
+        "aliases": [
+            "chat-minus"
+        ],
         "tags": [],
         "author": "nlsve",
         "version": "6.8.95"
