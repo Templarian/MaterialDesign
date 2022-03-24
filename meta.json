@@ -44338,6 +44338,20 @@
         "version": "3.6.95"
     },
     {
+        "id": "77796DB4-93FF-45E6-AC26-AE74713E6758",
+        "name": "image-lock",
+        "codepoint": "F1AB0",
+        "aliases": [
+            "image-secure"
+        ],
+        "tags": [
+            "Lock",
+            "Photography"
+        ],
+        "author": "Simran",
+        "version": "6.8.95"
+    },
+    {
         "id": "39EFA2D6-FC32-491C-8ABE-384AA47B94D3",
         "name": "image-marker",
         "codepoint": "F177B",
