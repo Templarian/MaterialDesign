@@ -32234,6 +32234,19 @@
         "version": "6.8.95"
     },
     {
+        "id": "CF5F798F-BB0B-4F5A-98C4-3CFADF57BAA3",
+        "name": "file-document-alert-outline",
+        "codepoint": "F1A98",
+        "aliases": [
+            "file-document-error-outline"
+        ],
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Simran",
+        "version": "6.8.95"
+    },
+    {
         "id": "83E06672-D36B-41FF-8463-080EB639F00F",
         "name": "file-document-edit",
         "codepoint": "F0DC8",
