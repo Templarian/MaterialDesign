@@ -37969,7 +37969,8 @@
         "name": "forum-minus",
         "codepoint": "F1AA9",
         "aliases": [
-            "chat-minus"
+            "chat-minus",
+            "forum-subtract"
         ],
         "tags": [],
         "author": "nlsve",
