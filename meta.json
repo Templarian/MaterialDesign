@@ -58034,7 +58034,9 @@
         "id": "F5C5B903-7160-4B46-AC15-28C965289469",
         "name": "pencil-circle",
         "codepoint": "F06FF",
-        "aliases": [],
+        "aliases": [
+            "edit-circle"
+        ],
         "tags": [
             "Drawing \/ Art"
         ],
