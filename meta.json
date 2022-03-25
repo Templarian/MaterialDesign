@@ -74397,6 +74397,15 @@
         "version": "6.8.95"
     },
     {
+        "id": "F36D3C1A-6148-491D-AED6-B6F1883229BD",
+        "name": "timer-cancel-outline",
+        "codepoint": "F1ACF",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "94B9E2FB-1589-418F-A128-C071B10B10EB",
         "name": "timer-cog",
         "codepoint": "F1925",
