@@ -57534,7 +57534,9 @@
         "id": "9D2D90D0-260E-4465-817D-875B741B62F3",
         "name": "paperclip-minus",
         "codepoint": "F1AC7",
-        "aliases": [],
+        "aliases": [
+            "paperclip-subtract"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
