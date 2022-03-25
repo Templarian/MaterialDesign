@@ -74608,7 +74608,8 @@
         "name": "timer-lock-outline",
         "codepoint": "F1AD7",
         "aliases": [
-            "stopwatch-lock-outline"
+            "stopwatch-lock-outline",
+            "stopwatch-secure-outline"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
