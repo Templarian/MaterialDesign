@@ -74595,6 +74595,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "3BF45E47-3FE7-43FE-AE4B-FFD605289C60",
+        "name": "timer-pause",
+        "codepoint": "F1ADE",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "64EFBA89-F8CB-4193-8656-A83CCBC66A76",
         "name": "timer-sand",
         "codepoint": "F051F",
