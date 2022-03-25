@@ -74649,7 +74649,8 @@
         "name": "timer-marker-outline",
         "codepoint": "F1AD9",
         "aliases": [
-            "stopwatch-marker-outline"
+            "stopwatch-marker-outline",
+            "timer-location-outline"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
