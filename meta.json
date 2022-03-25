@@ -74635,7 +74635,8 @@
         "codepoint": "F1AD8",
         "aliases": [
             "stopwatch-marker",
-            "timer-location"
+            "timer-location",
+            "stopwatch-location"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
