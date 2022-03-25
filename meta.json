@@ -74924,7 +74924,9 @@
         "id": "EEC275B0-442C-4C00-A1AE-662EF4477A13",
         "name": "timer-star",
         "codepoint": "F1AE8",
-        "aliases": [],
+        "aliases": [
+            "timer-favorite"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
