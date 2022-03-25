@@ -74814,7 +74814,9 @@
         "id": "406B38E4-1E8C-4493-A1DF-804BB1FCD620",
         "name": "timer-refresh-outline",
         "codepoint": "F1AE5",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-refresh-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
