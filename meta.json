@@ -67738,7 +67738,8 @@
         "name": "ski-cross-country",
         "codepoint": "F1305",
         "aliases": [
-            "nordic-walking"
+            "nordic-walking",
+            "human-ski-cross-country"
         ],
         "tags": [
             "Sport"
