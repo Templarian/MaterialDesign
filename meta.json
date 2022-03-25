@@ -12049,7 +12049,8 @@
         "name": "book-clock-outline",
         "codepoint": "F1689",
         "aliases": [
-            "book-schedule"
+            "book-schedule",
+            "book-time"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
