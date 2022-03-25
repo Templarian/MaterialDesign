@@ -28930,7 +28930,9 @@
         "name": "ear-hearing-loop",
         "codepoint": "F1AEE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.8.95"
     },
