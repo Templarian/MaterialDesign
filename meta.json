@@ -57554,7 +57554,9 @@
         "id": "3AC39192-3F6B-4BCB-9F13-110C362619FA",
         "name": "paperclip-plus",
         "codepoint": "F1AC9",
-        "aliases": [],
+        "aliases": [
+            "paperclip-add"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
