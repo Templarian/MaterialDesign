@@ -41319,7 +41319,8 @@
         "name": "handball",
         "codepoint": "F0F53",
         "aliases": [
-            "volleyball"
+            "volleyball",
+            "human-handball"
         ],
         "tags": [
             "Sport"
