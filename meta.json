@@ -12204,7 +12204,9 @@
         "id": "2E088838-572B-45AC-B250-1C86900B787E",
         "name": "book-lock-outline",
         "codepoint": "F168F",
-        "aliases": [],
+        "aliases": [
+            "book-secure-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
