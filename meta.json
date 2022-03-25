@@ -12074,7 +12074,9 @@
         "id": "B63BFA22-6A8E-48FD-8BDB-E82BB550411D",
         "name": "book-cog-outline",
         "codepoint": "F168B",
-        "aliases": [],
+        "aliases": [
+            "book-settings-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
