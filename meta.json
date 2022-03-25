@@ -57555,7 +57555,8 @@
         "name": "paperclip-plus",
         "codepoint": "F1AC9",
         "aliases": [
-            "paperclip-add"
+            "paperclip-add",
+            "attachment-plus"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
