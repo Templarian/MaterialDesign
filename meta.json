@@ -74790,6 +74790,15 @@
         "version": "6.8.95"
     },
     {
+        "id": "8D48AE22-A80B-4DFA-9F37-01C48E8D42DD",
+        "name": "timer-stop",
+        "codepoint": "F1AEA",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "F06ED6E0-0EB1-4B39-8E85-1A82A273F473",
         "name": "timetable",
         "codepoint": "F0520",
