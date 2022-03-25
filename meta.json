@@ -74781,7 +74781,8 @@
         "name": "timer-play-outline",
         "codepoint": "F1AE1",
         "aliases": [
-            "timer-start-outline"
+            "timer-start-outline",
+            "stopwatch-play-outline"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
