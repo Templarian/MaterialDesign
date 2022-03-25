@@ -74819,7 +74819,8 @@
         "name": "timer-plus-outline",
         "codepoint": "F1AE3",
         "aliases": [
-            "timer-add-outline"
+            "timer-add-outline",
+            "stopwatch-plus-outline"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
