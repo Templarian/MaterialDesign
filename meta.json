@@ -50023,7 +50023,9 @@
         "id": "B68AA118-B8B5-4A2A-BCA2-A12C8C119319",
         "name": "meditation",
         "codepoint": "F117B",
-        "aliases": [],
+        "aliases": [
+            "human-meditation"
+        ],
         "tags": [
             "Sport"
         ],
