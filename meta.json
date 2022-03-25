@@ -74770,7 +74770,9 @@
             "stopwatch-play",
             "stopwatch-start"
         ],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
     },
