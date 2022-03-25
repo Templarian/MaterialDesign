@@ -64102,7 +64102,9 @@
         "id": "72F11BA0-1557-4500-8235-2E3F2346FE69",
         "name": "rowing",
         "codepoint": "F0608",
-        "aliases": [],
+        "aliases": [
+            "human-rowing"
+        ],
         "tags": [
             "Sport",
             "Transportation + Water"
