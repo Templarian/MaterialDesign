@@ -12040,7 +12040,8 @@
         "name": "book-clock",
         "codepoint": "F1688",
         "aliases": [
-            "book-schedule"
+            "book-schedule",
+            "book-time"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
