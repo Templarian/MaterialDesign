@@ -53949,7 +53949,8 @@
         "name": "network-pos",
         "codepoint": "F1ACB",
         "aliases": [
-            "network-point-of-sale"
+            "network-point-of-sale",
+            "network-cash-box"
         ],
         "tags": [],
         "author": "emeraldmor",
