@@ -74972,7 +74972,9 @@
         "id": "38A07095-B521-4D7C-8021-FD6CEAD49F10",
         "name": "timer-sync",
         "codepoint": "F1AEC",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-sync"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
