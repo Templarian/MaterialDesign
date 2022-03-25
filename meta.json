@@ -74478,7 +74478,9 @@
         "id": "F36D3C1A-6148-491D-AED6-B6F1883229BD",
         "name": "timer-cancel-outline",
         "codepoint": "F1ACF",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-cancel-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
