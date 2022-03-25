@@ -74780,7 +74780,9 @@
         "id": "0E6F9270-1D27-4E36-9352-0BACC428A548",
         "name": "timer-play-outline",
         "codepoint": "F1AE1",
-        "aliases": [],
+        "aliases": [
+            "timer-start-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
