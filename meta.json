@@ -4698,7 +4698,8 @@
         "name": "alphabetical-off",
         "codepoint": "F100C",
         "aliases": [
-            "letters-off"
+            "letters-off",
+            "abc-off"
         ],
         "tags": [
             "Alpha \/ Numeric"
