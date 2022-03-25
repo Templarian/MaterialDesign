@@ -45286,7 +45286,9 @@
         "id": "21C7383B-5839-4F3E-A4EC-81A9980F531B",
         "name": "kayaking",
         "codepoint": "F08AF",
-        "aliases": [],
+        "aliases": [
+            "human-kayaking"
+        ],
         "tags": [
             "Sport"
         ],
