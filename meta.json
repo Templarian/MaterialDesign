@@ -74679,7 +74679,8 @@
         "name": "timer-minus-outline",
         "codepoint": "F1ADB",
         "aliases": [
-            "timer-subtract-outline"
+            "timer-subtract-outline",
+            "stopwatch-minus-outline"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
