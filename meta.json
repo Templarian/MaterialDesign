@@ -4697,7 +4697,9 @@
         "id": "5C6F0A6B-362A-4EBF-9E0C-57E7405429AE",
         "name": "alphabetical-off",
         "codepoint": "F100C",
-        "aliases": [],
+        "aliases": [
+            "letters-off"
+        ],
         "tags": [
             "Alpha \/ Numeric"
         ],
