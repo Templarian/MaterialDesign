@@ -8021,7 +8021,9 @@
         "id": "B9845DE1-0804-459F-8333-A741EEDACC29",
         "name": "attachment-off",
         "codepoint": "F1AC3",
-        "aliases": [],
+        "aliases": [
+            "paperclip-off"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
