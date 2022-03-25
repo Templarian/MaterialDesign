@@ -64265,6 +64265,15 @@
         "version": "3.7.94"
     },
     {
+        "id": "BEF26F95-E584-4585-BBD7-3766740FBEBD",
+        "name": "sail-boat-sink",
+        "codepoint": "F1AEF",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.8.95"
+    },
+    {
         "id": "688543EC-EC01-474C-883C-C2EA2EDE75BF",
         "name": "sale",
         "codepoint": "F046F",
