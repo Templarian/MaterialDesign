@@ -58316,7 +58316,8 @@
         "name": "percent-outline",
         "codepoint": "F1278",
         "aliases": [
-            "discount-outline"
+            "discount-outline",
+            "sale-outline"
         ],
         "tags": [
             "Math",
