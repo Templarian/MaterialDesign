@@ -8034,7 +8034,8 @@
         "codepoint": "F1AC4",
         "aliases": [
             "paperclip-plus",
-            "paperclip-add"
+            "paperclip-add",
+            "attachment-add"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
