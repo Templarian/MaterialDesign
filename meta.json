@@ -74678,7 +74678,9 @@
         "id": "4F6F9FA4-0D4F-4543-95D4-9FF0AA8678BE",
         "name": "timer-minus-outline",
         "codepoint": "F1ADB",
-        "aliases": [],
+        "aliases": [
+            "timer-subtract-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
