@@ -27948,7 +27948,8 @@
         "name": "diving",
         "codepoint": "F1977",
         "aliases": [
-            "swim-dive"
+            "swim-dive",
+            "human-diving"
         ],
         "tags": [
             "Sport"
