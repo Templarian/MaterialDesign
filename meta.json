@@ -67724,7 +67724,9 @@
         "id": "197B0D1A-34DB-4FD7-825B-FFE5C28297BB",
         "name": "ski",
         "codepoint": "F1304",
-        "aliases": [],
+        "aliases": [
+            "human-ski"
+        ],
         "tags": [
             "Sport"
         ],
