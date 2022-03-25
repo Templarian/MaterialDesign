@@ -42485,7 +42485,9 @@
         "id": "DA3D64F2-C874-420A-917A-0F66C9854D84",
         "name": "hiking",
         "codepoint": "F0D7F",
-        "aliases": [],
+        "aliases": [
+            "human-hiking"
+        ],
         "tags": [
             "Sport"
         ],
