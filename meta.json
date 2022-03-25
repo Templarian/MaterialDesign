@@ -12048,7 +12048,9 @@
         "id": "EFEC2FA7-18B1-4753-88C4-E2531FA96DD5",
         "name": "book-clock-outline",
         "codepoint": "F1689",
-        "aliases": [],
+        "aliases": [
+            "book-schedule"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
