@@ -74406,6 +74406,15 @@
         "version": "6.8.95"
     },
     {
+        "id": "C9193A95-3EFC-420B-A97A-2B688BE03647",
+        "name": "timer-check",
+        "codepoint": "F1AD0",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "94B9E2FB-1589-418F-A128-C071B10B10EB",
         "name": "timer-cog",
         "codepoint": "F1925",
