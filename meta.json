@@ -74540,6 +74540,15 @@
         "version": "6.8.95"
     },
     {
+        "id": "2BE4E342-BEAB-4B48-8CE5-E1B83D86E0D7",
+        "name": "timer-music",
+        "codepoint": "F1ADC",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "CC698648-1A71-4EC8-A1E3-B5ACC42F2FDB",
         "name": "timer-off",
         "codepoint": "F13AC",
