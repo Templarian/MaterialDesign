@@ -74459,6 +74459,15 @@
         "version": "6.8.95"
     },
     {
+        "id": "D16F03BE-957E-44F1-AD89-C18C340311BD",
+        "name": "timer-edit-outline",
+        "codepoint": "F1AD3",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "CC698648-1A71-4EC8-A1E3-B5ACC42F2FDB",
         "name": "timer-off",
         "codepoint": "F13AC",
