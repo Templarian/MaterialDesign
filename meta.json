@@ -57536,7 +57536,8 @@
         "codepoint": "F1AC7",
         "aliases": [
             "paperclip-subtract",
-            "attachment-minus"
+            "attachment-minus",
+            "attachment-subtract"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
