@@ -58047,7 +58047,9 @@
         "id": "5D68DE43-969F-40BE-8A2D-F5C25F2B0853",
         "name": "pencil-circle-outline",
         "codepoint": "F0776",
-        "aliases": [],
+        "aliases": [
+            "edit-circle-outline"
+        ],
         "tags": [
             "Drawing \/ Art"
         ],
