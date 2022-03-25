@@ -74694,7 +74694,9 @@
         "id": "CAEA0928-8B03-4139-B58F-DAD1865FDC12",
         "name": "timer-music-outline",
         "codepoint": "F1ADD",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-music-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
