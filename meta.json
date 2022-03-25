@@ -8032,7 +8032,9 @@
         "id": "F0017157-A798-401D-9B19-464C1BB25EA4",
         "name": "attachment-plus",
         "codepoint": "F1AC4",
-        "aliases": [],
+        "aliases": [
+            "paperclip-plus"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
