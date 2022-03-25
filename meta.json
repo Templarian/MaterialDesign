@@ -74607,7 +74607,8 @@
             "stopwatch-lock-open-outline"
         ],
         "tags": [
-            "Date \/ Time"
+            "Date \/ Time",
+            "Lock"
         ],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
