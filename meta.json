@@ -57986,7 +57986,9 @@
         "id": "56CC04F4-4E58-434D-962A-C824F5959D20",
         "name": "pencil-box",
         "codepoint": "F03EC",
-        "aliases": [],
+        "aliases": [
+            "edit-box"
+        ],
         "tags": [
             "Drawing \/ Art"
         ],
