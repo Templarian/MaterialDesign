@@ -57515,7 +57515,8 @@
         "name": "paperclip-check",
         "codepoint": "F1AC6",
         "aliases": [
-            "paperclip-tick"
+            "paperclip-tick",
+            "attachment-check"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
