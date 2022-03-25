@@ -74465,7 +74465,9 @@
         "id": "B155A30F-D5A6-4981-A072-B565DA53872D",
         "name": "timer-cancel",
         "codepoint": "F1ACE",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-cancel"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
