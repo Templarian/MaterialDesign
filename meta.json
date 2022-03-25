@@ -67751,7 +67751,9 @@
         "id": "51D8DB1F-FA7C-4527-AD8E-495024CD4E2D",
         "name": "ski-water",
         "codepoint": "F1306",
-        "aliases": [],
+        "aliases": [
+            "human-ski-water"
+        ],
         "tags": [
             "Sport"
         ],
