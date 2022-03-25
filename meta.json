@@ -74547,7 +74547,9 @@
         "id": "046D48AE-58AE-472A-826A-F13F4859C0A3",
         "name": "timer-edit",
         "codepoint": "F1AD2",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-edit"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
