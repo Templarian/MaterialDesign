@@ -57497,6 +57497,15 @@
         "version": "6.6.95"
     },
     {
+        "id": "9D2D90D0-260E-4465-817D-875B741B62F3",
+        "name": "paperclip-minus",
+        "codepoint": "F1AC7",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "47070C5A-B989-49C6-A635-3B764DC112CB",
         "name": "parachute",
         "codepoint": "F0CB4",
