@@ -74574,7 +74574,8 @@
         "name": "timer-lock",
         "codepoint": "F1AD4",
         "aliases": [
-            "stopwatch-lock"
+            "stopwatch-lock",
+            "timer-secure"
         ],
         "tags": [
             "Date \/ Time"
