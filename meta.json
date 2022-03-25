@@ -74982,7 +74982,9 @@
         "id": "8D48AE22-A80B-4DFA-9F37-01C48E8D42DD",
         "name": "timer-stop",
         "codepoint": "F1AEA",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-stop"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
