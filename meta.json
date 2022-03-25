@@ -74613,6 +74613,15 @@
         "version": "6.8.95"
     },
     {
+        "id": "81E15BC1-262E-435E-82BD-C4342A92D6E1",
+        "name": "timer-play",
+        "codepoint": "F1AE0",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "64EFBA89-F8CB-4193-8656-A83CCBC66A76",
         "name": "timer-sand",
         "codepoint": "F051F",
