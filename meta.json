@@ -8014,7 +8014,8 @@
         "codepoint": "F1AC2",
         "aliases": [
             "paperclip-minus",
-            "paperclip-subtract"
+            "paperclip-subtract",
+            "attachment-subtract"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
