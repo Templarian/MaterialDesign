@@ -4713,7 +4713,8 @@
         "name": "alphabetical-variant",
         "codepoint": "F100D",
         "aliases": [
-            "letters"
+            "letters",
+            "abc"
         ],
         "tags": [
             "Alpha \/ Numeric"
