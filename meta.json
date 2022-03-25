@@ -74437,7 +74437,9 @@
         "id": "7A645EAB-94F5-49FA-8A73-D9D1045D3B34",
         "name": "timer-alert",
         "codepoint": "F1ACC",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-alert"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
