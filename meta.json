@@ -46918,7 +46918,8 @@
         "name": "lecturn",
         "codepoint": "F1AF0",
         "aliases": [
-            "podium"
+            "podium",
+            "dais"
         ],
         "tags": [],
         "author": "Michael Irigoyen",
