@@ -74817,6 +74817,15 @@
         "version": "6.8.95"
     },
     {
+        "id": "D5BE4AB4-3E09-4D9C-9329-C32E34796677",
+        "name": "timer-sync-outline",
+        "codepoint": "F1AED",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "F06ED6E0-0EB1-4B39-8E85-1A82A273F473",
         "name": "timetable",
         "codepoint": "F0520",
