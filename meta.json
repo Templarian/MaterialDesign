@@ -74760,7 +74760,9 @@
         "id": "7C566FCC-EC47-409A-8E7B-5769C82CEF01",
         "name": "timer-pause-outline",
         "codepoint": "F1ADF",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-pause-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
