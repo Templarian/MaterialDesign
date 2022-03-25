@@ -28910,6 +28910,15 @@
         "version": "2.0.46"
     },
     {
+        "id": "E95219F9-AA02-4031-940F-D76757183F96",
+        "name": "ear-hearing-loop",
+        "codepoint": "F1AEE",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.8.95"
+    },
+    {
         "id": "78ACE34A-8AC2-4259-AD8D-1118A11C6800",
         "name": "ear-hearing-off",
         "codepoint": "F0A45",
