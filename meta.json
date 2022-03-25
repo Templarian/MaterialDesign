@@ -74664,7 +74664,8 @@
         "name": "timer-minus",
         "codepoint": "F1ADA",
         "aliases": [
-            "timer-subtract"
+            "timer-subtract",
+            "stopwatch-minus"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
