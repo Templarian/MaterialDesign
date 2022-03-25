@@ -74939,7 +74939,9 @@
         "id": "8C07F7EA-8924-43A8-91E2-55A7D0DAE7AF",
         "name": "timer-star-outline",
         "codepoint": "F1AE9",
-        "aliases": [],
+        "aliases": [
+            "timer-favorite-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
