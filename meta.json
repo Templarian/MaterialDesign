@@ -74504,6 +74504,15 @@
         "version": "6.8.95"
     },
     {
+        "id": "821CEDA0-CD59-45AF-BF1A-EE56399BC374",
+        "name": "timer-marker",
+        "codepoint": "F1AD8",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "CC698648-1A71-4EC8-A1E3-B5ACC42F2FDB",
         "name": "timer-off",
         "codepoint": "F13AC",
