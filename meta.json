@@ -74648,7 +74648,9 @@
         "id": "D31E92C3-4D5C-4029-9D91-0C41DDFDB164",
         "name": "timer-marker-outline",
         "codepoint": "F1AD9",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-marker-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
