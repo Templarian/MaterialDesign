@@ -74491,7 +74491,9 @@
         "id": "C9193A95-3EFC-420B-A97A-2B688BE03647",
         "name": "timer-check",
         "codepoint": "F1AD0",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-check"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
