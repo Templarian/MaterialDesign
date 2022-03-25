@@ -74451,7 +74451,9 @@
         "id": "4F3E2A6F-20C4-4EB4-8086-C8A7D1B55283",
         "name": "timer-alert-outline",
         "codepoint": "F1ACD",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-alert-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
