@@ -74801,7 +74801,9 @@
         "id": "131A1665-D2D6-4C5B-B30B-DBDD097EA773",
         "name": "timer-refresh",
         "codepoint": "F1AE4",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-refresh"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
