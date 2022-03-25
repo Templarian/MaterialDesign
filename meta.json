@@ -4712,7 +4712,9 @@
         "id": "87F9C7D3-2B22-45A0-A1A8-1060ECA2B0DD",
         "name": "alphabetical-variant",
         "codepoint": "F100D",
-        "aliases": [],
+        "aliases": [
+            "letters"
+        ],
         "tags": [
             "Alpha \/ Numeric"
         ],
