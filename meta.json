@@ -74663,7 +74663,9 @@
         "id": "B6BD7263-1491-4D66-9847-D9E7F1B78967",
         "name": "timer-minus",
         "codepoint": "F1ADA",
-        "aliases": [],
+        "aliases": [
+            "timer-subtract"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
