@@ -74573,7 +74573,9 @@
         "id": "E2B4F7F7-FF17-4CCE-A1C7-BD677E2F32D5",
         "name": "timer-lock",
         "codepoint": "F1AD4",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-lock"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
