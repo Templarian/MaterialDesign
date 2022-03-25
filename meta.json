@@ -4727,7 +4727,9 @@
         "id": "5C408382-5124-4A1E-9603-C510614D4C63",
         "name": "alphabetical-variant-off",
         "codepoint": "F100E",
-        "aliases": [],
+        "aliases": [
+            "letters-off"
+        ],
         "tags": [
             "Alpha \/ Numeric"
         ],
