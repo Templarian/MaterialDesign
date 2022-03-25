@@ -74507,7 +74507,8 @@
         "name": "timer-check-outline",
         "codepoint": "F1AD1",
         "aliases": [
-            "timer-tick-outline"
+            "timer-tick-outline",
+            "stopwatch-check-outline"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
