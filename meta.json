@@ -74603,7 +74603,9 @@
         "id": "2972C8F4-C75F-4AF0-AE70-2FFEBE34461E",
         "name": "timer-lock-open-outline",
         "codepoint": "F1AD6",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-lock-open-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
