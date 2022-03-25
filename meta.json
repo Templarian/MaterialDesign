@@ -74665,7 +74665,8 @@
         "codepoint": "F1ADA",
         "aliases": [
             "timer-subtract",
-            "stopwatch-minus"
+            "stopwatch-minus",
+            "stopwatch-subtract"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
