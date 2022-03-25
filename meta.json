@@ -57477,6 +57477,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "8B0FAA58-E315-4474-B9B0-E7E10CBC9542",
+        "name": "paperclip-check",
+        "codepoint": "F1AC6",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "3A005420-791A-45DA-A903-EED63E35C1C6",
         "name": "paperclip-lock",
         "codepoint": "F19DA",
