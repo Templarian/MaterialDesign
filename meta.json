@@ -67685,7 +67685,9 @@
         "id": "47F1C290-ED78-4459-B33C-6E2ACC867CC6",
         "name": "skateboarding",
         "codepoint": "F0501",
-        "aliases": [],
+        "aliases": [
+            "human-skateboarding"
+        ],
         "tags": [
             "Sport"
         ],
