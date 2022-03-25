@@ -53948,7 +53948,9 @@
         "id": "D9BB8F7B-1014-42A4-BBC3-3ED704847943",
         "name": "network-pos",
         "codepoint": "F1ACB",
-        "aliases": [],
+        "aliases": [
+            "network-point-of-sale"
+        ],
         "tags": [],
         "author": "emeraldmor",
         "version": "6.8.95"
