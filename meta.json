@@ -8049,7 +8049,9 @@
         "id": "E6D6388D-6764-49ED-8DA7-6F4D27646237",
         "name": "attachment-remove",
         "codepoint": "F1AC5",
-        "aliases": [],
+        "aliases": [
+            "paperclip-remove"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
