@@ -12039,7 +12039,9 @@
         "id": "97CCD006-4DE0-4AEE-BB95-D9EBCCDE8012",
         "name": "book-clock",
         "codepoint": "F1688",
-        "aliases": [],
+        "aliases": [
+            "book-schedule"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
