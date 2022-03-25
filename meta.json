@@ -74985,7 +74985,9 @@
         "id": "D5BE4AB4-3E09-4D9C-9329-C32E34796677",
         "name": "timer-sync-outline",
         "codepoint": "F1AED",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-sync-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
