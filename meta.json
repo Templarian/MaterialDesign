@@ -12063,7 +12063,9 @@
         "id": "36C20B8A-AA61-49D5-9500-16917BBDF388",
         "name": "book-cog",
         "codepoint": "F168A",
-        "aliases": [],
+        "aliases": [
+            "book-settings"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
