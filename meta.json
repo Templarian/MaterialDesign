@@ -57514,7 +57514,9 @@
         "id": "8B0FAA58-E315-4474-B9B0-E7E10CBC9542",
         "name": "paperclip-check",
         "codepoint": "F1AC6",
-        "aliases": [],
+        "aliases": [
+            "paperclip-tick"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
