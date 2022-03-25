@@ -8033,7 +8033,8 @@
         "name": "attachment-plus",
         "codepoint": "F1AC4",
         "aliases": [
-            "paperclip-plus"
+            "paperclip-plus",
+            "paperclip-add"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
