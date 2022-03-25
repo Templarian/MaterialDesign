@@ -8013,7 +8013,8 @@
         "name": "attachment-minus",
         "codepoint": "F1AC2",
         "aliases": [
-            "paperclip-minus"
+            "paperclip-minus",
+            "paperclip-subtract"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
