@@ -8009,6 +8009,15 @@
         "version": "6.6.95"
     },
     {
+        "id": "2FE2F795-05F3-416B-8B74-ABC795E644EF",
+        "name": "attachment-minus",
+        "codepoint": "F1AC2",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "2CB292B6-3835-44B4-857B-5231B87B5968",
         "name": "audio-input-rca",
         "codepoint": "F186B",
