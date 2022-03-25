@@ -68386,7 +68386,9 @@
         "id": "C2A03E16-166E-4FAA-A5DB-462CE38C44FE",
         "name": "snowboard",
         "codepoint": "F1307",
-        "aliases": [],
+        "aliases": [
+            "human-snowboard"
+        ],
         "tags": [
             "Sport"
         ],
