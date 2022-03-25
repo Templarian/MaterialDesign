@@ -74633,7 +74633,9 @@
         "id": "821CEDA0-CD59-45AF-BF1A-EE56399BC374",
         "name": "timer-marker",
         "codepoint": "F1AD8",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-marker"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
