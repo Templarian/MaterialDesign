@@ -74871,7 +74871,9 @@
         "id": "558B0DE6-0A7D-4BC6-ACAD-EB52A8B58A86",
         "name": "timer-remove",
         "codepoint": "F1AE6",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-remove"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
