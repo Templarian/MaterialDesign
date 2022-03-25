@@ -64214,7 +64214,8 @@
         "name": "run-fast",
         "codepoint": "F046E",
         "aliases": [
-            "velocity"
+            "velocity",
+            "human-run-fast"
         ],
         "tags": [
             "Home Automation",
