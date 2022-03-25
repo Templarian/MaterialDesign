@@ -74560,7 +74560,9 @@
         "id": "D16F03BE-957E-44F1-AD89-C18C340311BD",
         "name": "timer-edit-outline",
         "codepoint": "F1AD3",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-edit-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
