@@ -74379,6 +74379,15 @@
         "version": "6.8.95"
     },
     {
+        "id": "4F3E2A6F-20C4-4EB4-8086-C8A7D1B55283",
+        "name": "timer-alert-outline",
+        "codepoint": "F1ACD",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "94B9E2FB-1589-418F-A128-C071B10B10EB",
         "name": "timer-cog",
         "codepoint": "F1925",
