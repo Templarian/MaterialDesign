@@ -79424,7 +79424,8 @@
         "aliases": [
             "directions-walk",
             "walker",
-            "walking"
+            "walking",
+            "human-walk"
         ],
         "tags": [
             "Sport",
