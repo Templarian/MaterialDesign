@@ -24,13 +24,13 @@
     "version": {
         "major": 6,
         "minor": 8,
-        "patch": 59
+        "patch": 60
     },
     "date": {
         "year": 2022,
         "month": 2,
         "day": 25,
-        "hour": 1,
-        "minute": 50
+        "hour": 2,
+        "minute": 1
     }
 }

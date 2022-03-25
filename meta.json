@@ -74370,6 +74370,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "7A645EAB-94F5-49FA-8A73-D9D1045D3B34",
+        "name": "timer-alert",
+        "codepoint": "F1ACC",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "94B9E2FB-1589-418F-A128-C071B10B10EB",
         "name": "timer-cog",
         "codepoint": "F1925",
