@@ -74486,6 +74486,15 @@
         "version": "6.8.95"
     },
     {
+        "id": "2972C8F4-C75F-4AF0-AE70-2FFEBE34461E",
+        "name": "timer-lock-open-outline",
+        "codepoint": "F1AD6",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "CC698648-1A71-4EC8-A1E3-B5ACC42F2FDB",
         "name": "timer-off",
         "codepoint": "F13AC",
