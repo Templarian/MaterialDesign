@@ -74925,7 +74925,8 @@
         "name": "timer-star",
         "codepoint": "F1AE8",
         "aliases": [
-            "timer-favorite"
+            "timer-favorite",
+            "stopwatch-star"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
