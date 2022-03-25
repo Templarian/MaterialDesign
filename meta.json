@@ -64309,7 +64309,8 @@
         "name": "sail-boat-sink",
         "codepoint": "F1AEF",
         "aliases": [
-            "sail-boat-crash"
+            "sail-boat-crash",
+            "sail-boat-wreck"
         ],
         "tags": [
             "Transportation + Water"
