@@ -53920,6 +53920,15 @@
         "version": "3.2.89"
     },
     {
+        "id": "D9BB8F7B-1014-42A4-BBC3-3ED704847943",
+        "name": "network-pos",
+        "codepoint": "F1ACB",
+        "aliases": [],
+        "tags": [],
+        "author": "emeraldmor",
+        "version": "6.8.95"
+    },
+    {
         "id": "7AEB6E6A-4B4E-42C3-9AB2-1F47FE1BD29B",
         "name": "network-strength-1",
         "codepoint": "F08F4",
