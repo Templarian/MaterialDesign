@@ -11324,7 +11324,9 @@
         "id": "7E88D677-5560-4DF1-A3D0-FC2814BF6612",
         "name": "biathlon",
         "codepoint": "F0E14",
-        "aliases": [],
+        "aliases": [
+            "human-biathlon"
+        ],
         "tags": [
             "Sport"
         ],
