@@ -64308,7 +64308,9 @@
         "id": "BEF26F95-E584-4585-BBD7-3766740FBEBD",
         "name": "sail-boat-sink",
         "codepoint": "F1AEF",
-        "aliases": [],
+        "aliases": [
+            "sail-boat-crash"
+        ],
         "tags": [
             "Transportation + Water"
         ],
