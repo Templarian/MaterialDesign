@@ -7993,7 +7993,8 @@
         "name": "attachment-check",
         "codepoint": "F1AC1",
         "aliases": [
-            "attachment-tick"
+            "attachment-tick",
+            "paperclip-check"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
