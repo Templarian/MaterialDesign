@@ -74995,7 +74995,9 @@
         "id": "6692667B-8BD3-4234-92CA-F51D796CF521",
         "name": "timer-stop-outline",
         "codepoint": "F1AEB",
-        "aliases": [],
+        "aliases": [
+            "stopwatch-stop-outline"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
