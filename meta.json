@@ -28929,7 +28929,9 @@
         "id": "E95219F9-AA02-4031-940F-D76757183F96",
         "name": "ear-hearing-loop",
         "codepoint": "F1AEE",
-        "aliases": [],
+        "aliases": [
+            "audio-induction-loop"
+        ],
         "tags": [
             "Medical \/ Hospital"
         ],
