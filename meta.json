@@ -57543,7 +57543,9 @@
         "id": "1DA3EF2F-D91E-40AD-B325-FF4E42BF76DD",
         "name": "paperclip-off",
         "codepoint": "F1AC8",
-        "aliases": [],
+        "aliases": [
+            "attachment-off"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
