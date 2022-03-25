@@ -74441,7 +74441,8 @@
             "stopwatch-alert"
         ],
         "tags": [
-            "Date \/ Time"
+            "Date \/ Time",
+            "Alert \/ Error"
         ],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
