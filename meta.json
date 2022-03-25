@@ -74940,7 +74940,8 @@
         "name": "timer-star-outline",
         "codepoint": "F1AE9",
         "aliases": [
-            "timer-favorite-outline"
+            "timer-favorite-outline",
+            "stopwatch-star-outline"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
