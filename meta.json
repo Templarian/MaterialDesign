@@ -8012,7 +8012,9 @@
         "id": "2FE2F795-05F3-416B-8B74-ABC795E644EF",
         "name": "attachment-minus",
         "codepoint": "F1AC2",
-        "aliases": [],
+        "aliases": [
+            "paperclip-minus"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
