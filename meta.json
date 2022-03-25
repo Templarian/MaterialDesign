@@ -74492,7 +74492,8 @@
         "name": "timer-check",
         "codepoint": "F1AD0",
         "aliases": [
-            "stopwatch-check"
+            "stopwatch-check",
+            "timer-tick"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
