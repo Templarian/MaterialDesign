@@ -68029,7 +68029,9 @@
         "id": "E67044BA-8025-4D61-916C-56DF4D6FFE6D",
         "name": "sledding",
         "codepoint": "F041B",
-        "aliases": [],
+        "aliases": [
+            "human-sledding"
+        ],
         "tags": [
             "Sport"
         ],
