@@ -74604,6 +74604,15 @@
         "version": "6.8.95"
     },
     {
+        "id": "7C566FCC-EC47-409A-8E7B-5769C82CEF01",
+        "name": "timer-pause-outline",
+        "codepoint": "F1ADF",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "64EFBA89-F8CB-4193-8656-A83CCBC66A76",
         "name": "timer-sand",
         "codepoint": "F051F",
