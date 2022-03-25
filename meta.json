@@ -7992,7 +7992,9 @@
         "id": "8B6BEB96-8C6B-4271-B87F-A568DF587900",
         "name": "attachment-check",
         "codepoint": "F1AC1",
-        "aliases": [],
+        "aliases": [
+            "attachment-tick"
+        ],
         "tags": [],
         "author": "Colton Wiscombe",
         "version": "6.8.95"
