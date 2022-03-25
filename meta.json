@@ -26137,7 +26137,9 @@
         "id": "82D8E45B-5E04-4094-818B-DE18775F9A91",
         "name": "dance-ballroom",
         "codepoint": "F15FB",
-        "aliases": [],
+        "aliases": [
+            "human-dance-ballroom"
+        ],
         "tags": [],
         "author": "Michael Irigoyen",
         "version": "5.6.55"
