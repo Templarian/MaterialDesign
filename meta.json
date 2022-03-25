@@ -7989,6 +7989,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "8B6BEB96-8C6B-4271-B87F-A568DF587900",
+        "name": "attachment-check",
+        "codepoint": "F1AC1",
+        "aliases": [],
+        "tags": [],
+        "author": "Colton Wiscombe",
+        "version": "6.8.95"
+    },
+    {
         "id": "08E6060D-0A4F-4A3C-867E-192E737972C6",
         "name": "attachment-lock",
         "codepoint": "F19C4",
