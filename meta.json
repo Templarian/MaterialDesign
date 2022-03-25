@@ -74805,7 +74805,8 @@
         "codepoint": "F1AE2",
         "aliases": [
             "timer-add",
-            "stopwatch-plus"
+            "stopwatch-plus",
+            "stopwatch-add"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
