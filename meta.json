@@ -28930,7 +28930,8 @@
         "name": "ear-hearing-loop",
         "codepoint": "F1AEE",
         "aliases": [
-            "audio-induction-loop"
+            "audio-induction-loop",
+            "telecoil"
         ],
         "tags": [
             "Medical \/ Hospital"
