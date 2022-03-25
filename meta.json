@@ -4714,7 +4714,8 @@
         "codepoint": "F100D",
         "aliases": [
             "letters",
-            "abc"
+            "abc",
+            "a-b-c"
         ],
         "tags": [
             "Alpha \/ Numeric"
