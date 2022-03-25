@@ -58315,7 +58315,9 @@
         "id": "0625AC7C-AD52-4221-8F53-A9AE6DAA57BD",
         "name": "percent-outline",
         "codepoint": "F1278",
-        "aliases": [],
+        "aliases": [
+            "discount-outline"
+        ],
         "tags": [],
         "author": "MC\u7684wither\u83cc",
         "version": "4.7.95"
