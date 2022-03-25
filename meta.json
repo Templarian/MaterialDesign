@@ -74493,7 +74493,8 @@
         "codepoint": "F1AD0",
         "aliases": [
             "stopwatch-check",
-            "timer-tick"
+            "timer-tick",
+            "stopwatch-tick"
         ],
         "tags": [],
         "author": "Colton Wiscombe",
