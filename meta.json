@@ -14219,6 +14219,15 @@
         "version": "6.9.96"
     },
     {
+        "id": "7084E94D-43E2-4718-BFF1-B568182C1F65",
+        "name": "bug-play-outline",
+        "codepoint": "F1AF8",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "CBC37A12-44AA-4CA8-976A-F26ED26849D4",
         "name": "bugle",
         "codepoint": "F0DB4",
