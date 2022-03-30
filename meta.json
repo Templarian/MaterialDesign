@@ -39414,6 +39414,15 @@
         "version": "4.4.95"
     },
     {
+        "id": "AC9017C0-F5E5-4AD8-819F-5B540AC12FED",
+        "name": "gate-buffer",
+        "codepoint": "F1AFE",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "FF2BA1EF-7AAE-4271-B799-6A51FE84427E",
         "name": "gate-nand",
         "codepoint": "F08E2",
