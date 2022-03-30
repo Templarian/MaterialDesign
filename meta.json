@@ -14228,6 +14228,15 @@
         "version": "6.9.96"
     },
     {
+        "id": "285762ED-0B89-40E5-92A7-04B8C38E29C8",
+        "name": "bug-stop",
+        "codepoint": "F1AF9",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "CBC37A12-44AA-4CA8-976A-F26ED26849D4",
         "name": "bugle",
         "codepoint": "F0DB4",
