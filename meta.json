@@ -37501,6 +37501,17 @@
         "version": "6.4.95"
     },
     {
+        "id": "5EC5D417-1D27-4B48-A2DD-DC4DDCF96BA3",
+        "name": "format-letter-spacing-variant",
+        "codepoint": "F1AFB",
+        "aliases": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
+        "author": "Sintija",
+        "version": "6.9.96"
+    },
+    {
         "id": "870F391E-A069-461E-9296-904B34308D98",
         "name": "format-letter-starts-with",
         "codepoint": "F0FBA",
