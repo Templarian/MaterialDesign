@@ -37523,6 +37523,17 @@
         "version": "4.0.96"
     },
     {
+        "id": "87E942A2-9A34-4EF0-9025-63CA97919465",
+        "name": "format-line-height",
+        "codepoint": "F1AFC",
+        "aliases": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
+        "author": "Sintija",
+        "version": "6.9.96"
+    },
+    {
         "id": "24F69EED-721D-48A1-BA3C-3C1657B65C04",
         "name": "format-line-spacing",
         "codepoint": "F0278",
