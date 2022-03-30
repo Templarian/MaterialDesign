@@ -13155,6 +13155,19 @@
         "version": "1.5.54"
     },
     {
+        "id": "3BF9D4F8-DD9D-4D5E-A1B4-A1AA22172E47",
+        "name": "border-radius",
+        "codepoint": "F1AF4",
+        "aliases": [
+            "border-round-corners"
+        ],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
+        "author": "Sintija",
+        "version": "6.9.96"
+    },
+    {
         "id": "BC67506B-CAE4-4EDA-B0C8-614436AFDCBF",
         "name": "border-right",
         "codepoint": "F00CF",
