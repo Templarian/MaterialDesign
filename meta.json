@@ -14208,6 +14208,17 @@
         "version": "6.9.96"
     },
     {
+        "id": "2F0E44DF-D6F1-487A-9427-BBAA20E7B43D",
+        "name": "bug-play",
+        "codepoint": "F1AF7",
+        "aliases": [
+            "bug-start"
+        ],
+        "tags": [],
+        "author": "Austin Andrews",
+        "version": "6.9.96"
+    },
+    {
         "id": "CBC37A12-44AA-4CA8-976A-F26ED26849D4",
         "name": "bugle",
         "codepoint": "F0DB4",
