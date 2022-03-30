@@ -14237,6 +14237,15 @@
         "version": "6.9.96"
     },
     {
+        "id": "A88E0967-B37B-4785-AA7F-0D9F95856375",
+        "name": "bug-stop-outline",
+        "codepoint": "F1AFA",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "CBC37A12-44AA-4CA8-976A-F26ED26849D4",
         "name": "bugle",
         "codepoint": "F0DB4",
