@@ -59685,6 +59685,20 @@
         "version": "6.9.96"
     },
     {
+        "id": "F485C550-203A-48D9-BFFC-35400109374C",
+        "name": "plane-train",
+        "codepoint": "F1B00",
+        "aliases": [
+            "airport-shuttle"
+        ],
+        "tags": [
+            "Transportation + Flying",
+            "Transportation + Other"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "90AD6D2A-7986-49D0-8DA5-DC92F9F92A15",
         "name": "play",
         "codepoint": "F040A",
