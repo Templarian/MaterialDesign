@@ -14190,6 +14190,15 @@
         "version": "2.6.95"
     },
     {
+        "id": "49752F69-A574-46AF-A02C-88E6CE5FB41B",
+        "name": "bug-pause",
+        "codepoint": "F1AF5",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "CBC37A12-44AA-4CA8-976A-F26ED26849D4",
         "name": "bugle",
         "codepoint": "F0DB4",
