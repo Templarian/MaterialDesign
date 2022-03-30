@@ -1236,6 +1236,15 @@
         "version": "6.9.96"
     },
     {
+        "id": "F3B94B38-61D9-4894-A615-8E36FEC40D47",
+        "name": "account-network-off-outline",
+        "codepoint": "F1AF2",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "2EEA7799-E0DA-4E9B-880E-B5975A6FC11F",
         "name": "account-network-outline",
         "codepoint": "F0BE6",
