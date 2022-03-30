@@ -59670,6 +59670,21 @@
         "version": "1.5.54"
     },
     {
+        "id": "604EF539-0143-4862-957A-AA04EFF9CD4E",
+        "name": "plane-car",
+        "codepoint": "F1AFF",
+        "aliases": [
+            "airport-shuttle",
+            "airport-taxi"
+        ],
+        "tags": [
+            "Transportation + Flying",
+            "Transportation + Road"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "90AD6D2A-7986-49D0-8DA5-DC92F9F92A15",
         "name": "play",
         "codepoint": "F040A",
