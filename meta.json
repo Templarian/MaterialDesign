@@ -37742,6 +37742,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "D92E7B40-A6F6-479D-9FFD-807AE3E470E6",
+        "name": "format-paragraph-spacing",
+        "codepoint": "F1AFD",
+        "aliases": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
+        "author": "Sintija",
+        "version": "6.9.96"
+    },
+    {
         "id": "9AF465C3-5FEF-48E4-8D38-5A5A3D2A9799",
         "name": "format-pilcrow",
         "codepoint": "F06D8",
