@@ -1227,6 +1227,15 @@
         "version": "1.5.54"
     },
     {
+        "id": "AF848CDB-6C2E-4920-9C30-9135EE7AEEFA",
+        "name": "account-network-off",
+        "codepoint": "F1AF1",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "2EEA7799-E0DA-4E9B-880E-B5975A6FC11F",
         "name": "account-network-outline",
         "codepoint": "F0BE6",
