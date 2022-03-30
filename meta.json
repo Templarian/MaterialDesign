@@ -76037,6 +76037,15 @@
         "version": "2.3.50"
     },
     {
+        "id": "04986CC2-FE3B-4997-935E-EEE86DEA657A",
+        "name": "track-light-off",
+        "codepoint": "F1B01",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "C06AFD8C-C769-41B1-8E5C-355CE5DBEE8E",
         "name": "trackpad",
         "codepoint": "F07F8",
