@@ -8523,6 +8523,15 @@
         "version": "5.1.45"
     },
     {
+        "id": "9E57CC9C-C471-4A84-A750-D4BE9C94D989",
+        "name": "baby-buggy-off",
+        "codepoint": "F1AF3",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "FA711E97-6083-45AA-9C92-FCCDABC57D37",
         "name": "baby-carriage",
         "codepoint": "F068F",
