@@ -21021,7 +21021,9 @@
         "name": "clipboard-clock-outline",
         "codepoint": "F16E3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.9.55"
     },
