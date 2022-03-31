@@ -32648,7 +32648,9 @@
         "name": "file-document-multiple",
         "codepoint": "F1517",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Robbert Gurdeep Singh",
         "version": "5.4.55"
     },
