@@ -77282,7 +77282,9 @@
         "name": "truck-delivery-outline",
         "codepoint": "F129B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Austin Andrews",
         "version": "4.7.95"
     },
