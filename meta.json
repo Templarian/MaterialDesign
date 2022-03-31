@@ -26064,7 +26064,8 @@
             "currency-inr"
         ],
         "tags": [
-            "Banking"
+            "Banking",
+            "Currency"
         ],
         "author": "Google",
         "version": "6.5.95"
