@@ -25891,7 +25891,9 @@
         "name": "currency-fra",
         "codepoint": "F1A39",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Currency"
+        ],
         "author": "Google",
         "version": "6.7.96"
     },
