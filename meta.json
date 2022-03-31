@@ -77260,7 +77260,9 @@
         "name": "truck-check-outline",
         "codepoint": "F129A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Austin Andrews",
         "version": "4.7.95"
     },
