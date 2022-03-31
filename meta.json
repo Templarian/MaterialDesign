@@ -75528,7 +75528,8 @@
         "codepoint": "F1923",
         "aliases": [],
         "tags": [
-            "Date \/ Time"
+            "Date \/ Time",
+            "Settings"
         ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
