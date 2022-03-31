@@ -5929,7 +5929,9 @@
         "aliases": [
             "box-settings"
         ],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.95"
     },
