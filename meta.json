@@ -11248,7 +11248,8 @@
             "notification-settings-outline"
         ],
         "tags": [
-            "Notification"
+            "Notification",
+            "Settings"
         ],
         "author": "Colton Wiscombe",
         "version": "6.7.96"
