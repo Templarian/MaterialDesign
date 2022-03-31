@@ -45659,7 +45659,9 @@
         "name": "key-alert-outline",
         "codepoint": "F1984",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.5.95"
     },
