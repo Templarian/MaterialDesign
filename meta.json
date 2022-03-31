@@ -77354,7 +77354,9 @@
         "name": "truck-outline",
         "codepoint": "F129D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Google",
         "version": "4.7.95"
     },
