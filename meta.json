@@ -57925,7 +57925,9 @@
         "aliases": [
             "attachment-lock"
         ],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Simran",
         "version": "6.6.96"
     },
