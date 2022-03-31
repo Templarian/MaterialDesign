@@ -24975,7 +24975,9 @@
         "name": "credit-card-edit",
         "codepoint": "F17D7",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Edit \/ Modify"
+        ],
         "author": "Jeff Anders",
         "version": "6.1.95"
     },
