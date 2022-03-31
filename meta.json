@@ -33448,7 +33448,9 @@
         "name": "file-refresh",
         "codepoint": "F0918",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Austin Andrews",
         "version": "2.3.50"
     },
