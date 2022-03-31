@@ -32923,7 +32923,9 @@
         "aliases": [
             "file-image-location"
         ],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.95"
     },
