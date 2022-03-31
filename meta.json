@@ -14947,7 +14947,9 @@
         "name": "calendar-clock-outline",
         "codepoint": "F16E1",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "GreenTurtwig",
         "version": "5.9.55"
     },
