@@ -44219,7 +44219,9 @@
         "aliases": [
             "teach-poll"
         ],
-        "tags": [],
+        "tags": [
+            "People \/ Family"
+        ],
         "author": "MaksUr",
         "version": "2.1.19"
     },
