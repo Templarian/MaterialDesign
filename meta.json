@@ -34130,7 +34130,9 @@
             "funnel-settings-outline",
             "funnel-gear-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Simran",
         "version": "6.8.96"
     },
