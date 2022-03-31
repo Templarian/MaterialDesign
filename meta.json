@@ -18032,7 +18032,8 @@
             "cash-chargeback"
         ],
         "tags": [
-            "Banking"
+            "Banking",
+            "Currency"
         ],
         "author": "Michael Richins",
         "version": "2.7.94"
