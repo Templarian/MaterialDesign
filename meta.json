@@ -21068,7 +21068,9 @@
         "name": "clipboard-file",
         "codepoint": "F1265",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "frankgrinaert",
         "version": "4.7.95"
     },
