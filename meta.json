@@ -81953,7 +81953,9 @@
         "name": "wifi-strength-3-lock-open",
         "codepoint": "F16CD",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
     },
