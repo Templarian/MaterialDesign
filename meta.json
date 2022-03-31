@@ -54773,7 +54773,9 @@
             "sticky-note-edit-outline",
             "post-it-note-edit-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Edit \/ Modify"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.95"
     },
