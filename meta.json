@@ -33166,7 +33166,9 @@
         "aliases": [
             "file-location-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.95"
     },
