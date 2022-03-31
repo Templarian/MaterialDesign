@@ -18020,7 +18020,9 @@
         "name": "cash-plus",
         "codepoint": "F1261",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Currency"
+        ],
         "author": "sergiocarlotto",
         "version": "4.7.95"
     },
