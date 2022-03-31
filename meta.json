@@ -10488,7 +10488,9 @@
         "name": "battery-plus",
         "codepoint": "F17E6",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Battery"
+        ],
         "author": "Fran\u00e7ois Risoud",
         "version": "6.1.95"
     },
