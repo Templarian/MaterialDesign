@@ -60319,7 +60319,9 @@
         "name": "plus-lock-open",
         "codepoint": "F1A5E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Contributors",
         "version": "6.7.96"
     },
