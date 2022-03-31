@@ -9869,7 +9869,9 @@
         "name": "battery-arrow-down",
         "codepoint": "F17DE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Battery"
+        ],
         "author": "Fran\u00e7ois Risoud",
         "version": "6.1.95"
     },
