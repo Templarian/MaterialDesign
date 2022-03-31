@@ -35872,7 +35872,9 @@
         "name": "folder-hidden",
         "codepoint": "F179E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.95"
     },
