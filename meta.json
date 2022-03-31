@@ -21304,7 +21304,9 @@
             "clipboard-text-time",
             "clipboard-text-history"
         ],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
     },
