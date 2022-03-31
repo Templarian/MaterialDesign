@@ -31789,7 +31789,8 @@
             "fan-timer"
         ],
         "tags": [
-            "Home Automation"
+            "Home Automation",
+            "Date \/ Time"
         ],
         "author": "Michael Irigoyen",
         "version": "6.7.96"
