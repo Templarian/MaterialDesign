@@ -81912,7 +81912,9 @@
         "name": "wifi-settings",
         "codepoint": "F16C6",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
     },
