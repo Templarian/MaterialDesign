@@ -1778,7 +1778,9 @@
         "name": "account-voice-off",
         "codepoint": "F0ED4",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Google",
         "version": "3.7.95"
     },
