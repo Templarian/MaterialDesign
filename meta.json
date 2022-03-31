@@ -35797,7 +35797,9 @@
         "name": "folder-eye",
         "codepoint": "F178A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.95"
     },
