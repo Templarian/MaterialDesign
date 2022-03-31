@@ -27033,7 +27033,8 @@
         "codepoint": "F1637",
         "aliases": [],
         "tags": [
-            "Database"
+            "Database",
+            "Settings"
         ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
