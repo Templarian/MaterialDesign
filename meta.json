@@ -10417,7 +10417,9 @@
         "name": "battery-minus-outline",
         "codepoint": "F17E5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Battery"
+        ],
         "author": "Fran\u00e7ois Risoud",
         "version": "6.1.95"
     },
