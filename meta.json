@@ -1510,7 +1510,8 @@
         "codepoint": "F10C9",
         "aliases": [],
         "tags": [
-            "Account \/ User"
+            "Account \/ User",
+            "Settings"
         ],
         "author": "Sascha Wohlgemuth",
         "version": "4.3.95"
