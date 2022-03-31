@@ -18072,7 +18072,8 @@
             "cash-cycle"
         ],
         "tags": [
-            "Banking"
+            "Banking",
+            "Currency"
         ],
         "author": "Michael Irigoyen",
         "version": "6.8.96"
