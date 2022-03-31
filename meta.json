@@ -695,7 +695,8 @@
         "codepoint": "F0FFB",
         "aliases": [],
         "tags": [
-            "Account \/ User"
+            "Account \/ User",
+            "Edit \/ Modify"
         ],
         "author": "Michael Richins",
         "version": "4.0.96"
