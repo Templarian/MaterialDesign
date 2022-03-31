@@ -17983,7 +17983,8 @@
             "cash-location"
         ],
         "tags": [
-            "Banking"
+            "Banking",
+            "Currency"
         ],
         "author": "Michael Irigoyen",
         "version": "3.5.94"
