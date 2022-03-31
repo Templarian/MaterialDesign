@@ -32659,7 +32659,9 @@
         "name": "file-document-multiple-outline",
         "codepoint": "F1518",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.4.55"
     },
