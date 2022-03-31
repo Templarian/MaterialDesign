@@ -42521,7 +42521,9 @@
         "name": "heart-settings",
         "codepoint": "F1665",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
