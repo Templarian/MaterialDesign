@@ -81997,7 +81997,9 @@
         "name": "wifi-strength-4-lock-open",
         "codepoint": "F16CE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
     },
