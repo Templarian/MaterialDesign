@@ -43015,7 +43015,9 @@
         "aliases": [
             "house-city"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Google",
         "version": "3.3.92"
     },
