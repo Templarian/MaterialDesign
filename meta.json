@@ -8070,7 +8070,9 @@
         "aliases": [
             "paperclip-lock"
         ],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Simran",
         "version": "6.6.96"
     },
