@@ -5568,7 +5568,9 @@
             "box-time",
             "archive-time"
         ],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.95"
     },
