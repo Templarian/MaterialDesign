@@ -18361,7 +18361,9 @@
         "name": "cellphone-charging",
         "codepoint": "F1397",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
         "author": "Moma Design Studio",
         "version": "5.0.45"
     },
