@@ -77305,7 +77305,9 @@
         "name": "truck-fast-outline",
         "codepoint": "F129C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Austin Andrews",
         "version": "4.7.95"
     },
