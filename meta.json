@@ -26808,7 +26808,8 @@
         "codepoint": "F162E",
         "aliases": [],
         "tags": [
-            "Database"
+            "Database",
+            "Lock"
         ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
