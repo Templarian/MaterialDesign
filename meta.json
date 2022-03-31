@@ -80745,7 +80745,8 @@
             "weather-date"
         ],
         "tags": [
-            "Weather"
+            "Weather",
+            "Cloud"
         ],
         "author": "Michael Irigoyen",
         "version": "6.3.95"
