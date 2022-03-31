@@ -21079,7 +21079,9 @@
         "name": "clipboard-file-outline",
         "codepoint": "F1266",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "frankgrinaert",
         "version": "4.7.95"
     },
