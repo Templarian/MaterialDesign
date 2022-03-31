@@ -5344,7 +5344,9 @@
         "aliases": [
             "iframe-settings"
         ],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Michael Irigoyen",
         "version": "3.0.39"
     },
