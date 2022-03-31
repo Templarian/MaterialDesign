@@ -15092,7 +15092,8 @@
         "codepoint": "F1642",
         "aliases": [],
         "tags": [
-            "Date \/ Time"
+            "Date \/ Time",
+            "Lock"
         ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
