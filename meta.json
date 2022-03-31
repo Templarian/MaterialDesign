@@ -12293,7 +12293,9 @@
         "name": "book-lock-open-outline",
         "codepoint": "F168E",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
     },
