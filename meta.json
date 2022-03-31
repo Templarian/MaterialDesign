@@ -12660,7 +12660,9 @@
         "name": "book-settings-outline",
         "codepoint": "F169B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
     },
