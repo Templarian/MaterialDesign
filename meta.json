@@ -12172,7 +12172,9 @@
         "name": "book-edit",
         "codepoint": "F168C",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Edit \/ Modify"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
     },
