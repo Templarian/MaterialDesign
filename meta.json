@@ -42532,7 +42532,9 @@
         "name": "heart-settings-outline",
         "codepoint": "F1666",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
