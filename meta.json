@@ -18372,7 +18372,9 @@
         "name": "cellphone-check",
         "codepoint": "F17FD",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.95"
     },
