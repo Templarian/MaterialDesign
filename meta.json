@@ -11234,7 +11234,8 @@
             "notification-settings"
         ],
         "tags": [
-            "Notification"
+            "Notification",
+            "Settings"
         ],
         "author": "Colton Wiscombe",
         "version": "6.7.96"
