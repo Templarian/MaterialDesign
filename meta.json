@@ -81731,7 +81731,9 @@
         "name": "wifi-lock",
         "codepoint": "F16BF",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
     },
