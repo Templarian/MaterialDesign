@@ -17915,7 +17915,9 @@
         "name": "cash-check",
         "codepoint": "F14EE",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Currency"
+        ],
         "author": "Lucas Crivellari Macieira",
         "version": "5.4.55"
     },
