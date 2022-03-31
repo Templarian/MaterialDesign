@@ -407,7 +407,8 @@
         "aliases": [],
         "tags": [
             "Account \/ User",
-            "Banking"
+            "Banking",
+            "Currency"
         ],
         "author": "Jacob Wright",
         "version": "4.2.95"
