@@ -81909,7 +81909,9 @@
         "name": "wifi-strength-2-lock-open",
         "codepoint": "F16CC",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
     },
