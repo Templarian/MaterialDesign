@@ -26399,7 +26399,9 @@
         "aliases": [
             "human-dance-ballroom"
         ],
-        "tags": [],
+        "tags": [
+            "People \/ Family"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.6.55"
     },
