@@ -5581,7 +5581,9 @@
             "box-time-outline",
             "archive-time-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.95"
     },
