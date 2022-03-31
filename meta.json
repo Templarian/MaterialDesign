@@ -5620,7 +5620,9 @@
         "aliases": [
             "box-edit"
         ],
-        "tags": [],
+        "tags": [
+            "Edit \/ Modify"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.95"
     },
