@@ -68455,7 +68455,8 @@
         "codepoint": "F192F",
         "aliases": [],
         "tags": [
-            "Home Automation"
+            "Home Automation",
+            "Alert \/ Error"
         ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
