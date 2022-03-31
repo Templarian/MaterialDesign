@@ -22289,7 +22289,8 @@
             "cloud-discount"
         ],
         "tags": [
-            "Weather"
+            "Weather",
+            "Cloud"
         ],
         "author": "Simran",
         "version": "6.7.96"
