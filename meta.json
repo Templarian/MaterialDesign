@@ -8561,7 +8561,9 @@
         "name": "baby-buggy-off",
         "codepoint": "F1AF3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "People \/ Family"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.9.96"
     },
