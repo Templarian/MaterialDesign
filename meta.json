@@ -18055,7 +18055,9 @@
         "name": "cash-remove",
         "codepoint": "F1262",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Currency"
+        ],
         "author": "Austin Andrews",
         "version": "4.7.95"
     },
