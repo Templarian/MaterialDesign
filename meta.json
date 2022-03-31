@@ -35806,7 +35806,9 @@
         "name": "folder-eye-outline",
         "codepoint": "F178B",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.1.95"
     },
