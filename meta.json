@@ -20308,7 +20308,9 @@
         "name": "chili-alert",
         "codepoint": "F17EA",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.95"
     },
