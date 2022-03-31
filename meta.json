@@ -26589,7 +26589,8 @@
         "codepoint": "F162A",
         "aliases": [],
         "tags": [
-            "Database"
+            "Database",
+            "Date \/ Time"
         ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
