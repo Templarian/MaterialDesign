@@ -32888,7 +32888,9 @@
         "name": "file-gif-box",
         "codepoint": "F0D78",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Michael Irigoyen",
         "version": "3.4.93"
     },
