@@ -5689,7 +5689,9 @@
         "aliases": [
             "box-lock-open"
         ],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.95"
     },
