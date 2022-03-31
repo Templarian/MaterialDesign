@@ -13382,7 +13382,9 @@
         "aliases": [
             "flask-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Science"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.4.95"
     },
