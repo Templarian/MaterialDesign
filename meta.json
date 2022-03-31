@@ -77524,7 +77524,8 @@
             "equalizer"
         ],
         "tags": [
-            "Audio"
+            "Audio",
+            "Settings"
         ],
         "author": "Colton Wiscombe",
         "version": "5.4.55"
