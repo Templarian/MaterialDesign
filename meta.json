@@ -32440,7 +32440,8 @@
             "file-document-error"
         ],
         "tags": [
-            "Files \/ Folders"
+            "Files \/ Folders",
+            "Alert \/ Error"
         ],
         "author": "Simran",
         "version": "6.8.96"
