@@ -24984,7 +24984,9 @@
         "name": "credit-card-edit-outline",
         "codepoint": "F17D8",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Edit \/ Modify"
+        ],
         "author": "Jeff Anders",
         "version": "6.1.95"
     },
