@@ -12181,7 +12181,9 @@
         "name": "book-edit-outline",
         "codepoint": "F168D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Edit \/ Modify"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
     },
