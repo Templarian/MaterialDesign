@@ -34278,7 +34278,9 @@
         "aliases": [
             "funnel-settings"
         ],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Simran",
         "version": "6.8.96"
     },
