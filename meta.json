@@ -74343,7 +74343,9 @@
         "aliases": [
             "sun-moon-stars"
         ],
-        "tags": [],
+        "tags": [
+            "Weather"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
