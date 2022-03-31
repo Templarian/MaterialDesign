@@ -21010,7 +21010,9 @@
         "name": "clipboard-clock",
         "codepoint": "F16E2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.9.55"
     },
