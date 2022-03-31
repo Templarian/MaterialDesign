@@ -60308,7 +60308,9 @@
         "aliases": [
             "plus-secure"
         ],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Contributors",
         "version": "6.7.96"
     },
