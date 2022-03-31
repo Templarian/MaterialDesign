@@ -33740,7 +33740,9 @@
         "name": "file-sync-outline",
         "codepoint": "F1217",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.6.95"
     },
