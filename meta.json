@@ -22353,7 +22353,9 @@
         "name": "cloud-refresh",
         "codepoint": "F052A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Cloud"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
