@@ -44201,7 +44201,9 @@
             "whiteboard",
             "human-man-board"
         ],
-        "tags": [],
+        "tags": [
+            "People \/ Family"
+        ],
         "author": "Michael Richins",
         "version": "2.1.99"
     },
