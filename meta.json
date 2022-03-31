@@ -74379,7 +74379,8 @@
             "temperature-off"
         ],
         "tags": [
-            "Weather"
+            "Weather",
+            "Home Automation"
         ],
         "author": "Colton Wiscombe",
         "version": "5.4.55"
