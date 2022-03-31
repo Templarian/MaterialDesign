@@ -77249,7 +77249,9 @@
             "lorry-check",
             "courier-check"
         ],
-        "tags": [],
+        "tags": [
+            "Transportation + Road"
+        ],
         "author": "Austin Andrews",
         "version": "3.2.89"
     },
