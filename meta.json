@@ -20319,7 +20319,9 @@
         "name": "chili-alert-outline",
         "codepoint": "F17EB",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Alert \/ Error"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.95"
     },
