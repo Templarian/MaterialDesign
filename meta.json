@@ -1242,7 +1242,9 @@
         "name": "account-network-off-outline",
         "codepoint": "F1AF2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.9.96"
     },
