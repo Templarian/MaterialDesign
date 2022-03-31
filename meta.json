@@ -17993,7 +17993,9 @@
         "name": "cash-minus",
         "codepoint": "F1260",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Currency"
+        ],
         "author": "sergiocarlotto",
         "version": "4.7.95"
     },
