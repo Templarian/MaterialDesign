@@ -16441,7 +16441,9 @@
         "name": "car-clock",
         "codepoint": "F1974",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.5.95"
     },
