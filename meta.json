@@ -33729,7 +33729,9 @@
         "name": "file-sync",
         "codepoint": "F1216",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.6.95"
     },
