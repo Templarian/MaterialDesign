@@ -70914,7 +70914,9 @@
         "aliases": [
             "favorite-settings"
         ],
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
     },
