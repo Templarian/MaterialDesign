@@ -33830,7 +33830,9 @@
         "name": "file-tree-outline",
         "codepoint": "F13D2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.1.45"
     },
