@@ -5267,7 +5267,9 @@
         "aliases": [
             "iframe-edit-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Edit \/ Modify"
+        ],
         "author": "Michael Irigoyen",
         "version": "1.6.50"
     },
