@@ -81742,7 +81742,9 @@
         "name": "wifi-lock-open",
         "codepoint": "F16C0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Lock"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
     },
