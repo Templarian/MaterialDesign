@@ -12350,7 +12350,9 @@
         "aliases": [
             "book-location"
         ],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
     },
