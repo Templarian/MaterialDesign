@@ -29455,7 +29455,9 @@
             "world-box-remove",
             "planet-box-remove"
         ],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Muhammet Balsoy",
         "version": "5.1.45"
     },
