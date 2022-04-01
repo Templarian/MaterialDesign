@@ -12832,7 +12832,9 @@
         "name": "bookmark-music-outline",
         "codepoint": "F1379",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Music"
+        ],
         "author": "Simran",
         "version": "4.9.95"
     },
