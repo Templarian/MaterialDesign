@@ -53546,7 +53546,9 @@
         "name": "movie-search-outline",
         "codepoint": "F11D3",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "frankgrinaert",
         "version": "4.5.95"
     },
