@@ -18143,7 +18143,8 @@
         "codepoint": "F1261",
         "aliases": [],
         "tags": [
-            "Currency"
+            "Currency",
+            "Banking"
         ],
         "author": "sergiocarlotto",
         "version": "4.7.95"
