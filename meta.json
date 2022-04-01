@@ -56915,7 +56915,9 @@
         "name": "office-building-outline",
         "codepoint": "F151F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Places"
+        ],
         "author": "Joshua Solomon",
         "version": "5.4.55"
     },
