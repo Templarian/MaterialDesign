@@ -28097,7 +28097,9 @@
         "name": "digital-ocean",
         "codepoint": "F1237",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Michael Richins",
         "version": "4.6.95"
     },
