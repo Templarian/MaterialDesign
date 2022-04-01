@@ -46884,7 +46884,9 @@
         "name": "language-fortran",
         "codepoint": "F121A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Contributors",
         "version": "4.6.95"
     },
