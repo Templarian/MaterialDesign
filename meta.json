@@ -76318,7 +76318,9 @@
             "lego-location",
             "toy-brick-location"
         ],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Michael Richins",
         "version": "4.7.95"
     },
