@@ -46950,7 +46950,9 @@
         "name": "language-kotlin",
         "codepoint": "F1219",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Contributors",
         "version": "4.6.95"
     },
