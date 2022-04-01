@@ -29486,7 +29486,8 @@
             "planet-off"
         ],
         "tags": [
-            "Geographic Information System"
+            "Geographic Information System",
+            "Navigation"
         ],
         "author": "Austin Andrews",
         "version": "1.5.54"
