@@ -51760,7 +51760,9 @@
         "aliases": [
             "vs-code"
         ],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Contributors",
         "version": "2.5.94"
     },
