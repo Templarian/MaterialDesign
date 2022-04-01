@@ -42454,7 +42454,9 @@
         "name": "heart-off-outline",
         "codepoint": "F1434",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.2.45"
     },
