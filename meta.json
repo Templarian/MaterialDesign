@@ -5782,7 +5782,9 @@
         "aliases": [
             "box-music"
         ],
-        "tags": [],
+        "tags": [
+            "Music"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.95"
     },
