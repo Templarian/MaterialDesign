@@ -19339,7 +19339,9 @@
         "name": "chart-waterfall",
         "codepoint": "F1918",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Math"
+        ],
         "author": "Michael Irigoyen",
         "version": "6.4.95"
     },
