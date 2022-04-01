@@ -56869,7 +56869,9 @@
         "aliases": [
             "office-building-location-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Joshua Solomon",
         "version": "5.4.55"
     },
