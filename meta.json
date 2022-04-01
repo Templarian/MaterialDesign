@@ -2064,7 +2064,8 @@
             "airplane-gps"
         ],
         "tags": [
-            "Transportation + Flying"
+            "Transportation + Flying",
+            "Navigation"
         ],
         "author": "Colton Wiscombe",
         "version": "6.2.95"
