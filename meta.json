@@ -22739,7 +22739,9 @@
         "name": "code-json",
         "codepoint": "F0626",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Austin Andrews",
         "version": "1.6.50"
     },
