@@ -19314,7 +19314,9 @@
             "widget-line-shimmer",
             "graph-line-shimmer"
         ],
-        "tags": [],
+        "tags": [
+            "Math"
+        ],
         "author": "Google",
         "version": "5.6.55"
     },
