@@ -18117,7 +18117,8 @@
         "codepoint": "F1260",
         "aliases": [],
         "tags": [
-            "Currency"
+            "Currency",
+            "Banking"
         ],
         "author": "sergiocarlotto",
         "version": "4.7.95"
