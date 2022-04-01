@@ -29425,7 +29425,9 @@
             "world-box-off",
             "planet-box-off"
         ],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "GreenTurtwig",
         "version": "1.8.36"
     },
