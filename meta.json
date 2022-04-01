@@ -44966,7 +44966,9 @@
         "aliases": [
             "image-location"
         ],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.95"
     },
