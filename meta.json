@@ -18088,7 +18088,8 @@
         "aliases": [],
         "tags": [
             "Lock",
-            "Currency"
+            "Currency",
+            "Banking"
         ],
         "author": "Austin Andrews",
         "version": "5.4.55"
