@@ -18028,7 +18028,8 @@
         "codepoint": "F14EE",
         "aliases": [],
         "tags": [
-            "Currency"
+            "Currency",
+            "Banking"
         ],
         "author": "Lucas Crivellari Macieira",
         "version": "5.4.55"
