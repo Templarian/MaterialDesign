@@ -29252,7 +29252,9 @@
         "aliases": [
             "hearing-impaired"
         ],
-        "tags": [],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
         "author": "Henrique C\u00e9sar Madeira",
         "version": "2.6.95"
     },
