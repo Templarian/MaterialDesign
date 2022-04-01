@@ -60238,7 +60238,9 @@
             "playlist-note-outline",
             "queue-music-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Music"
+        ],
         "author": "Google",
         "version": "3.2.89"
     },
