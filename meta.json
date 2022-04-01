@@ -65848,7 +65848,9 @@
         "aliases": [
             "select-location"
         ],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Austin Andrews",
         "version": "4.7.95"
     },
