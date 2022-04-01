@@ -8175,7 +8175,8 @@
             "av-receiver"
         ],
         "tags": [
-            "Home Automation"
+            "Home Automation",
+            "Audio"
         ],
         "author": "Michael Richins",
         "version": "2.4.85"
