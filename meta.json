@@ -47029,7 +47029,9 @@
         "name": "language-ruby",
         "codepoint": "F0D2D",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Contributors",
         "version": "3.3.92"
     },
