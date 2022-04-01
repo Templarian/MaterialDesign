@@ -29225,7 +29225,9 @@
         "name": "ear-hearing",
         "codepoint": "F07C5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
         "author": "Google",
         "version": "2.0.46"
     },
