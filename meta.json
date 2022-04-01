@@ -59830,7 +59830,9 @@
         "name": "pine-tree-fire",
         "codepoint": "F141A",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Nature"
+        ],
         "author": "Austin Andrews",
         "version": "5.2.45"
     },
