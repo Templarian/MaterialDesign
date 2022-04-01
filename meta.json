@@ -29380,7 +29380,9 @@
             "world-arrow-right",
             "planet-arrow-right"
         ],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
     },
