@@ -5737,7 +5737,9 @@
             "box-marker",
             "box-location"
         ],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Colton Wiscombe",
         "version": "6.1.95"
     },
