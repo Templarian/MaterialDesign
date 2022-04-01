@@ -78165,7 +78165,9 @@
         "name": "unicode",
         "codepoint": "F0ED0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Contributors",
         "version": "3.7.94"
     },
