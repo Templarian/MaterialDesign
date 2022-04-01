@@ -72050,7 +72050,8 @@
             "solar-asimuth"
         ],
         "tags": [
-            "Weather"
+            "Weather",
+            "Home Automation"
         ],
         "author": "Michael Irigoyen",
         "version": "6.5.95"
