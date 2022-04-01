@@ -24123,7 +24123,9 @@
         "name": "content-copy",
         "codepoint": "F018F",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
