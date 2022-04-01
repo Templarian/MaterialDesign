@@ -47087,7 +47087,9 @@
             "xaml",
             "microsoft-xaml"
         ],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Contributors",
         "version": "1.6.50"
     },
