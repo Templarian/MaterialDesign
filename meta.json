@@ -42443,7 +42443,9 @@
         "name": "heart-off",
         "codepoint": "F0759",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
         "author": "Austin Andrews",
         "version": "1.9.32"
     },
