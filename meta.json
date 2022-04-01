@@ -74179,7 +74179,9 @@
         "aliases": [
             "notes"
         ],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Google",
         "version": "2.4.85"
     },
