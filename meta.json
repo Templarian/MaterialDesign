@@ -54841,7 +54841,9 @@
         "name": "nintendo-game-boy",
         "codepoint": "F1393",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "GreenTurtwig",
         "version": "5.0.45"
     },
