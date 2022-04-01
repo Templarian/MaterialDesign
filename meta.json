@@ -12821,7 +12821,9 @@
         "name": "bookmark-music",
         "codepoint": "F00C2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Music"
+        ],
         "author": "Austin Andrews",
         "version": "1.5.54"
     },
