@@ -14633,7 +14633,9 @@
             "bus-location",
             "bus-stop"
         ],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Michael Richins",
         "version": "4.6.95"
     },
