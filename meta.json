@@ -8189,7 +8189,8 @@
             "av-receiver-off"
         ],
         "tags": [
-            "Home Automation"
+            "Home Automation",
+            "Audio"
         ],
         "author": "Michael Irigoyen",
         "version": "4.5.95"
