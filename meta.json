@@ -24158,7 +24158,9 @@
         "name": "content-paste",
         "codepoint": "F0192",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
         "author": "Google",
         "version": "1.5.54"
     },
