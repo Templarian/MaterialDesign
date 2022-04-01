@@ -43997,7 +43997,8 @@
             "hospital-location"
         ],
         "tags": [
-            "Medical \/ Hospital"
+            "Medical \/ Hospital",
+            "Navigation"
         ],
         "author": "Austin Andrews",
         "version": "1.5.54"
