@@ -75310,7 +75310,8 @@
             "stopwatch-location"
         ],
         "tags": [
-            "Date \/ Time"
+            "Date \/ Time",
+            "Navigation"
         ],
         "author": "Colton Wiscombe",
         "version": "6.8.96"
