@@ -29470,7 +29470,9 @@
             "world-minus",
             "planet-minus"
         ],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Muhammet Balsoy",
         "version": "5.1.45"
     },
