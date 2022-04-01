@@ -40290,7 +40290,9 @@
         "name": "gitlab",
         "codepoint": "F0BA0",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Contributors",
         "version": "3.0.39"
     },
