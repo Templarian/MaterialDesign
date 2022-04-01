@@ -12436,7 +12436,9 @@
         "name": "book-music-outline",
         "codepoint": "F1693",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Music"
+        ],
         "author": "Colton Wiscombe",
         "version": "5.8.55"
     },
