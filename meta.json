@@ -50856,7 +50856,9 @@
             "message-unread-outline",
             "message-notification-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Notification"
+        ],
         "author": "Google",
         "version": "6.4.95"
     },
