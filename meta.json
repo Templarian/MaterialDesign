@@ -5032,7 +5032,9 @@
         "name": "api-off",
         "codepoint": "F1257",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "sergiocarlotto",
         "version": "4.6.95"
     },
