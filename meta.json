@@ -56892,7 +56892,8 @@
             "office-building-location"
         ],
         "tags": [
-            "Navigation"
+            "Navigation",
+            "Places"
         ],
         "author": "Joshua Solomon",
         "version": "5.4.55"
