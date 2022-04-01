@@ -61644,7 +61644,9 @@
         "aliases": [
             "progress-spanner"
         ],
-        "tags": [],
+        "tags": [
+            "Hardware \/ Tools"
+        ],
         "author": "Michael Irigoyen",
         "version": "3.2.89"
     },
