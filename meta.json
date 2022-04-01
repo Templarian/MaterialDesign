@@ -11949,7 +11949,9 @@
         "name": "bomb-off",
         "codepoint": "F06C5",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Gaming \/ RPG"
+        ],
         "author": "Roberto Graham",
         "version": "1.8.36"
     },
