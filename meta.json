@@ -76047,7 +76047,8 @@
             "find-my-phone"
         ],
         "tags": [
-            "Cellphone \/ Phone"
+            "Cellphone \/ Phone",
+            "Tooltip"
         ],
         "author": "Michael Irigoyen",
         "version": "6.2.95"
