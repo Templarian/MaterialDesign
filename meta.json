@@ -26059,7 +26059,8 @@
         "codepoint": "F1315",
         "aliases": [],
         "tags": [
-            "Currency"
+            "Currency",
+            "Banking"
         ],
         "author": "Michael Irigoyen",
         "version": "4.8.95"
