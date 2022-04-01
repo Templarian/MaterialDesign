@@ -78506,7 +78506,9 @@
         "name": "variable-box",
         "codepoint": "F1111",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Developer \/ Languages"
+        ],
         "author": "Michael Irigoyen",
         "version": "4.3.95"
     },
