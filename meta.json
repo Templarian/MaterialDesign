@@ -53535,7 +53535,9 @@
         "name": "movie-search",
         "codepoint": "F11D2",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Video \/ Movie"
+        ],
         "author": "frankgrinaert",
         "version": "4.5.95"
     },
