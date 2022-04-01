@@ -26899,7 +26899,8 @@
             "database-location-outline"
         ],
         "tags": [
-            "Database"
+            "Database",
+            "Navigation"
         ],
         "author": "Colton Wiscombe",
         "version": "5.7.55"
