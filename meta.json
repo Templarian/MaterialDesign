@@ -76335,7 +76335,9 @@
             "plugin-outline",
             "lego-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "Michael Richins",
         "version": "4.7.95"
     },
