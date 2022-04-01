@@ -76062,7 +76062,9 @@
         "name": "tooth-outline",
         "codepoint": "F0529",
         "aliases": [],
-        "tags": [],
+        "tags": [
+            "Medical \/ Hospital"
+        ],
         "author": "Christopher Schreiner",
         "version": "1.5.54"
     },
