@@ -25145,7 +25145,8 @@
             "payment-on-delivery"
         ],
         "tags": [
-            "Banking"
+            "Banking",
+            "Navigation"
         ],
         "author": "Michael Irigoyen",
         "version": "1.7.12"
