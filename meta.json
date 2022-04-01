@@ -50842,7 +50842,9 @@
             "message-unread",
             "message-notification"
         ],
-        "tags": [],
+        "tags": [
+            "Notification"
+        ],
         "author": "Google",
         "version": "6.4.95"
     },
