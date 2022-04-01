@@ -29393,7 +29393,9 @@
             "world-box",
             "planet-box"
         ],
-        "tags": [],
+        "tags": [
+            "Navigation"
+        ],
         "author": "GreenTurtwig",
         "version": "1.8.36"
     },
