@@ -26168,7 +26168,8 @@
             "currency-mongolian-tugrug"
         ],
         "tags": [
-            "Currency"
+            "Currency",
+            "Banking"
         ],
         "author": "Colton Wiscombe",
         "version": "5.4.55"
