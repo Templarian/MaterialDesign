@@ -18184,7 +18184,8 @@
         "codepoint": "F1262",
         "aliases": [],
         "tags": [
-            "Currency"
+            "Currency",
+            "Banking"
         ],
         "author": "Austin Andrews",
         "version": "4.7.95"
