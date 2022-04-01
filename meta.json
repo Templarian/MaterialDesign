@@ -71888,7 +71888,9 @@
         "aliases": [
             "awning"
         ],
-        "tags": [],
+        "tags": [
+            "Places"
+        ],
         "author": "Simran",
         "version": "2.0.46"
     },
