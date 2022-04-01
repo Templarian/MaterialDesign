@@ -54551,7 +54551,9 @@
             "network-point-of-sale",
             "network-cash-box"
         ],
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "emeraldmor",
         "version": "6.8.96"
     },
