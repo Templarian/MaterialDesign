@@ -44524,7 +44524,9 @@
             "ventilation-off",
             "air-conditioning-off"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Michael Irigoyen",
         "version": "5.5.55"
     },
