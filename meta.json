@@ -74186,6 +74186,18 @@
         "version": "6.9.96"
     },
     {
+        "id": "4FB9F00B-42E2-4DA4-B1DF-E2895866B7CF",
+        "name": "temple-hindu-outline",
+        "codepoint": "F1B09",
+        "aliases": [],
+        "tags": [
+            "Places",
+            "Religion"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "CE166270-170C-4292-8D6F-FE787AF6B021",
         "name": "tennis",
         "codepoint": "F0DA0",
