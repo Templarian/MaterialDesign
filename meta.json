@@ -74162,6 +74162,18 @@
         "version": "6.9.96"
     },
     {
+        "id": "8CE5A3E3-845D-479F-99F1-BAB02BEAAFC7",
+        "name": "temple-buddhist-outline",
+        "codepoint": "F1B07",
+        "aliases": [],
+        "tags": [
+            "Places",
+            "Religion"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "CE166270-170C-4292-8D6F-FE787AF6B021",
         "name": "tennis",
         "codepoint": "F0DA0",
