@@ -72674,6 +72674,22 @@
         "version": "2.7.94"
     },
     {
+        "id": "9013848A-21D4-4AF4-BA8A-6CF76128FE17",
+        "name": "synagogue",
+        "codepoint": "F1B04",
+        "aliases": [
+            "shul",
+            "temple",
+            "jewish"
+        ],
+        "tags": [
+            "Places",
+            "Religion"
+        ],
+        "author": "Google",
+        "version": "6.9.96"
+    },
+    {
         "id": "E8CE455E-8C08-48F4-B989-8D91E185E8AE",
         "name": "sync",
         "codepoint": "F04E6",
