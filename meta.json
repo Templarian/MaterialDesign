@@ -70691,7 +70691,9 @@
         "id": "5FDB24B6-FF16-4575-A794-E5CCEB95CC81",
         "name": "stadium",
         "codepoint": "F0FF9",
-        "aliases": [],
+        "aliases": [
+            "arena"
+        ],
         "tags": [],
         "author": "Google",
         "version": "4.0.96"
