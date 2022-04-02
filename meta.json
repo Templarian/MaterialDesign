@@ -70702,6 +70702,20 @@
         "version": "4.0.96"
     },
     {
+        "id": "AB07DE31-2215-49E8-925E-8E4B235664FA",
+        "name": "stadium-outline",
+        "codepoint": "F1B03",
+        "aliases": [
+            "arena-outline"
+        ],
+        "tags": [
+            "Sport",
+            "Places"
+        ],
+        "author": "Google",
+        "version": "6.9.96"
+    },
+    {
         "id": "0407BE27-099D-4170-BA1C-A87A4239F9DA",
         "name": "stadium-variant",
         "codepoint": "F0720",
