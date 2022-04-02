@@ -72690,6 +72690,22 @@
         "version": "6.9.96"
     },
     {
+        "id": "D070E9A9-6327-4F19-ADBC-A24A15398C7F",
+        "name": "synagogue-outline",
+        "codepoint": "F1B05",
+        "aliases": [
+            "temple-outline",
+            "shul-outline",
+            "jewish-outline"
+        ],
+        "tags": [
+            "Places",
+            "Religion"
+        ],
+        "author": "Google",
+        "version": "6.9.96"
+    },
+    {
         "id": "E8CE455E-8C08-48F4-B989-8D91E185E8AE",
         "name": "sync",
         "codepoint": "F04E6",
