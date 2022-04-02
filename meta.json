@@ -20614,8 +20614,20 @@
             "Religion",
             "Places"
         ],
-        "author": "Austin Andrews",
+        "author": "Google",
         "version": "1.5.54"
+    },
+    {
+        "id": "4430C123-70EA-4AC2-BEC4-5919786D4EBC",
+        "name": "church-outline",
+        "codepoint": "F1B02",
+        "aliases": [],
+        "tags": [
+            "Places",
+            "Religion"
+        ],
+        "author": "Google",
+        "version": "6.9.96"
     },
     {
         "id": "4E50E8E9-4283-4B08-9AB2-6283088898BB",
