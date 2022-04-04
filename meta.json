@@ -60132,7 +60132,8 @@
         "codepoint": "F1AFF",
         "aliases": [
             "airport-shuttle",
-            "airport-taxi"
+            "airport-taxi",
+            "airplane-car"
         ],
         "tags": [
             "Transportation + Flying",
@@ -74158,7 +74159,7 @@
             "Places",
             "Religion"
         ],
-        "author": "Michael Irigoyen",
+        "author": "Google",
         "version": "6.9.96"
     },
     {
@@ -74170,7 +74171,7 @@
             "Places",
             "Religion"
         ],
-        "author": "Michael Irigoyen",
+        "author": "Google",
         "version": "6.9.96"
     },
     {
@@ -74182,7 +74183,7 @@
             "Places",
             "Religion"
         ],
-        "author": "Michael Irigoyen",
+        "author": "Google",
         "version": "6.9.96"
     },
     {
@@ -74194,7 +74195,7 @@
             "Places",
             "Religion"
         ],
-        "author": "Michael Irigoyen",
+        "author": "Google",
         "version": "6.9.96"
     },
     {
