@@ -60147,7 +60147,8 @@
         "name": "plane-train",
         "codepoint": "F1B00",
         "aliases": [
-            "airport-shuttle"
+            "airport-shuttle",
+            "airplane-train"
         ],
         "tags": [
             "Transportation + Flying",
