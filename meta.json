@@ -50662,6 +50662,22 @@
         "version": "6.8.96"
     },
     {
+        "id": "57211BE3-0055-4D43-B05C-3CD0FE10322C",
+        "name": "medication",
+        "codepoint": "F1B14",
+        "aliases": [
+            "pill-bottle",
+            "medicine-bottle",
+            "bottle-plus"
+        ],
+        "tags": [
+            "Health \/ Beauty",
+            "Medical \/ Hospital"
+        ],
+        "author": "Google",
+        "version": "6.9.96"
+    },
+    {
         "id": "B68AA118-B8B5-4A2A-BCA2-A12C8C119319",
         "name": "meditation",
         "codepoint": "F117B",
