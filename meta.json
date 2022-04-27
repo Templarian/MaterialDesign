@@ -74756,6 +74756,19 @@
         "version": "3.5.94"
     },
     {
+        "id": "EBC857F8-EDAD-46AF-9F34-0DCB03E27998",
+        "name": "thermometer-auto",
+        "codepoint": "F1B0F",
+        "aliases": [
+            "temperature-auto"
+        ],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Hans B\u00f6hm",
+        "version": "6.9.96"
+    },
+    {
         "id": "D3767EC9-5C06-42A0-B6BE-F5D2CF89FFD1",
         "name": "thermometer-bluetooth",
         "codepoint": "F1895",
