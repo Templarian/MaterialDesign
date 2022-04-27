@@ -32167,6 +32167,15 @@
         "version": "3.3.92"
     },
     {
+        "id": "4F6C14E9-E2B0-4A04-B5F8-F33035191724",
+        "name": "fast-forward-45",
+        "codepoint": "F1B12",
+        "aliases": [],
+        "tags": [],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "C57CDDE7-5F5E-44B4-B1E2-E5FEFBB17A85",
         "name": "fast-forward-5",
         "codepoint": "F11F8",
