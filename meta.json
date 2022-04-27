@@ -70188,6 +70188,20 @@
         "version": "2.4.85"
     },
     {
+        "id": "57CDD6CF-360C-4B79-B9D3-1AADC9B969AD",
+        "name": "speaker-message",
+        "codepoint": "F1B11",
+        "aliases": [
+            "text-to-speech"
+        ],
+        "tags": [
+            "Home Automation",
+            "Audio"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "6CBEB113-DF44-4DCE-A490-5AAD4766CE28",
         "name": "speaker-multiple",
         "codepoint": "F0D38",
