@@ -61505,6 +61505,17 @@
         "version": "3.6.95"
     },
     {
+        "id": "887D316B-F8E0-40D4-8961-4A6C00111CDB",
+        "name": "printer-3d-off",
+        "codepoint": "F1B0E",
+        "aliases": [],
+        "tags": [
+            "Printer"
+        ],
+        "author": "Hans B\u00f6hm",
+        "version": "6.9.96"
+    },
+    {
         "id": "DD64AF52-2610-43D3-A992-9F3FCCB4A576",
         "name": "printer-alert",
         "codepoint": "F042C",
