@@ -8988,6 +8988,17 @@
         "version": "6.9.96"
     },
     {
+        "id": "49BAA4CB-38E1-4792-93ED-8298AFB304A1",
+        "name": "bag-personal-tag-outline",
+        "codepoint": "F1B0D",
+        "aliases": [
+            "property-tag-outline"
+        ],
+        "tags": [],
+        "author": "Matthew Terry",
+        "version": "6.9.96"
+    },
+    {
         "id": "0DBD5DC4-4D5B-48B9-951C-249BB05C3E7E",
         "name": "bag-suitcase",
         "codepoint": "F158B",
