@@ -53048,6 +53048,19 @@
         "version": "5.6.55"
     },
     {
+        "id": "E048C1A8-480D-4289-B026-9D1C64BA4236",
+        "name": "motorbike-off",
+        "codepoint": "F1B16",
+        "aliases": [
+            "motorcycle-off"
+        ],
+        "tags": [
+            "Transportation + Road"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "965CDBD7-9E52-4169-B363-E0428C75C19D",
         "name": "mouse",
         "codepoint": "F037D",
