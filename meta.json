@@ -50678,6 +50678,22 @@
         "version": "6.9.96"
     },
     {
+        "id": "8C286097-F93C-490C-A01F-BB1445A6953C",
+        "name": "medication-outline",
+        "codepoint": "F1B15",
+        "aliases": [
+            "pill-bottle-outline",
+            "medicine-bottle-outline",
+            "bottle-plus-outline"
+        ],
+        "tags": [
+            "Health \/ Beauty",
+            "Medical \/ Hospital"
+        ],
+        "author": "Google",
+        "version": "6.9.96"
+    },
+    {
         "id": "B68AA118-B8B5-4A2A-BCA2-A12C8C119319",
         "name": "meditation",
         "codepoint": "F117B",
