@@ -61548,6 +61548,17 @@
         "version": "6.3.95"
     },
     {
+        "id": "6172358F-1F0D-4735-B880-613E2E69FFBA",
+        "name": "printer-3d-nozzle-off",
+        "codepoint": "F1B19",
+        "aliases": [],
+        "tags": [
+            "Printer"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "7B1B16E0-AB42-490D-8D84-62B9AA0AB4BD",
         "name": "printer-3d-nozzle-outline",
         "codepoint": "F0E5C",
