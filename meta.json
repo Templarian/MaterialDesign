@@ -307,6 +307,20 @@
         "version": "6.2.95"
     },
     {
+        "id": "67BA915E-B44A-434E-95D3-9BD94A174164",
+        "name": "account-badge",
+        "codepoint": "F1B0A",
+        "aliases": [
+            "account-online",
+            "user-online"
+        ],
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Andrew Nenakhov",
+        "version": "6.9.96"
+    },
+    {
         "id": "474D0A31-E56A-4780-9417-DCF8D9A38830",
         "name": "account-box",
         "codepoint": "F0006",
