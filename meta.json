@@ -75052,6 +75052,17 @@
         "version": "2.1.99"
     },
     {
+        "id": "9753B373-A5AD-4E33-B5F1-133B30FAFD55",
+        "name": "thermostat-box-auto",
+        "codepoint": "F1B18",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "46ACA864-4B1C-4DBD-94FB-7A0D6B9A500E",
         "name": "thought-bubble",
         "codepoint": "F07F6",
