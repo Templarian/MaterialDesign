@@ -75029,6 +75029,17 @@
         "version": "1.5.54"
     },
     {
+        "id": "35160CD5-6140-45AE-BE6B-AC73C11DE3E1",
+        "name": "thermostat-auto",
+        "codepoint": "F1B17",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Hans B\u00f6hm",
+        "version": "6.9.96"
+    },
+    {
         "id": "E0A6898F-3F08-4E13-8B61-DA63E5CBF949",
         "name": "thermostat-box",
         "codepoint": "F0891",
