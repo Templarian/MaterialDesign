@@ -80187,6 +80187,17 @@
         "version": "2.4.85"
     },
     {
+        "id": "CF2F1BF8-9CBF-41EC-91EF-26B8F2B6A80E",
+        "name": "volume-equal",
+        "codepoint": "F1B10",
+        "aliases": [],
+        "tags": [
+            "Audio"
+        ],
+        "author": "Ron Schaeffer",
+        "version": "6.9.96"
+    },
+    {
         "id": "CE6E08CF-2476-4BBB-AF91-6D081F1CBEF9",
         "name": "volume-high",
         "codepoint": "F057E",
