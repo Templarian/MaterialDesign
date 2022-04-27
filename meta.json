@@ -61559,6 +61559,17 @@
         "version": "6.9.96"
     },
     {
+        "id": "188B9B62-C20F-4813-AAAE-F4FA6DE3A6BC",
+        "name": "printer-3d-nozzle-off-outline",
+        "codepoint": "F1B1A",
+        "aliases": [],
+        "tags": [
+            "Printer"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "7B1B16E0-AB42-490D-8D84-62B9AA0AB4BD",
         "name": "printer-3d-nozzle-outline",
         "codepoint": "F0E5C",
