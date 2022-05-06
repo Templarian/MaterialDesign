@@ -62731,7 +62731,9 @@
         "id": "7FC3FA6E-ED0B-4BCD-AF44-1125CC2CE3C4",
         "name": "railroad-light",
         "codepoint": "F0F1E",
-        "aliases": [],
+        "aliases": [
+            "railroad-crossing-light"
+        ],
         "tags": [
             "Transportation + Other"
         ],
