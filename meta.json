@@ -62732,7 +62732,8 @@
         "name": "railroad-light",
         "codepoint": "F0F1E",
         "aliases": [
-            "railroad-crossing-light"
+            "railroad-crossing-light",
+            "train-crossing-light"
         ],
         "tags": [
             "Transportation + Other"
