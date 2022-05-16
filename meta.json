@@ -15175,9 +15175,7 @@
         "id": "56F3CE33-D13F-43F3-B626-2728FF09D778",
         "name": "calendar-filter",
         "codepoint": "F1A32",
-        "aliases": [
-            "event-week-end"
-        ],
+        "aliases": [],
         "tags": [
             "Date \/ Time"
         ],
