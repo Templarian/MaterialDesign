@@ -15172,6 +15172,19 @@
         "version": "2.8.94"
     },
     {
+        "id": "56F3CE33-D13F-43F3-B626-2728FF09D778",
+        "name": "calendar-filter",
+        "codepoint": "F1A32",
+        "aliases": [
+            "event-week-end"
+        ],
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.7.96"
+    },
+    {
         "id": "EF6AC5FE-7E6E-47AC-B5D8-E802CBB94E3B",
         "name": "calendar-heart",
         "codepoint": "F09D2",
@@ -15573,19 +15586,6 @@
         "codepoint": "F1A31",
         "aliases": [
             "event-week-begin-outline"
-        ],
-        "tags": [
-            "Date \/ Time"
-        ],
-        "author": "Michael Irigoyen",
-        "version": "6.7.96"
-    },
-    {
-        "id": "56F3CE33-D13F-43F3-B626-2728FF09D778",
-        "name": "calendar-week-end",
-        "codepoint": "F1A32",
-        "aliases": [
-            "event-week-end"
         ],
         "tags": [
             "Date \/ Time"
