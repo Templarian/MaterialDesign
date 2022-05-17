@@ -49425,7 +49425,8 @@
         "name": "loupe",
         "codepoint": "F0345",
         "aliases": [
-            "zoom-plus"
+            "zoom-plus",
+            "circle-plus-outline"
         ],
         "tags": [],
         "author": "Google",
