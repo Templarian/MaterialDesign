@@ -35082,6 +35082,17 @@
         "version": "1.7.12"
     },
     {
+        "id": "E5881C80-1B80-472E-AFD9-A337D38C7A2F",
+        "name": "flash-triangle",
+        "codepoint": "F1B1D",
+        "aliases": [
+            "high-voltage"
+        ],
+        "tags": [],
+        "author": "tetzla",
+        "version": "6.9.96"
+    },
+    {
         "id": "0EC7CDC8-86F4-4C72-AC2E-1DEDB196043F",
         "name": "flashlight",
         "codepoint": "F0244",
