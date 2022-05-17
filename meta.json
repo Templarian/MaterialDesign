@@ -35093,6 +35093,17 @@
         "version": "6.9.96"
     },
     {
+        "id": "825BA6A5-367F-42F8-A2B2-EBE84D7CBCF3",
+        "name": "flash-triangle-outline",
+        "codepoint": "F1B1E",
+        "aliases": [
+            "high-voltage-outline"
+        ],
+        "tags": [],
+        "author": "tetzla",
+        "version": "6.9.96"
+    },
+    {
         "id": "0EC7CDC8-86F4-4C72-AC2E-1DEDB196043F",
         "name": "flashlight",
         "codepoint": "F0244",
