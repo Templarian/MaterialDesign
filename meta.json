@@ -27621,6 +27621,17 @@
         "version": "2.4.85"
     },
     {
+        "id": "3CC7EBFA-A595-4E15-8ACF-7C43267B162C",
+        "name": "desk-lamp-off",
+        "codepoint": "F1B1F",
+        "aliases": [],
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen",
+        "version": "6.9.96"
+    },
+    {
         "id": "C05777DC-F874-4231-B9EB-5675C808F7BB",
         "name": "deskphone",
         "codepoint": "F01C3",
