@@ -74274,6 +74274,18 @@
         "version": "4.3.95"
     },
     {
+        "id": "5C82B28E-DA98-4A40-B03A-9E309018F8C6",
+        "name": "television-speaker",
+        "codepoint": "F1B1B",
+        "aliases": [],
+        "tags": [
+            "Audio",
+            "Video \/ Movie"
+        ],
+        "author": "Hans B\u00f6hm",
+        "version": "6.9.96"
+    },
+    {
         "id": "52228864-9BDD-4D12-82EC-AF730D68E47B",
         "name": "television-stop",
         "codepoint": "F0F8A",
