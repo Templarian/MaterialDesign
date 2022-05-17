@@ -49424,7 +49424,9 @@
         "id": "DB75FD27-01F6-4232-AA23-86C115751A0C",
         "name": "loupe",
         "codepoint": "F0345",
-        "aliases": [],
+        "aliases": [
+            "zoom-plus"
+        ],
         "tags": [],
         "author": "Google",
         "version": "1.5.54"
