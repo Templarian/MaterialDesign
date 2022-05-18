@@ -35123,7 +35123,9 @@
         "aliases": [
             "high-voltage-outline"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "tetzla",
         "version": "6.9.96"
     },
