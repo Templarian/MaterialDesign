@@ -35110,7 +35110,9 @@
         "aliases": [
             "high-voltage"
         ],
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "tetzla",
         "version": "6.9.96"
     },
