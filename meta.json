@@ -6631,7 +6631,9 @@
         "codepoint": "F17A3",
         "aliases": [],
         "version": "6.1.95",
-        "tags": [],
+        "tags": [
+            "Arrow"
+        ],
         "author": "Colton Wiscombe"
     },
     {
