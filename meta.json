@@ -318,7 +318,7 @@
         "tags": [
             "Account \/ User"
         ],
-        "author": "Andrew Nenakhov"
+        "author": "Andrej Sharapov"
     },
     {
         "id": "897CF76D-01B6-47B8-B917-542077D94343",
@@ -332,7 +332,7 @@
         "tags": [
             "Account \/ User"
         ],
-        "author": "Andrew Nenakhov"
+        "author": "Andrej Sharapov"
     },
     {
         "id": "474D0A31-E56A-4780-9417-DCF8D9A38830",
@@ -15190,7 +15190,7 @@
         "tags": [
             "Date \/ Time"
         ],
-        "author": "Michael Irigoyen"
+        "author": "Andrej Sharapov"
     },
     {
         "id": "0EE2D0EE-8A23-4A80-98AC-0AEE15333062",
@@ -15203,7 +15203,7 @@
         "tags": [
             "Date \/ Time"
         ],
-        "author": "Michael Irigoyen"
+        "author": "Andrej Sharapov"
     },
     {
         "id": "EF6AC5FE-7E6E-47AC-B5D8-E802CBB94E3B",
@@ -73532,6 +73532,17 @@
             "Text \/ Content \/ Format"
         ],
         "author": "Michael Irigoyen"
+    },
+    {
+        "id": "DD9EA6CC-9992-418C-8664-2254FC64A41F",
+        "name": "table-question",
+        "codepoint": "F1B21",
+        "aliases": [
+            "table-help"
+        ],
+        "version": "6.9.96",
+        "tags": [],
+        "author": "Andrej Sharapov"
     },
     {
         "id": "202CC1A0-B339-493E-99B0-607A209E8A53",
