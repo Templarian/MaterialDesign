@@ -29755,6 +29755,15 @@
         "author": "Google"
     },
     {
+        "id": "B9D113A6-7D1C-4290-9B95-D051DDBAB680",
+        "name": "eject-circle",
+        "codepoint": "F1B23",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "6E8EC35B-2DF2-4451-9649-E0DBA823E3B7",
         "name": "eject-outline",
         "codepoint": "F0B91",
