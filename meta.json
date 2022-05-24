@@ -45000,6 +45000,15 @@
         "author": "Google"
     },
     {
+        "id": "92E042AA-1660-4069-AA56-F2D749C778AF",
+        "name": "image-check",
+        "codepoint": "F1B25",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "3E168631-4E4A-47D7-839A-CEB6B4640510",
         "name": "image-edit",
         "codepoint": "F11E3",
