@@ -62150,6 +62150,15 @@
         "author": "Anton Verburg"
     },
     {
+        "id": "C7CB1E0B-D85F-42EF-8A06-0BD4A1E11102",
+        "name": "pump-off",
+        "codepoint": "F1B22",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "CAA05089-AC62-40FF-96F1-82E34B93F18F",
         "name": "pumpkin",
         "codepoint": "F0BBF",
