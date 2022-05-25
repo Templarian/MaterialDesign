@@ -77326,6 +77326,17 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "C419A958-3875-46FC-BED3-07C409C4FC82",
+        "name": "train-car-box-full",
+        "codepoint": "F1B2F",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "04821E67-5037-46E7-8F5E-740C7EBFAC1D",
         "name": "train-car-passenger",
         "codepoint": "F1733",
