@@ -77535,6 +77535,17 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "58D39303-215B-4530-AA97-74BCC0AE450B",
+        "name": "train-car-tank",
+        "codepoint": "F1B3E",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "C0A4E604-3829-4605-A7BC-CA0BFF138B18",
         "name": "train-variant",
         "codepoint": "F08C4",
