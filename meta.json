@@ -72518,6 +72518,19 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "18B8F0B3-FEE0-4DF6-A6FB-701BCAB19F3A",
+        "name": "sun-angle",
+        "codepoint": "F1B27",
+        "aliases": [
+            "solar-angle"
+        ],
+        "version": "6.9.96",
+        "tags": [
+            "Weather"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "B467AA69-1E9D-444C-B6E4-764F1D180140",
         "name": "sun-clock",
         "codepoint": "F1A77",
