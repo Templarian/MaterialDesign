@@ -75298,6 +75298,15 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "F4CAA724-0072-475C-82A8-BD8AD3DEE74B",
+        "name": "thermometer-probe-off",
+        "codepoint": "F1B2C",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "23736622-5488-4BE7-BB70-225F5F17AF2B",
         "name": "thermometer-water",
         "codepoint": "F1A80",
