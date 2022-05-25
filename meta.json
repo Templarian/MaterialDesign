@@ -75289,6 +75289,15 @@
         "author": "Michael Richins"
     },
     {
+        "id": "75048CA6-0E85-45B6-9DC4-3F4CDC45E14E",
+        "name": "thermometer-probe",
+        "codepoint": "F1B2B",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "23736622-5488-4BE7-BB70-225F5F17AF2B",
         "name": "thermometer-water",
         "codepoint": "F1A80",
