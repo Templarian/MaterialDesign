@@ -72531,6 +72531,19 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "EFBF30D4-A767-490C-883D-9C94E0789C0D",
+        "name": "sun-angle-outline",
+        "codepoint": "F1B28",
+        "aliases": [
+            "solar-angle-outline"
+        ],
+        "version": "6.9.96",
+        "tags": [
+            "Weather"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "B467AA69-1E9D-444C-B6E4-764F1D180140",
         "name": "sun-clock",
         "codepoint": "F1A77",
