@@ -77392,6 +77392,17 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "10D3216B-36F7-4151-B875-53136AE56E27",
+        "name": "train-car-flatbed",
+        "codepoint": "F1B35",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "04821E67-5037-46E7-8F5E-740C7EBFAC1D",
         "name": "train-car-passenger",
         "codepoint": "F1733",
