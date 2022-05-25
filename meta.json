@@ -24376,6 +24376,15 @@
         "author": "Hans B\u00f6hm"
     },
     {
+        "id": "186EE3B9-AFE9-47BA-A3FA-0ED59797D38C",
+        "name": "content-save-minus-outline",
+        "codepoint": "F1B44",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [],
+        "author": "Hans B\u00f6hm"
+    },
+    {
         "id": "FC4F757F-2540-4853-89A3-7FE07FC710C0",
         "name": "content-save-move",
         "codepoint": "F0E27",
