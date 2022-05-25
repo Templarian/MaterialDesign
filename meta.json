@@ -32255,6 +32255,21 @@
         "author": "Google"
     },
     {
+        "id": "AEE38946-ADDE-4AFA-B450-D13590926CA4",
+        "name": "faucet",
+        "codepoint": "F1B29",
+        "aliases": [
+            "kitchen-tap",
+            "bathroom-tap",
+            "sink"
+        ],
+        "version": "6.9.96",
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "2C398569-5DBF-4405-AF73-6F5CA629AEE1",
         "name": "fax",
         "codepoint": "F0212",
