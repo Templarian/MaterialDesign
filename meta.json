@@ -24416,6 +24416,17 @@
         "author": "Google"
     },
     {
+        "id": "F8794210-E83F-451C-AADE-35F71688F142",
+        "name": "content-save-plus",
+        "codepoint": "F1B41",
+        "aliases": [
+            "content-save-add"
+        ],
+        "version": "6.9.96",
+        "tags": [],
+        "author": "Hans B\u00f6hm"
+    },
+    {
         "id": "67E755F6-209A-41EF-98C5-423739A3AC10",
         "name": "content-save-settings",
         "codepoint": "F061B",
