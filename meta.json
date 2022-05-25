@@ -45404,6 +45404,17 @@
         "author": "GreenTurtwig"
     },
     {
+        "id": "EAB45270-C25D-4493-A71B-9268CC7D2E88",
+        "name": "image-plus-outline",
+        "codepoint": "F1B46",
+        "aliases": [
+            "image-add-outline"
+        ],
+        "version": "6.9.96",
+        "tags": [],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "F91A5FFA-04D3-40A5-AFD1-C7F79D1CE20D",
         "name": "image-refresh",
         "codepoint": "F19FE",
