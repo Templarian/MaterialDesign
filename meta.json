@@ -77480,6 +77480,17 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "E4050AC7-118E-45F6-8A87-571F9C52A02B",
+        "name": "train-car-intermodal",
+        "codepoint": "F1B3D",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "04821E67-5037-46E7-8F5E-740C7EBFAC1D",
         "name": "train-car-passenger",
         "codepoint": "F1733",
