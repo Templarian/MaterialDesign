@@ -59546,6 +59546,17 @@
         "author": "Simran"
     },
     {
+        "id": "2B5D9AA8-0D2D-455F-8585-B8BB5D69717B",
+        "name": "phone-incoming-outgoing",
+        "codepoint": "F1B3F",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "75D9229A-5E93-4E44-8259-0808D47D6458",
         "name": "phone-incoming-outline",
         "codepoint": "F1193",
