@@ -32270,6 +32270,21 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "17559442-5EF5-416D-A96A-51ED8526C530",
+        "name": "faucet-variant",
+        "codepoint": "F1B2A",
+        "aliases": [
+            "bathroom-tap",
+            "kitchen-tap",
+            "sink"
+        ],
+        "version": "6.9.96",
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "2C398569-5DBF-4405-AF73-6F5CA629AEE1",
         "name": "fax",
         "codepoint": "F0212",
