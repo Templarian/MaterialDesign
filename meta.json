@@ -77348,6 +77348,17 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "F358F596-31EA-4304-A06E-1AAB158DA527",
+        "name": "train-car-caboose",
+        "codepoint": "F1B31",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "04821E67-5037-46E7-8F5E-740C7EBFAC1D",
         "name": "train-car-passenger",
         "codepoint": "F1733",
