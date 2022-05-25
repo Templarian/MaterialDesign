@@ -35184,6 +35184,15 @@
         "author": "Google"
     },
     {
+        "id": "39EECEAB-80E1-486A-972E-CFBF84E02A26",
+        "name": "flash-off-outline",
+        "codepoint": "F1B45",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "088BF56F-9281-43DB-879E-EB5158428EB7",
         "name": "flash-outline",
         "codepoint": "F06D5",
