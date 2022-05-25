@@ -77359,6 +77359,17 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "D8D0E296-67AA-4BA1-9268-46D29BF7113E",
+        "name": "train-car-centerbeam",
+        "codepoint": "F1B32",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "04821E67-5037-46E7-8F5E-740C7EBFAC1D",
         "name": "train-car-passenger",
         "codepoint": "F1733",
