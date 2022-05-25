@@ -77381,6 +77381,17 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "6EC41725-E54E-405F-AFCC-6CB7B1D1E529",
+        "name": "train-car-container",
+        "codepoint": "F1B34",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "04821E67-5037-46E7-8F5E-740C7EBFAC1D",
         "name": "train-car-passenger",
         "codepoint": "F1733",
