@@ -77304,6 +77304,17 @@
         "author": "Google"
     },
     {
+        "id": "BDD26393-231D-4F57-ACEE-302525377A8D",
+        "name": "train-car-autorack",
+        "codepoint": "F1B2D",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "04821E67-5037-46E7-8F5E-740C7EBFAC1D",
         "name": "train-car-passenger",
         "codepoint": "F1733",
