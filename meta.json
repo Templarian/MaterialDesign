@@ -77447,6 +77447,17 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "BADFBFC4-21C7-4BDA-B6A7-16C83B32C37C",
+        "name": "train-car-hopper",
+        "codepoint": "F1B3A",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "04821E67-5037-46E7-8F5E-740C7EBFAC1D",
         "name": "train-car-passenger",
         "codepoint": "F1733",
