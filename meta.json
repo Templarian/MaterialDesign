@@ -77414,6 +77414,17 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "D2CF0BD5-C3D2-47E9-B1D4-C90F3D22050D",
+        "name": "train-car-flatbed-tank",
+        "codepoint": "F1B37",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "04821E67-5037-46E7-8F5E-740C7EBFAC1D",
         "name": "train-car-passenger",
         "codepoint": "F1733",
