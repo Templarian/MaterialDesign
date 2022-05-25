@@ -24367,6 +24367,15 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "0FA06948-5C0F-498D-BDCD-15EB208057F9",
+        "name": "content-save-minus",
+        "codepoint": "F1B43",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [],
+        "author": "Hans B\u00f6hm"
+    },
+    {
         "id": "FC4F757F-2540-4853-89A3-7FE07FC710C0",
         "name": "content-save-move",
         "codepoint": "F0E27",
