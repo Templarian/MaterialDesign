@@ -45455,6 +45455,15 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "BC17E5CC-2CF0-4BB8-B467-2672A62E9CCA",
+        "name": "image-remove-outline",
+        "codepoint": "F1B48",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "F00F5E5A-AD8A-440B-9B31-00D266A538A8",
         "name": "image-search",
         "codepoint": "F0977",
