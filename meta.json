@@ -59557,6 +59557,17 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "3F877B20-07A5-43A8-BAAE-C89686C4E043",
+        "name": "phone-incoming-outgoing-outline",
+        "codepoint": "F1B40",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Cellphone \/ Phone"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "75D9229A-5E93-4E44-8259-0808D47D6458",
         "name": "phone-incoming-outline",
         "codepoint": "F1193",
