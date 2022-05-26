@@ -60288,6 +60288,21 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "F4398329-8140-4053-A17D-D96501E7C467",
+        "name": "pill-multiple",
+        "codepoint": "F1B4C",
+        "aliases": [
+            "medicine",
+            "medication",
+            "drugs"
+        ],
+        "version": "6.9.96",
+        "tags": [
+            "Medical \/ Hospital"
+        ],
+        "author": "Hans B\u00f6hm"
+    },
+    {
         "id": "70E290E6-75B8-4976-8206-C066C02C5344",
         "name": "pill-off",
         "codepoint": "F1A5C",
