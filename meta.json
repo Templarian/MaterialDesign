@@ -34322,6 +34322,17 @@
         "author": "Terren"
     },
     {
+        "id": "BEFCABB1-11BE-4D8D-A2F4-48E80E404C90",
+        "name": "file-xml-box",
+        "codepoint": "F1B4B",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "2EFEE436-9663-4C09-AD65-6727A0ED2AFD",
         "name": "film",
         "codepoint": "F022F",
