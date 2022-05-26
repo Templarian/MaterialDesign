@@ -36469,6 +36469,17 @@
         "author": "Andrea Antonello"
     },
     {
+        "id": "8C184D42-0C9C-402E-9B8E-EB78E5A5A21D",
+        "name": "folder-minus",
+        "codepoint": "F1B49",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "B7AD0302-5738-4474-9679-AC118E566A7E",
         "name": "folder-move",
         "codepoint": "F0252",
@@ -36869,7 +36880,7 @@
         "tags": [
             "Files \/ Folders"
         ],
-        "author": "Colton Wiscombe"
+        "author": "Google"
     },
     {
         "id": "407F7D88-25F6-4EDF-8489-3F8B7996F704",
