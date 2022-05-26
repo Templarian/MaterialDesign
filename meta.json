@@ -68291,6 +68291,15 @@
         "author": "Michael Richins"
     },
     {
+        "id": "7E8BA92D-403E-41B0-BA79-7E22E36ADFA8",
+        "name": "sign-language",
+        "codepoint": "F1B4D",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [],
+        "author": "Google"
+    },
+    {
         "id": "AE565EF0-BC09-44FB-B94A-A5F2CF2B2CB2",
         "name": "sign-pole",
         "codepoint": "F14F8",
