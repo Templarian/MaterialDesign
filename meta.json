@@ -36480,6 +36480,17 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "A8D2A9D7-8B44-4BFE-B84E-B1FFB889759C",
+        "name": "folder-minus-outline",
+        "codepoint": "F1B4A",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "B7AD0302-5738-4474-9679-AC118E566A7E",
         "name": "folder-move",
         "codepoint": "F0252",
