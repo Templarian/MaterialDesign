@@ -74,6 +74,7 @@ jobs:
           echo "[$(date -Isecond -u)] $(ls -lah $FILES_DIR/*$FILES_EXTENSION | wc -l) files included" > $CHANGED_FILE
       - name: Commit back to the repository
         run: |
+          git pull
           git config --global user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add $CONTROLS_FILE || true
@@ -84,4 +85,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ steps.extract_branch.outputs.branch }}
+          branch: ${{ github.ref }}
