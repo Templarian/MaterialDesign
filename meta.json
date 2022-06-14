@@ -19836,7 +19836,8 @@
         "name": "checkbox-blank-outline",
         "codepoint": "F0131",
         "aliases": [
-            "check-box-outline-blank"
+            "check-box-outline-blank",
+            "maximize"
         ],
         "version": "1.5.54",
         "tags": [
