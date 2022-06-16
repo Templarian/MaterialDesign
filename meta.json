@@ -19890,6 +19890,17 @@
         "author": "Michael Richins"
     },
     {
+        "id": "409261FA-D055-4E16-88A0-94C31667F218",
+        "name": "checkbox-intermediate-variant",
+        "codepoint": "F1B54",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Form"
+        ],
+        "author": "Andy Giesen"
+    },
+    {
         "id": "C3E50D88-07AB-491F-B21E-9AA11A1E5886",
         "name": "checkbox-marked",
         "codepoint": "F0132",
