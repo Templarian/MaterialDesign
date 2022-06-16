@@ -14801,6 +14801,17 @@
         "author": "Nicolas Gres"
     },
     {
+        "id": "D9990C98-4D95-4E98-9289-3582ABC30351",
+        "name": "button-cursor",
+        "codepoint": "F1B4F",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Form"
+        ],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "5243C745-48FC-4DE9-83F8-138464C7D0D8",
         "name": "cabin-a-frame",
         "codepoint": "F188C",
