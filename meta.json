@@ -66497,6 +66497,15 @@
         "author": "Google"
     },
     {
+        "id": "9CBEF68E-FE84-4690-A9E3-9505E496FF5F",
+        "name": "select-arrow-down",
+        "codepoint": "F1B59",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Sintija"
+    },
+    {
         "id": "92D297D5-0F0F-4D37-A292-FCDA5D3F05C2",
         "name": "select-arrow-up",
         "codepoint": "F1B58",
