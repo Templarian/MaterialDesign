@@ -40382,7 +40382,8 @@
         "codepoint": "F12A8",
         "aliases": [
             "call-to-action",
-            "cta"
+            "cta",
+            "button-pointer"
         ],
         "version": "4.7.95",
         "tags": [],
