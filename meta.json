@@ -14812,6 +14812,17 @@
         "author": "Andrej Sharapov"
     },
     {
+        "id": "ECCE41F5-955D-49FD-BE39-855E1B9D2044",
+        "name": "button-pointer",
+        "codepoint": "F1B50",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Form"
+        ],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "5243C745-48FC-4DE9-83F8-138464C7D0D8",
         "name": "cabin-a-frame",
         "codepoint": "F188C",
