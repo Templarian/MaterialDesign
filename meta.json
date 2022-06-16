@@ -38303,6 +38303,19 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "6272EE7E-4A0B-4A08-AFC4-6FD3845FAD6B",
+        "name": "format-list-group-plus",
+        "codepoint": "F1B56",
+        "aliases": [
+            "format-list-group-add"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
+        "author": "Andy Giesen"
+    },
+    {
         "id": "EFEB4AB3-780B-4C2D-B673-36BB0A4FE0B2",
         "name": "format-list-numbered",
         "codepoint": "F027B",
