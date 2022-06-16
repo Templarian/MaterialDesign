@@ -1947,6 +1947,17 @@
         "author": "Google"
     },
     {
+        "id": "EFF08C2C-BF4C-4A0E-A261-9DEF2A92C8D6",
+        "name": "air-purifier-off",
+        "codepoint": "F1B57",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "26929F83-C254-41C2-8B0D-B4D95EACAD3E",
         "name": "airbag",
         "codepoint": "F0BE9",
