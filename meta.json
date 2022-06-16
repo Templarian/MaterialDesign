@@ -57839,6 +57839,17 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "CAA724DF-E0C7-4010-8265-0C2E594D3094",
+        "name": "package-variant-closed-check",
+        "codepoint": "F1B52",
+        "aliases": [
+            "package-variant-closed-delivered"
+        ],
+        "version": "6.9.96",
+        "tags": [],
+        "author": "Hans B\u00f6hm"
+    },
+    {
         "id": "DF9F88A2-7B9A-4881-A2E4-6BC6F4387A0F",
         "name": "package-variant-closed-minus",
         "codepoint": "F19D4",
