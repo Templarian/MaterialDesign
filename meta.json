@@ -15507,6 +15507,17 @@
         "author": "Michael Richins"
     },
     {
+        "id": "2F59B304-E3CE-4857-9EF8-B75BC591E3E8",
+        "name": "calendar-star-outline",
+        "codepoint": "F1B53",
+        "aliases": [],
+        "version": "6.9.96",
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "D88F139B-9D00-462D-8AA5-C23A5A02FCC6",
         "name": "calendar-start",
         "codepoint": "F166D",
