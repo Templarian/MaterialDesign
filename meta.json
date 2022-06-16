@@ -15356,6 +15356,17 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "10FF1625-E2D7-4E57-B339-8FB1801B0ECD",
+        "name": "calendar-multiselect-outline",
+        "codepoint": "F1B55",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "3703C79F-7F34-41D6-A12F-6247144FEB02",
         "name": "calendar-outline",
         "codepoint": "F0B67",
