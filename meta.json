@@ -43925,7 +43925,8 @@
         "name": "home-heart",
         "codepoint": "F0827",
         "aliases": [
-            "family"
+            "family",
+            "house-heart"
         ],
         "version": "2.1.19",
         "tags": [
