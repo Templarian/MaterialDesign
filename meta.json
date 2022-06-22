@@ -65069,6 +65069,20 @@
         "author": "GreenTurtwig"
     },
     {
+        "id": "DC45B355-D0D4-4616-B1A0-34D22285FE1F",
+        "name": "robot-vacuum-variant-alert",
+        "codepoint": "F1B5E",
+        "aliases": [
+            "robot-vacuum-variant-error"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Alert \/ Error",
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "96BE0E43-42AB-4F93-8045-0C7B61BF69CC",
         "name": "rocket",
         "codepoint": "F0463",
