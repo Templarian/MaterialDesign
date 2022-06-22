@@ -43448,7 +43448,8 @@
         "codepoint": "F0826",
         "aliases": [
             "home-user",
-            "house-account"
+            "house-account",
+            "house-user"
         ],
         "version": "2.1.19",
         "tags": [
