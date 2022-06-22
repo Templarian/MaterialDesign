@@ -13724,7 +13724,9 @@
         "id": "3B62C43D-F1BC-45AB-AB68-B1B854009FD8",
         "name": "braille",
         "codepoint": "F09D0",
-        "aliases": [],
+        "aliases": [
+            "touch-reading"
+        ],
         "version": "2.5.94",
         "tags": [],
         "author": "Michael Richins"
