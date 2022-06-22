@@ -44157,7 +44157,9 @@
         "id": "CDAF170C-BB2C-4217-9B96-D99EE9B725F9",
         "name": "home-plus-outline",
         "codepoint": "F13D6",
-        "aliases": [],
+        "aliases": [
+            "house-plus-outline"
+        ],
         "version": "5.1.45",
         "tags": [
             "Home Automation"
