@@ -44201,7 +44201,8 @@
             "home-chimney",
             "home-attic",
             "house-roof",
-            "house-attic"
+            "house-attic",
+            "house-chimney"
         ],
         "version": "4.3.95",
         "tags": [
