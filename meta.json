@@ -43911,7 +43911,9 @@
         "id": "A4438B5F-FA4C-4C73-8514-3D0364BBB7A5",
         "name": "home-group-remove",
         "codepoint": "F19C2",
-        "aliases": [],
+        "aliases": [
+            "house-group-remove"
+        ],
         "version": "6.5.95",
         "tags": [
             "Home Automation"
