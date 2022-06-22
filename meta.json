@@ -44294,7 +44294,8 @@
         "aliases": [
             "home-climate-outline",
             "home-temperature-outline",
-            "house-thermometer-outline"
+            "house-thermometer-outline",
+            "house-climate-outline"
         ],
         "version": "3.9.97",
         "tags": [
