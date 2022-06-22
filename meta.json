@@ -40451,7 +40451,9 @@
         "id": "FC2EE3B3-9885-4278-9BCE-491B27B4666E",
         "name": "gesture-tap-box",
         "codepoint": "F12A9",
-        "aliases": [],
+        "aliases": [
+            "gesture-touch-box"
+        ],
         "version": "4.7.95",
         "tags": [],
         "author": "Michael Irigoyen"
