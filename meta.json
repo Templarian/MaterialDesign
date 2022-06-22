@@ -15573,6 +15573,17 @@
         "author": "Simran"
     },
     {
+        "id": "38D715EB-E9A7-48E9-A283-0F09D440AD9F",
+        "name": "calendar-question-outline",
+        "codepoint": "F1B6D",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "740D7A91-7492-4922-96C7-A719E2BCD62A",
         "name": "calendar-range",
         "codepoint": "F0679",
