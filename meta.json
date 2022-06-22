@@ -43479,7 +43479,8 @@
         "name": "home-alert-outline",
         "codepoint": "F15D0",
         "aliases": [
-            "house-alert-outline"
+            "house-alert-outline",
+            "home-warning-outline"
         ],
         "version": "5.6.55",
         "tags": [
