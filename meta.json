@@ -30212,6 +30212,19 @@
         "author": "Simran"
     },
     {
+        "id": "F4DE5AAA-B343-46ED-B1D3-CBDA05A61E87",
+        "name": "email-lock-outline",
+        "codepoint": "F1B61",
+        "aliases": [
+            "email-secure-outline"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Lock"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "F5FF3FDF-2BEC-4DCB-A6AB-9FF483126C70",
         "name": "email-mark-as-unread",
         "codepoint": "F0B92",
