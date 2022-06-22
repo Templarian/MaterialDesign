@@ -15245,6 +15245,17 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "80F02E2F-3A1A-4A99-9C80-00A3DF4E518F",
+        "name": "calendar-end-outline",
+        "codepoint": "F1B66",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "61805380-C5C2-4A69-A0BC-356A642F7188",
         "name": "calendar-expand-horizontal",
         "codepoint": "F189E",
