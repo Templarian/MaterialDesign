@@ -54409,6 +54409,18 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "E6E507D5-3440-4E48-A346-3EAA70810BA6",
+        "name": "mower-bag-on",
+        "codepoint": "F1B60",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Hardware \/ Tools",
+            "Home Automation"
+        ],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "6DE40A54-9555-4B66-A698-0B22894BDE68",
         "name": "mower-on",
         "codepoint": "F1B5F",
