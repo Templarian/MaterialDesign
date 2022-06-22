@@ -82461,6 +82461,20 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "CFF329EE-07C3-48E8-B21D-7B31F36875E6",
+        "name": "weather-dust",
+        "codepoint": "F1B5A",
+        "aliases": [
+            "dust-storm",
+            "windy"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Weather"
+        ],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "9E1AC9CA-0FA4-44C6-BA5D-2EB3CED4899D",
         "name": "weather-fog",
         "codepoint": "F0591",
