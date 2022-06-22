@@ -43523,7 +43523,9 @@
         "id": "FD2567BF-09EC-4871-B3E8-DAE9CDCF3A38",
         "name": "home-automation",
         "codepoint": "F07D1",
-        "aliases": [],
+        "aliases": [
+            "house-automation"
+        ],
         "version": "2.0.46",
         "tags": [
             "Home Automation"
