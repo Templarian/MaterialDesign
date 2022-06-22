@@ -15198,6 +15198,17 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "5DCA7EB2-7A5E-4F58-9A0A-39CCD6737215",
+        "name": "calendar-cursor-outline",
+        "codepoint": "F1B64",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "2976EA1B-60A3-46FB-97E2-95BB74B0DD22",
         "name": "calendar-edit",
         "codepoint": "F08A7",
