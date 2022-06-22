@@ -65042,6 +65042,20 @@
         "author": "Roberto Graham"
     },
     {
+        "id": "05DDCBE1-561A-4961-87F7-CA9BE0C182BE",
+        "name": "robot-vacuum-alert",
+        "codepoint": "F1B5D",
+        "aliases": [
+            "robot-vacuum-error"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Alert \/ Error",
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "C7938632-FA58-4686-9B82-5E9CCDD0EC83",
         "name": "robot-vacuum-variant",
         "codepoint": "F0908",
