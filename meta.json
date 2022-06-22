@@ -44215,7 +44215,8 @@
         "name": "home-search",
         "codepoint": "F13B0",
         "aliases": [
-            "house-search"
+            "house-search",
+            "home-find"
         ],
         "version": "5.0.45",
         "tags": [
