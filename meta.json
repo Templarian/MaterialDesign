@@ -43498,7 +43498,8 @@
             "chart-home",
             "home-chart",
             "home-report",
-            "house-analytics"
+            "house-analytics",
+            "house-chart"
         ],
         "version": "3.7.94",
         "tags": [
