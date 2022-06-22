@@ -43561,7 +43561,8 @@
             "home-energy-outline",
             "home-power-outline",
             "home-electricity-outline",
-            "house-battery-outline"
+            "house-battery-outline",
+            "house-power-outline"
         ],
         "version": "6.4.95",
         "tags": [
