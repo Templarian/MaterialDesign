@@ -43631,7 +43631,8 @@
         "aliases": [
             "home-time",
             "home-schedule",
-            "house-time"
+            "house-time",
+            "house-clock"
         ],
         "version": "6.6.96",
         "tags": [
