@@ -43464,7 +43464,8 @@
         "codepoint": "F087B",
         "aliases": [
             "home-warning",
-            "house-alert"
+            "house-alert",
+            "house-warning"
         ],
         "version": "2.1.99",
         "tags": [
