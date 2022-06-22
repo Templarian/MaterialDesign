@@ -40478,7 +40478,9 @@
         "id": "B502F4A5-5545-42F7-A0B4-E90BF4421D17",
         "name": "gesture-tap-hold",
         "codepoint": "F0D77",
-        "aliases": [],
+        "aliases": [
+            "gesture-touch-hold"
+        ],
         "version": "3.4.93",
         "tags": [],
         "author": "Google"
