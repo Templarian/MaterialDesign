@@ -15223,6 +15223,17 @@
         "author": "Michael Richins"
     },
     {
+        "id": "600D756C-664E-4213-B29F-F884E0DE0AE0",
+        "name": "calendar-edit-outline",
+        "codepoint": "F1B65",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "5837A731-F9AE-433E-AB31-12EE3D2D13D1",
         "name": "calendar-end",
         "codepoint": "F166C",
