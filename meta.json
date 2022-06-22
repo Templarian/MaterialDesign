@@ -15337,6 +15337,17 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "754FE282-68CE-4E9E-BDFB-22C24815C06E",
+        "name": "calendar-heart-outline",
+        "codepoint": "F1B69",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "04EEB2AA-AB71-4124-8AC4-FA65985AF37E",
         "name": "calendar-import",
         "codepoint": "F0B25",
