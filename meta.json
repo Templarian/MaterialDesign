@@ -8195,6 +8195,23 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "0086E21E-2ABC-4983-8BA7-C9C31B55D6B9",
+        "name": "atv",
+        "codepoint": "F1B70",
+        "aliases": [
+            "quad",
+            "trike",
+            "two-wheeler",
+            "all-terrain-vehicle"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Transportation + Other",
+            "Sport"
+        ],
+        "author": "Google"
+    },
+    {
         "id": "2CB292B6-3835-44B4-857B-5231B87B5968",
         "name": "audio-input-rca",
         "codepoint": "F186B",
