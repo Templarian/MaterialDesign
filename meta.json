@@ -44260,7 +44260,8 @@
         "name": "home-switch-outline",
         "codepoint": "F1795",
         "aliases": [
-            "home-swap-outline"
+            "home-swap-outline",
+            "house-swap-outline"
         ],
         "version": "6.1.95",
         "tags": [
