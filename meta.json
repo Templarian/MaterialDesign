@@ -14990,7 +14990,9 @@
         "id": "CD7D41D2-4BD2-4482-85C2-314A283EB57F",
         "name": "calendar-account",
         "codepoint": "F0ED7",
-        "aliases": [],
+        "aliases": [
+            "calendar-user"
+        ],
         "version": "3.8.95",
         "tags": [
             "Date \/ Time",
