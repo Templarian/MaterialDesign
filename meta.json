@@ -15004,7 +15004,9 @@
         "id": "B852A287-2C5E-4468-9A83-6B5E0ABD1219",
         "name": "calendar-account-outline",
         "codepoint": "F0ED8",
-        "aliases": [],
+        "aliases": [
+            "calendar-user-outline"
+        ],
         "version": "3.8.95",
         "tags": [
             "Date \/ Time",
