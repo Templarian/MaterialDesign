@@ -43678,7 +43678,9 @@
         "id": "B56AB73F-0A3C-4562-88DF-ED70B51877DE",
         "name": "home-edit-outline",
         "codepoint": "F115A",
-        "aliases": [],
+        "aliases": [
+            "house-edit-outline"
+        ],
         "version": "4.4.95",
         "tags": [
             "Home Automation",
