@@ -44184,7 +44184,9 @@
         "id": "CD3129FD-EDCB-4B65-85F8-900E59E308B7",
         "name": "home-remove-outline",
         "codepoint": "F13D7",
-        "aliases": [],
+        "aliases": [
+            "house-remove-outline"
+        ],
         "version": "5.1.45",
         "tags": [
             "Home Automation"
