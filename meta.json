@@ -43632,7 +43632,8 @@
             "home-time",
             "home-schedule",
             "house-time",
-            "house-clock"
+            "house-clock",
+            "house-schedule"
         ],
         "version": "6.6.96",
         "tags": [
