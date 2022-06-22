@@ -44230,7 +44230,8 @@
         "name": "home-search-outline",
         "codepoint": "F13B1",
         "aliases": [
-            "house-search-outline"
+            "house-search-outline",
+            "home-find-outline"
         ],
         "version": "5.0.45",
         "tags": [
