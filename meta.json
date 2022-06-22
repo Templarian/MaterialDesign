@@ -44034,7 +44034,9 @@
         "id": "0E63785D-BB37-4A60-B09D-F985DC4FAD5F",
         "name": "home-lock-open",
         "codepoint": "F08EC",
-        "aliases": [],
+        "aliases": [
+            "house-lock-open"
+        ],
         "version": "2.3.50",
         "tags": [
             "Home Automation",
