@@ -36383,7 +36383,9 @@
         "id": "5CFE89BB-F160-4C01-95C8-CFDF3D2099DA",
         "name": "folder-home-outline",
         "codepoint": "F10B6",
-        "aliases": [],
+        "aliases": [
+            "folder-house-outline"
+        ],
         "version": "4.2.95",
         "tags": [
             "Files \/ Folders",
