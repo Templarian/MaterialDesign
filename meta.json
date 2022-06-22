@@ -43705,7 +43705,9 @@
         "id": "AC4506FC-3368-416C-8E9A-BADD6F66E7D5",
         "name": "home-flood",
         "codepoint": "F0EFA",
-        "aliases": [],
+        "aliases": [
+            "house-flood"
+        ],
         "version": "3.8.95",
         "tags": [
             "Weather",
