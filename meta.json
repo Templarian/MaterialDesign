@@ -44278,7 +44278,8 @@
             "home-climate",
             "home-temperature",
             "house-thermometer",
-            "house-climate"
+            "house-climate",
+            "house-temperature"
         ],
         "version": "3.9.97",
         "tags": [
