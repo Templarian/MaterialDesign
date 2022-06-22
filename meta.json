@@ -15359,6 +15359,17 @@
         "author": "Michael Richins"
     },
     {
+        "id": "A3C7C111-C3C4-456D-B631-649D9D99E714",
+        "name": "calendar-import-outline",
+        "codepoint": "F1B6A",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "8189159C-0869-4B40-809C-ECE7C33A2EC0",
         "name": "calendar-lock",
         "codepoint": "F1641",
