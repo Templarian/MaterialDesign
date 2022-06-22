@@ -44063,7 +44063,9 @@
         "id": "825AF439-6839-48DA-A6D4-B62BB2710103",
         "name": "home-minus",
         "codepoint": "F0974",
-        "aliases": [],
+        "aliases": [
+            "house-minus"
+        ],
         "version": "2.4.85",
         "tags": [
             "Home Automation"
