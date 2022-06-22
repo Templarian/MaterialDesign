@@ -44158,7 +44158,8 @@
         "name": "home-plus-outline",
         "codepoint": "F13D6",
         "aliases": [
-            "house-plus-outline"
+            "house-plus-outline",
+            "house-add-outline"
         ],
         "version": "5.1.45",
         "tags": [
