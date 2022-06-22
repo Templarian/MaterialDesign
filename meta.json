@@ -44005,7 +44005,8 @@
             "home-power",
             "home-electricity",
             "home-flash",
-            "house-lightning-bolt-outline"
+            "house-lightning-bolt-outline",
+            "house-flash-outline"
         ],
         "version": "6.4.95",
         "tags": [
