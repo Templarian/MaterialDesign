@@ -44171,7 +44171,9 @@
         "id": "FEF8AC85-F9E6-4C9B-B0C2-A5158AAD8A8B",
         "name": "home-remove",
         "codepoint": "F1247",
-        "aliases": [],
+        "aliases": [
+            "house-remove"
+        ],
         "version": "4.6.95",
         "tags": [
             "Home Automation"
