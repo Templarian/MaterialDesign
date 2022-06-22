@@ -15548,6 +15548,17 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "52E522A1-E89B-47DE-8C27-EC85140AA13A",
+        "name": "calendar-plus-outline",
+        "codepoint": "F1B6C",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "1A7293FC-E6E7-4C86-8919-32D0C5F60B08",
         "name": "calendar-question",
         "codepoint": "F0692",
