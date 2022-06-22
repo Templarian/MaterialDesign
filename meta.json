@@ -44295,7 +44295,8 @@
             "home-climate-outline",
             "home-temperature-outline",
             "house-thermometer-outline",
-            "house-climate-outline"
+            "house-climate-outline",
+            "house-temperature-outline"
         ],
         "version": "3.9.97",
         "tags": [
