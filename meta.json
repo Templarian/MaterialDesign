@@ -44018,7 +44018,9 @@
         "id": "ECB8FF23-47EC-4038-9673-1A3A1619C071",
         "name": "home-lock",
         "codepoint": "F08EB",
-        "aliases": [],
+        "aliases": [
+            "house-lock"
+        ],
         "version": "2.3.50",
         "tags": [
             "Home Automation",
