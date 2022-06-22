@@ -13725,7 +13725,8 @@
         "name": "braille",
         "codepoint": "F09D0",
         "aliases": [
-            "touch-reading"
+            "touch-reading",
+            "hand-reading"
         ],
         "version": "2.5.94",
         "tags": [],
