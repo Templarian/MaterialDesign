@@ -40465,7 +40465,8 @@
         "aliases": [
             "call-to-action",
             "cta",
-            "button-pointer"
+            "button-pointer",
+            "gesture-touch-button"
         ],
         "version": "4.7.95",
         "tags": [
