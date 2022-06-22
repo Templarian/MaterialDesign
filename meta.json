@@ -43541,7 +43541,8 @@
         "aliases": [
             "home-energy",
             "home-power",
-            "home-electricity"
+            "home-electricity",
+            "house-energy"
         ],
         "version": "6.4.95",
         "tags": [
