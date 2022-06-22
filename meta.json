@@ -43630,7 +43630,8 @@
         "codepoint": "F1A12",
         "aliases": [
             "home-time",
-            "home-schedule"
+            "home-schedule",
+            "house-time"
         ],
         "version": "6.6.96",
         "tags": [
