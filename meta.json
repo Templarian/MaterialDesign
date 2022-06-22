@@ -43968,7 +43968,8 @@
         "name": "home-lightbulb-outline",
         "codepoint": "F1252",
         "aliases": [
-            "home-bulb-outline"
+            "home-bulb-outline",
+            "house-lightbulb-outline"
         ],
         "version": "4.6.95",
         "tags": [
