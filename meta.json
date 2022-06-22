@@ -44276,7 +44276,8 @@
         "codepoint": "F0F54",
         "aliases": [
             "home-climate",
-            "home-temperature"
+            "home-temperature",
+            "house-thermometer"
         ],
         "version": "3.9.97",
         "tags": [
