@@ -36371,7 +36371,9 @@
         "id": "EF46E7D8-3062-41E5-8FC6-92D66DEF7603",
         "name": "folder-home",
         "codepoint": "F10B5",
-        "aliases": [],
+        "aliases": [
+            "folder-house"
+        ],
         "version": "4.2.95",
         "tags": [
             "Files \/ Folders",
