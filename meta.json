@@ -43896,7 +43896,9 @@
         "id": "6A0C18F6-510F-4AC3-88FE-6B24C7669BAD",
         "name": "home-group-plus",
         "codepoint": "F19C0",
-        "aliases": [],
+        "aliases": [
+            "house-group-plus"
+        ],
         "version": "6.5.95",
         "tags": [
             "Home Automation"
