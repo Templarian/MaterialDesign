@@ -15275,6 +15275,18 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "2A1D736B-88EB-4E0A-8FEE-69112C3578AA",
+        "name": "calendar-lock-open",
+        "codepoint": "F1B5B",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Lock",
+            "Date \/ Time"
+        ],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "38B4A077-A3EA-4AF2-8553-9888BA25589F",
         "name": "calendar-lock-outline",
         "codepoint": "F1642",
