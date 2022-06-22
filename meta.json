@@ -43478,7 +43478,9 @@
         "id": "0A46973B-0029-4BCF-9728-F3E13DC9FE91",
         "name": "home-alert-outline",
         "codepoint": "F15D0",
-        "aliases": [],
+        "aliases": [
+            "house-alert-outline"
+        ],
         "version": "5.6.55",
         "tags": [
             "Home Automation",
