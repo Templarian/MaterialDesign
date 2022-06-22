@@ -44200,7 +44200,8 @@
         "aliases": [
             "home-chimney",
             "home-attic",
-            "house-roof"
+            "house-roof",
+            "house-attic"
         ],
         "version": "4.3.95",
         "tags": [
