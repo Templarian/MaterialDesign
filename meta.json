@@ -54409,6 +54409,18 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "6DE40A54-9555-4B66-A698-0B22894BDE68",
+        "name": "mower-on",
+        "codepoint": "F1B5F",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Hardware \/ Tools",
+            "Home Automation"
+        ],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "730FEADE-1281-422D-9E31-9DF7D06AD4E3",
         "name": "muffin",
         "codepoint": "F098C",
