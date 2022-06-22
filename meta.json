@@ -44245,7 +44245,8 @@
         "name": "home-switch",
         "codepoint": "F1794",
         "aliases": [
-            "home-swap"
+            "home-swap",
+            "house-switch"
         ],
         "version": "6.1.95",
         "tags": [
