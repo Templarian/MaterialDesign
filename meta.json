@@ -40440,7 +40440,8 @@
         "codepoint": "F0741",
         "aliases": [
             "interaction-tap",
-            "hand-tap"
+            "hand-tap",
+            "gesture-touch"
         ],
         "version": "1.9.32",
         "tags": [],
