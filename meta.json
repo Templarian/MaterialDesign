@@ -43463,7 +43463,8 @@
         "name": "home-alert",
         "codepoint": "F087B",
         "aliases": [
-            "home-warning"
+            "home-warning",
+            "house-alert"
         ],
         "version": "2.1.99",
         "tags": [
