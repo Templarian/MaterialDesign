@@ -44277,7 +44277,8 @@
         "aliases": [
             "home-climate",
             "home-temperature",
-            "house-thermometer"
+            "house-thermometer",
+            "house-climate"
         ],
         "version": "3.9.97",
         "tags": [
