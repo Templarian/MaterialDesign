@@ -43939,7 +43939,9 @@
         "id": "041C4C4F-6D85-4F8B-90CC-FB17E9202862",
         "name": "home-import-outline",
         "codepoint": "F0F9C",
-        "aliases": [],
+        "aliases": [
+            "house-import-outline"
+        ],
         "version": "3.9.97",
         "tags": [
             "Home Automation"
