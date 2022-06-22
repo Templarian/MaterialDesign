@@ -43525,7 +43525,8 @@
         "codepoint": "F07D1",
         "aliases": [
             "house-automation",
-            "home-wireless"
+            "home-wireless",
+            "house-wireless"
         ],
         "version": "2.0.46",
         "tags": [
