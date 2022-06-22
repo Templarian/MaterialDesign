@@ -43543,7 +43543,8 @@
             "home-power",
             "home-electricity",
             "house-energy",
-            "house-battery"
+            "house-battery",
+            "house-power"
         ],
         "version": "6.4.95",
         "tags": [
