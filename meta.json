@@ -15431,6 +15431,17 @@
         "author": "ButchMonkey"
     },
     {
+        "id": "CF434321-1488-401F-B090-67822ABAB9D8",
+        "name": "calendar-minus-outline",
+        "codepoint": "F1B6B",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "73BD287F-15E4-46D3-997F-0F2A9E641EE9",
         "name": "calendar-month",
         "codepoint": "F0E17",
