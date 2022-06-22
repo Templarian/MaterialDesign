@@ -44019,7 +44019,8 @@
         "name": "home-lock",
         "codepoint": "F08EB",
         "aliases": [
-            "house-lock"
+            "house-lock",
+            "home-secure"
         ],
         "version": "2.3.50",
         "tags": [
