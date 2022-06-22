@@ -43897,7 +43897,8 @@
         "name": "home-group-plus",
         "codepoint": "F19C0",
         "aliases": [
-            "house-group-plus"
+            "house-group-plus",
+            "home-group-add"
         ],
         "version": "6.5.95",
         "tags": [
