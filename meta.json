@@ -45238,6 +45238,18 @@
         "author": "Google"
     },
     {
+        "id": "6248F0D3-5347-4AEF-A1FE-903BDD78D4AA",
+        "name": "human-walker",
+        "codepoint": "F1B71",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "People \/ Family",
+            "Medical \/ Hospital"
+        ],
+        "author": "Google"
+    },
+    {
         "id": "B0529853-AE3D-475C-94EB-0C775E934806",
         "name": "human-wheelchair",
         "codepoint": "F138D",
