@@ -15030,6 +15030,18 @@
         "author": "Simran"
     },
     {
+        "id": "6721AEBE-3E28-460D-A11A-0298B1163384",
+        "name": "calendar-alert-outline",
+        "codepoint": "F1B62",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Date \/ Time",
+            "Alert \/ Error"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "9FB11BA5-47F5-40B8-9BD2-259FEA4E0A6E",
         "name": "calendar-arrow-left",
         "codepoint": "F1134",
