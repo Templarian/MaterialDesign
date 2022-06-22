@@ -43953,7 +43953,8 @@
         "name": "home-lightbulb",
         "codepoint": "F1251",
         "aliases": [
-            "home-bulb"
+            "home-bulb",
+            "house-lightbulb"
         ],
         "version": "4.6.95",
         "tags": [
