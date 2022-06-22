@@ -44076,7 +44076,9 @@
         "id": "8DB9C230-99DF-4137-9A32-2D1058D824EA",
         "name": "home-minus-outline",
         "codepoint": "F13D5",
-        "aliases": [],
+        "aliases": [
+            "house-minus-outline"
+        ],
         "version": "5.1.45",
         "tags": [
             "Home Automation"
