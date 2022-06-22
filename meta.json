@@ -44143,7 +44143,8 @@
         "name": "home-plus",
         "codepoint": "F0975",
         "aliases": [
-            "home-add"
+            "home-add",
+            "house-plus"
         ],
         "version": "2.4.85",
         "tags": [
