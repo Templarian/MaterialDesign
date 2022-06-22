@@ -44229,7 +44229,9 @@
         "id": "D261AFB1-2C65-41D6-AE5A-E25D2FC120ED",
         "name": "home-search-outline",
         "codepoint": "F13B1",
-        "aliases": [],
+        "aliases": [
+            "house-search-outline"
+        ],
         "version": "5.0.45",
         "tags": [
             "Home Automation"
