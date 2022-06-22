@@ -15679,6 +15679,17 @@
         "author": "GreenTurtwig"
     },
     {
+        "id": "D6113F31-EAA4-4050-AC56-8FC216173F89",
+        "name": "calendar-search-outline",
+        "codepoint": "F1B6E",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "96505BCC-D522-45A6-A642-85F1B4248FAA",
         "name": "calendar-star",
         "codepoint": "F09D3",
