@@ -71208,6 +71208,18 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "8B5A1E60-E54F-4416-AB60-6138113BBFA7",
+        "name": "speaker-stop",
+        "codepoint": "F1B74",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Audio",
+            "Music"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "F9EA980F-2C75-48DE-9D56-9A15CFE52865",
         "name": "speaker-wireless",
         "codepoint": "F071F",
