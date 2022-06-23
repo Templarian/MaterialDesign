@@ -71184,6 +71184,18 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "CB32FC8E-E6ED-4CAB-A92B-2F922EF02AD8",
+        "name": "speaker-play",
+        "codepoint": "F1B72",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Audio",
+            "Music"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "F9EA980F-2C75-48DE-9D56-9A15CFE52865",
         "name": "speaker-wireless",
         "codepoint": "F071F",
