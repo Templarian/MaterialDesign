@@ -71184,6 +71184,18 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "2B755A5C-4AC3-4077-9D11-29DC807BBEBA",
+        "name": "speaker-pause",
+        "codepoint": "F1B73",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Audio",
+            "Music"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "CB32FC8E-E6ED-4CAB-A92B-2F922EF02AD8",
         "name": "speaker-play",
         "codepoint": "F1B72",
