@@ -63720,7 +63720,8 @@
         "codepoint": "F0824",
         "aliases": [
             "cloth",
-            "fabric"
+            "fabric",
+            "swatch"
         ],
         "version": "2.1.19",
         "tags": [],
