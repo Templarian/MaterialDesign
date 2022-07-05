@@ -28006,15 +28006,6 @@
         "author": "GreenTurtwig"
     },
     {
-        "id": "4B4C339D-D581-44A3-95DE-4254CC42AC8D",
-        "name": "desktop-mac",
-        "codepoint": "F01C4",
-        "aliases": [],
-        "version": "1.5.54",
-        "tags": [],
-        "author": "Google"
-    },
-    {
         "id": "A3CC4F14-35C0-421B-A818-9B8E4E852522",
         "name": "desktop-mac-dashboard",
         "codepoint": "F09E8",
@@ -80230,6 +80221,15 @@
             "Geographic Information System"
         ],
         "author": "Simran"
+    },
+    {
+        "id": "4B4C339D-D581-44A3-95DE-4254CC42AC8D",
+        "name": "vector-point",
+        "codepoint": "F01C4",
+        "aliases": [],
+        "version": "1.5.54",
+        "tags": [],
+        "author": "Andrea Antonello"
     },
     {
         "id": "C8B18CF5-BD7E-41FC-A653-6B46D85F982A",
