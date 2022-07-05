@@ -80236,7 +80236,7 @@
     },
     {
         "id": "C8B18CF5-BD7E-41FC-A653-6B46D85F982A",
-        "name": "vector-point",
+        "name": "vector-point-select",
         "codepoint": "F055F",
         "aliases": [],
         "version": "1.5.54",
