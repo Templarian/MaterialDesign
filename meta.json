@@ -38700,7 +38700,9 @@
         "id": "D6B79C3B-22FB-4B52-90B8-6979AB48C3E8",
         "name": "format-pilcrow-arrow-right",
         "codepoint": "F0285",
-        "aliases": [],
+        "aliases": [
+            "format-textdirection-l-to-r"
+        ],
         "version": "1.5.54",
         "tags": [
             "Text \/ Content \/ Format"
