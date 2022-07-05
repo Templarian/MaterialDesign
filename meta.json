@@ -30577,7 +30577,9 @@
         "id": "68040E6F-6BCD-4505-94D6-55D1E11E82ED",
         "name": "email-receive",
         "codepoint": "F10DA",
-        "aliases": [],
+        "aliases": [
+            "email-receive"
+        ],
         "version": "4.3.95",
         "tags": [],
         "author": "Michael Richins"
