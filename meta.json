@@ -63718,7 +63718,9 @@
         "id": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
         "name": "receipt",
         "codepoint": "F0824",
-        "aliases": [],
+        "aliases": [
+            "cloth"
+        ],
         "version": "2.1.19",
         "tags": [],
         "author": "Michael Irigoyen"
