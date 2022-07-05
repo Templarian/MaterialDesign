@@ -52297,7 +52297,8 @@
         "name": "microphone-message-off",
         "codepoint": "F050B",
         "aliases": [
-            "tts-off"
+            "tts-off",
+            "text-to-speech-off"
         ],
         "version": "1.5.54",
         "tags": [],
