@@ -53618,7 +53618,8 @@
         "name": "mosque",
         "codepoint": "F0D45",
         "aliases": [
-            "islam"
+            "islam",
+            "muslim"
         ],
         "version": "3.4.93",
         "tags": [
