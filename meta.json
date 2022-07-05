@@ -38998,7 +38998,9 @@
         "id": "C317FCCF-DCDB-4429-B1A7-850FED29F5B3",
         "name": "format-textdirection-r-to-l",
         "codepoint": "F0286",
-        "aliases": [],
+        "aliases": [
+            "format-textdirection-r-to-l"
+        ],
         "version": "1.5.54",
         "tags": [
             "Text \/ Content \/ Format"
