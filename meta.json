@@ -30290,6 +30290,17 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "7C66176F-E1BF-4F04-A761-377F67916FDA",
+        "name": "email-arrow-right",
+        "codepoint": "F10DC",
+        "aliases": [
+            "email-send"
+        ],
+        "version": "4.3.95",
+        "tags": [],
+        "author": "Michael Richins"
+    },
+    {
         "id": "6930A4EF-08EB-4649-B2BB-369269DA918F",
         "name": "email-box",
         "codepoint": "F0D03",
@@ -30634,17 +30645,6 @@
         "version": "2.4.85",
         "tags": [],
         "author": "GreenTurtwig"
-    },
-    {
-        "id": "7C66176F-E1BF-4F04-A761-377F67916FDA",
-        "name": "email-send",
-        "codepoint": "F10DC",
-        "aliases": [
-            "email-send"
-        ],
-        "version": "4.3.95",
-        "tags": [],
-        "author": "Michael Richins"
     },
     {
         "id": "795B1734-652A-4DCC-98B6-433C79C33001",
