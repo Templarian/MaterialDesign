@@ -24818,6 +24818,19 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "8C28F332-2037-476E-8FAA-D5E6BC81D8B2",
+        "name": "controller-off",
+        "codepoint": "F02B5",
+        "aliases": [
+            "google-gamepad-off"
+        ],
+        "version": "1.5.54",
+        "tags": [
+            "Gaming \/ RPG"
+        ],
+        "author": "Google"
+    },
+    {
         "id": "8E3FB537-B293-41A6-B6C5-B2BE927091F5",
         "name": "cookie",
         "codepoint": "F0198",
@@ -41392,19 +41405,6 @@
         "version": "4.6.95",
         "tags": [
             "Brand \/ Logo"
-        ],
-        "author": "Google"
-    },
-    {
-        "id": "8C28F332-2037-476E-8FAA-D5E6BC81D8B2",
-        "name": "google-controller-off",
-        "codepoint": "F02B5",
-        "aliases": [
-            "google-gamepad-off"
-        ],
-        "version": "1.5.54",
-        "tags": [
-            "Gaming \/ RPG"
         ],
         "author": "Google"
     },
