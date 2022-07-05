@@ -53617,7 +53617,9 @@
         "id": "55847C89-2AE5-4F91-85AA-761FD8CE57F0",
         "name": "mosque",
         "codepoint": "F0D45",
-        "aliases": [],
+        "aliases": [
+            "islam"
+        ],
         "version": "3.4.93",
         "tags": [
             "Religion"
