@@ -52285,7 +52285,8 @@
         "name": "microphone-message",
         "codepoint": "F050A",
         "aliases": [
-            "tts"
+            "tts",
+            "text-to-speech"
         ],
         "version": "1.5.54",
         "tags": [],
