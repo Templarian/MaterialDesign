@@ -63719,7 +63719,8 @@
         "name": "receipt",
         "codepoint": "F0824",
         "aliases": [
-            "cloth"
+            "cloth",
+            "fabric"
         ],
         "version": "2.1.19",
         "tags": [],
