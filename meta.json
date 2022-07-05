@@ -52281,6 +52281,18 @@
         "author": "Google"
     },
     {
+        "id": "5B1FA77D-0384-4931-AFD8-C4FF5D73D372",
+        "name": "microphone-message",
+        "codepoint": "F050A",
+        "aliases": [
+            "tts",
+            "microphone-message"
+        ],
+        "version": "1.5.54",
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
         "id": "FFAA9F2E-96F9-43A3-BC4E-F7562703E6A1",
         "name": "microphone-minus",
         "codepoint": "F08B3",
@@ -75732,18 +75744,6 @@
         "version": "2.4.85",
         "tags": [],
         "author": "Google"
-    },
-    {
-        "id": "5B1FA77D-0384-4931-AFD8-C4FF5D73D372",
-        "name": "text-to-speech",
-        "codepoint": "F050A",
-        "aliases": [
-            "tts",
-            "microphone-message"
-        ],
-        "version": "1.5.54",
-        "tags": [],
-        "author": "Austin Andrews"
     },
     {
         "id": "1AE8F7A9-5454-44D2-B16D-1D383E33978D",
