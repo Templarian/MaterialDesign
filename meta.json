@@ -12828,6 +12828,15 @@
         "author": "Google"
     },
     {
+        "id": "BBEAE49B-BA87-4375-A642-83196A4999F6",
+        "name": "bookmark-box",
+        "codepoint": "F1B75",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "84C06231-55E7-4450-B88D-964B33FCACDA",
         "name": "bookmark-box-multiple",
         "codepoint": "F196C",
