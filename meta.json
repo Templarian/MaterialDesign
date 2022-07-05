@@ -63727,17 +63727,6 @@
         "author": "Austin Andrews"
     },
     {
-        "id": "80E9E435-2478-4B48-99B8-D8BEF353AE5F",
-        "name": "receipt",
-        "codepoint": "F0449",
-        "aliases": [
-            "invoice"
-        ],
-        "version": "1.5.54",
-        "tags": [],
-        "author": "Google"
-    },
-    {
         "id": "C5A53971-FD74-4C82-8CA6-9C1216713365",
         "name": "receipt-outline",
         "codepoint": "F19DC",
@@ -63745,6 +63734,17 @@
             "invoice-outline"
         ],
         "version": "6.6.96",
+        "tags": [],
+        "author": "Google"
+    },
+    {
+        "id": "80E9E435-2478-4B48-99B8-D8BEF353AE5F",
+        "name": "receipt-text",
+        "codepoint": "F0449",
+        "aliases": [
+            "invoice"
+        ],
+        "version": "1.5.54",
         "tags": [],
         "author": "Google"
     },
