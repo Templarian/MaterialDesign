@@ -12861,6 +12861,15 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "93A0AE0D-58F7-4A60-8A24-A0E131A036E2",
+        "name": "bookmark-box-outline",
+        "codepoint": "F1B76",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "65F155F1-7A9F-49AF-B570-FD6D24553CE5",
         "name": "bookmark-check",
         "codepoint": "F00C1",
