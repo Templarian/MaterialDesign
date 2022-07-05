@@ -80257,7 +80257,9 @@
         "codepoint": "F09E8",
         "aliases": [],
         "version": "2.5.94",
-        "tags": [],
+        "tags": [
+            "Vector"
+        ],
         "author": "Andrea Antonello"
     },
     {
