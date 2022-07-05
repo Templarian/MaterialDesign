@@ -24821,9 +24821,7 @@
         "id": "8C28F332-2037-476E-8FAA-D5E6BC81D8B2",
         "name": "controller-off",
         "codepoint": "F02B5",
-        "aliases": [
-            "google-gamepad-off"
-        ],
+        "aliases": [],
         "version": "1.5.54",
         "tags": [
             "Gaming \/ RPG"
