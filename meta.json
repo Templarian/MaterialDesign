@@ -80246,7 +80246,9 @@
         "codepoint": "F01C4",
         "aliases": [],
         "version": "1.5.54",
-        "tags": [],
+        "tags": [
+            "Vector"
+        ],
         "author": "Andrea Antonello"
     },
     {
