@@ -28754,6 +28754,17 @@
         "author": "Michael Richins"
     },
     {
+        "id": "8BE8E8A6-2A2A-490D-91AB-D7C6AEFEC68C",
+        "name": "diving-scuba",
+        "codepoint": "F1B77",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Sport"
+        ],
+        "author": "Google"
+    },
+    {
         "id": "7B600593-08CB-42D0-B106-0EDF12132BFC",
         "name": "diving-scuba-flag",
         "codepoint": "F0DC2",
