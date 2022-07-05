@@ -28782,23 +28782,23 @@
         "author": "Michael Richins"
     },
     {
-        "id": "6C2E4BEE-6D01-4B09-A501-CE976EE20740",
-        "name": "diving-scuba",
-        "codepoint": "F0DC1",
-        "aliases": [],
-        "version": "3.5.94",
-        "tags": [
-            "Sport"
-        ],
-        "author": "Michael Richins"
-    },
-    {
         "id": "7B600593-08CB-42D0-B106-0EDF12132BFC",
         "name": "diving-scuba-flag",
         "codepoint": "F0DC2",
         "aliases": [],
         "version": "3.5.94",
         "tags": [],
+        "author": "Michael Richins"
+    },
+    {
+        "id": "6C2E4BEE-6D01-4B09-A501-CE976EE20740",
+        "name": "diving-scuba-mask",
+        "codepoint": "F0DC1",
+        "aliases": [],
+        "version": "3.5.94",
+        "tags": [
+            "Sport"
+        ],
         "author": "Michael Richins"
     },
     {
