@@ -80259,6 +80259,15 @@
         "author": "Andrea Antonello"
     },
     {
+        "id": "A1B2C0E5-8F8A-40B8-8EE4-A619DE840E9A",
+        "name": "vector-point-minus",
+        "codepoint": "F1B78",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Andrea Antonello"
+    },
+    {
         "id": "C8B18CF5-BD7E-41FC-A653-6B46D85F982A",
         "name": "vector-point-select",
         "codepoint": "F055F",
