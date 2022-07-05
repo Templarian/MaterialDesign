@@ -63731,7 +63731,9 @@
         "id": "179831B0-F175-4694-9313-3B745C133F96",
         "name": "receipt-outline",
         "codepoint": "F04F7",
-        "aliases": [],
+        "aliases": [
+            "cloth-outline"
+        ],
         "version": "1.5.54",
         "tags": [],
         "author": "Michael Irigoyen"
