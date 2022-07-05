@@ -63732,7 +63732,8 @@
         "name": "receipt-outline",
         "codepoint": "F04F7",
         "aliases": [
-            "cloth-outline"
+            "cloth-outline",
+            "fabric-outline"
         ],
         "version": "1.5.54",
         "tags": [],
