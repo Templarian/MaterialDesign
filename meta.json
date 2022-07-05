@@ -30650,7 +30650,9 @@
         "id": "795B1734-652A-4DCC-98B6-433C79C33001",
         "name": "email-send-outline",
         "codepoint": "F10DD",
-        "aliases": [],
+        "aliases": [
+            "email-arrow-right-outline"
+        ],
         "version": "4.3.95",
         "tags": [],
         "author": "Michael Richins"
