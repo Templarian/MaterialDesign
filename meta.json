@@ -28621,7 +28621,9 @@
         "codepoint": "F066F",
         "aliases": [],
         "version": "1.6.50",
-        "tags": [],
+        "tags": [
+            "Home Automation"
+        ],
         "author": "Contributors"
     },
     {
