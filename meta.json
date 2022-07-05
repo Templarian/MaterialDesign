@@ -52293,6 +52293,18 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "1AE8F7A9-5454-44D2-B16D-1D383E33978D",
+        "name": "microphone-message-off",
+        "codepoint": "F050B",
+        "aliases": [
+            "tts-off",
+            "microphone-message-off"
+        ],
+        "version": "1.5.54",
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
         "id": "FFAA9F2E-96F9-43A3-BC4E-F7562703E6A1",
         "name": "microphone-minus",
         "codepoint": "F08B3",
@@ -75744,18 +75756,6 @@
         "version": "2.4.85",
         "tags": [],
         "author": "Google"
-    },
-    {
-        "id": "1AE8F7A9-5454-44D2-B16D-1D383E33978D",
-        "name": "text-to-speech-off",
-        "codepoint": "F050B",
-        "aliases": [
-            "tts-off",
-            "microphone-message-off"
-        ],
-        "version": "1.5.54",
-        "tags": [],
-        "author": "Austin Andrews"
     },
     {
         "id": "E3A06403-51B5-4D00-9349-53517553A324",
