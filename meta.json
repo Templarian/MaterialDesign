@@ -4899,17 +4899,6 @@
         "author": "Google"
     },
     {
-        "id": "55847C89-2AE5-4F91-85AA-761FD8CE57F0",
-        "name": "android-messages",
-        "codepoint": "F0D45",
-        "aliases": [],
-        "version": "3.4.93",
-        "tags": [
-            "Brand \/ Logo"
-        ],
-        "author": "Google"
-    },
-    {
         "id": "B156B15D-86F9-40E0-8B8E-421F78BE5509",
         "name": "android-studio",
         "codepoint": "F0034",
@@ -53621,6 +53610,17 @@
         "version": "1.5.54",
         "tags": [
             "Medical \/ Hospital"
+        ],
+        "author": "Google"
+    },
+    {
+        "id": "55847C89-2AE5-4F91-85AA-761FD8CE57F0",
+        "name": "mosque",
+        "codepoint": "F0D45",
+        "aliases": [],
+        "version": "3.4.93",
+        "tags": [
+            "Brand \/ Logo"
         ],
         "author": "Google"
     },
