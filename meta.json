@@ -30304,7 +30304,9 @@
         "id": "2DF250FF-F6DC-4C7D-A5A6-AFEAEBAD45F4",
         "name": "email-arrow-left-outline",
         "codepoint": "F10DB",
-        "aliases": [],
+        "aliases": [
+            "email-receive-outline"
+        ],
         "version": "4.3.95",
         "tags": [],
         "author": "Michael Richins"
