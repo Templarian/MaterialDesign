@@ -80275,7 +80275,9 @@
         "id": "8722C5FB-0644-4837-B497-D16517B9F08D",
         "name": "vector-point-plus",
         "codepoint": "F1B79",
-        "aliases": [],
+        "aliases": [
+            "vector-point-add"
+        ],
         "version": "7.0.96",
         "tags": [
             "Vector"
