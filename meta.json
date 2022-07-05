@@ -28006,15 +28006,6 @@
         "author": "GreenTurtwig"
     },
     {
-        "id": "A3CC4F14-35C0-421B-A818-9B8E4E852522",
-        "name": "desktop-mac-dashboard",
-        "codepoint": "F09E8",
-        "aliases": [],
-        "version": "2.5.94",
-        "tags": [],
-        "author": "Andrea Antonello"
-    },
-    {
         "id": "362BCE24-8F91-491A-8EE8-BD08C296511A",
         "name": "desktop-tower",
         "codepoint": "F01C5",
@@ -80226,6 +80217,15 @@
         "codepoint": "F01C4",
         "aliases": [],
         "version": "1.5.54",
+        "tags": [],
+        "author": "Andrea Antonello"
+    },
+    {
+        "id": "A3CC4F14-35C0-421B-A818-9B8E4E852522",
+        "name": "vector-point-edit",
+        "codepoint": "F09E8",
+        "aliases": [],
+        "version": "2.5.94",
         "tags": [],
         "author": "Andrea Antonello"
     },
