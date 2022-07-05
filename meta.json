@@ -76432,7 +76432,9 @@
         "id": "92637DDF-E9A3-43E1-986D-DA5DE7FA8CDE",
         "name": "timeline-question",
         "codepoint": "F0F99",
-        "aliases": [],
+        "aliases": [
+            "timeline-help"
+        ],
         "version": "3.9.97",
         "tags": [],
         "author": "Austin Andrews"
