@@ -41484,18 +41484,6 @@
         "author": "Google"
     },
     {
-        "id": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
-        "name": "google-home",
-        "codepoint": "F0824",
-        "aliases": [],
-        "version": "2.1.19",
-        "tags": [
-            "Device \/ Tech",
-            "Brand \/ Logo"
-        ],
-        "author": "Google"
-    },
-    {
         "id": "73BACA3B-710C-4F23-9730-D88ADA3EA914",
         "name": "google-keep",
         "codepoint": "F06DC",
@@ -63725,6 +63713,18 @@
         "version": "1.5.54",
         "tags": [],
         "author": "Austin Andrews"
+    },
+    {
+        "id": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
+        "name": "receipt",
+        "codepoint": "F0824",
+        "aliases": [],
+        "version": "2.1.19",
+        "tags": [
+            "Device \/ Tech",
+            "Brand \/ Logo"
+        ],
+        "author": "Google"
     },
     {
         "id": "80E9E435-2478-4B48-99B8-D8BEF353AE5F",
