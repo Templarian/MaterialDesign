@@ -30301,6 +30301,15 @@
         "author": "Michael Richins"
     },
     {
+        "id": "2DF250FF-F6DC-4C7D-A5A6-AFEAEBAD45F4",
+        "name": "email-arrow-left-outline",
+        "codepoint": "F10DB",
+        "aliases": [],
+        "version": "4.3.95",
+        "tags": [],
+        "author": "Michael Richins"
+    },
+    {
         "id": "7C66176F-E1BF-4F04-A761-377F67916FDA",
         "name": "email-arrow-right",
         "codepoint": "F10DC",
@@ -30583,15 +30592,6 @@
         "version": "2.5.94",
         "tags": [],
         "author": "GreenTurtwig"
-    },
-    {
-        "id": "2DF250FF-F6DC-4C7D-A5A6-AFEAEBAD45F4",
-        "name": "email-receive-outline",
-        "codepoint": "F10DB",
-        "aliases": [],
-        "version": "4.3.95",
-        "tags": [],
-        "author": "Michael Richins"
     },
     {
         "id": "AB3FC883-2737-4D9D-AAF4-3695BD6C7882",
