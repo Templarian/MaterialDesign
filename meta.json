@@ -38697,6 +38697,17 @@
         "author": "Michael Richins"
     },
     {
+        "id": "D6B79C3B-22FB-4B52-90B8-6979AB48C3E8",
+        "name": "format-pilcrow-arrow-right",
+        "codepoint": "F0285",
+        "aliases": [],
+        "version": "1.5.54",
+        "tags": [
+            "Text \/ Content \/ Format"
+        ],
+        "author": "Google"
+    },
+    {
         "id": "0450C081-EE6B-4CB1-A7F7-B6F0F524CA99",
         "name": "format-quote-close",
         "codepoint": "F027E",
@@ -38976,17 +38987,6 @@
         "codepoint": "F0D11",
         "aliases": [],
         "version": "3.3.92",
-        "tags": [
-            "Text \/ Content \/ Format"
-        ],
-        "author": "Google"
-    },
-    {
-        "id": "D6B79C3B-22FB-4B52-90B8-6979AB48C3E8",
-        "name": "format-textdirection-l-to-r",
-        "codepoint": "F0285",
-        "aliases": [],
-        "version": "1.5.54",
         "tags": [
             "Text \/ Content \/ Format"
         ],
