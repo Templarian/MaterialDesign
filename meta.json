@@ -12806,15 +12806,6 @@
         "author": "Google"
     },
     {
-        "id": "6B7FCAFD-C14A-49FC-A959-A2B6C7C2C5BC",
-        "name": "book-variant-multiple",
-        "codepoint": "F00BC",
-        "aliases": [],
-        "version": "1.5.54",
-        "tags": [],
-        "author": "Austin Andrews"
-    },
-    {
         "id": "690787DD-F7B0-4D32-A668-32657D3A3AE8",
         "name": "bookmark",
         "codepoint": "F00C0",
@@ -59253,6 +59244,15 @@
             "Home Automation"
         ],
         "author": "Google"
+    },
+    {
+        "id": "6B7FCAFD-C14A-49FC-A959-A2B6C7C2C5BC",
+        "name": "pause-box",
+        "codepoint": "F00BC",
+        "aliases": [],
+        "version": "1.5.54",
+        "tags": [],
+        "author": "Michael Irigoyen"
     },
     {
         "id": "7AA13CBC-D472-4462-8263-88DA2BDCD6BB",
