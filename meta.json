@@ -55078,6 +55078,15 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "F6A55EE0-3A9F-4A76-9711-D752F54005FA",
+        "name": "music-note-minus",
+        "codepoint": "F1B89",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "08305F79-B7E4-4FC9-9B5B-8E76920C3DCC",
         "name": "music-note-off",
         "codepoint": "F038A",
