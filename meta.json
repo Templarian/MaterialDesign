@@ -17238,6 +17238,19 @@
         "author": "GreenTurtwig"
     },
     {
+        "id": "6BF272B9-40CF-45E8-8CE4-8E186BFE95BF",
+        "name": "car-search",
+        "codepoint": "F1B8D",
+        "aliases": [
+            "car-find"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Automotive"
+        ],
+        "author": "tetzla"
+    },
+    {
         "id": "F0D6A2CA-711D-440E-B4A2-586C071E1192",
         "name": "car-seat",
         "codepoint": "F0FA4",
