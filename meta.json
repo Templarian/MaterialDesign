@@ -73148,6 +73148,15 @@
         "author": "Simran"
     },
     {
+        "id": "9FA49C4A-746E-4055-A94C-DBBBEB416FB0",
+        "name": "storefront-check",
+        "codepoint": "F1B7D",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "CFC9D5C9-A60F-48D0-880E-71F2A06BB94D",
         "name": "storefront-outline",
         "codepoint": "F10C1",
