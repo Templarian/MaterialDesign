@@ -51788,6 +51788,15 @@
         "author": "Google"
     },
     {
+        "id": "84A64220-7304-4667-AAA4-1A347B997199",
+        "name": "message-check",
+        "codepoint": "F1B8A",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "F0F27B00-3C37-4AC0-B8D7-DB2554894079",
         "name": "message-cog",
         "codepoint": "F06F1",
