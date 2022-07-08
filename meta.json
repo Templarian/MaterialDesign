@@ -8361,6 +8361,20 @@
         "author": "Jeff Anders"
     },
     {
+        "id": "D2598CD1-6354-4499-9E67-EEF50D9B5226",
+        "name": "awning-outline",
+        "codepoint": "F1B88",
+        "aliases": [
+            "marquise-outline",
+            "sun-shade-outline"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "851E2C6C-16AE-4C0F-B99A-AB6BE37C4F55",
         "name": "aws",
         "codepoint": "F0E0F",
