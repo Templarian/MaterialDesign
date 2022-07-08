@@ -23012,6 +23012,17 @@
         "author": "Google"
     },
     {
+        "id": "43494F1E-8C56-4AEE-BB9F-AAE4BD44A6AE",
+        "name": "clouds",
+        "codepoint": "F1B95",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Weather"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "0B70716D-3C56-43F1-85D4-B264C05DCC32",
         "name": "clover",
         "codepoint": "F0816",
