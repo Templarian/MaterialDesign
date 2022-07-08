@@ -15147,6 +15147,17 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "8E92EA84-88B1-4A46-BA36-E82CF91FE9D6",
+        "name": "calendar-badge-outline",
+        "codepoint": "F1B9E",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "57984F1A-6CA5-4928-B221-466C0CC11562",
         "name": "calendar-blank",
         "codepoint": "F00EE",
