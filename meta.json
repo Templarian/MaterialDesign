@@ -84586,6 +84586,15 @@
         "author": "Google"
     },
     {
+        "id": "ADF2E260-DDB1-4561-B453-0293C8AA773F",
+        "name": "wrench-check",
+        "codepoint": "F1B8F",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "922891A9-0422-4BCD-9CE7-2FA1E7134EAB",
         "name": "wrench-clock",
         "codepoint": "F19A3",
