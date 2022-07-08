@@ -51797,6 +51797,15 @@
         "author": "Andrej Sharapov"
     },
     {
+        "id": "1F5EB171-8FDB-4C8A-B748-6B4EAF022243",
+        "name": "message-check-outline",
+        "codepoint": "F1B8B",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "F0F27B00-3C37-4AC0-B8D7-DB2554894079",
         "name": "message-cog",
         "codepoint": "F06F1",
