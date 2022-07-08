@@ -15136,6 +15136,17 @@
         "author": "Terren"
     },
     {
+        "id": "69D7BB19-D394-4C73-AC78-672AC78FD0A0",
+        "name": "calendar-badge",
+        "codepoint": "F1B9D",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "57984F1A-6CA5-4928-B221-466C0CC11562",
         "name": "calendar-blank",
         "codepoint": "F00EE",
