@@ -49378,6 +49378,17 @@
         "author": "Google"
     },
     {
+        "id": "E1277D63-636E-479A-974A-83901A84A8F0",
+        "name": "list-box",
+        "codepoint": "F1B7B",
+        "aliases": [
+            "form"
+        ],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "frankgrinaert"
+    },
+    {
         "id": "CC9CEDB3-55DE-4CCA-B31F-888383F6C69E",
         "name": "list-status",
         "codepoint": "F15AB",
