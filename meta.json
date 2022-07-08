@@ -17251,6 +17251,19 @@
         "author": "tetzla"
     },
     {
+        "id": "B64ACFFE-836E-4F68-8D1B-3F6FCC263602",
+        "name": "car-search-outline",
+        "codepoint": "F1B8E",
+        "aliases": [
+            "car-find-outline"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Automotive"
+        ],
+        "author": "tetzla"
+    },
+    {
         "id": "F0D6A2CA-711D-440E-B4A2-586C071E1192",
         "name": "car-seat",
         "codepoint": "F0FA4",
