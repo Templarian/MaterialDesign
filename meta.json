@@ -84621,6 +84621,19 @@
         "author": "Simran"
     },
     {
+        "id": "321D5871-1A24-4817-9B36-AFBA993D34A0",
+        "name": "wrench-cog",
+        "codepoint": "F1B91",
+        "aliases": [
+            "wrench-settings"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Settings"
+        ],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "040BA3F6-86B3-4597-9EBE-C6D6A916091D",
         "name": "wrench-outline",
         "codepoint": "F0BE0",
