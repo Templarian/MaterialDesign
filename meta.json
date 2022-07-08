@@ -73198,6 +73198,15 @@
         "author": "Google"
     },
     {
+        "id": "7DBC0D08-5218-4DA7-970C-3A4974124F98",
+        "name": "storefront-plus",
+        "codepoint": "F1B81",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "18EF6E1E-8EF9-4A62-AAB9-6E8BE591408A",
         "name": "stove",
         "codepoint": "F04DE",
