@@ -7993,6 +7993,17 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "11D80B18-006C-4929-8CEA-29D2C8BED5B7",
+        "name": "artboard",
+        "codepoint": "F1B9A",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Drawing \/ Art"
+        ],
+        "author": "Sintija"
+    },
+    {
         "id": "548CCDA7-0E99-4568-9997-2ECFD33392BB",
         "name": "artstation",
         "codepoint": "F0B5B",
