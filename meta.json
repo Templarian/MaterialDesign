@@ -47378,7 +47378,8 @@
         "aliases": [
             "volume-knob",
             "volume-control",
-            "dial"
+            "dial",
+            "tuner"
         ],
         "version": "7.0.96",
         "tags": [
