@@ -26798,6 +26798,20 @@
         "author": "Haley Halcyon"
     },
     {
+        "id": "F3A1F9C4-307D-40D8-A210-0ECFAC01BDCD",
+        "name": "currency-uah",
+        "codepoint": "F1B9B",
+        "aliases": [
+            "currency-hryvnia",
+            "currency-ukraine"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Banking"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "3FA4946C-029B-42D3-AA31-3D607FB4A2F1",
         "name": "currency-usd",
         "codepoint": "F01C1",
