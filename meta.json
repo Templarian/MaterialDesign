@@ -74390,6 +74390,15 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "1CFB10BF-E5C8-4401-B491-3BC830082D6E",
+        "name": "table-filter",
+        "codepoint": "F1B8C",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "9A7A9F69-9BC4-4619-981D-DF8423A22FF2",
         "name": "table-furniture",
         "codepoint": "F05BC",
