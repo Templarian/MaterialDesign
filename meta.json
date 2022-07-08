@@ -59258,6 +59258,18 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "8F48F520-011A-4B09-853E-33E1C7D5714A",
+        "name": "pause-box-outline",
+        "codepoint": "F1B7A",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Audio",
+            "Music"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "7AA13CBC-D472-4462-8263-88DA2BDCD6BB",
         "name": "pause-circle",
         "codepoint": "F03E5",
