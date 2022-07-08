@@ -47312,6 +47312,20 @@
         "author": "Simran"
     },
     {
+        "id": "BF72875E-F657-4469-B7B6-CC8116EC20D1",
+        "name": "knob",
+        "codepoint": "F1B96",
+        "aliases": [
+            "volume-knob",
+            "volume-control"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Audio"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "180CACBF-4272-4D07-B9A0-63A5625DCB0C",
         "name": "koala",
         "codepoint": "F173F",
