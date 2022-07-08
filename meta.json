@@ -47380,7 +47380,8 @@
             "volume-control",
             "dial",
             "tuner",
-            "switch"
+            "switch",
+            "adjuster"
         ],
         "version": "7.0.96",
         "tags": [
