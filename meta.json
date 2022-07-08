@@ -12809,9 +12809,7 @@
         "id": "6B7FCAFD-C14A-49FC-A959-A2B6C7C2C5BC",
         "name": "book-variant-multiple",
         "codepoint": "F00BC",
-        "aliases": [
-            "books-variant"
-        ],
+        "aliases": [],
         "version": "1.5.54",
         "tags": [],
         "author": "Austin Andrews"
