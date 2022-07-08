@@ -10967,6 +10967,22 @@
         "author": "Google"
     },
     {
+        "id": "91A8F1FF-F40E-44EC-A96B-776517F69769",
+        "name": "bed-clock",
+        "codepoint": "F1B94",
+        "aliases": [
+            "bed-schedule",
+            "bed-time",
+            "sleep-schedule",
+            "sleep-time"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "76E0CC3D-3FF4-421A-A7F0-0F38C68C92A2",
         "name": "bed-double",
         "codepoint": "F0FD4",
