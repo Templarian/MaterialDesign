@@ -84621,6 +84621,15 @@
         "author": "Simran"
     },
     {
+        "id": "5D30C3F8-E717-4D12-AA8A-E6E9461BF849",
+        "name": "wrench-clock-outline",
+        "codepoint": "F1B93",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "321D5871-1A24-4817-9B36-AFBA993D34A0",
         "name": "wrench-cog",
         "codepoint": "F1B91",
