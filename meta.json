@@ -59251,7 +59251,9 @@
         "codepoint": "F00BC",
         "aliases": [],
         "version": "1.5.54",
-        "tags": [],
+        "tags": [
+            "Audio"
+        ],
         "author": "Michael Irigoyen"
     },
     {
