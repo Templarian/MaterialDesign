@@ -73184,6 +73184,15 @@
         "author": "Jeff Anders"
     },
     {
+        "id": "9D9F2374-F718-4122-84E4-AD90697F9833",
+        "name": "storefront-minus",
+        "codepoint": "F1B83",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "CFC9D5C9-A60F-48D0-880E-71F2A06BB94D",
         "name": "storefront-outline",
         "codepoint": "F10C1",
