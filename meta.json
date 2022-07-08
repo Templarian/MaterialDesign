@@ -82587,6 +82587,19 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "E7E8E8F3-F414-440D-9CC1-F96CD5533040",
+        "name": "water-boiler-auto",
+        "codepoint": "F1B98",
+        "aliases": [
+            "water-heater-auto"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "E7515B82-DE9D-4053-9D48-297511ED48E5",
         "name": "water-boiler-off",
         "codepoint": "F11B4",
