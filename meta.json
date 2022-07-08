@@ -54816,6 +54816,26 @@
         "author": "Simran"
     },
     {
+        "id": "2EE192A7-497B-41B8-B68A-34A32B8445F2",
+        "name": "multimedia",
+        "codepoint": "F1B97",
+        "aliases": [
+            "audio",
+            "video",
+            "image",
+            "music",
+            "movie",
+            "picture"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Audio",
+            "Video \/ Movie",
+            "Photography"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "489C9004-CF90-483E-83E3-CD40DD5B9ACF",
         "name": "multiplication",
         "codepoint": "F0382",
