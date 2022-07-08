@@ -73234,6 +73234,15 @@
         "author": "Jeff Anders"
     },
     {
+        "id": "94EF8FB9-635E-4293-946B-C544594A16B0",
+        "name": "storefront-remove",
+        "codepoint": "F1B85",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "18EF6E1E-8EF9-4A62-AAB9-6E8BE591408A",
         "name": "stove",
         "codepoint": "F04DE",
