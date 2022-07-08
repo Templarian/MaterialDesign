@@ -49389,6 +49389,17 @@
         "author": "frankgrinaert"
     },
     {
+        "id": "3EE285E0-8234-4B20-BFD4-B82AEA64EA57",
+        "name": "list-box-outline",
+        "codepoint": "F1B7C",
+        "aliases": [
+            "form-outline"
+        ],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "frankgrinaert"
+    },
+    {
         "id": "CC9CEDB3-55DE-4CCA-B31F-888383F6C69E",
         "name": "list-status",
         "codepoint": "F15AB",
