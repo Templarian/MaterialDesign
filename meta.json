@@ -84595,6 +84595,15 @@
         "author": "Andrej Sharapov"
     },
     {
+        "id": "319DEB6A-C5F2-4787-BAE1-33BA7BE23BE3",
+        "name": "wrench-check-outline",
+        "codepoint": "F1B90",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "922891A9-0422-4BCD-9CE7-2FA1E7134EAB",
         "name": "wrench-clock",
         "codepoint": "F19A3",
