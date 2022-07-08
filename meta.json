@@ -47379,7 +47379,8 @@
             "volume-knob",
             "volume-control",
             "dial",
-            "tuner"
+            "tuner",
+            "switch"
         ],
         "version": "7.0.96",
         "tags": [
