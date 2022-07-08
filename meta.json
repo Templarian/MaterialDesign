@@ -73243,6 +73243,15 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "71DE2725-2E14-4A65-ADC8-B7DF63038DA0",
+        "name": "storefront-remove-outline",
+        "codepoint": "F1B86",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "18EF6E1E-8EF9-4A62-AAB9-6E8BE591408A",
         "name": "stove",
         "codepoint": "F04DE",
