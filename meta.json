@@ -78782,6 +78782,19 @@
         "author": "Joshua Solomon"
     },
     {
+        "id": "F2BD1021-2575-4F57-A18A-F746EE262E15",
+        "name": "translate-variant",
+        "codepoint": "F1B99",
+        "aliases": [
+            "spoken-language"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Developer \/ Languages"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "DBA97655-B2ED-4FA6-95E0-02E7273549C9",
         "name": "transmission-tower",
         "codepoint": "F0D3E",
