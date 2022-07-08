@@ -42282,6 +42282,19 @@
         "author": "Jeff Anders"
     },
     {
+        "id": "CC8C7CF5-103C-4D0F-A209-05A19DF80F24",
+        "name": "hand-cycle",
+        "codepoint": "F1B9C",
+        "aliases": [
+            "hand-bike"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Sport"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "94B9D1E7-C84C-413B-B999-92BD6508D013",
         "name": "hand-extended",
         "codepoint": "F18B6",
