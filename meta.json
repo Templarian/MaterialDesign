@@ -8347,6 +8347,20 @@
         "author": "Google"
     },
     {
+        "id": "8A405D94-6047-4B9B-BB52-24BD1416441F",
+        "name": "awning",
+        "codepoint": "F1B87",
+        "aliases": [
+            "marquise",
+            "sun-shade"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "851E2C6C-16AE-4C0F-B99A-AB6BE37C4F55",
         "name": "aws",
         "codepoint": "F0E0F",
