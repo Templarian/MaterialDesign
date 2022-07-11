@@ -35594,6 +35594,15 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "C90BB119-B3C8-4D8B-9652-7CE62A1861F7",
+        "name": "flag-variant-off",
+        "codepoint": "F1BB0",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "756B772A-F638-48EB-918C-2FA4237C7767",
         "name": "flag-variant-outline",
         "codepoint": "F023E",
