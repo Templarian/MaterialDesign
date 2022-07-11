@@ -440,6 +440,17 @@
         "author": "Jeff Anders"
     },
     {
+        "id": "47B6009B-B618-4A96-83FA-57D7D093952D",
+        "name": "account-card-outline",
+        "codepoint": "F1BA5",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "E3270EE8-3F41-481F-9B15-E8925C62A83C",
         "name": "account-cash",
         "codepoint": "F1097",
