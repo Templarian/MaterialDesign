@@ -18410,6 +18410,20 @@
         "author": "Google"
     },
     {
+        "id": "0E548E6D-946B-4BBE-97FA-2021E2DFF61D",
+        "name": "cart-percent",
+        "codepoint": "F1BAE",
+        "aliases": [
+            "cart-discount",
+            "cart-sale"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Shopping"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "2BF13245-A7BF-49EC-8EB0-CA10F7AF11B2",
         "name": "cart-plus",
         "codepoint": "F0112",
