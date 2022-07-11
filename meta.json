@@ -699,7 +699,8 @@
         "name": "account-credit-card",
         "codepoint": "F1BA6",
         "aliases": [
-            "account-payment"
+            "account-payment",
+            "cardholder"
         ],
         "version": "7.0.96",
         "tags": [
