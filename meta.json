@@ -709,6 +709,20 @@
         "author": "Jeff Anders"
     },
     {
+        "id": "A19CDCEF-1CFD-4BFE-A323-F66C6EBF0FCE",
+        "name": "account-credit-card-outline",
+        "codepoint": "F1BA7",
+        "aliases": [
+            "account-payment-outline"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Account \/ User",
+            "Banking"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "3696B7DF-3E12-44EF-B27F-E171AEB5241F",
         "name": "account-details",
         "codepoint": "F0631",
