@@ -69338,6 +69338,19 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "120915C9-09F2-48A5-99FE-6BF045917A56",
+        "name": "silo",
+        "codepoint": "F1B9F",
+        "aliases": [
+            "farm"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Agriculture"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "73A40E8E-7F62-454C-BFD9-A10796BA4A0A",
         "name": "silo-outline",
         "codepoint": "F0B49",
