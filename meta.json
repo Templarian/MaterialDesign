@@ -35666,6 +35666,15 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "121F3FEE-B1F0-4818-9512-2923E7E90AE3",
+        "name": "flag-variant-remove-outline",
+        "codepoint": "F1BB7",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "8F4F8B2A-9E7D-432F-978E-F3F108DA701B",
         "name": "flare",
         "codepoint": "F0D72",
