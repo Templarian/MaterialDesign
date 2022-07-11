@@ -69297,6 +69297,19 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "C325938C-B13A-47A1-BD51-7F6F34B6CE16",
+        "name": "sign-yield",
+        "codepoint": "F1BAF",
+        "aliases": [
+            "give-way"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Transportation + Road"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "7099FDF8-B653-4C49-BE2B-5B96147A709D",
         "name": "signal",
         "codepoint": "F04A2",
