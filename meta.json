@@ -69342,7 +69342,8 @@
         "name": "silo-outline",
         "codepoint": "F0B49",
         "aliases": [
-            "farm"
+            "farm",
+            "farm-outline"
         ],
         "version": "2.8.94",
         "tags": [
