@@ -58195,6 +58195,15 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "1B9F3A92-AC49-4D8E-8CE9-07A70164548F",
+        "name": "office-building-remove-outline",
+        "codepoint": "F1BAD",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "DE398350-B7B7-4E6B-AE4C-F99AAE56C7CF",
         "name": "oil",
         "codepoint": "F03C7",
