@@ -44599,6 +44599,20 @@
         "author": "Jeff Anders"
     },
     {
+        "id": "8943314B-A992-48BD-B030-700F2190B781",
+        "name": "home-silo-outline",
+        "codepoint": "F1BA1",
+        "aliases": [
+            "farm-house-outline",
+            "farm-home-outline"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Agriculture"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "1DBBF908-7F93-4FAE-8A2A-555851E7C3BE",
         "name": "home-switch",
         "codepoint": "F1794",
