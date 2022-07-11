@@ -18415,7 +18415,8 @@
         "codepoint": "F1BAE",
         "aliases": [
             "cart-discount",
-            "cart-sale"
+            "cart-sale",
+            "trolley-percent"
         ],
         "version": "7.0.96",
         "tags": [
