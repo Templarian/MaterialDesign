@@ -58186,6 +58186,15 @@
         "author": "arnoldlepineux"
     },
     {
+        "id": "9FDDD96F-B993-47DD-BE60-1995CBBA973C",
+        "name": "office-building-remove",
+        "codepoint": "F1BAC",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "DE398350-B7B7-4E6B-AE4C-F99AAE56C7CF",
         "name": "oil",
         "codepoint": "F03C7",
