@@ -714,7 +714,8 @@
         "name": "account-credit-card-outline",
         "codepoint": "F1BA7",
         "aliases": [
-            "account-payment-outline"
+            "account-payment-outline",
+            "cardholder-outline"
         ],
         "version": "7.0.96",
         "tags": [
