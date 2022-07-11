@@ -42817,6 +42817,18 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "96185CFC-B966-48B1-AC7A-EF12F73C2096",
+        "name": "hdmi-port",
+        "codepoint": "F1BB8",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Video \/ Movie",
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "81182C14-380B-4F56-AFF9-EF636EC7BF7E",
         "name": "hdr",
         "codepoint": "F0D7D",
