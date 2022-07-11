@@ -84642,6 +84642,17 @@
         "author": "idevo89"
     },
     {
+        "id": "20BDF96D-E685-450D-8555-199115B7628F",
+        "name": "window-shutter-auto",
+        "codepoint": "F1BA3",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "E71049A9-FDB3-47BD-A1CA-9CA952627DDE",
         "name": "window-shutter-cog",
         "codepoint": "F1A8A",
