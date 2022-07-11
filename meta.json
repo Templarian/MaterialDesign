@@ -429,6 +429,17 @@
         "author": "Simran"
     },
     {
+        "id": "1A83D97E-DB88-4EAA-9EDB-28B4E68D77E7",
+        "name": "account-card",
+        "codepoint": "F1BA4",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "E3270EE8-3F41-481F-9B15-E8925C62A83C",
         "name": "account-cash",
         "codepoint": "F1097",
