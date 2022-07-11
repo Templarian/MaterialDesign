@@ -44585,6 +44585,20 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "1F67690D-B143-4CF0-9888-54F647E62F33",
+        "name": "home-silo",
+        "codepoint": "F1BA0",
+        "aliases": [
+            "farm-house",
+            "farm-home"
+        ],
+        "version": "7.0.96",
+        "tags": [
+            "Agriculture"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "1DBBF908-7F93-4FAE-8A2A-555851E7C3BE",
         "name": "home-switch",
         "codepoint": "F1794",
