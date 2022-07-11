@@ -35603,6 +35603,15 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "2181A952-90BC-49E9-BC57-40CADFEF6E89",
+        "name": "flag-variant-minus-outline",
+        "codepoint": "F1BB5",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "C90BB119-B3C8-4D8B-9652-7CE62A1861F7",
         "name": "flag-variant-off",
         "codepoint": "F1BB0",
