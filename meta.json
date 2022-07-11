@@ -58139,6 +58139,15 @@
         "author": "Joshua Solomon"
     },
     {
+        "id": "F328F94A-8174-49FC-9FB9-C2F28B1F7A4E",
+        "name": "office-building-minus",
+        "codepoint": "F1BAA",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "1171525F-C510-44B9-9E5C-0F5CAC7A71D2",
         "name": "office-building-outline",
         "codepoint": "F151F",
