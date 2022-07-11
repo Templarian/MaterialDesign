@@ -62893,6 +62893,15 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "25466EC4-FF10-4925-A285-0356FA093FC2",
+        "name": "progress-helper",
+        "codepoint": "F1BA2",
+        "aliases": [],
+        "version": "7.0.96",
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "2434DDA0-2B39-428D-9764-E8F9A46BF22F",
         "name": "progress-pencil",
         "codepoint": "F1787",
