@@ -85060,7 +85060,9 @@
         "codepoint": "F1B93",
         "aliases": [],
         "version": "7.0.96",
-        "tags": [],
+        "tags": [
+            "Date \/ Time"
+        ],
         "author": "Michael Irigoyen"
     },
     {
