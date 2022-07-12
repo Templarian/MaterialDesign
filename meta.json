@@ -72566,7 +72566,9 @@
             "favorite-cog"
         ],
         "version": "5.7.55",
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Colton Wiscombe"
     },
     {
