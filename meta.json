@@ -68932,7 +68932,9 @@
             "sun-protection"
         ],
         "version": "4.1.95",
-        "tags": [],
+        "tags": [
+            "Weather"
+        ],
         "author": "Perth Totty"
     },
     {
