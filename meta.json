@@ -5321,7 +5321,9 @@
             "iframe-cog"
         ],
         "version": "1.7.12",
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Michael Irigoyen"
     },
     {
