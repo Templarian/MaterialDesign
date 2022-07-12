@@ -5711,7 +5711,9 @@
             "box-cog-outline"
         ],
         "version": "6.1.95",
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Colton Wiscombe"
     },
     {
