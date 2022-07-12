@@ -84342,7 +84342,9 @@
         "codepoint": "F16BE",
         "aliases": [],
         "version": "5.8.55",
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Colton Wiscombe"
     },
     {
