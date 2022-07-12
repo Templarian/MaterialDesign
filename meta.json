@@ -43330,7 +43330,9 @@
         "codepoint": "F1663",
         "aliases": [],
         "version": "5.7.55",
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Colton Wiscombe"
     },
     {
