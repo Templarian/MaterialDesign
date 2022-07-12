@@ -73650,7 +73650,9 @@
         "codepoint": "F1B7F",
         "aliases": [],
         "version": "7.0.96",
-        "tags": [],
+        "tags": [
+            "Edit \/ Modify"
+        ],
         "author": "Jeff Anders"
     },
     {
