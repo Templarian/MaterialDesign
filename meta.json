@@ -24474,7 +24474,8 @@
         "name": "compost",
         "codepoint": "F1A38",
         "aliases": [
-            "regeneration"
+            "regeneration",
+            "regenerative-agriculture"
         ],
         "version": "6.7.96",
         "tags": [
