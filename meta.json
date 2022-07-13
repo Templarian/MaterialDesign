@@ -24473,7 +24473,9 @@
         "id": "75C5A894-CC25-4326-A270-6F70BE0D8AAB",
         "name": "compost",
         "codepoint": "F1A38",
-        "aliases": [],
+        "aliases": [
+            "regeneration"
+        ],
         "version": "6.7.96",
         "tags": [
             "Agriculture",
