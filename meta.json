@@ -61417,7 +61417,9 @@
         "id": "707539BB-56A1-4346-B907-95DEE51799A3",
         "name": "pine-tree-fire",
         "codepoint": "F141A",
-        "aliases": [],
+        "aliases": [
+            "wildfire"
+        ],
         "version": "5.2.45",
         "tags": [
             "Nature",
