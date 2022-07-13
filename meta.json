@@ -61418,7 +61418,8 @@
         "name": "pine-tree-fire",
         "codepoint": "F141A",
         "aliases": [
-            "wildfire"
+            "wildfire",
+            "controlled-burn"
         ],
         "version": "5.2.45",
         "tags": [
