@@ -24256,7 +24256,9 @@
         "id": "49412CCB-C5F6-460F-A2DB-76BCCB668BCC",
         "name": "comment-question",
         "codepoint": "F0817",
-        "aliases": [],
+        "aliases": [
+            "comment-help"
+        ],
         "version": "2.1.19",
         "tags": [],
         "author": "Austin Andrews"
