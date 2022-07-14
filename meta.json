@@ -19973,7 +19973,9 @@
         "id": "8B7833C6-EB36-4F0C-A554-AF7189A7AB34",
         "name": "chat-question",
         "codepoint": "F1738",
-        "aliases": [],
+        "aliases": [
+            "chat-help"
+        ],
         "version": "5.9.55",
         "tags": [],
         "author": "Colton Wiscombe"
