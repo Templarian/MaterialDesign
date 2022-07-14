@@ -24257,6 +24257,7 @@
         "name": "comment-question",
         "codepoint": "F0817",
         "aliases": [
+            "comment-help",
             "comment-help"
         ],
         "version": "2.1.19",
