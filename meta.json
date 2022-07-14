@@ -19984,7 +19984,9 @@
         "id": "7EC5A46D-1E6A-475C-A76F-19F9F4B9CD90",
         "name": "chat-question-outline",
         "codepoint": "F1739",
-        "aliases": [],
+        "aliases": [
+            "chat-help-outline"
+        ],
         "version": "5.9.55",
         "tags": [],
         "author": "Colton Wiscombe"
