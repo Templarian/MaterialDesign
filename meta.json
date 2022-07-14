@@ -15714,7 +15714,8 @@
         "codepoint": "F0692",
         "aliases": [
             "calendar-rsvp",
-            "event-question"
+            "event-question",
+            "calendar-help"
         ],
         "version": "1.7.12",
         "tags": [
