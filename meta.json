@@ -933,7 +933,8 @@
         "name": "account-injury",
         "codepoint": "F1815",
         "aliases": [
-            "account-disability"
+            "account-disability",
+            "patient"
         ],
         "version": "6.1.95",
         "tags": [
