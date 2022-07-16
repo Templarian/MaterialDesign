@@ -948,7 +948,8 @@
         "name": "account-injury-outline",
         "codepoint": "F1816",
         "aliases": [
-            "account-disability-outline"
+            "account-disability-outline",
+            "patient-outline"
         ],
         "version": "6.1.95",
         "tags": [
