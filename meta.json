@@ -8343,6 +8343,21 @@
         "author": "GreenTurtwig"
     },
     {
+        "id": "3ED13D0F-1EC7-4EBF-99F4-B686272A00AC",
+        "name": "aurora",
+        "codepoint": "F1BB9",
+        "aliases": [
+            "aurora-borealis",
+            "aurora-australis",
+            "northern-lights",
+            "southern-lights",
+            "polar-lights"
+        ],
+        "version": "7.1.96",
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "2EAC4201-2055-4755-84A9-958FDDF7732B",
         "name": "auto-download",
         "codepoint": "F137E",
