@@ -78239,6 +78239,19 @@
         "author": "Jeff Anders"
     },
     {
+        "id": "CD2A99C9-F223-42EB-BD90-5786EACF9A52",
+        "name": "tooltip-question-outline",
+        "codepoint": "F1BBB",
+        "aliases": [
+            "tooltip-help-outline"
+        ],
+        "version": "7.1.96",
+        "tags": [
+            "Tooltip"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "A54A45EF-9C4B-4AFB-8734-610B14D521A5",
         "name": "tooltip-remove",
         "codepoint": "F1560",
