@@ -78226,6 +78226,19 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "99CABA6D-9506-4EC7-8721-8CE38B157E75",
+        "name": "tooltip-question",
+        "codepoint": "F1BBA",
+        "aliases": [
+            "tooltip-help"
+        ],
+        "version": "7.1.96",
+        "tags": [
+            "Tooltip"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "A54A45EF-9C4B-4AFB-8734-610B14D521A5",
         "name": "tooltip-remove",
         "codepoint": "F1560",
