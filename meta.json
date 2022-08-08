@@ -63057,7 +63057,8 @@
         "name": "printer-pos",
         "codepoint": "F1057",
         "aliases": [
-            "printer-point-of-sale"
+            "printer-point-of-sale",
+            "printer-receipt"
         ],
         "version": "4.1.95",
         "tags": [
