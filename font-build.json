@@ -23,14 +23,14 @@
     "price": null,
     "version": {
         "major": 7,
-        "minor": 0,
-        "patch": 99
+        "minor": 1,
+        "patch": 0
     },
     "date": {
         "year": 2022,
         "month": 7,
-        "day": 8,
-        "hour": 17,
-        "minute": 9
+        "day": 9,
+        "hour": 0,
+        "minute": 41
     }
 }

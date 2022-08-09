@@ -63067,6 +63067,20 @@
         "author": "Michael Richins"
     },
     {
+        "id": "8303B276-1999-4F62-8C48-22EBA47B5781",
+        "name": "printer-pos-alert",
+        "codepoint": "F1BBC",
+        "aliases": [
+            "printer-point-of-sale-alert",
+            "printer-receipt-alert"
+        ],
+        "version": "7.1.96",
+        "tags": [
+            "Printer"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "18383BEA-BF9A-43AD-87BB-F47CEC92F9C3",
         "name": "printer-search",
         "codepoint": "F1457",
