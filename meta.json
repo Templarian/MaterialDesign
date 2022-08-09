@@ -63389,6 +63389,20 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "9C26E188-105E-45DE-A8D3-42DA8829FE34",
+        "name": "printer-pos-refresh",
+        "codepoint": "F1BD3",
+        "aliases": [
+            "printer-point-of-sale-refresh",
+            "printer-receipt-refresh"
+        ],
+        "version": "7.1.96",
+        "tags": [
+            "Printer"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "18383BEA-BF9A-43AD-87BB-F47CEC92F9C3",
         "name": "printer-search",
         "codepoint": "F1457",
