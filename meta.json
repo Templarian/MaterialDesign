@@ -63319,6 +63319,20 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "FCF57215-34E5-44F7-9DF9-BDFF862CAAF6",
+        "name": "printer-pos-pause-outline",
+        "codepoint": "F1BCE",
+        "aliases": [
+            "printer-point-of-sale-pause-outline",
+            "printer-receipt-pause-outline"
+        ],
+        "version": "7.1.96",
+        "tags": [
+            "Printer"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "18383BEA-BF9A-43AD-87BB-F47CEC92F9C3",
         "name": "printer-search",
         "codepoint": "F1457",
