@@ -63249,6 +63249,20 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "3FD6D2F6-5BBB-45D9-BE28-1B216BEB4D5E",
+        "name": "printer-pos-network-outline",
+        "codepoint": "F1BC9",
+        "aliases": [
+            "printer-point-of-sale-network-outline",
+            "printer-receipt-network-outline"
+        ],
+        "version": "7.1.96",
+        "tags": [
+            "Printer"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "18383BEA-BF9A-43AD-87BB-F47CEC92F9C3",
         "name": "printer-search",
         "codepoint": "F1457",
