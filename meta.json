@@ -63545,6 +63545,20 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "C998386E-C3FA-44DC-9513-D2BFA68D7D12",
+        "name": "printer-pos-wrench-outline",
+        "codepoint": "F1BDE",
+        "aliases": [
+            "printer-point-of-sale-wrench-outline",
+            "printer-receipt-wrench-outline"
+        ],
+        "version": "7.1.96",
+        "tags": [
+            "Printer"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "18383BEA-BF9A-43AD-87BB-F47CEC92F9C3",
         "name": "printer-search",
         "codepoint": "F1457",
