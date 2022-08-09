@@ -63445,6 +63445,22 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "6771B76B-C7D3-4F4A-B8AA-1656DF5C445A",
+        "name": "printer-pos-star",
+        "codepoint": "F1BD7",
+        "aliases": [
+            "printer-point-of-sale-star",
+            "printer-receipt-star",
+            "printer-favorite",
+            "printer-primary"
+        ],
+        "version": "7.1.96",
+        "tags": [
+            "Printer"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "18383BEA-BF9A-43AD-87BB-F47CEC92F9C3",
         "name": "printer-search",
         "codepoint": "F1457",
