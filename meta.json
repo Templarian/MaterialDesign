@@ -66722,7 +66722,9 @@
         "id": "A94493FF-30FD-4490-8ABC-F6F03F958D17",
         "name": "room-service-outline",
         "codepoint": "F0D97",
-        "aliases": [],
+        "aliases": [
+            "call-bell-outline"
+        ],
         "version": "3.4.93",
         "tags": [],
         "author": "Google"
