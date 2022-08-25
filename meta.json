@@ -66711,7 +66711,9 @@
         "id": "C525BD2B-2BA8-4158-AC0A-FAEE9E353047",
         "name": "room-service",
         "codepoint": "F088D",
-        "aliases": [],
+        "aliases": [
+            "call-bell"
+        ],
         "version": "2.1.99",
         "tags": [],
         "author": "Google"
