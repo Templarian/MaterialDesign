@@ -20099,7 +20099,8 @@
         "codepoint": "F0E1E",
         "aliases": [
             "check-thick",
-            "success-thick"
+            "success-thick",
+            "success-bold"
         ],
         "version": "3.6.95",
         "tags": [],
