@@ -88,7 +88,9 @@
         "id": "45F0D360-E817-4152-A66E-EF019E10ED47",
         "name": "access-point-check",
         "codepoint": "F1538",
-        "aliases": [],
+        "aliases": [
+            "access-point-success"
+        ],
         "version": "5.4.55",
         "tags": [],
         "author": "Colton Wiscombe"
