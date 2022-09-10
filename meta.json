@@ -2545,7 +2545,9 @@
         "id": "BB715CDA-DE45-4983-A33F-10C6141F4FEA",
         "name": "alert-circle-check-outline",
         "codepoint": "F11EE",
-        "aliases": [],
+        "aliases": [
+            "alert-circle-success-outline"
+        ],
         "version": "4.5.95",
         "tags": [
             "Alert \/ Error"
