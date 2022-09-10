@@ -2532,7 +2532,9 @@
         "id": "68F19F47-B38B-4370-B299-4EE2BF2619A5",
         "name": "alert-circle-check",
         "codepoint": "F11ED",
-        "aliases": [],
+        "aliases": [
+            "alert-circle-success"
+        ],
         "version": "4.5.95",
         "tags": [
             "Alert \/ Error"
