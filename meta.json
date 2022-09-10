@@ -20098,7 +20098,8 @@
         "name": "check-bold",
         "codepoint": "F0E1E",
         "aliases": [
-            "check-thick"
+            "check-thick",
+            "success-thick"
         ],
         "version": "3.6.95",
         "tags": [],
