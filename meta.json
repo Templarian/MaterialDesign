@@ -89,7 +89,8 @@
         "name": "access-point-check",
         "codepoint": "F1538",
         "aliases": [
-            "access-point-success"
+            "access-point-success",
+            "access-point-tick"
         ],
         "version": "5.4.55",
         "tags": [],
