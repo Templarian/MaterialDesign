@@ -20123,7 +20123,8 @@
         "name": "check-circle-outline",
         "codepoint": "F05E1",
         "aliases": [
-            "tick-circle-outline"
+            "tick-circle-outline",
+            "success-circle-outline"
         ],
         "version": "1.5.54",
         "tags": [],
