@@ -20111,7 +20111,8 @@
         "name": "check-circle",
         "codepoint": "F05E0",
         "aliases": [
-            "tick-circle"
+            "tick-circle",
+            "success-circle"
         ],
         "version": "1.5.54",
         "tags": [],
