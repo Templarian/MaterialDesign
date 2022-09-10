@@ -486,7 +486,8 @@
             "user-tick",
             "person-check",
             "person-tick",
-            "how-to-reg"
+            "how-to-reg",
+            "account-success"
         ],
         "version": "1.5.54",
         "tags": [
