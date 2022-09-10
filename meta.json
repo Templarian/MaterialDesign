@@ -1118,7 +1118,8 @@
             "person-multiple-check",
             "person-multiple-tick",
             "people-check",
-            "people-tick"
+            "people-tick",
+            "account-multiple-success"
         ],
         "version": "2.3.50",
         "tags": [
