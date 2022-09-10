@@ -20056,7 +20056,8 @@
         "codepoint": "F012C",
         "aliases": [
             "tick",
-            "done"
+            "done",
+            "success"
         ],
         "version": "1.5.54",
         "tags": [],
