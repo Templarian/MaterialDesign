@@ -2093,7 +2093,8 @@
         "name": "airplane-check",
         "codepoint": "F187B",
         "aliases": [
-            "airplace-success"
+            "airplace-success",
+            "airplane-tick"
         ],
         "version": "6.2.95",
         "tags": [
