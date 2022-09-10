@@ -1141,7 +1141,8 @@
             "person-multiple-check-outline",
             "person-multiple-tick-outline",
             "people-check-outline",
-            "people-tick-outline"
+            "people-tick-outline",
+            "account-multiple-success-outline"
         ],
         "version": "4.6.95",
         "tags": [
