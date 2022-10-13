@@ -23077,7 +23077,8 @@
         "aliases": [],
         "version": "2.6.95",
         "tags": [
-            "Cloud"
+            "Cloud",
+            "Weather"
         ],
         "author": "Michael Irigoyen"
     },
