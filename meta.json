@@ -22898,8 +22898,19 @@
         "author": "Andy Martinez"
     },
     {
+        "id": "A56D0A20-FC19-455F-B1E8-3CA24270957A",
+        "name": "cloud-check-outline",
+        "codepoint": "F12CC",
+        "aliases": [],
+        "version": "4.8.95",
+        "tags": [
+            "Cloud"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "5B607B90-B492-43AD-A5B0-4AC800A9F7DA",
-        "name": "cloud-check",
+        "name": "cloud-check-variant",
         "codepoint": "F0160",
         "aliases": [
             "cloud-done",
@@ -22910,17 +22921,6 @@
             "Cloud"
         ],
         "author": "Google"
-    },
-    {
-        "id": "A56D0A20-FC19-455F-B1E8-3CA24270957A",
-        "name": "cloud-check-outline",
-        "codepoint": "F12CC",
-        "aliases": [],
-        "version": "4.8.95",
-        "tags": [
-            "Cloud"
-        ],
-        "author": "Michael Irigoyen"
     },
     {
         "id": "06BCD41B-8BFF-43C0-88A1-69F262C51C5F",
