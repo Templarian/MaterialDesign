@@ -23156,7 +23156,8 @@
         ],
         "version": "1.5.54",
         "tags": [
-            "Cloud"
+            "Cloud",
+            "Weather"
         ],
         "author": "Google"
     },
