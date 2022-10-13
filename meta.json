@@ -22953,7 +22953,8 @@
         "aliases": [],
         "version": "3.0.39",
         "tags": [
-            "Cloud"
+            "Cloud",
+            "Weather"
         ],
         "author": "Google"
     },
