@@ -23084,7 +23084,7 @@
     },
     {
         "id": "1771EA83-96FC-4A06-8A03-E4048C9F9C27",
-        "name": "cloud-refresh",
+        "name": "cloud-refresh-variant",
         "codepoint": "F052A",
         "aliases": [],
         "version": "1.5.54",
