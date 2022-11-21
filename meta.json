@@ -13034,7 +13034,8 @@
         "name": "bookmark-check",
         "codepoint": "F00C1",
         "aliases": [
-            "bookmark-tick"
+            "bookmark-tick",
+            "bookmark-success"
         ],
         "version": "1.5.54",
         "tags": [],
