@@ -33965,6 +33965,19 @@
         "author": "Simran"
     },
     {
+        "id": "31314AE5-195A-4F48-847C-AC6D8A69360D",
+        "name": "file-document-arrow-right",
+        "codepoint": "F1C0F",
+        "aliases": [
+            "file-document-move"
+        ],
+        "version": "7.1.96",
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "F51E0270-13FD-4DA5-945B-FE8C4C45AF60",
         "name": "file-document-check",
         "codepoint": "F1A99",
