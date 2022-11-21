@@ -13044,7 +13044,9 @@
         "id": "EFBBDF1F-1497-4BA3-AE93-614B2BB496F7",
         "name": "bookmark-check-outline",
         "codepoint": "F137B",
-        "aliases": [],
+        "aliases": [
+            "bookmark-success-outline"
+        ],
         "version": "4.9.95",
         "tags": [],
         "author": "Simran"
@@ -66327,7 +66329,7 @@
         "aliases": [],
         "version": "7.1.96",
         "tags": [],
-        "author": "frankgrinaert"
+        "author": "Google"
     },
     {
         "id": "1DFADA84-47E4-40EF-B1F8-D0A34D1482BA",
@@ -66354,7 +66356,7 @@
         "aliases": [],
         "version": "7.1.96",
         "tags": [],
-        "author": "frankgrinaert"
+        "author": "Google"
     },
     {
         "id": "08CB23B7-EC19-4FE5-9CBB-C308CC89C10B",
