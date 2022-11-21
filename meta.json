@@ -50938,6 +50938,17 @@
         "author": "mocking-mike"
     },
     {
+        "id": "E83F528B-42AE-49BE-9236-18C6212ACA9D",
+        "name": "lock-percent-outline",
+        "codepoint": "F1C17",
+        "aliases": [
+            "lock-rate-outline"
+        ],
+        "version": "7.1.96",
+        "tags": [],
+        "author": "mocking-mike"
+    },
+    {
         "id": "BA4D2E1E-2BCB-4B17-AC02-52C8F34FAEAE",
         "name": "lock-plus",
         "codepoint": "F05FB",
