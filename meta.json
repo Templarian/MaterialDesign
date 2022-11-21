@@ -68356,7 +68356,8 @@
         "name": "security",
         "codepoint": "F0483",
         "aliases": [
-            "shield"
+            "shield",
+            "uac"
         ],
         "version": "1.5.54",
         "tags": [],
