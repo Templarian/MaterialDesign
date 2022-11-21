@@ -23332,6 +23332,17 @@
         "author": "Simran"
     },
     {
+        "id": "392BB6A6-E468-4F36-8F7B-8259754E80C4",
+        "name": "cloud-plus",
+        "codepoint": "F1BF7",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Cloud"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "DB32F759-BA18-488B-9260-9A38529BE7A8",
         "name": "cloud-print",
         "codepoint": "F0165",
