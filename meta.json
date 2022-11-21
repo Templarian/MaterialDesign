@@ -16395,6 +16395,17 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "26438E72-F4E7-4C38-B373-0661EC4C1616",
+        "name": "camera-lock-open-outline",
+        "codepoint": "F1C0E",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Photography"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "662A0A34-3FEC-47DB-BD66-608D95F912EF",
         "name": "camera-lock-outline",
         "codepoint": "F1A15",
