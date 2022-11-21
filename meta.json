@@ -9340,6 +9340,17 @@
         "author": "Jeff Anders"
     },
     {
+        "id": "43EACF91-9449-480F-9F4B-C3EECD964C4D",
+        "name": "bank-circle-outline",
+        "codepoint": "F1C04",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Banking"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "DAC4946E-1A07-44B4-977F-E51D740DA5FB",
         "name": "bank-minus",
         "codepoint": "F0DB0",
