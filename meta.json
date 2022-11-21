@@ -47753,6 +47753,17 @@
         "author": "Google"
     },
     {
+        "id": "6F1662E0-9571-4412-9075-6982D2636788",
+        "name": "keyboard-close-outline",
+        "codepoint": "F1C00",
+        "aliases": [
+            "keyboard-hide-outline"
+        ],
+        "version": "7.1.96",
+        "tags": [],
+        "author": "mpardieck"
+    },
+    {
         "id": "3EB07099-2309-466E-8BC0-EA835C273E37",
         "name": "keyboard-esc",
         "codepoint": "F12B7",
