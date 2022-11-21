@@ -68951,7 +68951,9 @@
         "id": "E42A523C-D28D-4AAB-8A86-4816DD872B78",
         "name": "server-security",
         "codepoint": "F0492",
-        "aliases": [],
+        "aliases": [
+            "server-shield"
+        ],
         "version": "1.5.54",
         "tags": [],
         "author": "Austin Andrews"
