@@ -22899,6 +22899,18 @@
         "author": "TheChilliPL"
     },
     {
+        "id": "3FC7BE84-D3FE-4DF8-88D2-19E85A7BF661",
+        "name": "cloud-alert-outline",
+        "codepoint": "F1BE0",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Weather",
+            "Cloud"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "6ED02FDD-323E-4004-9D7B-336F2402DF8E",
         "name": "cloud-braces",
         "codepoint": "F07B5",
