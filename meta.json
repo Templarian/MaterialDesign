@@ -44190,6 +44190,17 @@
         "author": "Andrej Sharapov"
     },
     {
+        "id": "C7559D85-14BB-4C5C-B37C-D37E85FEE258",
+        "name": "help-box-outline",
+        "codepoint": "F1C0C",
+        "aliases": [
+            "question-box-outline"
+        ],
+        "version": "7.1.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "49B41103-DD15-4FF4-A18A-44D8586704B6",
         "name": "help-circle",
         "codepoint": "F02D7",
