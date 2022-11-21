@@ -16384,6 +16384,17 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "2CB53F43-4731-40F1-993B-90F7D92A4789",
+        "name": "camera-lock-open",
+        "codepoint": "F1C0D",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Photography"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "662A0A34-3FEC-47DB-BD66-608D95F912EF",
         "name": "camera-lock-outline",
         "codepoint": "F1A15",
