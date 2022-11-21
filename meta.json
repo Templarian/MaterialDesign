@@ -23204,6 +23204,17 @@
         "author": "Michael Richins"
     },
     {
+        "id": "5985650B-077C-4473-8749-A98E0F731EB9",
+        "name": "cloud-lock-open",
+        "codepoint": "F1BF2",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Cloud"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "9ADC05C4-6BC2-4D66-80B0-CB6677A08271",
         "name": "cloud-lock-outline",
         "codepoint": "F11F2",
