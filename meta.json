@@ -1740,6 +1740,17 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "CD3C08D4-514C-4F3C-B3D7-EF6F74F79817",
+        "name": "account-tag",
+        "codepoint": "F1C1B",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Matthew Terry"
+    },
+    {
         "id": "5EF0B9EA-FECB-409C-999C-FE1ECF0C8B01",
         "name": "account-tie",
         "codepoint": "F0CE3",
