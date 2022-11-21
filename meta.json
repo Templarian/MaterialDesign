@@ -27344,6 +27344,19 @@
         "author": "Michael Richins"
     },
     {
+        "id": "F9875997-F68E-4AE3-9B85-E8DFB6E0D054",
+        "name": "currency-thb",
+        "codepoint": "F1C05",
+        "aliases": [
+            "currency-thai-baht"
+        ],
+        "version": "7.1.96",
+        "tags": [
+            "Banking"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "94DAFCB6-FA70-4DAE-B3DF-A107031F81E8",
         "name": "currency-try",
         "codepoint": "F01B2",
