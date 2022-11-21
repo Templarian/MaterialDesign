@@ -22983,6 +22983,18 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "043AFCE7-AA8A-4E51-AD77-96957407218E",
+        "name": "cloud-arrow-up",
+        "codepoint": "F1BE7",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Cloud",
+            "Weather"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "6ED02FDD-323E-4004-9D7B-336F2402DF8E",
         "name": "cloud-braces",
         "codepoint": "F07B5",
