@@ -9329,6 +9329,17 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "B8F96A7D-408E-4AB0-A137-E89DD4EC743E",
+        "name": "bank-circle",
+        "codepoint": "F1C03",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Banking"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "DAC4946E-1A07-44B4-977F-E51D740DA5FB",
         "name": "bank-minus",
         "codepoint": "F0DB0",
