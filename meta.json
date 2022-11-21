@@ -23215,6 +23215,17 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "54073599-B365-465E-89D6-2081A5D0EB1F",
+        "name": "cloud-lock-open-outline",
+        "codepoint": "F1BF3",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Cloud"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "9ADC05C4-6BC2-4D66-80B0-CB6677A08271",
         "name": "cloud-lock-outline",
         "codepoint": "F11F2",
