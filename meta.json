@@ -23249,6 +23249,17 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "B6D110F4-1A69-4C3E-9045-E14E28AB1EF6",
+        "name": "cloud-minus-outline",
+        "codepoint": "F1BF5",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Cloud"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "E19C3062-FFE5-441C-91C8-B1792E3AA3CA",
         "name": "cloud-off-outline",
         "codepoint": "F0164",
