@@ -1751,6 +1751,17 @@
         "author": "Matthew Terry"
     },
     {
+        "id": "253469B8-B07E-44ED-A834-1CA67428169E",
+        "name": "account-tag-outline",
+        "codepoint": "F1C1C",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Matthew Terry"
+    },
+    {
         "id": "5EF0B9EA-FECB-409C-999C-FE1ECF0C8B01",
         "name": "account-tie",
         "codepoint": "F0CE3",
