@@ -68370,7 +68370,8 @@
         "name": "security-network",
         "codepoint": "F0484",
         "aliases": [
-            "shield-network"
+            "shield-network",
+            "uac-network"
         ],
         "version": "1.5.54",
         "tags": [],
