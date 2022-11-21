@@ -5675,7 +5675,8 @@
         "codepoint": "F174E",
         "aliases": [
             "box-check-outline",
-            "archive-success-outline"
+            "archive-success-outline",
+            "box-success-outline"
         ],
         "version": "6.1.95",
         "tags": [],
