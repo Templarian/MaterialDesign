@@ -23440,6 +23440,18 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "79C50275-0698-42E7-998B-3B0F8E093362",
+        "name": "cloud-refresh-variant-outline",
+        "codepoint": "F1BFC",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Cloud",
+            "Weather"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "BF384FFB-7E5D-4C2E-ADC5-4BEEAF61A81C",
         "name": "cloud-search",
         "codepoint": "F0956",
