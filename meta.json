@@ -66321,13 +66321,22 @@
         "author": "idevo89"
     },
     {
+        "id": "43D55245-34B8-4F1B-953A-CCE75AF35866",
+        "name": "rename",
+        "codepoint": "F1C18",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [],
+        "author": "frankgrinaert"
+    },
+    {
         "id": "1DFADA84-47E4-40EF-B1F8-D0A34D1482BA",
         "name": "rename-box",
         "codepoint": "F0455",
         "aliases": [],
         "version": "1.5.54",
         "tags": [],
-        "author": "Google"
+        "author": "frankgrinaert"
     },
     {
         "id": "08CB23B7-EC19-4FE5-9CBB-C308CC89C10B",
