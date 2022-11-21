@@ -33978,6 +33978,19 @@
         "author": "Andrej Sharapov"
     },
     {
+        "id": "DF8391C4-0B76-4A72-A39E-4DDB40092B8C",
+        "name": "file-document-arrow-right-outline",
+        "codepoint": "F1C10",
+        "aliases": [
+            "file-document-move-outline"
+        ],
+        "version": "7.1.96",
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "F51E0270-13FD-4DA5-945B-FE8C4C45AF60",
         "name": "file-document-check",
         "codepoint": "F1A99",
