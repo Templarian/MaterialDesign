@@ -44178,6 +44178,18 @@
         "author": "Andrej Sharapov"
     },
     {
+        "id": "F2D1319A-DF90-41CD-8791-B9B5685EFAC8",
+        "name": "help-box-multiple-outline",
+        "codepoint": "F1C0B",
+        "aliases": [
+            "quiz-outline",
+            "question-box-multiple-outline"
+        ],
+        "version": "7.1.96",
+        "tags": [],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "49B41103-DD15-4FF4-A18A-44D8586704B6",
         "name": "help-circle",
         "codepoint": "F02D7",
