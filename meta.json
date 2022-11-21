@@ -23144,6 +23144,18 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "DFCB974D-269A-4ADE-BFDF-58C4D12E947C",
+        "name": "cloud-cog",
+        "codepoint": "F1BF0",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Cloud",
+            "Weather"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "D8C49CD8-61B2-4F34-A4B8-543396B4A610",
         "name": "cloud-download",
         "codepoint": "F0162",
