@@ -68357,7 +68357,8 @@
         "codepoint": "F0483",
         "aliases": [
             "shield",
-            "uac"
+            "uac",
+            "user-access-control"
         ],
         "version": "1.5.54",
         "tags": [],
