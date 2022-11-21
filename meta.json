@@ -19752,6 +19752,21 @@
         "author": "Google"
     },
     {
+        "id": "B7CE40ED-002C-475A-ADAC-8110FE260F65",
+        "name": "chart-pie-outline",
+        "codepoint": "F1BDF",
+        "aliases": [
+            "report-pie-outline",
+            "widget-pie-outline",
+            "graph-pie-outline"
+        ],
+        "version": "7.1.96",
+        "tags": [
+            "Math"
+        ],
+        "author": "Google"
+    },
+    {
         "id": "42A6B073-CC7E-4539-9313-E60FAE81BC70",
         "name": "chart-ppf",
         "codepoint": "F1380",
