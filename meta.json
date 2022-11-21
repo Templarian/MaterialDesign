@@ -23343,6 +23343,17 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "278039EE-3E18-4BBC-924E-F8785DA32520",
+        "name": "cloud-plus-outline",
+        "codepoint": "F1BF8",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Cloud"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "DB32F759-BA18-488B-9260-9A38529BE7A8",
         "name": "cloud-print",
         "codepoint": "F0165",
