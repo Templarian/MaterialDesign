@@ -5661,7 +5661,8 @@
         "name": "archive-check",
         "codepoint": "F174D",
         "aliases": [
-            "box-check"
+            "box-check",
+            "archive-success"
         ],
         "version": "6.1.95",
         "tags": [],
