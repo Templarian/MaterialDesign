@@ -23057,6 +23057,18 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "B99F649D-4AB4-4A56-97EA-A52B6CE26B16",
+        "name": "cloud-check-outline",
+        "codepoint": "F1BEC",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Cloud",
+            "Weather"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "5B607B90-B492-43AD-A5B0-4AC800A9F7DA",
         "name": "cloud-check-variant",
         "codepoint": "F0160",
