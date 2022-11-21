@@ -50883,6 +50883,17 @@
         "author": "Haley Halcyon"
     },
     {
+        "id": "2FFF3573-6379-4712-AC2D-0FDDFECE2103",
+        "name": "lock-percent",
+        "codepoint": "F1C12",
+        "aliases": [
+            "lock-rate"
+        ],
+        "version": "7.1.96",
+        "tags": [],
+        "author": "mocking-mike"
+    },
+    {
         "id": "BA4D2E1E-2BCB-4B17-AC02-52C8F34FAEAE",
         "name": "lock-plus",
         "codepoint": "F05FB",
