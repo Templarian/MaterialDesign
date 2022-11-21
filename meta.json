@@ -44166,6 +44166,18 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "52053B96-D72E-4C97-8841-EC5F646F08BB",
+        "name": "help-box-multiple",
+        "codepoint": "F1C0A",
+        "aliases": [
+            "quiz",
+            "question-box-multiple"
+        ],
+        "version": "7.1.96",
+        "tags": [],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "49B41103-DD15-4FF4-A18A-44D8586704B6",
         "name": "help-circle",
         "codepoint": "F02D7",
