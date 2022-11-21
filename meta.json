@@ -32546,6 +32546,15 @@
         "author": "Michael Richins"
     },
     {
+        "id": "D0F73A84-81BB-47B2-993B-0FB019C854B4",
+        "name": "eye-lock",
+        "codepoint": "F1C06",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "67AEA391-FE01-41D0-B594-36433AAB099E",
         "name": "eye-minus",
         "codepoint": "F1026",
