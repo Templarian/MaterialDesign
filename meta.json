@@ -68369,7 +68369,9 @@
         "id": "C9FA8517-7CD1-4AB7-86AD-0A2BF1016466",
         "name": "security-network",
         "codepoint": "F0484",
-        "aliases": [],
+        "aliases": [
+            "shield-network"
+        ],
         "version": "1.5.54",
         "tags": [],
         "author": "Austin Andrews"
