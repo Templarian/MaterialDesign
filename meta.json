@@ -68355,7 +68355,9 @@
         "id": "0C2F3617-9710-4265-AFB5-29C52AD2FBE0",
         "name": "security",
         "codepoint": "F0483",
-        "aliases": [],
+        "aliases": [
+            "shield"
+        ],
         "version": "1.5.54",
         "tags": [],
         "author": "Google"
