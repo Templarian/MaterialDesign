@@ -23021,6 +23021,18 @@
         "author": "Andy Martinez"
     },
     {
+        "id": "8F5247BF-407F-4460-9C6E-3C7A467DF01A",
+        "name": "cloud-cancel",
+        "codepoint": "F1BE9",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Cloud",
+            "Weather"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "5B607B90-B492-43AD-A5B0-4AC800A9F7DA",
         "name": "cloud-check-variant",
         "codepoint": "F0160",
