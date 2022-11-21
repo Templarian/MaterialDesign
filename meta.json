@@ -23238,6 +23238,17 @@
         "author": "Michael Richins"
     },
     {
+        "id": "EC87820F-EE63-45B9-9F7C-6AC83EECCDA8",
+        "name": "cloud-minus",
+        "codepoint": "F1BF4",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Cloud"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "E19C3062-FFE5-441C-91C8-B1792E3AA3CA",
         "name": "cloud-off-outline",
         "codepoint": "F0164",
