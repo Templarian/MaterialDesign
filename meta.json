@@ -68371,7 +68371,8 @@
         "codepoint": "F0484",
         "aliases": [
             "shield-network",
-            "uac-network"
+            "uac-network",
+            "administrator-network"
         ],
         "version": "1.5.54",
         "tags": [],
