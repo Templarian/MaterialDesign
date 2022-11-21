@@ -60848,6 +60848,17 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "1D79B079-87DB-4956-A68D-DE69EE3C371E",
+        "name": "pencil-ruler-outline",
+        "codepoint": "F1C11",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Drawing \/ Art"
+        ],
+        "author": "frankgrinaert"
+    },
+    {
         "id": "B2649A8A-D1EC-43AF-9C99-F233AF709155",
         "name": "penguin",
         "codepoint": "F0EC0",
