@@ -23392,6 +23392,18 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "9114B506-531D-4840-9803-E541F716995C",
+        "name": "cloud-question-outline",
+        "codepoint": "F1BF9",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Cloud",
+            "Weather"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "1771EA83-96FC-4A06-8A03-E4048C9F9C27",
         "name": "cloud-refresh-variant",
         "codepoint": "F052A",
