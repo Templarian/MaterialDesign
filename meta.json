@@ -23108,6 +23108,18 @@
         "author": "Google"
     },
     {
+        "id": "451E7715-6D54-47B1-9228-DBD53D8CBF07",
+        "name": "cloud-circle-outline",
+        "codepoint": "F1BED",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Cloud",
+            "Weather"
+        ],
+        "author": "Google"
+    },
+    {
         "id": "D8C49CD8-61B2-4F34-A4B8-543396B4A610",
         "name": "cloud-download",
         "codepoint": "F0162",
