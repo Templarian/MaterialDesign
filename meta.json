@@ -32555,6 +32555,15 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "BC6FEA4D-DD3C-4EAD-9402-CF1153E8AE52",
+        "name": "eye-lock-open",
+        "codepoint": "F1C07",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "67AEA391-FE01-41D0-B594-36433AAB099E",
         "name": "eye-minus",
         "codepoint": "F1026",
