@@ -66339,6 +66339,15 @@
         "author": "frankgrinaert"
     },
     {
+        "id": "7EDB6900-E536-4424-96D4-71C36753BE76",
+        "name": "rename-box-outline",
+        "codepoint": "F1C19",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "08CB23B7-EC19-4FE5-9CBB-C308CC89C10B",
         "name": "reorder-horizontal",
         "codepoint": "F0688",
