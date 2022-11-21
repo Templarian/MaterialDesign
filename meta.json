@@ -66882,6 +66882,17 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "03508026-E2C8-4A8F-A13E-9D685EF26E14",
+        "name": "robot-vacuum-variant-off",
+        "codepoint": "F1C02",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "96BE0E43-42AB-4F93-8045-0C7B61BF69CC",
         "name": "rocket",
         "codepoint": "F0463",
