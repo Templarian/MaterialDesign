@@ -5662,7 +5662,8 @@
         "codepoint": "F174D",
         "aliases": [
             "box-check",
-            "archive-success"
+            "archive-success",
+            "box-success"
         ],
         "version": "6.1.95",
         "tags": [],
