@@ -23416,6 +23416,18 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "59C1725E-CC9E-4AF1-B215-8FECD1E93A39",
+        "name": "cloud-refresh-outline",
+        "codepoint": "F1BFB",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Cloud",
+            "Weather"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "1771EA83-96FC-4A06-8A03-E4048C9F9C27",
         "name": "cloud-refresh-variant",
         "codepoint": "F052A",
