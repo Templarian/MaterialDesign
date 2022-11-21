@@ -23120,6 +23120,18 @@
         "author": "Google"
     },
     {
+        "id": "F718D38F-3628-42E3-864B-787F62811754",
+        "name": "cloud-clock",
+        "codepoint": "F1BEE",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Weather",
+            "Cloud"
+        ],
+        "author": "Colton Wiscombe"
+    },
+    {
         "id": "D8C49CD8-61B2-4F34-A4B8-543396B4A610",
         "name": "cloud-download",
         "codepoint": "F0162",
