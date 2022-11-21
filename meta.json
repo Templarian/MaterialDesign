@@ -23260,6 +23260,18 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "EFE048B4-42B0-40BD-A7BB-E0E20FB0D80F",
+        "name": "cloud-off",
+        "codepoint": "F1BF6",
+        "aliases": [],
+        "version": "7.1.96",
+        "tags": [
+            "Cloud",
+            "Weather"
+        ],
+        "author": "Google"
+    },
+    {
         "id": "E19C3062-FFE5-441C-91C8-B1792E3AA3CA",
         "name": "cloud-off-outline",
         "codepoint": "F0164",
