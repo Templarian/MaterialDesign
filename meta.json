@@ -50894,6 +50894,17 @@
         "author": "mocking-mike"
     },
     {
+        "id": "D37BC87E-8B6E-4D69-A35C-2C2EE9B85243",
+        "name": "lock-percent-open",
+        "codepoint": "F1C13",
+        "aliases": [
+            "lock-rate-open"
+        ],
+        "version": "7.1.96",
+        "tags": [],
+        "author": "mocking-mike"
+    },
+    {
         "id": "BA4D2E1E-2BCB-4B17-AC02-52C8F34FAEAE",
         "name": "lock-plus",
         "codepoint": "F05FB",
