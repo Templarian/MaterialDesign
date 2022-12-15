@@ -84935,7 +84935,8 @@
         "version": "7.1.96",
         "deprecated": false,
         "tags": [
-            "Printer"
+            "Printer",
+            "Alert \/ Error"
         ],
         "author": "Colton Wiscombe"
     },
