@@ -9165,7 +9165,9 @@
         "styles": [],
         "version": "6.1.95",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Arrow"
+        ],
         "author": "Colton Wiscombe"
     },
     {
