@@ -92422,7 +92422,8 @@
         "name": "shape-plus",
         "codepoint": "F0495",
         "aliases": [
-            "shape-add"
+            "shape-add",
+            "category-plus"
         ],
         "styles": [],
         "version": "1.5.54",
