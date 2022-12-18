@@ -60015,7 +60015,8 @@
         "version": "3.3.92",
         "deprecated": false,
         "tags": [
-            "Home Automation"
+            "Home Automation",
+            "Places"
         ],
         "author": "Google"
     },
