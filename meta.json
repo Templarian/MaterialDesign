@@ -29185,7 +29185,9 @@
         ],
         "version": "2.6.95",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Places"
+        ],
         "author": "Michael Richins"
     },
     {
