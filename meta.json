@@ -45795,7 +45795,8 @@
         "codepoint": "F1A9A",
         "aliases": [
             "file-document-tick-outline",
-            "file-text-tick-outline"
+            "file-text-tick-outline",
+            "file-text-check-outline"
         ],
         "styles": [
             "check",
