@@ -45816,7 +45816,8 @@
         "name": "file-document-edit",
         "codepoint": "F0DC8",
         "aliases": [
-            "contract"
+            "contract",
+            "file-text-edit"
         ],
         "styles": [
             "edit"
