@@ -45711,7 +45711,8 @@
         "codepoint": "F1A98",
         "aliases": [
             "file-document-error-outline",
-            "file-text-error-outline"
+            "file-text-error-outline",
+            "file-text-alert-outline"
         ],
         "styles": [
             "alert",
