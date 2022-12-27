@@ -45856,7 +45856,9 @@
         "baseIconId": "BFF59001-B52D-47E6-A217-C9095F81C3B8",
         "name": "file-document-minus",
         "codepoint": "F1A9B",
-        "aliases": [],
+        "aliases": [
+            "file-text-minus"
+        ],
         "styles": [
             "minus",
             "variant"
