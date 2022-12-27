@@ -45794,7 +45794,8 @@
         "name": "file-document-check-outline",
         "codepoint": "F1A9A",
         "aliases": [
-            "file-document-tick-outline"
+            "file-document-tick-outline",
+            "file-text-tick-outline"
         ],
         "styles": [
             "check",
