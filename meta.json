@@ -45970,7 +45970,8 @@
         "name": "file-document-plus-outline",
         "codepoint": "F1A9E",
         "aliases": [
-            "file-document-add-outline"
+            "file-document-add-outline",
+            "file-text-plus-outline"
         ],
         "styles": [
             "outline",
