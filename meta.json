@@ -93960,7 +93960,9 @@
         "baseIconId": "70BBF348-E5D1-4C4C-AD93-17246A78DE13",
         "name": "shuriken",
         "codepoint": "F137F",
-        "aliases": [],
+        "aliases": [
+            "ninja-star"
+        ],
         "styles": [],
         "version": "4.9.95",
         "deprecated": false,
