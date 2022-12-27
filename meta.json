@@ -46006,7 +46006,8 @@
         "codepoint": "F1AA0",
         "aliases": [
             "file-document-delete-outline",
-            "file-text-remove-outline"
+            "file-text-remove-outline",
+            "file-text-delete-outline"
         ],
         "styles": [
             "outline",
