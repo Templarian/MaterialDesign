@@ -27712,6 +27712,7 @@
         "version": "6.4.95",
         "deprecated": false,
         "tags": [
+            "Form",
             "Form"
         ],
         "author": "Teodor Sandu"
