@@ -45950,7 +45950,8 @@
         "codepoint": "F1A9D",
         "aliases": [
             "file-document-add",
-            "file-text-add"
+            "file-text-add",
+            "file-text-plus"
         ],
         "styles": [
             "plus",
