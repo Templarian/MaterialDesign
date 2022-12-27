@@ -40569,7 +40569,9 @@
         "styles": [],
         "version": "1.5.54",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Files \/ Folders"
+        ],
         "author": "Google"
     },
     {
