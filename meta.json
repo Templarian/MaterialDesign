@@ -45753,7 +45753,8 @@
         "name": "file-document-arrow-right-outline",
         "codepoint": "F1C10",
         "aliases": [
-            "file-document-move-outline"
+            "file-document-move-outline",
+            "file-text-move-outline"
         ],
         "styles": [
             "arrow"
