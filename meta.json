@@ -45672,7 +45672,6 @@
         "name": "file-document",
         "codepoint": "F0219",
         "aliases": [
-            "file-text",
             "file-text"
         ],
         "styles": [],
