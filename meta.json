@@ -45836,7 +45836,8 @@
         "name": "file-document-edit-outline",
         "codepoint": "F0DC9",
         "aliases": [
-            "contract-outline"
+            "contract-outline",
+            "file-text-edit-outline"
         ],
         "styles": [
             "edit",
