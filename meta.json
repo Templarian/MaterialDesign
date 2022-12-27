@@ -45671,7 +45671,9 @@
         "baseIconId": "BFF59001-B52D-47E6-A217-C9095F81C3B8",
         "name": "file-document",
         "codepoint": "F0219",
-        "aliases": [],
+        "aliases": [
+            "file-text"
+        ],
         "styles": [],
         "version": "1.5.54",
         "deprecated": false,
@@ -85757,7 +85759,9 @@
         "name": "progress-star",
         "codepoint": "F1788",
         "aliases": [],
-        "styles": [],
+        "styles": [
+            "star"
+        ],
         "version": "6.1.95",
         "deprecated": false,
         "tags": [],
