@@ -45754,7 +45754,8 @@
         "codepoint": "F1C10",
         "aliases": [
             "file-document-move-outline",
-            "file-text-move-outline"
+            "file-text-move-outline",
+            "file-text-arrow-right-outline"
         ],
         "styles": [
             "arrow"
