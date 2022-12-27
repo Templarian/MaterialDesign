@@ -45710,7 +45710,8 @@
         "name": "file-document-alert-outline",
         "codepoint": "F1A98",
         "aliases": [
-            "file-document-error-outline"
+            "file-document-error-outline",
+            "file-text-error-outline"
         ],
         "styles": [
             "alert",
