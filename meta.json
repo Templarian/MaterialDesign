@@ -98284,7 +98284,9 @@
         ],
         "version": "2.4.85",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Shape"
+        ],
         "author": "Google"
     },
     {
