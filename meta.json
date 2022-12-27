@@ -45875,7 +45875,9 @@
         "baseIconId": "BFF59001-B52D-47E6-A217-C9095F81C3B8",
         "name": "file-document-minus-outline",
         "codepoint": "F1A9C",
-        "aliases": [],
+        "aliases": [
+            "file-text-minus-outline"
+        ],
         "styles": [
             "minus",
             "outline",
