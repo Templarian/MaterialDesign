@@ -45688,7 +45688,8 @@
         "name": "file-document-alert",
         "codepoint": "F1A97",
         "aliases": [
-            "file-document-error"
+            "file-document-error",
+            "file-text-alert"
         ],
         "styles": [
             "alert",
