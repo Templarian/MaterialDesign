@@ -45774,7 +45774,8 @@
         "codepoint": "F1A99",
         "aliases": [
             "file-document-tick",
-            "file-text-tick"
+            "file-text-tick",
+            "file-text-check"
         ],
         "styles": [
             "check",
