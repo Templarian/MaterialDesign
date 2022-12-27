@@ -45895,7 +45895,9 @@
         "baseIconId": "BFF59001-B52D-47E6-A217-C9095F81C3B8",
         "name": "file-document-multiple",
         "codepoint": "F1517",
-        "aliases": [],
+        "aliases": [
+            "file-text-multiple"
+        ],
         "styles": [
             "multiple"
         ],
