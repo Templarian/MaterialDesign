@@ -45985,7 +45985,8 @@
         "codepoint": "F1A9F",
         "aliases": [
             "file-document-delete",
-            "file-text-remove"
+            "file-text-remove",
+            "file-text-delete"
         ],
         "styles": [
             "remove",
