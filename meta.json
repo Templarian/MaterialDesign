@@ -45949,7 +45949,8 @@
         "name": "file-document-plus",
         "codepoint": "F1A9D",
         "aliases": [
-            "file-document-add"
+            "file-document-add",
+            "file-text-add"
         ],
         "styles": [
             "plus",
