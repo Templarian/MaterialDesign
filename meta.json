@@ -46005,7 +46005,8 @@
         "name": "file-document-remove-outline",
         "codepoint": "F1AA0",
         "aliases": [
-            "file-document-delete-outline"
+            "file-document-delete-outline",
+            "file-text-remove-outline"
         ],
         "styles": [
             "outline",
