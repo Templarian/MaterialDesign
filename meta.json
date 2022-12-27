@@ -45734,7 +45734,8 @@
         "codepoint": "F1C0F",
         "aliases": [
             "file-document-move",
-            "file-text-move"
+            "file-text-move",
+            "file-text-arrow-right"
         ],
         "styles": [
             "arrow"
