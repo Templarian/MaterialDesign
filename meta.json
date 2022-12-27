@@ -45922,7 +45922,9 @@
         "baseIconId": "BFF59001-B52D-47E6-A217-C9095F81C3B8",
         "name": "file-document-outline",
         "codepoint": "F09EE",
-        "aliases": [],
+        "aliases": [
+            "file-text-outline"
+        ],
         "styles": [],
         "version": "2.5.94",
         "deprecated": false,
