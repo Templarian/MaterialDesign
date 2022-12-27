@@ -45971,7 +45971,8 @@
         "codepoint": "F1A9E",
         "aliases": [
             "file-document-add-outline",
-            "file-text-plus-outline"
+            "file-text-plus-outline",
+            "file-text-add-outline"
         ],
         "styles": [
             "outline",
