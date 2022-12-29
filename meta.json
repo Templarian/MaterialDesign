@@ -27653,7 +27653,9 @@
         "baseIconId": "2B75FE22-5209-4DF8-B16A-B6F74272337B",
         "name": "checkbox-intermediate-variant",
         "codepoint": "F1B54",
-        "aliases": [],
+        "aliases": [
+            "checkbox-indeterminate-variant"
+        ],
         "styles": [
             "variant"
         ],
