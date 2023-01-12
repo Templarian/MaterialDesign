@@ -27499,7 +27499,9 @@
         "styles": [],
         "version": "2.7.94",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Google"
     },
     {
