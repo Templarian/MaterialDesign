@@ -52501,7 +52501,8 @@
         "version": "4.8.95",
         "deprecated": false,
         "tags": [
-            "Text \/ Content \/ Format"
+            "Text \/ Content \/ Format",
+            "Color"
         ],
         "author": "Michael Irigoyen"
     },
