@@ -27505,6 +27505,24 @@
         "author": "Google"
     },
     {
+        "id": "E1AF54E0-A2C9-41D4-89E0-62CD301F4B71",
+        "baseIconId": "F35E17AA-A0E8-4AEE-9504-6DC07F3ACEAD",
+        "name": "checkbook-arrow-left",
+        "codepoint": "F1C1D",
+        "aliases": [
+            "chequebook-arrow-left"
+        ],
+        "styles": [
+            "arrow"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Banking"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "2B75FE22-5209-4DF8-B16A-B6F74272337B",
         "baseIconId": "2B75FE22-5209-4DF8-B16A-B6F74272337B",
         "name": "checkbox-blank",
