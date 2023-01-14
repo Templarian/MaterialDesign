@@ -12,7 +12,7 @@ body:
         Icon aliases are provide different names the help yourself and others find the icons you are looking for.
         Aliases *do not* provide you a different way to call a specific icon in your code.
 
-        For example, `account` has an alias of `user`. You can search for "user" on [our website](https://www.materialdesignicons.com), but you must use `account` when refering to the icon in your code.
+        For example, `account` has an alias of `user`. You can search for "user" on [our website](https://pictogrammers.com/library/mdi), but you must use `account` when refering to the icon in your code.
 
         ---
   - type: input
