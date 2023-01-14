@@ -9,9 +9,9 @@ body:
       options:
         - label: I have [searched all issues](https://github.com/Templarian/MaterialDesign/issues?q=is%3Aissue) to make sure there isn't a request for this icon.
           required: true
-        - label: I have [searched the current library](https://materialdesignicons.com/) to make sure the icon doesn't already exist.
+        - label: I have [searched the current library](https://pictogrammers.com/library/mdi) to make sure the icon doesn't already exist.
           required: true
-        - label: I understand that [brand icons are no longer being added](http://dev.materialdesignicons.com/roadmap/brand-icons) and I can use [SimpleIcons](https://simpleicons.org/) for my brand icon needs.
+        - label: I understand that [brand icons are no longer being added](https://pictogrammers.com/docs/library/mdi/guides/brand-icons/) and I can use [SimpleIcons](https://simpleicons.org/) for my brand icon needs.
           required: true
         - label: I have followed the [Material guidelines](https://material.io/design/iconography/system-icons.html) for system icons.
           required: true
@@ -26,7 +26,7 @@ body:
     id: preview
     attributes:
       label: Share a preview of your contribution.
-      description: Generate a preview of your icon using our [preview generator](http://dev.materialdesignicons.com/contribute/github). Your icon *must* be combined down to a single path to generate a preview.
+      description: Generate a preview of your icon using our [preview generator](https://pictogrammers.com/tools/github/). Your icon *must* be combined down to a single path to generate a preview.
       placeholder: Paste the generated preview of your icon here.
     validations:
       required: true
