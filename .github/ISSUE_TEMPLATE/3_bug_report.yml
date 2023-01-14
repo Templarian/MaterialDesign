@@ -21,7 +21,7 @@ body:
     attributes:
       label: Where are you experiencing this bug?
       options:
-        - materialdesignicons.com
+        - pictogrammers.com
         - A specific icon glyph
         - "@mdi/font"
         - "@mdi/js"
