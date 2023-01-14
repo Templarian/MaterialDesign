@@ -21702,6 +21702,26 @@
         "author": "Michael Richins"
     },
     {
+        "id": "AC50F06A-D098-4FE2-87CB-E5B82FB077EF",
+        "baseIconId": "23C8742A-612C-4C55-B184-2A0ABB387746",
+        "name": "calendar-star-four-points",
+        "codepoint": "F1C1F",
+        "aliases": [
+            "calendar-auto",
+            "event-star-four-points",
+            "event-auto"
+        ],
+        "styles": [
+            "star"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "2F59B304-E3CE-4857-9EF8-B75BC591E3E8",
         "baseIconId": "23C8742A-612C-4C55-B184-2A0ABB387746",
         "name": "calendar-star-outline",
