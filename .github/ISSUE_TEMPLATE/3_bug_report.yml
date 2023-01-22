@@ -6,16 +6,6 @@ body:
     attributes:
       value: |
         *Make sure you [searched all issues](https://github.com/Templarian/MaterialDesign/issues?q=is%3Aissue) before submitting your bug report!*
-
-        ---
-
-        ### IMPORTANT ⤵️ 
-
-        If you see an icon on the site, but it is not in the latest release, *this is not a bug*. When new icons are added the library, they will immediately show on [MaterialDesignIcons.com](https://materialdesignicons.com/). However, a new release must happen before they will be available in our packages.
-        
-        See our [history log](https://pictogrammers.com/library/mdi/history/) for more information.
-
-        ---
   - type: dropdown
     id: area
     attributes:
