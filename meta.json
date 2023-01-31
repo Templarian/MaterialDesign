@@ -11449,6 +11449,18 @@
         "author": "Google"
     },
     {
+        "id": "A3A6B130-A579-48CB-8850-C5E5425A77AE",
+        "baseIconId": "A3A6B130-A579-48CB-8850-C5E5425A77AE",
+        "name": "auto-mode",
+        "codepoint": "F1C20",
+        "aliases": [],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "3DEAD47C-90B3-485E-943C-CE2D70C85154",
         "baseIconId": "3DEAD47C-90B3-485E-943C-CE2D70C85154",
         "name": "auto-upload",
