@@ -15853,6 +15853,18 @@
         "author": "Jeff Anders"
     },
     {
+        "id": "FA105BDA-FD31-4A8E-86AD-1C02073B05B7",
+        "baseIconId": "0A408C8A-FD39-4160-9547-3A7895BCE942",
+        "name": "bench-back",
+        "codepoint": "F1C22",
+        "aliases": [],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "4F83A19F-BAB5-4894-AC5A-B288AFD592DC",
         "baseIconId": "4F83A19F-BAB5-4894-AC5A-B288AFD592DC",
         "name": "beta",
