@@ -16038,6 +16038,23 @@
         "author": "GreenTurtwig"
     },
     {
+        "id": "31FF4583-E8CF-45E3-9F21-F75022605846",
+        "baseIconId": "31FF4583-E8CF-45E3-9F21-F75022605846",
+        "name": "bike-pedal",
+        "codepoint": "F1C23",
+        "aliases": [
+            "bike-pedal-flat"
+        ],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Transportation + Other",
+            "Sport"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "645C4EDB-9339-4784-8AE9-BD60F8460CAE",
         "baseIconId": "645C4EDB-9339-4784-8AE9-BD60F8460CAE",
         "name": "billboard",
