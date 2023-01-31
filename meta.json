@@ -15841,6 +15841,18 @@
         "author": "Google"
     },
     {
+        "id": "0A408C8A-FD39-4160-9547-3A7895BCE942",
+        "baseIconId": "0A408C8A-FD39-4160-9547-3A7895BCE942",
+        "name": "bench",
+        "codepoint": "F1C21",
+        "aliases": [],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "4F83A19F-BAB5-4894-AC5A-B288AFD592DC",
         "baseIconId": "4F83A19F-BAB5-4894-AC5A-B288AFD592DC",
         "name": "beta",
