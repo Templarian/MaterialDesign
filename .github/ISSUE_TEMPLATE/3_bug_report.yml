@@ -1,5 +1,5 @@
 name: Report a Bug 🐛
-description: Report an issue with the website, an icon, or one of our first-party libraries.
+description: Report an issue with the an icon or one of our first-party libraries.
 labels: [Bug]
 body:
   - type: markdown
@@ -11,7 +11,6 @@ body:
     attributes:
       label: Where are you experiencing this bug?
       options:
-        - pictogrammers.com
         - A specific icon glyph
         - "@mdi/font"
         - "@mdi/js"
