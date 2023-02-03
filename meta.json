@@ -16055,6 +16055,36 @@
         "author": "Jeff Anders"
     },
     {
+        "id": "25F25042-2064-4655-A19C-F9761ABF0EC7",
+        "baseIconId": "31FF4583-E8CF-45E3-9F21-F75022605846",
+        "name": "bike-pedal-clipless",
+        "codepoint": "F1C24",
+        "aliases": [],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Transportation + Other",
+            "Sport"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "E609D6B1-16E0-43BA-9674-6F2E5924504E",
+        "baseIconId": "31FF4583-E8CF-45E3-9F21-F75022605846",
+        "name": "bike-pedal-mountain",
+        "codepoint": "F1C25",
+        "aliases": [],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Transportation + Other",
+            "Sport"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "645C4EDB-9339-4784-8AE9-BD60F8460CAE",
         "baseIconId": "645C4EDB-9339-4784-8AE9-BD60F8460CAE",
         "name": "billboard",
@@ -27815,6 +27845,43 @@
         "author": "Google"
     },
     {
+        "id": "F55DDDD9-41D3-477B-A513-DD6CF2487E0B",
+        "baseIconId": "F031DE59-CC30-47BF-B689-BC993893B03A",
+        "name": "checkbox-marked-circle-auto-outline",
+        "codepoint": "F1C26",
+        "aliases": [
+            "task-auto",
+            "todo-auto"
+        ],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Form"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "53428253-C1B2-47CD-BBC8-7069E7697FEF",
+        "baseIconId": "F031DE59-CC30-47BF-B689-BC993893B03A",
+        "name": "checkbox-marked-circle-minus-outline",
+        "codepoint": "F1C27",
+        "aliases": [
+            "todo-minus",
+            "task-minus"
+        ],
+        "styles": [
+            "minus",
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Form"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "7DC53566-5640-4124-A2C2-5070D7FBA591",
         "baseIconId": "F031DE59-CC30-47BF-B689-BC993893B03A",
         "name": "checkbox-marked-circle-outline",
@@ -29298,6 +29365,22 @@
         "author": "Google"
     },
     {
+        "id": "830F6E98-B337-4E3C-A990-AA44622F4E78",
+        "baseIconId": "5A5AC571-1818-45D0-8259-A9177DBED615",
+        "name": "city-switch",
+        "codepoint": "F1C28",
+        "aliases": [
+            "city-swap"
+        ],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Places"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "2F6976DF-1008-496D-802D-917F6EA5F7DB",
         "baseIconId": "5A5AC571-1818-45D0-8259-A9177DBED615",
         "name": "city-variant",
@@ -30535,6 +30618,43 @@
             "Date \/ Time"
         ],
         "author": "Dylan Oli"
+    },
+    {
+        "id": "AA756E06-67A0-4182-8A32-CF4968219B68",
+        "baseIconId": "90E7BBD9-12C3-4339-94DE-99A049C8D4B1",
+        "name": "clock-star-four-points",
+        "codepoint": "F1C29",
+        "aliases": [
+            "clock-auto"
+        ],
+        "styles": [
+            "star"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "ECD839D8-3E3A-4080-AE28-E15A82E0ACF2",
+        "baseIconId": "90E7BBD9-12C3-4339-94DE-99A049C8D4B1",
+        "name": "clock-star-four-points-outline",
+        "codepoint": "F1C2A",
+        "aliases": [
+            "clock-auto-outline"
+        ],
+        "styles": [
+            "outline",
+            "star"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "Jeff Anders"
     },
     {
         "id": "85A4435A-CDCF-42BC-8F2C-B46EDF8820BD",
@@ -35553,6 +35673,22 @@
         "author": "Google"
     },
     {
+        "id": "E643EA62-6140-491A-9B2D-DE88F51BD37A",
+        "baseIconId": "598B7931-3DF8-4CFA-A6E6-80550CA31372",
+        "name": "creation-outline",
+        "codepoint": "F1C2B",
+        "aliases": [
+            "auto-awesome-outline"
+        ],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "8973B8C3-527C-48D1-9E5B-CB0A35DE2B77",
         "baseIconId": "8973B8C3-527C-48D1-9E5B-CB0A35DE2B77",
         "name": "creative-commons",
@@ -40349,6 +40485,18 @@
         "deprecated": false,
         "tags": [],
         "author": "Michael Richins"
+    },
+    {
+        "id": "27E6BA2C-0A33-4FE7-AF71-B3B9AE767C0B",
+        "baseIconId": "CA264BA4-62A9-4823-A172-22DD413A6CF5",
+        "name": "domain-switch",
+        "codepoint": "F1C2C",
+        "aliases": [],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
     },
     {
         "id": "E17E8B8F-361D-4467-97BE-71C3ABE9355A",
@@ -47559,6 +47707,43 @@
             "Files \/ Folders"
         ],
         "author": "Michael Irigoyen"
+    },
+    {
+        "id": "E78BF233-EE37-492B-8E41-3965576E4A7C",
+        "baseIconId": "BFF59001-B52D-47E6-A217-C9095F81C3B8",
+        "name": "file-star-four-points",
+        "codepoint": "F1C2D",
+        "aliases": [
+            "file-auto"
+        ],
+        "styles": [
+            "star"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "D97DE718-4746-41B5-9168-4F5F08513158",
+        "baseIconId": "BFF59001-B52D-47E6-A217-C9095F81C3B8",
+        "name": "file-star-four-points-outline",
+        "codepoint": "F1C2E",
+        "aliases": [
+            "file-auto-outline"
+        ],
+        "styles": [
+            "outline",
+            "star"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Jeff Anders"
     },
     {
         "id": "B418C938-EE23-4073-B10C-C1D93D54B288",
@@ -56997,7 +57182,7 @@
         ],
         "styles": [],
         "version": "4.9.95",
-        "deprecated": false,
+        "deprecated": true,
         "tags": [
             "Animal",
             "Gaming \/ RPG"
@@ -57129,7 +57314,7 @@
         "aliases": [],
         "styles": [],
         "version": "4.1.95",
-        "deprecated": false,
+        "deprecated": true,
         "tags": [],
         "author": "Google"
     },
@@ -57141,7 +57326,7 @@
         "aliases": [],
         "styles": [],
         "version": "1.5.54",
-        "deprecated": false,
+        "deprecated": true,
         "tags": [],
         "author": "Google"
     },
@@ -57182,7 +57367,7 @@
         "aliases": [],
         "styles": [],
         "version": "3.7.94",
-        "deprecated": false,
+        "deprecated": true,
         "tags": [],
         "author": "Google"
     },
@@ -57194,7 +57379,7 @@
         "aliases": [],
         "styles": [],
         "version": "2.5.94",
-        "deprecated": false,
+        "deprecated": true,
         "tags": [],
         "author": "Google"
     },
@@ -57208,7 +57393,7 @@
         ],
         "styles": [],
         "version": "3.2.89",
-        "deprecated": false,
+        "deprecated": true,
         "tags": [],
         "author": "Google"
     },
@@ -61042,6 +61227,66 @@
         "deprecated": false,
         "tags": [
             "Agriculture",
+            "Home Automation"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "30477CDE-7E54-4B3F-830D-F846520A28B2",
+        "baseIconId": "5D085274-15B9-42EC-8CCE-2F94C5EC039C",
+        "name": "home-sound-in",
+        "codepoint": "F1C2F",
+        "aliases": [],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "4B4ED868-C3DB-4D85-BCF2-4B2214BAF0CA",
+        "baseIconId": "5D085274-15B9-42EC-8CCE-2F94C5EC039C",
+        "name": "home-sound-in-outline",
+        "codepoint": "F1C30",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "8922F49A-8B55-4B61-A893-A5E370AA39BD",
+        "baseIconId": "5D085274-15B9-42EC-8CCE-2F94C5EC039C",
+        "name": "home-sound-out",
+        "codepoint": "F1C31",
+        "aliases": [],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "87C2DE8C-2E23-467B-9C6C-AD258E1C4DE9",
+        "baseIconId": "5D085274-15B9-42EC-8CCE-2F94C5EC039C",
+        "name": "home-sound-out-outline",
+        "codepoint": "F1C32",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
             "Home Automation"
         ],
         "author": "Jeff Anders"
@@ -71941,7 +72186,7 @@
         ],
         "styles": [],
         "version": "1.5.54",
-        "deprecated": false,
+        "deprecated": true,
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -71958,7 +72203,7 @@
         ],
         "styles": [],
         "version": "1.9.32",
-        "deprecated": false,
+        "deprecated": true,
         "tags": [
             "Battery",
             "Gaming \/ RPG",
@@ -71976,7 +72221,7 @@
         ],
         "styles": [],
         "version": "2.5.94",
-        "deprecated": false,
+        "deprecated": true,
         "tags": [
             "Gaming \/ RPG",
             "Battery"
@@ -71993,7 +72238,7 @@
         ],
         "styles": [],
         "version": "1.9.32",
-        "deprecated": false,
+        "deprecated": true,
         "tags": [
             "Battery",
             "Gaming \/ RPG"
@@ -72010,7 +72255,7 @@
         ],
         "styles": [],
         "version": "1.9.32",
-        "deprecated": false,
+        "deprecated": true,
         "tags": [
             "Battery",
             "Gaming \/ RPG"
@@ -72027,7 +72272,7 @@
         ],
         "styles": [],
         "version": "1.9.32",
-        "deprecated": false,
+        "deprecated": true,
         "tags": [
             "Battery",
             "Gaming \/ RPG"
@@ -72044,7 +72289,7 @@
         ],
         "styles": [],
         "version": "1.9.32",
-        "deprecated": false,
+        "deprecated": true,
         "tags": [
             "Battery",
             "Gaming \/ RPG"
@@ -72076,7 +72321,7 @@
         "aliases": [],
         "styles": [],
         "version": "3.6.95",
-        "deprecated": false,
+        "deprecated": true,
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -72094,7 +72339,7 @@
             "off"
         ],
         "version": "1.5.54",
-        "deprecated": false,
+        "deprecated": true,
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -72108,7 +72353,7 @@
         "aliases": [],
         "styles": [],
         "version": "3.6.95",
-        "deprecated": false,
+        "deprecated": true,
         "tags": [
             "Gaming \/ RPG"
         ],
@@ -72935,6 +73180,18 @@
             "Device \/ Tech"
         ],
         "author": "Austin Andrews"
+    },
+    {
+        "id": "1F476F4F-1689-4729-A5A5-A2BB1C49DC90",
+        "baseIconId": "35091AEB-2AF7-4F92-A249-2955F01404A3",
+        "name": "monitor-vertical",
+        "codepoint": "F1C33",
+        "aliases": [],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
     },
     {
         "id": "F9A81054-5651-47DE-9507-E0743AE78E77",
@@ -78582,6 +78839,79 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "7069C1C4-8C2E-4E67-B167-FA1A1FE61418",
+        "baseIconId": "455C8475-5555-49B7-825B-206581104AB2",
+        "name": "octagram-edit",
+        "codepoint": "F1C34",
+        "aliases": [
+            "starburst-edit"
+        ],
+        "styles": [
+            "edit"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Shape"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "02D856A6-74E6-41EA-8938-054DD39B627D",
+        "baseIconId": "455C8475-5555-49B7-825B-206581104AB2",
+        "name": "octagram-edit-outline",
+        "codepoint": "F1C35",
+        "aliases": [
+            "starburst-edit-outline"
+        ],
+        "styles": [
+            "edit",
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Shape"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "FA0E4A6E-0AED-4C67-B4AD-B52CF53C6D92",
+        "baseIconId": "455C8475-5555-49B7-825B-206581104AB2",
+        "name": "octagram-minus",
+        "codepoint": "F1C36",
+        "aliases": [
+            "starburst-plus"
+        ],
+        "styles": [
+            "plus"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Shape"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "E11403C7-999F-4EEF-BD97-5598280C54A2",
+        "baseIconId": "455C8475-5555-49B7-825B-206581104AB2",
+        "name": "octagram-minus-outline",
+        "codepoint": "F1C37",
+        "aliases": [
+            "starburst-minus-outline"
+        ],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Shape"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "8316E0F1-5F66-4C4E-ACA8-EE61AD93A42A",
         "baseIconId": "455C8475-5555-49B7-825B-206581104AB2",
         "name": "octagram-outline",
@@ -78598,6 +78928,39 @@
             "Shape"
         ],
         "author": "Austin Andrews"
+    },
+    {
+        "id": "DF81ADEE-1450-4D83-A54C-25D9868FCF3F",
+        "baseIconId": "455C8475-5555-49B7-825B-206581104AB2",
+        "name": "octagram-plus",
+        "codepoint": "F1C38",
+        "aliases": [
+            "starburst-plus"
+        ],
+        "styles": [
+            "plus"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Shape"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "EC917461-058B-41D0-8BEA-FDB91DCCB63F",
+        "baseIconId": "8316E0F1-5F66-4C4E-ACA8-EE61AD93A42A",
+        "name": "octagram-plus-outline",
+        "codepoint": "F1C39",
+        "aliases": [],
+        "styles": [
+            "outline",
+            "plus"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
     },
     {
         "id": "45CD61D9-B0D0-43FA-B50E-F6E71A95128A",
@@ -83254,6 +83617,22 @@
         "author": "frankgrinaert"
     },
     {
+        "id": "11C9308E-3310-49C4-90AF-79ECA629386A",
+        "baseIconId": "90AD6D2A-7986-49D0-8DA5-DC92F9F92A15",
+        "name": "play-box-edit-outline",
+        "codepoint": "F1C3A",
+        "aliases": [],
+        "styles": [
+            "box",
+            "edit",
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Sintija"
+    },
+    {
         "id": "0B180C29-3ADF-47C2-ACC6-C5EE5E744AD4",
         "baseIconId": "90AD6D2A-7986-49D0-8DA5-DC92F9F92A15",
         "name": "play-box-lock",
@@ -84481,6 +84860,42 @@
             "Home Automation"
         ],
         "author": "Google"
+    },
+    {
+        "id": "1F41CB15-B611-4FBF-A789-7A404C7D81D1",
+        "baseIconId": "60E77DB8-2D58-462F-8512-41D9E0E42795",
+        "name": "power-plug-battery",
+        "codepoint": "F1C3B",
+        "aliases": [
+            "battery-backup"
+        ],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Home Automation",
+            "Battery"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "936AF163-1DC9-4F38-8B7E-5F165695F56C",
+        "baseIconId": "60E77DB8-2D58-462F-8512-41D9E0E42795",
+        "name": "power-plug-battery-outline",
+        "codepoint": "F1C3C",
+        "aliases": [
+            "battery-backup-outline"
+        ],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Home Automation",
+            "Battery"
+        ],
+        "author": "Jeff Anders"
     },
     {
         "id": "ACF38F54-4726-4F8F-9916-8C582137FA69",
@@ -85971,6 +86386,22 @@
         "author": "Teodor Sandu"
     },
     {
+        "id": "C8BCB1CF-5259-4BC0-B368-4F5C2A3C194B",
+        "baseIconId": "FF05067C-B5B4-48B1-B63C-75D3CBB24E45",
+        "name": "progress-star-four-points",
+        "codepoint": "F1C3D",
+        "aliases": [
+            "progress-auto"
+        ],
+        "styles": [
+            "star"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "699B5A10-1C4C-448C-A3F4-36A3CACD82EA",
         "baseIconId": "699B5A10-1C4C-448C-A3F4-36A3CACD82EA",
         "name": "progress-upload",
@@ -86593,8 +87024,10 @@
         "aliases": [],
         "styles": [],
         "version": "2.4.85",
-        "deprecated": false,
-        "tags": [],
+        "deprecated": true,
+        "tags": [
+            "Brand \/ Logo"
+        ],
         "author": "Contributors"
     },
     {
@@ -87411,6 +87844,39 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "74B3AD4D-BDC1-4C72-9151-54D295195D39",
+        "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
+        "name": "receipt-clock",
+        "codepoint": "F1C3E",
+        "aliases": [
+            "receipt-pending"
+        ],
+        "styles": [
+            "clock"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "BE5F88B6-E3FF-48FC-91B1-1FD331F2E055",
+        "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
+        "name": "receipt-clock-outline",
+        "codepoint": "F1C3F",
+        "aliases": [
+            "receipt-pending"
+        ],
+        "styles": [
+            "clock",
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "179831B0-F175-4694-9313-3B745C133F96",
         "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
         "name": "receipt-outline",
@@ -87430,6 +87896,35 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "21480B9D-5F5E-4899-823E-3ED8C14EB4F4",
+        "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
+        "name": "receipt-send",
+        "codepoint": "F1C40",
+        "aliases": [],
+        "styles": [
+            "send"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "C09E8F37-086D-425D-9984-639C3251F340",
+        "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
+        "name": "receipt-send-outline",
+        "codepoint": "F1C41",
+        "aliases": [],
+        "styles": [
+            "outline",
+            "send"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "80E9E435-2478-4B48-99B8-D8BEF353AE5F",
         "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
         "name": "receipt-text",
@@ -87442,6 +87937,76 @@
         "deprecated": false,
         "tags": [],
         "author": "Google"
+    },
+    {
+        "id": "F52947B9-1965-4E8C-824E-6DC5AE572CB9",
+        "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
+        "name": "receipt-text-arrow-left",
+        "codepoint": "F1C42",
+        "aliases": [
+            "invoice-arrow-left",
+            "invoice-receive"
+        ],
+        "styles": [
+            "arrow"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "463BE742-B0EA-4291-BF09-8C782D3D833E",
+        "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
+        "name": "receipt-text-arrow-left-outline",
+        "codepoint": "F1C43",
+        "aliases": [
+            "invoice-arrow-left-outline",
+            "invoice-receive-outline"
+        ],
+        "styles": [
+            "arrow",
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "E979926E-BF4E-4ECA-B5DF-500D1886425F",
+        "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
+        "name": "receipt-text-arrow-right",
+        "codepoint": "F1C44",
+        "aliases": [
+            "invoice-arrow-right",
+            "invoice-send"
+        ],
+        "styles": [
+            "arrow"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "EA3FD778-1C6B-485F-942D-79BAC534BDB3",
+        "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
+        "name": "receipt-text-arrow-right-outline",
+        "codepoint": "F1C45",
+        "aliases": [
+            "invoice-arrow-right-outline",
+            "invoice-send-outline"
+        ],
+        "styles": [
+            "arrow",
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
     },
     {
         "id": "9B57706E-4682-4A41-8E2E-D05601DE5FC4",
@@ -87477,6 +88042,76 @@
         "deprecated": false,
         "tags": [],
         "author": "Michael Irigoyen"
+    },
+    {
+        "id": "A71F277A-8855-4E75-A0A9-1201E5384AFA",
+        "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
+        "name": "receipt-text-clock",
+        "codepoint": "F1C46",
+        "aliases": [
+            "invoice-clock",
+            "invoice-schedule",
+            "receipt-text-pending"
+        ],
+        "styles": [
+            "clock"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "8176D192-811A-4765-977D-28CA778B6FED",
+        "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
+        "name": "receipt-text-clock-outline",
+        "codepoint": "F1C47",
+        "aliases": [
+            "invoice-clock-outline",
+            "invoice-schedule-outline",
+            "receipt-text-pending"
+        ],
+        "styles": [
+            "clock",
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "22E18520-2818-4F5F-85CA-6CCEA382D333",
+        "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
+        "name": "receipt-text-edit",
+        "codepoint": "F1C48",
+        "aliases": [
+            "invoice-edit"
+        ],
+        "styles": [
+            "edit"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "4D213837-3918-4D9E-B4AC-C3CC9EE686FA",
+        "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
+        "name": "receipt-text-edit-outline",
+        "codepoint": "F1C49",
+        "aliases": [
+            "invoice-edit-outline"
+        ],
+        "styles": [
+            "edit",
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
     },
     {
         "id": "E923B212-FD3F-40F0-AFD5-1C91F3649E68",
@@ -87603,6 +88238,35 @@
         "deprecated": false,
         "tags": [],
         "author": "Michael Irigoyen"
+    },
+    {
+        "id": "A305117A-42D3-4B2A-954E-9BAD0C500751",
+        "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
+        "name": "receipt-text-send",
+        "codepoint": "F1C4A",
+        "aliases": [],
+        "styles": [
+            "send"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "1B042272-E659-42B1-ABDA-93DC9610463D",
+        "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
+        "name": "receipt-text-send-outline",
+        "codepoint": "F1C4B",
+        "aliases": [],
+        "styles": [
+            "outline",
+            "send"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
     },
     {
         "id": "F84F1E59-868C-42CE-80EA-159588E83462",
@@ -90461,6 +91125,20 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "961ADDC5-B7FC-4CB8-8AD7-5F6293C5A973",
+        "baseIconId": "025FEA9C-17F9-4293-BD59-A8D53B7B4124",
+        "name": "sack-outline",
+        "codepoint": "F1C4C",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "9DA8E933-0065-43E6-9416-0EAA104BEF6F",
         "baseIconId": "025FEA9C-17F9-4293-BD59-A8D53B7B4124",
         "name": "sack-percent",
@@ -92206,6 +92884,41 @@
         "author": "Simran"
     },
     {
+        "id": "EBB8E627-2F7B-4B33-94C6-440DD5C293E4",
+        "baseIconId": "6791A1E4-DBF8-471C-AA27-0D4540A23678",
+        "name": "send-variant",
+        "codepoint": "F1C4D",
+        "aliases": [
+            "paper-plane-variant",
+            "paper-airplane-variant"
+        ],
+        "styles": [
+            "variant"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Google"
+    },
+    {
+        "id": "5F6A5994-FF0D-417E-9845-8BF18225CE3C",
+        "baseIconId": "6791A1E4-DBF8-471C-AA27-0D4540A23678",
+        "name": "send-variant-outline",
+        "codepoint": "F1C4E",
+        "aliases": [
+            "paper-airplane-variant-outline",
+            "paper-plane-variant-outline"
+        ],
+        "styles": [
+            "outline",
+            "variant"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Google"
+    },
+    {
         "id": "5D18BB49-3214-49C0-BD5C-B4581172C650",
         "baseIconId": "5D18BB49-3214-49C0-BD5C-B4581172C650",
         "name": "serial-port",
@@ -92645,6 +93358,26 @@
             "Shape"
         ],
         "author": "Austin Andrews"
+    },
+    {
+        "id": "3800615A-AAC6-43C8-9ACD-F8C7A0910C07",
+        "baseIconId": "B29246C8-6014-4019-8CCC-F803DBC0FA95",
+        "name": "shape-plus-outline",
+        "codepoint": "F1C4F",
+        "aliases": [
+            "shape-add-outline",
+            "category-plus-outline"
+        ],
+        "styles": [
+            "outline",
+            "plus"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Shape"
+        ],
+        "author": "Jeff Anders"
     },
     {
         "id": "CFE631FF-AAD1-49D9-BA22-84BAC90B8787",
@@ -97913,6 +98646,20 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "30192641-5B4D-4197-AEA1-499E250481FA",
+        "baseIconId": "5659F8EC-377D-41D2-AB3A-52DC40815DC7",
+        "name": "square-circle-outline",
+        "codepoint": "F1C50",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "22469E65-F1CB-408D-B6B5-1E599A85E368",
         "baseIconId": "5659F8EC-377D-41D2-AB3A-52DC40815DC7",
         "name": "square-edit-outline",
@@ -98596,6 +99343,80 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "2DF46C9A-650D-486D-B242-36AD17F82227",
+        "baseIconId": "4F7E1FD5-FE11-4509-8253-D0B2EB7E3CFF",
+        "name": "star-four-points-box",
+        "codepoint": "F1C51",
+        "aliases": [
+            "auto-box"
+        ],
+        "styles": [
+            "box"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Shape"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "CB3E6FC0-B9F1-4CAE-AAB9-72946D7E7064",
+        "baseIconId": "4F7E1FD5-FE11-4509-8253-D0B2EB7E3CFF",
+        "name": "star-four-points-box-outline",
+        "codepoint": "F1C52",
+        "aliases": [
+            "auto-box-outline"
+        ],
+        "styles": [
+            "box",
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Shape"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "ABA4EF5C-BB66-4FEA-85A0-74ABAC4B0222",
+        "baseIconId": "4F7E1FD5-FE11-4509-8253-D0B2EB7E3CFF",
+        "name": "star-four-points-circle",
+        "codepoint": "F1C53",
+        "aliases": [
+            "auto-circle"
+        ],
+        "styles": [
+            "circle"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Shape"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "8393BD57-7249-40BE-B342-7CF50CAEAF29",
+        "baseIconId": "4F7E1FD5-FE11-4509-8253-D0B2EB7E3CFF",
+        "name": "star-four-points-circle-outline",
+        "codepoint": "F1C54",
+        "aliases": [
+            "auto-circle-outline"
+        ],
+        "styles": [
+            "circle",
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Shape"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "F74484E2-76FB-4671-9960-AE18E95F04FA",
         "baseIconId": "53D81A11-D8FF-46F4-A0CB-B7F668BA720D",
         "name": "star-four-points-outline",
@@ -98610,6 +99431,20 @@
             "Shape"
         ],
         "author": "Michael Irigoyen"
+    },
+    {
+        "id": "871110B6-9A38-4AEC-89DB-5570E84F109A",
+        "baseIconId": "4F7E1FD5-FE11-4509-8253-D0B2EB7E3CFF",
+        "name": "star-four-points-small",
+        "codepoint": "F1C55",
+        "aliases": [],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Shape"
+        ],
+        "author": "Jeff Anders"
     },
     {
         "id": "E86BFC0D-B4A4-41F2-A8E3-D1AE79072A45",
@@ -107833,6 +108668,36 @@
         "author": "Simran"
     },
     {
+        "id": "D7A8DF8D-096F-420D-B14C-5F523A5171CF",
+        "baseIconId": "78EC62FE-EC63-407F-BCF3-92C441398DDA",
+        "name": "triangle-down",
+        "codepoint": "F1C56",
+        "aliases": [],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Shape"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "ED39F995-49AB-4F63-9EEB-A5CAE8FDBE7F",
+        "baseIconId": "78EC62FE-EC63-407F-BCF3-92C441398DDA",
+        "name": "triangle-down-outline",
+        "codepoint": "F1C57",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Shape"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "74A6BF3E-CEC2-40C3-A900-109D5E05E218",
         "baseIconId": "78EC62FE-EC63-407F-BCF3-92C441398DDA",
         "name": "triangle-outline",
@@ -112009,6 +112874,38 @@
             "Banking"
         ],
         "author": "Google"
+    },
+    {
+        "id": "41CE57C0-CF95-4033-AAC3-8EC7C35D7A86",
+        "baseIconId": "C5ABA786-D897-4770-AA78-CE4CB2A9230E",
+        "name": "wallet-bifold",
+        "codepoint": "F1C58",
+        "aliases": [],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Currency",
+            "Banking"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "63929062-6B7B-4683-BC95-376A60069FB2",
+        "baseIconId": "C5ABA786-D897-4770-AA78-CE4CB2A9230E",
+        "name": "wallet-bifold-outline",
+        "codepoint": "F1C59",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Currency"
+        ],
+        "author": "Jeff Anders"
     },
     {
         "id": "0D4DD4F1-0915-4D3D-8F21-A96C2DDAF6E0",
