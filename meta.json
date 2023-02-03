@@ -88415,8 +88415,10 @@
         "aliases": [],
         "styles": [],
         "version": "4.3.95",
-        "deprecated": false,
-        "tags": [],
+        "deprecated": true,
+        "tags": [
+            "Brand \/ Logo"
+        ],
         "author": "Contributors"
     },
     {
