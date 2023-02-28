@@ -13059,6 +13059,22 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "8A7385DC-1143-489D-8AE3-E525EED95222",
+        "baseIconId": "EDAC5CB7-39B3-4DAD-89ED-38D7EA914211",
+        "name": "baseball-outline",
+        "codepoint": "F1C5A",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Sport"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "53BA6F8E-FC99-4B2A-8497-EA732C1880E4",
         "baseIconId": "53BA6F8E-FC99-4B2A-8497-EA732C1880E4",
         "name": "bash",
@@ -36918,7 +36934,8 @@
         "codepoint": "F130F",
         "aliases": [
             "glass-outline",
-            "drink-outline"
+            "drink-outline",
+            "cup-empty"
         ],
         "styles": [
             "outline"
@@ -42272,6 +42289,25 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "763A453D-9B1C-4E6A-A28C-2534AD4641A7",
+        "baseIconId": "14AAE073-8399-4D67-9F7E-8E9424328681",
+        "name": "email-heart-outline",
+        "codepoint": "F1C5B",
+        "aliases": [
+            "love-letter",
+            "envelope-heart-outline",
+            "greeting-card"
+        ],
+        "styles": [
+            "heart",
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "04288F6D-7E3C-4BB6-8FDE-B8951C0D0BDF",
         "baseIconId": "14AAE073-8399-4D67-9F7E-8E9424328681",
         "name": "email-lock",
@@ -42435,6 +42471,25 @@
         "deprecated": false,
         "tags": [],
         "author": "Austin Andrews"
+    },
+    {
+        "id": "BA4C3DC0-3F05-4464-BA25-CB5AA0E96789",
+        "baseIconId": "14AAE073-8399-4D67-9F7E-8E9424328681",
+        "name": "email-open-heart-outline",
+        "codepoint": "F1C5C",
+        "aliases": [
+            "love-letter-open",
+            "greeting-card-open",
+            "envelope-open-heart-outline"
+        ],
+        "styles": [
+            "heart",
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
     },
     {
         "id": "36BC0D33-4834-41EA-8EA2-90285635005A",
@@ -65436,6 +65491,22 @@
         "author": "Jeff Anders"
     },
     {
+        "id": "C0C79B16-C79F-430E-9C4F-6342B86421FB",
+        "baseIconId": "B6AD150F-5C19-421E-9A2A-D3F43F38D440",
+        "name": "land-plots-marker",
+        "codepoint": "F1C5D",
+        "aliases": [],
+        "styles": [
+            "marker"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Agriculture"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "6D69ADDA-D5A1-47F9-9597-D4529C893789",
         "baseIconId": "6D69ADDA-D5A1-47F9-9597-D4529C893789",
         "name": "land-rows-horizontal",
@@ -87527,6 +87598,25 @@
         "author": "Google"
     },
     {
+        "id": "36F9BAE6-DB6B-4CE5-B7CA-B777ABA8CB1B",
+        "baseIconId": "10BF2326-3190-4C27-9040-E2F8F4961238",
+        "name": "radiobox-indeterminate-variant",
+        "codepoint": "F1C5E",
+        "aliases": [
+            "radio-button-indeterminate",
+            "radiobox-intermediate-variant"
+        ],
+        "styles": [
+            "variant"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Form"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "BA101E5E-CDA9-45AA-B249-BD176AF11D95",
         "baseIconId": "10BF2326-3190-4C27-9040-E2F8F4961238",
         "name": "radiobox-marked",
@@ -104088,6 +104178,22 @@
         "author": "Google"
     },
     {
+        "id": "0B976004-97EB-486D-ACFF-5EBFED611D87",
+        "baseIconId": "DE92B1F1-31FB-4551-84A2-32F5B5D842EC",
+        "name": "tennis-ball-outline",
+        "codepoint": "F1C5F",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Sport"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "688277DE-082A-4BE2-8E59-129245E02DD7",
         "baseIconId": "688277DE-082A-4BE2-8E59-129245E02DD7",
         "name": "tent",
@@ -107210,6 +107316,18 @@
             "Audio"
         ],
         "author": "Michael Irigoyen"
+    },
+    {
+        "id": "1502E0E9-3E1B-43A4-A23A-B7A48BB68FDB",
+        "baseIconId": "1502E0E9-3E1B-43A4-A23A-B7A48BB68FDB",
+        "name": "touch-text-outline",
+        "codepoint": "F1C60",
+        "aliases": [],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jackie Yang"
     },
     {
         "id": "E2623132-7507-4FFD-8382-E192DDC62D17",
@@ -111914,6 +112032,18 @@
             "View"
         ],
         "author": "Simran"
+    },
+    {
+        "id": "666FC249-C056-4311-8548-D7F648A53DD9",
+        "baseIconId": "666FC249-C056-4311-8548-D7F648A53DD9",
+        "name": "view-grid-compact",
+        "codepoint": "F1C61",
+        "aliases": [],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Irigoyen"
     },
     {
         "id": "33566CF8-43DC-48FF-9891-557946141997",
