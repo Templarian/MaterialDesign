@@ -108678,7 +108678,9 @@
         "baseIconId": "A0678E6D-C3D3-42AB-B9E7-C1B12D368B70",
         "name": "treasure-chest",
         "codepoint": "F0726",
-        "aliases": [],
+        "aliases": [
+            "jewelry-box"
+        ],
         "styles": [],
         "version": "1.8.36",
         "deprecated": false,
