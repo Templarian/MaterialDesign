@@ -63639,7 +63639,8 @@
             "about",
             "information-circle",
             "info-circle",
-            "about-circle"
+            "about-circle",
+            "info"
         ],
         "styles": [
             "circle"
