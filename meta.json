@@ -63681,7 +63681,11 @@
             "information-off-outline",
             "info-off-outline"
         ],
-        "styles": [],
+        "styles": [
+            "circle",
+            "off",
+            "outline"
+        ],
         "version": "6.1.95",
         "deprecated": false,
         "tags": [],
@@ -63717,7 +63721,8 @@
         "codepoint": "F064E",
         "aliases": [
             "info-variant",
-            "about-variant"
+            "about-variant",
+            "information-serif-symbol"
         ],
         "styles": [
             "variant"
