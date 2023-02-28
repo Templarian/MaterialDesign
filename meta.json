@@ -108679,7 +108679,8 @@
         "name": "treasure-chest",
         "codepoint": "F0726",
         "aliases": [
-            "jewelry-box"
+            "jewelry-box",
+            "jewel-case"
         ],
         "styles": [],
         "version": "1.8.36",
