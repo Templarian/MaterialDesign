@@ -63641,10 +63641,14 @@
             "info-circle",
             "about-circle"
         ],
-        "styles": [],
+        "styles": [
+            "circle"
+        ],
         "version": "1.5.54",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Google"
     },
     {
