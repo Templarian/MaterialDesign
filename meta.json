@@ -63658,7 +63658,8 @@
         "codepoint": "F178C",
         "aliases": [
             "info-off",
-            "info-circle-off"
+            "info-circle-off",
+            "information-circle-off"
         ],
         "styles": [
             "circle",
