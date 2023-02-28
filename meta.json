@@ -63657,7 +63657,8 @@
         "name": "information-off",
         "codepoint": "F178C",
         "aliases": [
-            "info-off"
+            "info-off",
+            "info-circle-off"
         ],
         "styles": [
             "circle",
