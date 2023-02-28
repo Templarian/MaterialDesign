@@ -63688,11 +63688,14 @@
             "about-circle-outline"
         ],
         "styles": [
+            "circle",
             "outline"
         ],
         "version": "1.5.54",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Settings"
+        ],
         "author": "Google"
     },
     {
