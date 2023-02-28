@@ -63678,7 +63678,8 @@
         "aliases": [
             "info-circle-off-outline",
             "information-circle-off-outline",
-            "information-off-outline"
+            "information-off-outline",
+            "info-off-outline"
         ],
         "styles": [],
         "version": "6.1.95",
