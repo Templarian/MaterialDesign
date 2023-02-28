@@ -63675,7 +63675,9 @@
         "baseIconId": "2BC4A4B6-119B-4637-BF3D-1FB9394E1F38",
         "name": "information-off-outline",
         "codepoint": "F178D",
-        "aliases": [],
+        "aliases": [
+            "info-circle-off-outline"
+        ],
         "styles": [],
         "version": "6.1.95",
         "deprecated": false,
