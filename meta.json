@@ -63722,7 +63722,8 @@
         "aliases": [
             "info-variant",
             "about-variant",
-            "information-serif-symbol"
+            "information-serif-symbol",
+            "info-variant-symbol"
         ],
         "styles": [
             "variant"
