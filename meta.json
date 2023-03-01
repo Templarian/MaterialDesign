@@ -25578,6 +25578,23 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "429B4063-AAA8-4F02-B861-84FC3E00571D",
+        "baseIconId": "59956D81-BF6B-4DCA-ABAD-A890412F22F1",
+        "name": "cash-off",
+        "codepoint": "F1C79",
+        "aliases": [],
+        "styles": [
+            "off"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Currency",
+            "Banking"
+        ],
+        "author": "Andrej Sharapov"
+    },
+    {
         "id": "C2E340E3-EA0A-4726-B595-6149C8C662B8",
         "baseIconId": "59956D81-BF6B-4DCA-ABAD-A890412F22F1",
         "name": "cash-plus",
@@ -46362,6 +46379,39 @@
             "Files \/ Folders"
         ],
         "author": "Simran"
+    },
+    {
+        "id": "8FD1C2DF-1063-4E5F-966B-99794441E8C6",
+        "baseIconId": "BFF59001-B52D-47E6-A217-C9095F81C3B8",
+        "name": "file-document-refresh",
+        "codepoint": "F1C7A",
+        "aliases": [],
+        "styles": [
+            "refresh"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "552EA028-A83A-4018-8277-58191691C816",
+        "baseIconId": "BFF59001-B52D-47E6-A217-C9095F81C3B8",
+        "name": "file-document-refresh-outline",
+        "codepoint": "F1C7B",
+        "aliases": [],
+        "styles": [
+            "outline",
+            "refresh"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Jeff Anders"
     },
     {
         "id": "E5F73E5B-9876-469A-B992-EC6DA553DE1B",
@@ -109112,7 +109162,8 @@
         "deprecated": false,
         "tags": [
             "Gaming \/ RPG",
-            "Shopping"
+            "Shopping",
+            "Lock"
         ],
         "author": "Alex Efremo"
     },
