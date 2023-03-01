@@ -61206,6 +61206,34 @@
         "author": "Google"
     },
     {
+        "id": "2873F779-5D6C-4735-AF84-104BD9F41B7D",
+        "baseIconId": "5D085274-15B9-42EC-8CCE-2F94C5EC039C",
+        "name": "home-percent",
+        "codepoint": "F1C7C",
+        "aliases": [],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "D947D6EA-6AFF-41EA-B631-DC5AB95EFED6",
+        "baseIconId": "5D085274-15B9-42EC-8CCE-2F94C5EC039C",
+        "name": "home-percent-outline",
+        "codepoint": "F1C7D",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "E844FA32-E45E-4D71-B74C-34DFAD7F6830",
         "baseIconId": "5D085274-15B9-42EC-8CCE-2F94C5EC039C",
         "name": "home-plus",
@@ -75990,7 +76018,8 @@
         "version": "1.5.54",
         "deprecated": false,
         "tags": [
-            "Nature"
+            "Nature",
+            "Agriculture"
         ],
         "author": "Google"
     },
@@ -93438,6 +93467,37 @@
         "author": "Google"
     },
     {
+        "id": "7A3CAC77-82FE-4D6A-B1D4-2421193D6670",
+        "baseIconId": "6791A1E4-DBF8-471C-AA27-0D4540A23678",
+        "name": "send-variant-clock",
+        "codepoint": "F1C7E",
+        "aliases": [],
+        "styles": [
+            "clock",
+            "variant"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "7113E063-4446-4BC0-9981-1959374B11E2",
+        "baseIconId": "6791A1E4-DBF8-471C-AA27-0D4540A23678",
+        "name": "send-variant-clock-outline",
+        "codepoint": "F1C7F",
+        "aliases": [],
+        "styles": [
+            "clock",
+            "outline",
+            "variant"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "5F6A5994-FF0D-417E-9845-8BF18225CE3C",
         "baseIconId": "6791A1E4-DBF8-471C-AA27-0D4540A23678",
         "name": "send-variant-outline",
@@ -105597,6 +105657,20 @@
             "Home Automation"
         ],
         "author": "Michael Irigoyen"
+    },
+    {
+        "id": "A22B6267-3CAE-44F8-A818-DF22A850E1B0",
+        "baseIconId": "628D16E2-7E57-43CA-8451-012B8AB852DA",
+        "name": "thermostat-cog",
+        "codepoint": "F1C80",
+        "aliases": [],
+        "styles": [
+            "cog"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
     },
     {
         "id": "46ACA864-4B1C-4DBD-94FB-7A0D6B9A500E",
