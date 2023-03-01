@@ -32443,6 +32443,24 @@
         "author": "Michael Richins"
     },
     {
+        "id": "6518E183-1362-4363-ACAF-21FECEA87732",
+        "baseIconId": "0B70716D-3C56-43F1-85D4-B264C05DCC32",
+        "name": "clover-outline",
+        "codepoint": "F1C62",
+        "aliases": [
+            "luck-outline"
+        ],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Nature"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "113768A1-5B09-41DD-9570-31434A34823D",
         "baseIconId": "113768A1-5B09-41DD-9570-31434A34823D",
         "name": "coach-lamp",
@@ -52540,6 +52558,28 @@
         "author": "Google"
     },
     {
+        "id": "E247BE22-952A-42FB-9741-F4607385A99B",
+        "baseIconId": "70EFA358-6CE3-4CC1-9F46-6283D491F2E2",
+        "name": "forest-outline",
+        "codepoint": "F1C63",
+        "aliases": [
+            "forestry-outline",
+            "pine-tree-multiple-outline"
+        ],
+        "styles": [
+            "multiple",
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Nature",
+            "Agriculture",
+            "Places"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "9CB941AF-8C23-4201-B891-A23521B011CD",
         "baseIconId": "9CB941AF-8C23-4201-B891-A23521B011CD",
         "name": "forklift",
@@ -60325,7 +60365,8 @@
         "aliases": [
             "house-automation",
             "home-wireless",
-            "house-wireless"
+            "house-wireless",
+            "smart-home"
         ],
         "styles": [],
         "version": "2.0.46",
@@ -62892,6 +62933,26 @@
         "author": "Google"
     },
     {
+        "id": "45B91FE5-E3A6-44A3-B89E-5AE492BE231A",
+        "baseIconId": "999CF81E-71B7-48E1-8B8F-70FDE391F647",
+        "name": "image-filter-hdr-outline",
+        "codepoint": "F1C64",
+        "aliases": [
+            "mountain-outline",
+            "landscape-outline"
+        ],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Photography",
+            "Nature"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "56164312-7555-4017-8A1A-48954BE7F7C5",
         "baseIconId": "BCCF75AE-F73D-4B7A-BDFD-9E767DED0B28",
         "name": "image-filter-none",
@@ -63653,6 +63714,43 @@
         "author": "Google"
     },
     {
+        "id": "7B6B57AD-05FF-4D58-ADC5-EE9E2DAF5D53",
+        "baseIconId": "2BC4A4B6-119B-4637-BF3D-1FB9394E1F38",
+        "name": "information-box",
+        "codepoint": "F1C65",
+        "aliases": [
+            "info-box"
+        ],
+        "styles": [
+            "box"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Settings"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "AAB1D0C8-033F-4C5F-8ACD-6620947D9858",
+        "baseIconId": "2BC4A4B6-119B-4637-BF3D-1FB9394E1F38",
+        "name": "information-box-outline",
+        "codepoint": "F1C66",
+        "aliases": [
+            "info-box-outline"
+        ],
+        "styles": [
+            "box",
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Settings"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "68E3EA61-207C-444B-9CC5-8A7016D9953C",
         "baseIconId": "2BC4A4B6-119B-4637-BF3D-1FB9394E1F38",
         "name": "information-off",
@@ -63716,6 +63814,118 @@
         "author": "Google"
     },
     {
+        "id": "5E1C3338-5309-4631-A9A9-9D41E4CEC8A7",
+        "baseIconId": "2BC4A4B6-119B-4637-BF3D-1FB9394E1F38",
+        "name": "information-slab-box",
+        "codepoint": "F1C67",
+        "aliases": [
+            "info-slab-box"
+        ],
+        "styles": [
+            "box",
+            "variant"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Settings"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "996F0E18-7078-44A0-A0DC-F2A829210F07",
+        "baseIconId": "2BC4A4B6-119B-4637-BF3D-1FB9394E1F38",
+        "name": "information-slab-box-outline",
+        "codepoint": "F1C68",
+        "aliases": [
+            "info-slab-box-outline"
+        ],
+        "styles": [
+            "box",
+            "outline",
+            "variant"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Settings"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "7AF3BC52-D506-4CCB-A813-A7785CFD6524",
+        "baseIconId": "2BC4A4B6-119B-4637-BF3D-1FB9394E1F38",
+        "name": "information-slab-circle",
+        "codepoint": "F1C69",
+        "aliases": [
+            "info-slab-circle"
+        ],
+        "styles": [
+            "circle",
+            "variant"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Settings"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "0A06A44E-09F4-491E-B221-24E401CA3DDB",
+        "baseIconId": "2BC4A4B6-119B-4637-BF3D-1FB9394E1F38",
+        "name": "information-slab-circle-outline",
+        "codepoint": "F1C6A",
+        "aliases": [
+            "info-slab-circle-outline"
+        ],
+        "styles": [
+            "circle",
+            "outline",
+            "variant"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Settings"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "ACA42E0C-6EEF-47B6-8824-FD916C58E87F",
+        "baseIconId": "2BC4A4B6-119B-4637-BF3D-1FB9394E1F38",
+        "name": "information-slab-symbol",
+        "codepoint": "F1C6B",
+        "aliases": [
+            "info-slab-symbol"
+        ],
+        "styles": [
+            "variant"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Settings"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "EAA6E06D-B798-4198-BF74-3B31F564A807",
+        "baseIconId": "2BC4A4B6-119B-4637-BF3D-1FB9394E1F38",
+        "name": "information-symbol",
+        "codepoint": "F1C6C",
+        "aliases": [
+            "info-symbol"
+        ],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Settings"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "D991D5FA-BD60-48E1-979D-A103D005725A",
         "baseIconId": "2BC4A4B6-119B-4637-BF3D-1FB9394E1F38",
         "name": "information-variant",
@@ -63733,6 +63943,92 @@
         "deprecated": false,
         "tags": [],
         "author": "Simran"
+    },
+    {
+        "id": "A146B034-84AF-47AD-BA0F-C2D779C95356",
+        "baseIconId": "2BC4A4B6-119B-4637-BF3D-1FB9394E1F38",
+        "name": "information-variant-box",
+        "codepoint": "F1C6D",
+        "aliases": [
+            "info-variant-box",
+            "information-serif-box",
+            "info-serif-box"
+        ],
+        "styles": [
+            "box",
+            "variant"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Settings"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "4D7338FF-73D3-49EC-A9A8-070039557830",
+        "baseIconId": "2BC4A4B6-119B-4637-BF3D-1FB9394E1F38",
+        "name": "information-variant-box-outline",
+        "codepoint": "F1C6E",
+        "aliases": [
+            "info-variant-box-outline",
+            "information-serif-box-outline",
+            "info-serif-box-outline"
+        ],
+        "styles": [
+            "box",
+            "outline",
+            "variant"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Settings"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "5569AF9F-4D90-4D8B-91B3-EBBCFD5644AB",
+        "baseIconId": "2BC4A4B6-119B-4637-BF3D-1FB9394E1F38",
+        "name": "information-variant-circle",
+        "codepoint": "F1C6F",
+        "aliases": [
+            "information-serif-circle",
+            "info-serif-circle",
+            "info-variant-circle"
+        ],
+        "styles": [
+            "circle",
+            "variant"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Settings"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "1100F1C0-2FFF-49ED-99C3-AE0A2F0ECFF7",
+        "baseIconId": "2BC4A4B6-119B-4637-BF3D-1FB9394E1F38",
+        "name": "information-variant-circle-outline",
+        "codepoint": "F1C70",
+        "aliases": [
+            "information-serif-circle-outline",
+            "info-variant-circle-outline",
+            "info-serif-circle-outline"
+        ],
+        "styles": [
+            "circle",
+            "outline",
+            "variant"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Settings"
+        ],
+        "author": "Jeff Anders"
     },
     {
         "id": "2AA07220-461B-4070-AA95-17DEFE501444",
@@ -75648,6 +75944,22 @@
         "author": "Google"
     },
     {
+        "id": "EB1EF432-4028-4431-BED1-9E446BCFCA09",
+        "baseIconId": "C5FCAD4F-C7E6-4BDB-9F2F-A665CB68B7FD",
+        "name": "nature-outline",
+        "codepoint": "F1C71",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Nature"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "B0635A70-D2A9-41CE-82C6-3FB1D1D353B4",
         "baseIconId": "C5FCAD4F-C7E6-4BDB-9F2F-A665CB68B7FD",
         "name": "nature-people",
@@ -75663,6 +75975,23 @@
             "Nature"
         ],
         "author": "Google"
+    },
+    {
+        "id": "2DE09F55-8A0A-4D95-BC0E-3D7C5E55D609",
+        "baseIconId": "C5FCAD4F-C7E6-4BDB-9F2F-A665CB68B7FD",
+        "name": "nature-people-outline",
+        "codepoint": "F1C72",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Account \/ User",
+            "Nature"
+        ],
+        "author": "Jeff Anders"
     },
     {
         "id": "DAAF6988-6EE9-4595-A758-294C83C7304B",
@@ -83461,6 +83790,43 @@
             "Agriculture"
         ],
         "author": "Austin Andrews"
+    },
+    {
+        "id": "04EE87F5-A61D-4CD0-89E5-BE7032F07A00",
+        "baseIconId": "F053196C-66BC-4D0D-B75F-24773CA618E5",
+        "name": "pine-tree-variant",
+        "codepoint": "F1C73",
+        "aliases": [],
+        "styles": [
+            "variant"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Nature",
+            "Places",
+            "Agriculture"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "77B7101F-D4EC-4E5E-9BF0-F4C83A5FD10F",
+        "baseIconId": "F053196C-66BC-4D0D-B75F-24773CA618E5",
+        "name": "pine-tree-variant-outline",
+        "codepoint": "F1C74",
+        "aliases": [],
+        "styles": [
+            "outline",
+            "variant"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Places",
+            "Nature",
+            "Agriculture"
+        ],
+        "author": "Jeff Anders"
     },
     {
         "id": "6BAC7A7E-340B-474D-8448-2DEC0FE66146",
@@ -98501,6 +98867,26 @@
         "author": "Michael Richins"
     },
     {
+        "id": "52BB8EB9-6227-4EFD-BEFF-F20BE1670AEC",
+        "baseIconId": "BCDD4A6F-3064-4FF3-9172-0BBF8BED2D2C",
+        "name": "spider-outline",
+        "codepoint": "F1C75",
+        "aliases": [
+            "arachnid-outline"
+        ],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Animal",
+            "Holiday",
+            "Nature"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "1F613123-9D4B-4C5A-84FB-F6B804BBFB21",
         "baseIconId": "1F613123-9D4B-4C5A-84FB-F6B804BBFB21",
         "name": "spider-thread",
@@ -103320,6 +103706,18 @@
         "deprecated": false,
         "tags": [],
         "author": "Google"
+    },
+    {
+        "id": "5BF0535D-7E79-4BE2-A3A7-E96E4B50E5A0",
+        "baseIconId": "0BE85AB2-0D51-411C-B119-789E9E317216",
+        "name": "tag-hidden",
+        "codepoint": "F1C76",
+        "aliases": [],
+        "styles": [],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
     },
     {
         "id": "1F2E41E2-6509-4C1B-B95B-145C9A8375DA",
@@ -108716,6 +109114,27 @@
             "Shopping"
         ],
         "author": "Alex Efremo"
+    },
+    {
+        "id": "234877A7-B920-4592-8305-EFF7AFE3E13C",
+        "baseIconId": "A0678E6D-C3D3-42AB-B9E7-C1B12D368B70",
+        "name": "treasure-chest-outline",
+        "codepoint": "F1C77",
+        "aliases": [
+            "jewel-case-outline",
+            "jewelry-box-outline"
+        ],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Gaming \/ RPG",
+            "Lock",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
     },
     {
         "id": "58E298BD-F32E-420D-9E55-BDB44D583AB7",
@@ -114352,6 +114771,26 @@
             "Agriculture"
         ],
         "author": "Michael Richins"
+    },
+    {
+        "id": "B5191E73-1C38-4B78-9018-F8216855C61A",
+        "baseIconId": "880967C4-85F9-4953-A6D0-73C9370BC987",
+        "name": "weather-hurricane-outline",
+        "codepoint": "F1C78",
+        "aliases": [
+            "cyclone-outline"
+        ],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.2.96",
+        "deprecated": false,
+        "tags": [
+            "Weather",
+            "Nature",
+            "Agriculture"
+        ],
+        "author": "Jeff Anders"
     },
     {
         "id": "6AF7BD8A-088F-4B07-806D-7456EB382D76",
