@@ -11019,7 +11019,10 @@
         "baseIconId": "11D80B18-006C-4929-8CEA-29D2C8BED5B7",
         "name": "artboard",
         "codepoint": "F1B9A",
-        "aliases": [],
+        "aliases": [
+            "canvas",
+            "frame"
+        ],
         "styles": [],
         "version": "7.0.96",
         "deprecated": false,
