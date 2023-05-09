@@ -35929,7 +35929,10 @@
         "name": "creation",
         "codepoint": "F0674",
         "aliases": [
-            "auto-awesome"
+            "auto-awesome",
+            "sparkles",
+            "stars",
+            "shimmer"
         ],
         "styles": [],
         "version": "1.7.12",
