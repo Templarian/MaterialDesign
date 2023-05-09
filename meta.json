@@ -35946,7 +35946,10 @@
         "name": "creation-outline",
         "codepoint": "F1C2B",
         "aliases": [
-            "auto-awesome-outline"
+            "auto-awesome-outline",
+            "sparkles-outline",
+            "stars-outline",
+            "shimmer-outline"
         ],
         "styles": [
             "outline"
