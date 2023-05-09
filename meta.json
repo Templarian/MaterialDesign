@@ -24261,7 +24261,8 @@
         "name": "caravan",
         "codepoint": "F07AD",
         "aliases": [
-            "holiday"
+            "holiday",
+            "camping"
         ],
         "styles": [],
         "version": "2.0.46",
