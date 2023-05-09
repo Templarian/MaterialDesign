@@ -27355,7 +27355,11 @@
         "baseIconId": "7FF15164-E575-4024-ABAC-A183179F0217",
         "name": "chat-outline",
         "codepoint": "F0EDE",
-        "aliases": [],
+        "aliases": [
+            "message-outline",
+            "message-bubble-outline",
+            "speak-outline"
+        ],
         "styles": [
             "outline"
         ],
