@@ -105297,7 +105297,8 @@
         "name": "tent",
         "codepoint": "F0508",
         "aliases": [
-            "camping"
+            "camping",
+            "holiday"
         ],
         "styles": [],
         "version": "1.5.54",
