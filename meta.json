@@ -9719,6 +9719,36 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "8EF4AC1A-24B5-42C7-9D6B-5F35227788E4",
+        "baseIconId": "8EF4AC1A-24B5-42C7-9D6B-5F35227788E4",
+        "name": "arrow-oscillating",
+        "codepoint": "F1C91",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Matthias de Baat"
+    },
+    {
+        "id": "40B085E6-3993-403C-9F55-B61AEBDBA17A",
+        "baseIconId": "8EF4AC1A-24B5-42C7-9D6B-5F35227788E4",
+        "name": "arrow-oscillating-off",
+        "codepoint": "F1C92",
+        "aliases": [],
+        "styles": [
+            "off"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Matthias de Baat"
+    },
+    {
         "id": "A673515F-F8A6-41DC-9CB2-05C315FBDA53",
         "baseIconId": "A673515F-F8A6-41DC-9CB2-05C315FBDA53",
         "name": "arrow-projectile",
@@ -23526,6 +23556,23 @@
         "author": "Michael Richins"
     },
     {
+        "id": "9558FFAF-0865-47B4-BC3D-32E34266E2F0",
+        "baseIconId": "AA43B04E-7C56-4DFB-83FC-081E3A4A3F48",
+        "name": "car-door-lock-open",
+        "codepoint": "F1C81",
+        "aliases": [],
+        "styles": [
+            "lock"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Automotive",
+            "Lock"
+        ],
+        "author": "Michael Richins"
+    },
+    {
         "id": "48583637-1477-451A-8E75-765EC4EB0585",
         "baseIconId": "FCF4FF57-4547-4C11-A20A-3D26252780EC",
         "name": "car-electric",
@@ -26563,6 +26610,20 @@
         "deprecated": false,
         "tags": [],
         "author": "Google"
+    },
+    {
+        "id": "2306EC7A-612C-4847-83D6-495CECA5AA5D",
+        "baseIconId": "B5589411-20E7-4552-BEC5-A394068B23A7",
+        "name": "charity-search",
+        "codepoint": "F1C82",
+        "aliases": [],
+        "styles": [
+            "search"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Ryan Donahue"
     },
     {
         "id": "98939E5B-1528-4A2F-B35A-C37C60C75D93",
@@ -32548,6 +32609,70 @@
             "Developer \/ Languages"
         ],
         "author": "Austin Andrews"
+    },
+    {
+        "id": "C74E1367-3799-4422-8065-A200D4CAB498",
+        "baseIconId": "1F6661BC-6538-4EF0-92B5-46EFAE5E0C77",
+        "name": "code-block-braces",
+        "codepoint": "F1C83",
+        "aliases": [
+            "code-block-tag",
+            "code-block-json"
+        ],
+        "styles": [],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Developer \/ Languages"
+        ],
+        "author": "frankgrinaert"
+    },
+    {
+        "id": "5138F119-7F73-4A34-ACB8-CDB00042AAB6",
+        "baseIconId": "C08498C1-E43B-4E79-817C-121AD2827689",
+        "name": "code-block-brackets",
+        "codepoint": "F1C84",
+        "aliases": [
+            "code-block-square"
+        ],
+        "styles": [],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Developer \/ Languages"
+        ],
+        "author": "frankgrinaert"
+    },
+    {
+        "id": "8E35BF13-D1D3-4F97-ACBE-87E07DCE9FC3",
+        "baseIconId": "A4E1DE1B-754D-4884-9902-8D5DDE2182B0",
+        "name": "code-block-parentheses",
+        "codepoint": "F1C85",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Developer \/ Languages"
+        ],
+        "author": "frankgrinaert"
+    },
+    {
+        "id": "E13525B2-A482-46B5-B01E-5CE520FC2C1D",
+        "baseIconId": "609A0AB0-05EE-4824-BD40-A4E78F4A74D3",
+        "name": "code-block-tags",
+        "codepoint": "F1C86",
+        "aliases": [
+            "code-block-html",
+            "code-block-xml"
+        ],
+        "styles": [],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Developer \/ Languages"
+        ],
+        "author": "frankgrinaert"
     },
     {
         "id": "1F6661BC-6538-4EF0-92B5-46EFAE5E0C77",
@@ -40621,6 +40746,26 @@
         "author": "Haley Halcyon"
     },
     {
+        "id": "4F2F0F07-CF86-40E1-A204-E5BAB501B5F5",
+        "baseIconId": "858F8782-5001-4950-96F2-65032091A847",
+        "name": "door-closed-cancel",
+        "codepoint": "F1C93",
+        "aliases": [
+            "door-forbidden",
+            "door-do-not-enter",
+            "door-unavailable"
+        ],
+        "styles": [
+            "cancel"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Richins"
+    },
+    {
         "id": "792A98B0-E031-43CF-AF8B-ACF21C97C4C2",
         "baseIconId": "858F8782-5001-4950-96F2-65032091A847",
         "name": "door-closed-lock",
@@ -41508,6 +41653,42 @@
         "author": "Google"
     },
     {
+        "id": "7EAEFA1D-7544-43E9-A93E-3869A3E50CB4",
+        "baseIconId": "0D1618BF-A3AD-4B4A-92EA-5DBF93BF7625",
+        "name": "earth-arrow-down",
+        "codepoint": "F1C87",
+        "aliases": [
+            "globe-arrow-down",
+            "world-arrow-down",
+            "planet-arrow-down"
+        ],
+        "styles": [
+            "arrow"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "frankgrinaert"
+    },
+    {
+        "id": "01449F7D-91CD-46C4-A645-654860CEB1E0",
+        "baseIconId": "01449F7D-91CD-46C4-A645-654860CEB1E0",
+        "name": "earth-arrow-left",
+        "codepoint": "F1C88",
+        "aliases": [
+            "globe-arrow-left",
+            "world-arrow-left",
+            "planet-arrow-left"
+        ],
+        "styles": [
+            "arrow"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "frankgrinaert"
+    },
+    {
         "id": "E6C7261B-1CC0-41EA-844B-0DA761CDCC12",
         "baseIconId": "0D1618BF-A3AD-4B4A-92EA-5DBF93BF7625",
         "name": "earth-arrow-right",
@@ -41526,6 +41707,24 @@
             "Navigation"
         ],
         "author": "Michael Irigoyen"
+    },
+    {
+        "id": "9D8CB6F6-F5F6-4D11-8194-F392B52601F3",
+        "baseIconId": "0D1618BF-A3AD-4B4A-92EA-5DBF93BF7625",
+        "name": "earth-arrow-up",
+        "codepoint": "F1C89",
+        "aliases": [
+            "globe-arrow-up",
+            "planet-arrow-up",
+            "world-arrow-up"
+        ],
+        "styles": [
+            "arrow"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "frankgrinaert"
     },
     {
         "id": "3F4C3330-49D5-4F2B-8FCC-A3448BEF521E",
@@ -56245,6 +56444,58 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "D97956CD-8749-401C-A45B-04D6D20017A9",
+        "baseIconId": "D97956CD-8749-401C-A45B-04D6D20017A9",
+        "name": "generator-mobile",
+        "codepoint": "F1C8A",
+        "aliases": [
+            "power-generator",
+            "electricity-generator"
+        ],
+        "styles": [],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Home Automation",
+            "Transportation + Other"
+        ],
+        "author": "Michael Richins"
+    },
+    {
+        "id": "E2964412-DEC3-4D20-AFD3-C70CB191BAA2",
+        "baseIconId": "E2964412-DEC3-4D20-AFD3-C70CB191BAA2",
+        "name": "generator-portable",
+        "codepoint": "F1C8B",
+        "aliases": [
+            "power-generator",
+            "electricity-generator"
+        ],
+        "styles": [],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Richins"
+    },
+    {
+        "id": "3E1998B7-F3FC-44A6-A20D-33E492E963D4",
+        "baseIconId": "3E1998B7-F3FC-44A6-A20D-33E492E963D4",
+        "name": "generator-stationary",
+        "codepoint": "F1C8C",
+        "aliases": [
+            "power-generator",
+            "electricity-generator"
+        ],
+        "styles": [],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Home Automation"
+        ],
+        "author": "Michael Richins"
+    },
+    {
         "id": "D6664050-0082-4C50-B5AD-D6D0D23B842D",
         "baseIconId": "D6664050-0082-4C50-B5AD-D6D0D23B842D",
         "name": "gentoo",
@@ -59701,6 +59952,22 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "FC5F1079-0F24-415E-9364-573853A4BD34",
+        "baseIconId": "32B56DB2-B6BF-4B54-AD0C-9444106B1C1D",
+        "name": "heart-search",
+        "codepoint": "F1C8D",
+        "aliases": [
+            "find-love"
+        ],
+        "styles": [
+            "search"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Ryan Donahue"
+    },
+    {
         "id": "E0A4635A-2115-425E-8103-4C88CBDB10F3",
         "baseIconId": "32B56DB2-B6BF-4B54-AD0C-9444106B1C1D",
         "name": "heart-settings",
@@ -61850,6 +62117,20 @@
         "author": "Google"
     },
     {
+        "id": "A2BB919C-0296-4CAE-83EA-07AD9A9A378C",
+        "baseIconId": "A2BB919C-0296-4CAE-83EA-07AD9A9A378C",
+        "name": "hours-12",
+        "codepoint": "F1C94",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Date \/ Time"
+        ],
+        "author": "circa1665"
+    },
+    {
         "id": "0AAC6125-3343-4D4A-AF22-69BC930FA96F",
         "baseIconId": "0AAC6125-3343-4D4A-AF22-69BC930FA96F",
         "name": "hours-24",
@@ -61862,6 +62143,32 @@
             "Date \/ Time"
         ],
         "author": "Haley Halcyon"
+    },
+    {
+        "id": "0BEA7CE4-5642-406D-A995-E2502E85D184",
+        "baseIconId": "0BEA7CE4-5642-406D-A995-E2502E85D184",
+        "name": "hub",
+        "codepoint": "F1C95",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Google"
+    },
+    {
+        "id": "64A2362A-CC88-40D3-B071-09207B9CE7E0",
+        "baseIconId": "0BEA7CE4-5642-406D-A995-E2502E85D184",
+        "name": "hub-outline",
+        "codepoint": "F1C96",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Google"
     },
     {
         "id": "04125F27-F2CB-4304-8C9D-81E4D72A0B6E",
@@ -62085,6 +62392,22 @@
             "People \/ Family"
         ],
         "author": "Henrique C\u00e9sar Madeira"
+    },
+    {
+        "id": "51D1E4B3-A76C-4CA6-A389-177B6A7EFDBB",
+        "baseIconId": "B05E458D-886A-491D-9969-156562C52105",
+        "name": "human-female-female-child",
+        "codepoint": "F1C8E",
+        "aliases": [
+            "family"
+        ],
+        "styles": [],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "People \/ Family"
+        ],
+        "author": "Michael Irigoyen"
     },
     {
         "id": "0F41B01E-9981-4BF8-8CC9-A44593ECB3BA",
@@ -62371,6 +62694,22 @@
             "People \/ Family"
         ],
         "author": "Henrique C\u00e9sar Madeira"
+    },
+    {
+        "id": "67F4CFA6-CBE2-4915-931B-D43AFBB11F97",
+        "baseIconId": "B05E458D-886A-491D-9969-156562C52105",
+        "name": "human-male-male-child",
+        "codepoint": "F1C8F",
+        "aliases": [
+            "family"
+        ],
+        "styles": [],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "People \/ Family"
+        ],
+        "author": "Michael Irigoyen"
     },
     {
         "id": "0993FCF5-5C89-4F54-ABFC-310CDF2AED15",
@@ -71009,6 +71348,22 @@
         "deprecated": false,
         "tags": [],
         "author": "Google"
+    },
+    {
+        "id": "04E66167-8706-4CEF-8748-63BDAAF0F19C",
+        "baseIconId": "0BD2CD08-CCFB-4EC3-B96D-08B0B8230A91",
+        "name": "menu-close",
+        "codepoint": "F1C90",
+        "aliases": [
+            "hamburger-close"
+        ],
+        "styles": [],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Navigation"
+        ],
+        "author": "Michael Richins"
     },
     {
         "id": "624A47B1-947E-45AD-A34F-D5DCC1143C5A",
@@ -91407,6 +91762,24 @@
         "author": "Simran"
     },
     {
+        "id": "331F3E71-198F-4A8D-95B2-EA348B4F55C3",
+        "baseIconId": "8CCE5060-8983-4F75-B672-32B7599F1082",
+        "name": "router-network-wireless",
+        "codepoint": "F1C97",
+        "aliases": [
+            "wireless-router"
+        ],
+        "styles": [
+            "network"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Device \/ Tech"
+        ],
+        "author": "Michael Richins"
+    },
+    {
         "id": "3244EAC8-8349-4CFB-BE35-A0812368CEDA",
         "baseIconId": "3244EAC8-8349-4CFB-BE35-A0812368CEDA",
         "name": "router-wireless",
@@ -93560,6 +93933,23 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "1BFB5C91-DDE1-4902-A46F-27E80C5502E3",
+        "baseIconId": "692F85E2-79A8-4207-ACF7-DEC8D675BE38",
+        "name": "server-minus-outline",
+        "codepoint": "F1C98",
+        "aliases": [
+            "server-remove-outline"
+        ],
+        "styles": [
+            "minus",
+            "outline"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Kadensvw"
+    },
+    {
         "id": "21F268BE-CC44-49CE-B59A-121D073ADBA5",
         "baseIconId": "692F85E2-79A8-4207-ACF7-DEC8D675BE38",
         "name": "server-network",
@@ -93584,6 +93974,21 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "273CC459-F7EC-4296-9436-7BD1A8F805DF",
+        "baseIconId": "692F85E2-79A8-4207-ACF7-DEC8D675BE38",
+        "name": "server-network-outline",
+        "codepoint": "F1C99",
+        "aliases": [],
+        "styles": [
+            "network",
+            "outline"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Kadensvw"
+    },
+    {
         "id": "578A1213-5F0D-4C6B-A929-9157D126A9F8",
         "baseIconId": "692F85E2-79A8-4207-ACF7-DEC8D675BE38",
         "name": "server-off",
@@ -93594,6 +93999,20 @@
         "deprecated": false,
         "tags": [],
         "author": "Austin Andrews"
+    },
+    {
+        "id": "02EE1E63-F47D-4BFE-8B6B-C8CB6DED24D3",
+        "baseIconId": "692F85E2-79A8-4207-ACF7-DEC8D675BE38",
+        "name": "server-outline",
+        "codepoint": "F1C9A",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Kadensvw"
     },
     {
         "id": "99AC1D59-A2F0-4B53-872D-0374D0804E0A",
@@ -93608,6 +94027,23 @@
         "deprecated": false,
         "tags": [],
         "author": "Austin Andrews"
+    },
+    {
+        "id": "9F0E48B8-D7E7-40D9-A985-76FBDC113F4D",
+        "baseIconId": "692F85E2-79A8-4207-ACF7-DEC8D675BE38",
+        "name": "server-plus-outline",
+        "codepoint": "F1C9B",
+        "aliases": [
+            "server-add-outline"
+        ],
+        "styles": [
+            "outline",
+            "plus"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Kadensvw"
     },
     {
         "id": "C7C1A659-403B-44E0-9EF5-94B5C722CAFD",
@@ -103772,6 +104208,35 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "73C1CBA6-4848-4AE0-82D4-4A7FDD29F12C",
+        "baseIconId": "0BE85AB2-0D51-411C-B119-789E9E317216",
+        "name": "tag-edit",
+        "codepoint": "F1C9C",
+        "aliases": [],
+        "styles": [
+            "edit"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Richins"
+    },
+    {
+        "id": "5181F023-E6E2-424F-B35B-9E3219A0C25D",
+        "baseIconId": "0BE85AB2-0D51-411C-B119-789E9E317216",
+        "name": "tag-edit-outline",
+        "codepoint": "F1C9D",
+        "aliases": [],
+        "styles": [
+            "edit",
+            "outline"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Richins"
+    },
+    {
         "id": "5DCE0F4D-F740-4D9A-AC93-281D3477E9AF",
         "baseIconId": "0BE85AB2-0D51-411C-B119-789E9E317216",
         "name": "tag-faces",
@@ -109812,6 +110277,36 @@
         "author": "Colton Wiscombe"
     },
     {
+        "id": "BFDBF912-A62A-4E06-AC82-F0356BA02188",
+        "baseIconId": "A0B91DEA-DB9A-4737-B2F4-26B805B88648",
+        "name": "truck-off-road",
+        "codepoint": "F1C9E",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Michael Richins"
+    },
+    {
+        "id": "654D7249-607D-453A-A514-5DB3F5FFF86F",
+        "baseIconId": "A0B91DEA-DB9A-4737-B2F4-26B805B88648",
+        "name": "truck-off-road-off",
+        "codepoint": "F1C9F",
+        "aliases": [],
+        "styles": [
+            "off"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Transportation + Other"
+        ],
+        "author": "Michael Richins"
+    },
+    {
         "id": "09111629-7960-46BA-A70E-DC85128E4F4A",
         "baseIconId": "A0B91DEA-DB9A-4737-B2F4-26B805B88648",
         "name": "truck-outline",
@@ -112178,6 +112673,23 @@
             "Video \/ Movie"
         ],
         "author": "Google"
+    },
+    {
+        "id": "EAEE3AC5-7C61-4513-9AB1-692E20E99F9E",
+        "baseIconId": "B1337ECC-EF1F-481B-9E75-6A8DB7A01BB9",
+        "name": "video-standard-definition",
+        "codepoint": "F1CA0",
+        "aliases": [
+            "video-sd",
+            "video-quality-sd"
+        ],
+        "styles": [],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Video \/ Movie"
+        ],
+        "author": "Michael Richins"
     },
     {
         "id": "465D18D8-ABEA-4D2B-8A05-C6555C36803F",
