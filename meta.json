@@ -27277,7 +27277,8 @@
         "codepoint": "F0B79",
         "aliases": [
             "message",
-            "message-bubble"
+            "message-bubble",
+            "speak"
         ],
         "styles": [],
         "version": "3.0.39",
