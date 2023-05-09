@@ -27276,7 +27276,8 @@
         "name": "chat",
         "codepoint": "F0B79",
         "aliases": [
-            "message"
+            "message",
+            "message-bubble"
         ],
         "styles": [],
         "version": "3.0.39",
