@@ -71080,7 +71080,9 @@
         "baseIconId": "0BD2CD08-CCFB-4EC3-B96D-08B0B8230A91",
         "name": "menu-open",
         "codepoint": "F0BAB",
-        "aliases": [],
+        "aliases": [
+            "hamburger-open"
+        ],
         "styles": [],
         "version": "3.0.39",
         "deprecated": false,
