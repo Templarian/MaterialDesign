@@ -12465,6 +12465,43 @@
         "author": "Michael Richins"
     },
     {
+        "id": "254FBC4D-1BB7-425B-8FB3-A9BB08106C82",
+        "baseIconId": "FB55F27F-9D0D-4EA7-ACD7-22C85E799248",
+        "name": "bag-personal-plus",
+        "codepoint": "F1CA4",
+        "aliases": [
+            "bag-personal-add",
+            "backpack-add",
+            "backpack-plus"
+        ],
+        "styles": [
+            "plus"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Matthew Terry"
+    },
+    {
+        "id": "A34CE341-A59D-45C8-9F26-F4A9837915FF",
+        "baseIconId": "FB55F27F-9D0D-4EA7-ACD7-22C85E799248",
+        "name": "bag-personal-plus-outline",
+        "codepoint": "F1CA5",
+        "aliases": [
+            "backpack-plus-outline",
+            "backpack-add-outline",
+            "bag-personal-add-outline"
+        ],
+        "styles": [
+            "outline",
+            "plus"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Matthew Terry"
+    },
+    {
         "id": "59865159-47DA-4B5F-8F5D-5E73D32BD4EA",
         "baseIconId": "FB55F27F-9D0D-4EA7-ACD7-22C85E799248",
         "name": "bag-personal-tag",
@@ -31964,6 +32001,44 @@
         "author": "Google"
     },
     {
+        "id": "3694A84E-0A8D-420F-98C3-C892312B29D4",
+        "baseIconId": "CF07C502-388E-4A65-BD89-FACCFD00C245",
+        "name": "cloud-key",
+        "codepoint": "F1CA1",
+        "aliases": [
+            "cloud-security",
+            "cloud-access"
+        ],
+        "styles": [
+            "key"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Cloud"
+        ],
+        "author": "frankgrinaert"
+    },
+    {
+        "id": "CB6C6880-11B8-4BE6-9EA5-6F4D53EF98EC",
+        "baseIconId": "CF07C502-388E-4A65-BD89-FACCFD00C245",
+        "name": "cloud-key-outline",
+        "codepoint": "F1CA2",
+        "aliases": [
+            "cloud-security-outline",
+            "cloud-access-outline"
+        ],
+        "styles": [
+            "key"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [
+            "Cloud"
+        ],
+        "author": "frankgrinaert"
+    },
+    {
         "id": "8F0ED421-A552-4920-A46D-13F246A25689",
         "baseIconId": "CF07C502-388E-4A65-BD89-FACCFD00C245",
         "name": "cloud-lock",
@@ -44441,6 +44516,21 @@
         "deprecated": false,
         "tags": [],
         "author": "Michael Richins"
+    },
+    {
+        "id": "81421142-BE10-4918-8720-5858B7BC2E4B",
+        "baseIconId": "3C2B7DF3-97FE-4EC4-B6A9-69A75FB26B67",
+        "name": "eye-closed",
+        "codepoint": "F1CA3",
+        "aliases": [
+            "eye-shut",
+            "visibility-hidden"
+        ],
+        "styles": [],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "joshua-maros"
     },
     {
         "id": "D0F73A84-81BB-47B2-993B-0FB019C854B4",
