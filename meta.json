@@ -1263,7 +1263,8 @@
         "codepoint": "F1815",
         "aliases": [
             "account-disability",
-            "patient"
+            "patient",
+            "person-injury"
         ],
         "styles": [
             "variant"
