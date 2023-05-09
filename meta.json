@@ -24260,7 +24260,9 @@
         "baseIconId": "CB49A868-3317-4445-BFED-13CB6533000E",
         "name": "caravan",
         "codepoint": "F07AD",
-        "aliases": [],
+        "aliases": [
+            "holiday"
+        ],
         "styles": [],
         "version": "2.0.46",
         "deprecated": false,
