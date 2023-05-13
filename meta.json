@@ -71404,6 +71404,22 @@
         "author": "Google"
     },
     {
+        "id": "6F7286C3-4653-4443-A5A4-400D42A101C5",
+        "baseIconId": "E404434E-17DB-4E90-9D97-5355258E1FCF",
+        "name": "memory-arrow-down",
+        "codepoint": "F1CA6",
+        "aliases": [
+            "chip-arrow-down"
+        ],
+        "styles": [
+            "arrow"
+        ],
+        "version": "7.3.96",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
         "id": "7D2EBF4F-6B48-4DAE-B5B5-005B4FC7C9BC",
         "baseIconId": "7D2EBF4F-6B48-4DAE-B5B5-005B4FC7C9BC",
         "name": "menorah",
