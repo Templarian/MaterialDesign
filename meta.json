@@ -63808,7 +63808,9 @@
         "name": "image-remove",
         "codepoint": "F1418",
         "aliases": [],
-        "styles": [],
+        "styles": [
+            "remove"
+        ],
         "version": "5.1.45",
         "deprecated": false,
         "tags": [],
@@ -63826,7 +63828,9 @@
         ],
         "version": "6.9.96",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Photography"
+        ],
         "author": "Colton Wiscombe"
     },
     {
