@@ -23908,7 +23908,9 @@
         "baseIconId": "CB49A868-3317-4445-BFED-13CB6533000E",
         "name": "car-pickup",
         "codepoint": "F07AA",
-        "aliases": [],
+        "aliases": [
+            "truck-pickup"
+        ],
         "styles": [],
         "version": "2.0.46",
         "deprecated": false,
