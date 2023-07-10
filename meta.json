@@ -56110,7 +56110,8 @@
             "stove-burner",
             "cooktop-burner",
             "grill",
-            "natural-gas"
+            "natural-gas",
+            "energy"
         ],
         "styles": [],
         "version": "6.6.96",
