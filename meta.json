@@ -1096,6 +1096,54 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "F0FA7981-9900-4267-B720-183597FF7B86",
+        "baseIconId": "F0FA7981-9900-4267-B720-183597FF7B86",
+        "name": "account-file",
+        "codepoint": "F1CA7",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Contributors"
+    },
+    {
+        "id": "6C725BE6-E00C-4CBA-8495-2CFC066C1DBE",
+        "baseIconId": "6C725BE6-E00C-4CBA-8495-2CFC066C1DBE",
+        "name": "account-file-outline",
+        "codepoint": "F1CA8",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Contributors"
+    },
+    {
+        "id": "D69C4A63-5031-472F-B4D1-0958FF55E703",
+        "baseIconId": "D69C4A63-5031-472F-B4D1-0958FF55E703",
+        "name": "account-file-text",
+        "codepoint": "F1CA9",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Contributors"
+    },
+    {
+        "id": "91B63E1C-736B-4892-858D-772B5D197DC8",
+        "baseIconId": "91B63E1C-736B-4892-858D-772B5D197DC8",
+        "name": "account-file-text-outline",
+        "codepoint": "F1CAA",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Contributors"
+    },
+    {
         "id": "839928F4-21EA-472B-94A0-C7DFBD6C263A",
         "baseIconId": "E76EC23F-AB71-49B3-9173-841544527A20",
         "name": "account-filter",
@@ -9727,7 +9775,7 @@
         "codepoint": "F1C91",
         "aliases": [],
         "styles": [],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Home Automation"
@@ -9743,7 +9791,7 @@
         "styles": [
             "off"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Home Automation"
@@ -12479,7 +12527,7 @@
         "styles": [
             "plus"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [],
         "author": "Matthew Terry"
@@ -12498,7 +12546,7 @@
             "outline",
             "plus"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [],
         "author": "Matthew Terry"
@@ -20520,6 +20568,18 @@
         "author": "GreenTurtwig"
     },
     {
+        "id": "F78F2CE4-8F69-48F7-9BA2-C806A3723E74",
+        "baseIconId": "F6516F38-B29E-4CC9-A7E2-706817121D45",
+        "name": "bus-sign",
+        "codepoint": "F1CC1",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Richins"
+    },
+    {
         "id": "79F04208-0844-4987-9CFA-8870EBB6CD1D",
         "baseIconId": "79F04208-0844-4987-9CFA-8870EBB6CD1D",
         "name": "bus-stop",
@@ -20566,6 +20626,18 @@
             "Transportation + Road",
             "Navigation"
         ],
+        "author": "Michael Richins"
+    },
+    {
+        "id": "B8B29CB6-A4EA-40C5-B5AC-2388653D1724",
+        "baseIconId": "F6516F38-B29E-4CC9-A7E2-706817121D45",
+        "name": "bus-wrench",
+        "codepoint": "F1CC2",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
         "author": "Michael Richins"
     },
     {
@@ -23603,7 +23675,7 @@
         "styles": [
             "lock"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Automotive",
@@ -25559,6 +25631,18 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "9E3DA25C-D9A8-4009-A08D-5D98E3B3DCC9",
+        "baseIconId": "9E3DA25C-D9A8-4009-A08D-5D98E3B3DCC9",
+        "name": "cash-edit",
+        "codepoint": "F1CAB",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "A10E9739-AA80-4671-B744-ECB9934BB7E4",
         "baseIconId": "59956D81-BF6B-4DCA-ABAD-A890412F22F1",
         "name": "cash-fast",
@@ -26664,7 +26748,7 @@
         "styles": [
             "search"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [],
         "author": "Ryan Donahue"
@@ -32027,7 +32111,7 @@
         "styles": [
             "key"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Cloud"
@@ -32046,7 +32130,7 @@
         "styles": [
             "key"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Cloud"
@@ -32710,7 +32794,7 @@
             "code-block-json"
         ],
         "styles": [],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Developer \/ Languages"
@@ -32726,7 +32810,7 @@
             "code-block-square"
         ],
         "styles": [],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Developer \/ Languages"
@@ -32740,7 +32824,7 @@
         "codepoint": "F1C85",
         "aliases": [],
         "styles": [],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Developer \/ Languages"
@@ -32757,7 +32841,7 @@
             "code-block-xml"
         ],
         "styles": [],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Developer \/ Languages"
@@ -40854,7 +40938,7 @@
         "styles": [
             "cancel"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Home Automation"
@@ -41761,7 +41845,7 @@
         "styles": [
             "arrow"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [],
         "author": "frankgrinaert"
@@ -41779,7 +41863,7 @@
         "styles": [
             "arrow"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [],
         "author": "frankgrinaert"
@@ -41817,7 +41901,7 @@
         "styles": [
             "arrow"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [],
         "author": "frankgrinaert"
@@ -43518,6 +43602,30 @@
         "author": "Michael Richins"
     },
     {
+        "id": "5B0AC9D6-D90F-4014-9EEF-A549321B0E1E",
+        "baseIconId": "5B0AC9D6-D90F-4014-9EEF-A549321B0E1E",
+        "name": "emoticon-minus",
+        "codepoint": "F1CB2",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "47E88450-34FB-4AC3-B497-3724490AC75C",
+        "baseIconId": "47E88450-34FB-4AC3-B497-3724490AC75C",
+        "name": "emoticon-minus-outline",
+        "codepoint": "F1CB3",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
         "id": "922B06B7-9C78-452C-AF29-79A47F0F6931",
         "baseIconId": "922B06B7-9C78-452C-AF29-79A47F0F6931",
         "name": "emoticon-neutral",
@@ -43578,6 +43686,30 @@
         "author": "Google"
     },
     {
+        "id": "977CB7BF-C5B2-41F1-A530-13C3E2944CBB",
+        "baseIconId": "977CB7BF-C5B2-41F1-A530-13C3E2944CBB",
+        "name": "emoticon-plus",
+        "codepoint": "F1CB4",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "bakotamas"
+    },
+    {
+        "id": "2DBE55DC-10B6-446B-A380-D9E0637D7430",
+        "baseIconId": "2DBE55DC-10B6-446B-A380-D9E0637D7430",
+        "name": "emoticon-plus-outline",
+        "codepoint": "F1CB5",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "bakotamas"
+    },
+    {
         "id": "968319FB-0E94-4F04-A6D8-9E71DF200E1F",
         "baseIconId": "968319FB-0E94-4F04-A6D8-9E71DF200E1F",
         "name": "emoticon-poop",
@@ -43613,6 +43745,30 @@
             "Emoji"
         ],
         "author": "Michael Irigoyen"
+    },
+    {
+        "id": "A86DA248-7217-4896-9A5C-2AD6B8A91829",
+        "baseIconId": "A86DA248-7217-4896-9A5C-2AD6B8A91829",
+        "name": "emoticon-remove",
+        "codepoint": "F1CB6",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "63755E6E-F437-4241-AFFE-AAD2FEF98906",
+        "baseIconId": "63755E6E-F437-4241-AFFE-AAD2FEF98906",
+        "name": "emoticon-remove-outline",
+        "codepoint": "F1CB7",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
     },
     {
         "id": "CDA3C920-C286-4000-A7FC-C530CBC62CF7",
@@ -44549,7 +44705,7 @@
             "visibility-hidden"
         ],
         "styles": [],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [],
         "author": "joshua-maros"
@@ -49188,6 +49344,18 @@
             "Home Automation"
         ],
         "author": "Michael Irigoyen"
+    },
+    {
+        "id": "95D900A4-8DDB-4235-9204-333DF520CD14",
+        "baseIconId": "95D900A4-8DDB-4235-9204-333DF520CD14",
+        "name": "fire-station",
+        "codepoint": "F1CC3",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Richins"
     },
     {
         "id": "1C8EC9A6-0545-4A59-B9F8-5E498E40529D",
@@ -56161,6 +56329,30 @@
         "author": "Google"
     },
     {
+        "id": "B744E076-E4B1-43E6-9F3C-26F083D68075",
+        "baseIconId": "50E30598-BCD8-4167-BDAC-FF6971E745D7",
+        "name": "gas-station-in-use",
+        "codepoint": "F1CC4",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Richins"
+    },
+    {
+        "id": "29FEB55C-C480-4B50-A5CE-D2B2FA9F72B2",
+        "baseIconId": "50E30598-BCD8-4167-BDAC-FF6971E745D7",
+        "name": "gas-station-in-use-outline",
+        "codepoint": "F1CC5",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Richins"
+    },
+    {
         "id": "7ED35A9C-D8FD-4892-84E5-3700C907AE28",
         "baseIconId": "50E30598-BCD8-4167-BDAC-FF6971E745D7",
         "name": "gas-station-off",
@@ -56567,7 +56759,7 @@
             "electricity-generator"
         ],
         "styles": [],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Home Automation",
@@ -56585,7 +56777,7 @@
             "electricity-generator"
         ],
         "styles": [],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Home Automation"
@@ -56602,7 +56794,7 @@
             "electricity-generator"
         ],
         "styles": [],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Home Automation"
@@ -60076,7 +60268,7 @@
         "styles": [
             "search"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [],
         "author": "Ryan Donahue"
@@ -62237,7 +62429,7 @@
         "codepoint": "F1C94",
         "aliases": [],
         "styles": [],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Date \/ Time"
@@ -62265,7 +62457,7 @@
         "codepoint": "F1C95",
         "aliases": [],
         "styles": [],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [],
         "author": "Google"
@@ -62279,7 +62471,7 @@
         "styles": [
             "outline"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [],
         "author": "Google"
@@ -62516,7 +62708,7 @@
             "family"
         ],
         "styles": [],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "People \/ Family"
@@ -62818,7 +63010,7 @@
             "family"
         ],
         "styles": [],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "People \/ Family"
@@ -64800,6 +64992,20 @@
             "Places"
         ],
         "author": "Michael Irigoyen"
+    },
+    {
+        "id": "E449645E-ECE6-442D-AC75-D611FED70EF6",
+        "baseIconId": "A39024B8-5991-409C-8E68-DC9562D52F86",
+        "name": "island-variant",
+        "codepoint": "F1CC6",
+        "aliases": [],
+        "styles": [
+            "variant"
+        ],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Richins"
     },
     {
         "id": "0921F3AE-3BFF-4913-BB68-CB48587D14E4",
@@ -68528,6 +68734,49 @@
         "author": "Michael Irigoyen"
     },
     {
+        "id": "066651C5-8C77-4952-94EA-260C497156BA",
+        "baseIconId": "462769C2-0A30-4B31-B66C-55168B10D705",
+        "name": "link-circle",
+        "codepoint": "F1CAC",
+        "aliases": [],
+        "styles": [
+            "circle"
+        ],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "FB44C69D-EA72-40ED-BD30-D5AA9DF491C8",
+        "baseIconId": "462769C2-0A30-4B31-B66C-55168B10D705",
+        "name": "link-circle-outline",
+        "codepoint": "F1CAD",
+        "aliases": [],
+        "styles": [
+            "circle",
+            "outline"
+        ],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "E64CEF49-951E-4842-98DE-CBB615BFAB3A",
+        "baseIconId": "462769C2-0A30-4B31-B66C-55168B10D705",
+        "name": "link-edit",
+        "codepoint": "F1CAE",
+        "aliases": [],
+        "styles": [
+            "edit"
+        ],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "CDEA2CC8-FD08-49E6-AC29-A5DD70956C35",
         "baseIconId": "462769C2-0A30-4B31-B66C-55168B10D705",
         "name": "link-lock",
@@ -71422,7 +71671,7 @@
         "styles": [
             "arrow"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [],
         "author": "Michael Irigoyen"
@@ -71492,7 +71741,7 @@
             "hamburger-close"
         ],
         "styles": [],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Navigation"
@@ -81990,6 +82239,20 @@
         "author": "GreenTurtwig"
     },
     {
+        "id": "54BBE5BD-DFF9-41A9-A982-45DAF4B29DE4",
+        "baseIconId": "31BE5768-FCE0-46D5-A20B-E8CBFED471E0",
+        "name": "passport-alert",
+        "codepoint": "F1CB8",
+        "aliases": [],
+        "styles": [
+            "alert"
+        ],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Richins"
+    },
+    {
         "id": "86A974C4-6E5A-48F6-A3B9-35B3DCD1DE7A",
         "baseIconId": "31BE5768-FCE0-46D5-A20B-E8CBFED471E0",
         "name": "passport-biometric",
@@ -82002,6 +82265,76 @@
         "deprecated": false,
         "tags": [],
         "author": "GreenTurtwig"
+    },
+    {
+        "id": "F8A93094-948E-4F4F-B616-3E20AAB8CA30",
+        "baseIconId": "31BE5768-FCE0-46D5-A20B-E8CBFED471E0",
+        "name": "passport-cancel",
+        "codepoint": "F1CB9",
+        "aliases": [],
+        "styles": [
+            "cancel"
+        ],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Richins"
+    },
+    {
+        "id": "EE9F9B1F-B218-457D-9008-F3B574C6D9B5",
+        "baseIconId": "31BE5768-FCE0-46D5-A20B-E8CBFED471E0",
+        "name": "passport-check",
+        "codepoint": "F1CBA",
+        "aliases": [],
+        "styles": [
+            "check"
+        ],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Richins"
+    },
+    {
+        "id": "2B26DE7C-B15A-4F19-B7D8-37513184E8D8",
+        "baseIconId": "31BE5768-FCE0-46D5-A20B-E8CBFED471E0",
+        "name": "passport-minus",
+        "codepoint": "F1CBB",
+        "aliases": [],
+        "styles": [
+            "minus"
+        ],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Richins"
+    },
+    {
+        "id": "7E0B87C0-4F09-4903-8D7E-9D8FD5E09315",
+        "baseIconId": "31BE5768-FCE0-46D5-A20B-E8CBFED471E0",
+        "name": "passport-plus",
+        "codepoint": "F1CBC",
+        "aliases": [],
+        "styles": [
+            "plus"
+        ],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Richins"
+    },
+    {
+        "id": "616F54F4-F38D-4848-82F9-9D32D4F02D82",
+        "baseIconId": "31BE5768-FCE0-46D5-A20B-E8CBFED471E0",
+        "name": "passport-remove",
+        "codepoint": "F1CBD",
+        "aliases": [],
+        "styles": [
+            "remove"
+        ],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Richins"
     },
     {
         "id": "8288CA76-67E5-4EEA-82CD-DE0E0842F34D",
@@ -85350,6 +85683,18 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "D4BAB490-2216-4AE7-8DBC-26F4B2F5F9AC",
+        "baseIconId": "D4BAB490-2216-4AE7-8DBC-26F4B2F5F9AC",
+        "name": "pocket",
+        "codepoint": "F1CBE",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Contributors"
+    },
+    {
         "id": "56B37BA8-E973-4B53-812A-7F47BCFF217A",
         "baseIconId": "56B37BA8-E973-4B53-812A-7F47BCFF217A",
         "name": "podcast",
@@ -88225,6 +88570,18 @@
         "deprecated": false,
         "tags": [],
         "author": "Michael Irigoyen"
+    },
+    {
+        "id": "7835022B-E173-4160-ADC0-20047213D506",
+        "baseIconId": "7835022B-E173-4160-ADC0-20047213D506",
+        "name": "queue-first-in-last-out",
+        "codepoint": "F1CAF",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "mschutti"
     },
     {
         "id": "F4C8FDC5-0F7D-4EDA-8242-B356F5E542A4",
@@ -91906,7 +92263,7 @@
         "styles": [
             "network"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Device \/ Tech"
@@ -94078,7 +94435,7 @@
             "minus",
             "outline"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [],
         "author": "Kadensvw"
@@ -94117,7 +94474,7 @@
             "network",
             "outline"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [],
         "author": "Kadensvw"
@@ -94143,7 +94500,7 @@
         "styles": [
             "outline"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [],
         "author": "Kadensvw"
@@ -94174,7 +94531,7 @@
             "outline",
             "plus"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [],
         "author": "Kadensvw"
@@ -104352,7 +104709,7 @@
         "styles": [
             "edit"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [],
         "author": "Michael Richins"
@@ -104367,7 +104724,7 @@
             "edit",
             "outline"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [],
         "author": "Michael Richins"
@@ -108931,6 +109288,18 @@
         "author": "Google"
     },
     {
+        "id": "6ABBD1FA-2A08-4361-94D0-9D4ECABE03D4",
+        "baseIconId": "B6E1232A-3A43-4200-BE34-1BC436B34BF1",
+        "name": "train-bus",
+        "codepoint": "F1CC7",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Richins"
+    },
+    {
         "id": "20588836-2EC7-467D-9E72-15D3C4FE7C93",
         "baseIconId": "B6E1232A-3A43-4200-BE34-1BC436B34BF1",
         "name": "train-car",
@@ -110420,7 +110789,7 @@
         "codepoint": "F1C9E",
         "aliases": [],
         "styles": [],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Transportation + Other"
@@ -110436,7 +110805,7 @@
         "styles": [
             "off"
         ],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Transportation + Other"
@@ -111504,6 +111873,18 @@
         "deprecated": false,
         "tags": [],
         "author": "Google"
+    },
+    {
+        "id": "BD068EC8-751D-46FA-9A88-4D6B9452720C",
+        "baseIconId": "BD068EC8-751D-46FA-9A88-4D6B9452720C",
+        "name": "usb-c-port",
+        "codepoint": "F1CBF",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
     },
     {
         "id": "DB728530-EAF2-488E-8971-9567A31354DE",
@@ -112821,7 +113202,7 @@
             "video-quality-sd"
         ],
         "styles": [],
-        "version": "7.3.96",
+        "version": "7.3.67",
         "deprecated": false,
         "tags": [
             "Video \/ Movie"
@@ -115273,6 +115654,42 @@
             "Transportation + Water"
         ],
         "author": "Michael Irigoyen"
+    },
+    {
+        "id": "64FB01DD-0D60-4985-A367-02DAB7F66C59",
+        "baseIconId": "64FB01DD-0D60-4985-A367-02DAB7F66C59",
+        "name": "wave-arrow-down",
+        "codepoint": "F1CB0",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Contributors"
+    },
+    {
+        "id": "DA42C58D-710B-45E1-BED5-B153143C6177",
+        "baseIconId": "DA42C58D-710B-45E1-BED5-B153143C6177",
+        "name": "wave-arrow-up",
+        "codepoint": "F1CB1",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Contributors"
+    },
+    {
+        "id": "03713E38-C509-4252-B797-5899A04B8A43",
+        "baseIconId": "03713E38-C509-4252-B797-5899A04B8A43",
+        "name": "wave-undercurrent",
+        "codepoint": "F1CC0",
+        "aliases": [],
+        "styles": [],
+        "version": "7.3.67",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
     },
     {
         "id": "B677F1CB-606B-4DB5-9A9D-73E4FC0AC3F0",
