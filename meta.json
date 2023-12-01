@@ -32259,7 +32259,8 @@
         "name": "cloud-off-outline",
         "codepoint": "F0164",
         "aliases": [
-            "offline"
+            "offline",
+            "local"
         ],
         "styles": [
             "off",
