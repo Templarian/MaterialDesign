@@ -114878,7 +114878,8 @@
         "name": "washing-machine-off",
         "codepoint": "F11BD",
         "aliases": [
-            "laundry-room-off"
+            "laundry-room-off",
+            "washer-off"
         ],
         "styles": [],
         "version": "4.5.95",
