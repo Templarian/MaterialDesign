@@ -31306,7 +31306,8 @@
             "clear",
             "multiply",
             "remove",
-            "cancel"
+            "cancel",
+            "times"
         ],
         "styles": [],
         "version": "1.5.54",
