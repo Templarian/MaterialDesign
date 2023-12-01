@@ -114843,7 +114843,8 @@
         "aliases": [
             "laundrette",
             "local-laundry-service",
-            "laundry-room"
+            "laundry-room",
+            "washer"
         ],
         "styles": [],
         "version": "1.8.36",
