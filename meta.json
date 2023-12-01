@@ -32258,7 +32258,9 @@
         "baseIconId": "CF07C502-388E-4A65-BD89-FACCFD00C245",
         "name": "cloud-off-outline",
         "codepoint": "F0164",
-        "aliases": [],
+        "aliases": [
+            "offline"
+        ],
         "styles": [
             "off",
             "outline"
