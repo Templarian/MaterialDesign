@@ -89345,9 +89345,7 @@
         "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
         "name": "receipt-text",
         "codepoint": "F0449",
-        "aliases": [
-            "invoice"
-        ],
+        "aliases": [],
         "styles": [],
         "version": "1.5.54",
         "deprecated": false,
