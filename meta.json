@@ -89360,7 +89360,6 @@
         "name": "receipt-text-arrow-left",
         "codepoint": "F1C42",
         "aliases": [
-            "invoice-arrow-left",
             "invoice-receive"
         ],
         "styles": [
