@@ -89374,8 +89374,7 @@
         "name": "receipt-text-arrow-left-outline",
         "codepoint": "F1C43",
         "aliases": [
-            "invoice-arrow-left-outline",
-            "invoice-receive-outline"
+            "invoice-arrow-left-outline"
         ],
         "styles": [
             "arrow",
