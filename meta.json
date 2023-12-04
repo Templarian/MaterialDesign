@@ -89256,7 +89256,9 @@
         "styles": [],
         "version": "2.1.19",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Michael Irigoyen"
     },
     {
