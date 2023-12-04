@@ -89373,9 +89373,7 @@
         "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
         "name": "receipt-text-arrow-left-outline",
         "codepoint": "F1C43",
-        "aliases": [
-            "invoice-arrow-left-outline"
-        ],
+        "aliases": [],
         "styles": [
             "arrow",
             "outline"
