@@ -89393,7 +89393,6 @@
         "name": "receipt-text-arrow-right",
         "codepoint": "F1C44",
         "aliases": [
-            "invoice-arrow-right",
             "invoice-send"
         ],
         "styles": [
