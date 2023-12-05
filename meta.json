@@ -89409,7 +89409,6 @@
         "name": "receipt-text-arrow-right-outline",
         "codepoint": "F1C45",
         "aliases": [
-            "invoice-arrow-right-outline",
             "invoice-send-outline"
         ],
         "styles": [
