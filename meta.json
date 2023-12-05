@@ -89392,9 +89392,7 @@
         "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
         "name": "receipt-text-arrow-right",
         "codepoint": "F1C44",
-        "aliases": [
-            "invoice-send"
-        ],
+        "aliases": [],
         "styles": [
             "arrow"
         ],
