@@ -89538,7 +89538,9 @@
         ],
         "version": "6.7.96",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Simran"
     },
     {
