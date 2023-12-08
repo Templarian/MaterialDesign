@@ -111142,7 +111142,8 @@
         "codepoint": "F1543",
         "aliases": [
             "settings-vertical",
-            "equalizer-vertical"
+            "equalizer-vertical",
+            "slider-variant"
         ],
         "styles": [
             "variant"
