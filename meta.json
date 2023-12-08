@@ -89532,9 +89532,7 @@
         "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
         "name": "receipt-text-minus-outline",
         "codepoint": "F1A66",
-        "aliases": [
-            "invoice-minus-outline"
-        ],
+        "aliases": [],
         "styles": [
             "minus",
             "outline",
