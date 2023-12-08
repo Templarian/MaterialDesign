@@ -89473,7 +89473,6 @@
         "name": "receipt-text-clock-outline",
         "codepoint": "F1C47",
         "aliases": [
-            "invoice-clock-outline",
             "invoice-schedule-outline",
             "receipt-text-pending"
         ],
