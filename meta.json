@@ -109725,7 +109725,9 @@
         "styles": [],
         "version": "4.1.95",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Simran"
     },
     {
