@@ -111143,6 +111143,7 @@
         "aliases": [
             "settings-vertical",
             "equalizer-vertical",
+            "slider-vertical",
             "slider-variant"
         ],
         "styles": [
