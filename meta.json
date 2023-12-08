@@ -89587,7 +89587,6 @@
         "name": "receipt-text-plus-outline",
         "codepoint": "F1A68",
         "aliases": [
-            "invoice-plus",
             "invoice-add",
             "receipt-text-add"
         ],
