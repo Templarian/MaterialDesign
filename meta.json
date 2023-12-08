@@ -25639,7 +25639,9 @@
         "styles": [],
         "version": "7.3.67",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Banking"
+        ],
         "author": "Jeff Anders"
     },
     {
