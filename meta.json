@@ -89458,9 +89458,7 @@
         "baseIconId": "EEB46F1F-4996-4B65-A1C6-70DC4D38C34E",
         "name": "receipt-text-clock",
         "codepoint": "F1C46",
-        "aliases": [
-            "receipt-text-pending"
-        ],
+        "aliases": [],
         "styles": [
             "clock"
         ],
