@@ -111143,8 +111143,7 @@
         "aliases": [
             "settings-vertical",
             "equalizer-vertical",
-            "slider-vertical",
-            "slider-variant"
+            "slider-vertical"
         ],
         "styles": [
             "variant"
