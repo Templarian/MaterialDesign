@@ -88595,7 +88595,7 @@
         "aliases": [],
         "styles": [],
         "version": "3.3.92",
-        "deprecated": false,
+        "deprecated": true,
         "tags": [],
         "author": "Contributors"
     },
@@ -89459,7 +89459,6 @@
         "name": "receipt-text-clock",
         "codepoint": "F1C46",
         "aliases": [
-            "invoice-clock",
             "invoice-schedule",
             "receipt-text-pending"
         ],
