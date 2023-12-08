@@ -89459,7 +89459,6 @@
         "name": "receipt-text-clock",
         "codepoint": "F1C46",
         "aliases": [
-            "invoice-schedule",
             "receipt-text-pending"
         ],
         "styles": [
