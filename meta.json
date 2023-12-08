@@ -89570,7 +89570,6 @@
         "name": "receipt-text-plus",
         "codepoint": "F1A67",
         "aliases": [
-            "invoice-plus",
             "invoice-add",
             "receipt-text-add"
         ],
