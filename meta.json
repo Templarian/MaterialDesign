@@ -54838,6 +54838,9 @@
         "name": "forum-minus",
         "codepoint": "F1AA9",
         "aliases": [
+            "discussion-minus",
+            "conversation-minus",
+            "dialogue-minus",
             "chat-minus",
             "forum-subtract",
             "chat-subtract"
