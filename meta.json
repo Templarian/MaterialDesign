@@ -54821,7 +54821,10 @@
         "aliases": [
             "message-group",
             "question-answer",
-            "chat"
+            "chat",
+            "dialogue",
+            "conversation",
+            "discussion"
         ],
         "styles": [],
         "version": "1.5.54",
