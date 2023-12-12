@@ -54923,7 +54923,10 @@
         "aliases": [
             "chat-plus-outline",
             "chat-add-outline",
-            "forum-add-outline"
+            "forum-add-outline",
+            "dialogue-plus-outline",
+            "conversation-plus-outline",
+            "discussion-plus-outline"
         ],
         "styles": [
             "outline",
