@@ -54966,7 +54966,10 @@
         "aliases": [
             "forum-delete-outline",
             "chat-remove-outline",
-            "chat-delete-outline"
+            "chat-delete-outline",
+            "dialogue-remove-outline",
+            "conversation-remove-outline",
+            "discussion-remove-outline"
         ],
         "styles": [
             "outline",
