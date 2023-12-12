@@ -54881,7 +54881,10 @@
         "name": "forum-outline",
         "codepoint": "F0822",
         "aliases": [
-            "chat-outline"
+            "chat-outline",
+            "dialogue-outline",
+            "discussion-outline",
+            "conversation-outline"
         ],
         "styles": [
             "outline"
