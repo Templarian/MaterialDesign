@@ -54902,7 +54902,10 @@
         "aliases": [
             "chat-plus",
             "forum-add",
-            "chat-add"
+            "chat-add",
+            "dialogue-plus",
+            "conversation-plus",
+            "discussion-plus"
         ],
         "styles": [
             "plus"
