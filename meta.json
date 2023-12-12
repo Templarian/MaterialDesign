@@ -54859,9 +54859,12 @@
         "name": "forum-minus-outline",
         "codepoint": "F1AAA",
         "aliases": [
+            "dialogue-minus-outline",
             "chat-minus-outline",
             "forum-subtract-outline",
-            "chat-subtract-outline"
+            "chat-subtract-outline",
+            "conversation-minus-outline",
+            "discussion-minus-outline"
         ],
         "styles": [
             "minus",
