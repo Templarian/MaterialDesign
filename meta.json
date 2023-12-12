@@ -54945,7 +54945,10 @@
         "aliases": [
             "forum-delete",
             "chat-remove",
-            "chat-delete"
+            "chat-delete",
+            "dialogue-remove",
+            "conversation-remove",
+            "discussion-remove"
         ],
         "styles": [
             "remove"
