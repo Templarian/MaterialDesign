@@ -1146,7 +1146,9 @@
         "styles": [],
         "version": "7.3.67",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Account \/ User"
+        ],
         "author": "Contributors"
     },
     {
