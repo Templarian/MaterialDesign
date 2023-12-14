@@ -12122,7 +12122,8 @@
         "version": "3.7.94",
         "deprecated": false,
         "tags": [
-            "People \/ Family"
+            "People \/ Family",
+            "Account \/ User"
         ],
         "author": "Google"
     },
