@@ -98260,7 +98260,8 @@
         "name": "silverware-variant",
         "codepoint": "F04A6",
         "aliases": [
-            "cutlery-variant"
+            "cutlery-variant",
+            "utensils-variant"
         ],
         "styles": [],
         "version": "1.5.54",
