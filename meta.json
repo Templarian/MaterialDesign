@@ -98246,7 +98246,8 @@
         "name": "silverware-spoon",
         "codepoint": "F04A5",
         "aliases": [
-            "cutlery-spoon"
+            "cutlery-spoon",
+            "utensils-spoon"
         ],
         "styles": [],
         "version": "1.5.54",
