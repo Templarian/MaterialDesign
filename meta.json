@@ -98209,7 +98209,8 @@
         "name": "silverware-fork",
         "codepoint": "F04A4",
         "aliases": [
-            "cutlery-fork"
+            "cutlery-fork",
+            "utensils-fork"
         ],
         "styles": [],
         "version": "1.5.54",
