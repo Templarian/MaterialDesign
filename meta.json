@@ -485,6 +485,42 @@
         "author": "Google"
     },
     {
+        "id": "38F968FA-3BDD-48B3-94DF-601B570D4A2D",
+        "baseIconId": "E76EC23F-AB71-49B3-9173-841544527A20",
+        "name": "account-box-edit-outline",
+        "codepoint": "F1CC8",
+        "aliases": [],
+        "styles": [
+            "account",
+            "edit",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "F92A28DC-B4C9-4656-A514-2569D21D871D",
+        "baseIconId": "E76EC23F-AB71-49B3-9173-841544527A20",
+        "name": "account-box-minus-outline",
+        "codepoint": "F1CC9",
+        "aliases": [],
+        "styles": [
+            "account",
+            "minus",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "D612088F-9D2A-424A-9403-046993A3EB14",
         "baseIconId": "E76EC23F-AB71-49B3-9173-841544527A20",
         "name": "account-box-multiple",
@@ -548,6 +584,24 @@
             "Account \/ User"
         ],
         "author": "Google"
+    },
+    {
+        "id": "9B343856-3835-4B00-AEB5-B7CC36DFA672",
+        "baseIconId": "E76EC23F-AB71-49B3-9173-841544527A20",
+        "name": "account-box-plus-outline",
+        "codepoint": "F1CCA",
+        "aliases": [],
+        "styles": [
+            "account",
+            "outline",
+            "plus"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Jeff Anders"
     },
     {
         "id": "31CE9FF1-9698-4ED6-8E9B-392840E55DDE",
@@ -17540,6 +17594,18 @@
         "author": "Google"
     },
     {
+        "id": "42991CAB-D9D2-43FF-8AB1-CA6CC358742D",
+        "baseIconId": "7EFAD89C-D84E-41F0-A8A4-F72AC8DB470C",
+        "name": "book-open-blank-variant-outline",
+        "codepoint": "F1CCB",
+        "aliases": [],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "BA5E15E3-923B-464B-ACEA-F2958F6782F7",
         "baseIconId": "7EFAD89C-D84E-41F0-A8A4-F72AC8DB470C",
         "name": "book-open-outline",
@@ -17597,6 +17663,21 @@
         "deprecated": false,
         "tags": [],
         "author": "Google"
+    },
+    {
+        "id": "136112D6-C008-4704-87AA-BD5AB0C23A50",
+        "baseIconId": "7EFAD89C-D84E-41F0-A8A4-F72AC8DB470C",
+        "name": "book-open-variant-outline",
+        "codepoint": "F1CCC",
+        "aliases": [],
+        "styles": [
+            "outline",
+            "variant"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
     },
     {
         "id": "D1558D49-BCE0-4539-9560-DB05153356AF",
@@ -26910,6 +26991,49 @@
             "Math"
         ],
         "author": "Google"
+    },
+    {
+        "id": "F85DED12-7AE9-436D-81BA-DA154B8E2317",
+        "baseIconId": "381420B2-B2EE-4E9F-9DEA-EA0C1F92A226",
+        "name": "chart-box-multiple",
+        "codepoint": "F1CCD",
+        "aliases": [
+            "poll-box-multiple",
+            "graph-box-multiple",
+            "widget-box-multiple",
+            "report-box-multiple"
+        ],
+        "styles": [
+            "multiple"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Math"
+        ],
+        "author": "Konstantin Saller"
+    },
+    {
+        "id": "DA461BDE-F579-4196-A3CD-C186D0C2912A",
+        "baseIconId": "381420B2-B2EE-4E9F-9DEA-EA0C1F92A226",
+        "name": "chart-box-multiple-outline",
+        "codepoint": "F1CCE",
+        "aliases": [
+            "graph-box-multiple-outline",
+            "widget-box-multiple-outline",
+            "report-box-multiple-outline",
+            "poll-box-multiple-outline"
+        ],
+        "styles": [
+            "multiple",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Math"
+        ],
+        "author": "Konstantin Saller"
     },
     {
         "id": "4115E465-01E5-4F3F-929A-81C239289B21",
@@ -39757,6 +39881,25 @@
         "author": "Simran"
     },
     {
+        "id": "060C6C30-A2B7-430F-A90B-03483819BBD0",
+        "baseIconId": "8A71EDC4-CA3C-450D-BD59-5915ADCDF9D4",
+        "name": "diaper-outline",
+        "codepoint": "F1CCF",
+        "aliases": [
+            "nappy-outline"
+        ],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Clothing",
+            "Medical \/ Hospital"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "F8E5E9B6-9953-46F8-84DC-CFBB11DEFFB7",
         "baseIconId": "F8E5E9B6-9953-46F8-84DC-CFBB11DEFFB7",
         "name": "dice-1",
@@ -41362,6 +41505,21 @@
         "deprecated": false,
         "tags": [],
         "author": "GreenTurtwig"
+    },
+    {
+        "id": "3507A83C-1638-425D-B3D8-87EC40648E7B",
+        "baseIconId": "704F7397-0E85-4213-8D76-FE156DF1795F",
+        "name": "download-multiple-outline",
+        "codepoint": "F1CD0",
+        "aliases": [],
+        "styles": [
+            "multiple",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
     },
     {
         "id": "8DD93DC3-060D-4CB3-AB41-8A1A5243BFFD",
@@ -44228,6 +44386,20 @@
         "deprecated": false,
         "tags": [],
         "author": "Simran"
+    },
+    {
+        "id": "F011BA7B-390E-4AC0-8C23-425C8E1BEA4C",
+        "baseIconId": "3AB3C243-0FD3-4903-A6EA-B0B29ABFAD6C",
+        "name": "ethernet-off",
+        "codepoint": "F1CD1",
+        "aliases": [],
+        "styles": [
+            "off"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [],
+        "author": "Colton Wiscombe"
     },
     {
         "id": "7C687673-B2F0-43B6-A5E3-E25B9FFA0F8E",
@@ -64879,6 +65051,930 @@
         "author": "Google"
     },
     {
+        "id": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice",
+        "codepoint": "F1CD2",
+        "aliases": [],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "026E4532-5FE5-4DCA-B5D5-D376E23CB81A",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-arrow-left",
+        "codepoint": "F1CD3",
+        "aliases": [],
+        "styles": [
+            "arrow"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "22F91964-3698-4604-8046-16C6535A5E95",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-arrow-left-outline",
+        "codepoint": "F1CD4",
+        "aliases": [],
+        "styles": [
+            "arrow",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "E1DC2DB9-F684-45FC-A5A8-C83561497512",
+        "baseIconId": "E1DC2DB9-F684-45FC-A5A8-C83561497512",
+        "name": "invoice-arrow-right",
+        "codepoint": "F1CD5",
+        "aliases": [],
+        "styles": [
+            "arrow"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "AC3398AB-FFFA-4339-B4D0-4C6C248FF1E6",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-arrow-right-outline",
+        "codepoint": "F1CD6",
+        "aliases": [],
+        "styles": [
+            "arrow",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "0B1FB16F-0E5A-4F53-9F9C-B9A28217C254",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-check",
+        "codepoint": "F1CD7",
+        "aliases": [],
+        "styles": [
+            "check"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "8DCF92BA-E729-4B96-99B5-1B076D672002",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-check-outline",
+        "codepoint": "F1CD8",
+        "aliases": [],
+        "styles": [
+            "check",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "C6B8DF23-3526-4052-BB03-37F479F3B5B6",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-clock",
+        "codepoint": "F1CD9",
+        "aliases": [
+            "invoice-scheduled"
+        ],
+        "styles": [
+            "clock"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "71498268-3E1E-4F4C-8510-4BA27D2F01F9",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-clock-outline",
+        "codepoint": "F1CDA",
+        "aliases": [
+            "invoice-scheduled-outline"
+        ],
+        "styles": [
+            "clock",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "6BAEBFB5-9221-4F2F-AF55-FF8FED5EB24C",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-edit",
+        "codepoint": "F1CDB",
+        "aliases": [],
+        "styles": [
+            "edit"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "1C785A7B-3E52-4C1A-A5DF-4F7CF6902041",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-edit-outline",
+        "codepoint": "F1CDC",
+        "aliases": [],
+        "styles": [
+            "edit",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "049C99EC-16C8-458C-ABE7-06B361BF05C7",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-export-outline",
+        "codepoint": "F1CDD",
+        "aliases": [
+            "invoice-outbound-outline"
+        ],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "E624E5A6-B84B-46B3-8090-0326FDDDA78B",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-fast",
+        "codepoint": "F1CDE",
+        "aliases": [],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "F6879131-0B38-4FD5-86FF-2BF8BB5E43B2",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-fast-outline",
+        "codepoint": "F1CDF",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "28766FCF-01FB-43EF-AAE4-B78A644880AF",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-import",
+        "codepoint": "F1CE0",
+        "aliases": [
+            "invoice-inbound"
+        ],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "9B0C48A2-870D-43B1-9F73-57688AA5B888",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-import-outline",
+        "codepoint": "F1CE1",
+        "aliases": [
+            "invoice-inbound-outline"
+        ],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "3C7A28AA-E21B-4DCC-B6DF-4EBEF2A93C01",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-list",
+        "codepoint": "F1CE2",
+        "aliases": [
+            "invoice-line-items"
+        ],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "9674415D-706E-4934-A03F-9AE29B24E3A9",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-list-outline",
+        "codepoint": "F1CE3",
+        "aliases": [
+            "invoice-line-items-outline"
+        ],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Shopping",
+            "Banking"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "5E6401D0-9CC0-4E04-B453-DCA43D3E1D0C",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-minus",
+        "codepoint": "F1CE4",
+        "aliases": [],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "7937AAEB-9FCA-4F50-81D9-8A3735A5248A",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-minus-outline",
+        "codepoint": "F1CE5",
+        "aliases": [],
+        "styles": [
+            "minus",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "25C8CF6C-01BB-4E4A-A946-47A58A854957",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-multiple",
+        "codepoint": "F1CE6",
+        "aliases": [],
+        "styles": [
+            "multiple"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "16A5C1A4-ADE8-4F65-A02B-C02FFEA97241",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-multiple-outline",
+        "codepoint": "F1CE7",
+        "aliases": [],
+        "styles": [
+            "multiple",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "A7F61024-F5FD-4296-B956-A785D549814A",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-outline",
+        "codepoint": "F1CE8",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "8AEAA39A-29A9-4627-A0D0-49DD64922B55",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-plus",
+        "codepoint": "F1CE9",
+        "aliases": [
+            "invoice-new"
+        ],
+        "styles": [
+            "plus"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "889F97FC-E068-4E7A-BB6E-0F3428A13A21",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-plus-outline",
+        "codepoint": "F1CEA",
+        "aliases": [
+            "invoice-new-outline"
+        ],
+        "styles": [
+            "outline",
+            "plus"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "19F2BEC0-0188-49C4-9125-7FD3F0C4A95B",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-remove",
+        "codepoint": "F1CEB",
+        "aliases": [],
+        "styles": [
+            "remove"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "C829B2D9-67A7-43E3-8D02-85C980F76BC5",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-remove-outline",
+        "codepoint": "F1CEC",
+        "aliases": [],
+        "styles": [
+            "outline",
+            "remove"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "1AC4079F-A8A3-45CB-869D-97DDC3244BF8",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-send",
+        "codepoint": "F1CED",
+        "aliases": [],
+        "styles": [
+            "send"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "2A169211-E680-4D0C-B4C3-FDE388B98D06",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-send-outline",
+        "codepoint": "F1CEE",
+        "aliases": [],
+        "styles": [
+            "outline",
+            "send"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "06345293-B968-427B-BD74-719BD3F2E37B",
+        "baseIconId": "06345293-B968-427B-BD74-719BD3F2E37B",
+        "name": "invoice-text",
+        "codepoint": "F1CEF",
+        "aliases": [],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "FCBC1CC9-9072-43F1-9052-8EECCA0651C8",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-arrow-left",
+        "codepoint": "F1CF0",
+        "aliases": [],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "1E12551C-392F-43A2-8C18-BFDBC24307A5",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-arrow-left-outline",
+        "codepoint": "F1CF1",
+        "aliases": [],
+        "styles": [
+            "arrow",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "C8536EAF-FE1D-454E-97BB-EC76F0412B2A",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-arrow-right",
+        "codepoint": "F1CF2",
+        "aliases": [],
+        "styles": [
+            "arrow"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "1A05708B-7367-46CB-AD1C-5A17368799B7",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-arrow-right-outline",
+        "codepoint": "F1CF3",
+        "aliases": [],
+        "styles": [
+            "arrow",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Shopping",
+            "Banking"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "F5E98247-6372-4D39-B1F9-D8F81E2115B7",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-check",
+        "codepoint": "F1CF4",
+        "aliases": [],
+        "styles": [
+            "check"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "E8737B18-7558-44E0-82F2-A625D4932D21",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-check-outline",
+        "codepoint": "F1CF5",
+        "aliases": [],
+        "styles": [
+            "check",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "52B9052B-EA7E-4016-9BBC-14FB91CE07EE",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-clock",
+        "codepoint": "F1CF6",
+        "aliases": [
+            "invoice-text-scheduled"
+        ],
+        "styles": [
+            "clock"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "957ED765-1CC2-4C07-959B-065465917872",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-clock-outline",
+        "codepoint": "F1CF7",
+        "aliases": [
+            "invoice-text-scheduled-outline"
+        ],
+        "styles": [
+            "clock",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "DAC9F8EF-8843-46DC-AA4B-AA9D8A02F1E4",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-edit",
+        "codepoint": "F1CF8",
+        "aliases": [],
+        "styles": [
+            "edit"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "7789587C-3400-47CB-8434-EBB26AE3BD3C",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-edit-outline",
+        "codepoint": "F1CF9",
+        "aliases": [],
+        "styles": [
+            "edit",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "3835C129-9723-496D-8D1B-6C6C81430335",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-fast",
+        "codepoint": "F1CFA",
+        "aliases": [],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "A6C3518A-07AA-4637-A1FB-0CDEEF8981E9",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-fast-outline",
+        "codepoint": "F1CFB",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "24F0C139-A431-4A41-894F-969DA6F77A07",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-minus",
+        "codepoint": "F1CFC",
+        "aliases": [],
+        "styles": [
+            "minus"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "813DEF4F-A57D-4166-B644-30740A64BCC3",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-minus-outline",
+        "codepoint": "F1CFD",
+        "aliases": [],
+        "styles": [
+            "minus",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "515AA743-71C7-4022-8E9E-E07B6D13FAFF",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-multiple",
+        "codepoint": "F1CFE",
+        "aliases": [],
+        "styles": [
+            "multiple"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "3C8CE95D-FDAC-4ECB-B13E-82CAD7E152BC",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-multiple-outline",
+        "codepoint": "F1CFF",
+        "aliases": [],
+        "styles": [
+            "multiple",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "CDF559C8-5851-4697-ACED-93B9E7BB0316",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-outline",
+        "codepoint": "F1D00",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "828C93B1-47AD-4073-8B25-D56621FB50E7",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-plus",
+        "codepoint": "F1D01",
+        "aliases": [
+            "invoice-text-new"
+        ],
+        "styles": [
+            "plus"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "2A2F9351-D61A-47D7-B215-5E68E343759A",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-plus-outline",
+        "codepoint": "F1D02",
+        "aliases": [
+            "invoice-text-new-outline"
+        ],
+        "styles": [
+            "outline",
+            "plus"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "65D1CF51-8AB2-4464-8773-D0BFA7794F96",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-remove",
+        "codepoint": "F1D03",
+        "aliases": [],
+        "styles": [
+            "remove"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "532C4085-3DDA-4016-A948-0521EF1AD847",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-remove-outline",
+        "codepoint": "F1D04",
+        "aliases": [],
+        "styles": [
+            "outline",
+            "remove"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "BDE23082-797D-4914-B99F-DB5D12172C0D",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-send",
+        "codepoint": "F1D05",
+        "aliases": [],
+        "styles": [
+            "send"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "14C8E4B1-6E67-427E-B5D1-D38149C69B49",
+        "baseIconId": "5CE920A6-F65C-4EB4-8015-455032417296",
+        "name": "invoice-text-send-outline",
+        "codepoint": "F1D06",
+        "aliases": [],
+        "styles": [
+            "outline",
+            "send"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Banking",
+            "Shopping"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "A360D72F-7DC7-4E24-B7F0-1856C918CB8A",
         "baseIconId": "A360D72F-7DC7-4E24-B7F0-1856C918CB8A",
         "name": "iobroker",
@@ -74935,6 +76031,32 @@
         "author": "Austin Andrews"
     },
     {
+        "id": "9C22B401-B8A9-4D50-ADC1-8718F4EEC6E5",
+        "baseIconId": "965CDBD7-9E52-4169-B363-E0428C75C19D",
+        "name": "mouse-left-click",
+        "codepoint": "F1D07",
+        "aliases": [],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "093F05E0-B1F3-4FB5-911A-150B0D650857",
+        "baseIconId": "965CDBD7-9E52-4169-B363-E0428C75C19D",
+        "name": "mouse-left-click-outline",
+        "codepoint": "F1D08",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "63EB8966-D3A4-40C1-BC5C-BD4B34069D17",
         "baseIconId": "965CDBD7-9E52-4169-B363-E0428C75C19D",
         "name": "mouse-move-down",
@@ -74981,6 +76103,58 @@
         "deprecated": false,
         "tags": [],
         "author": "Austin Andrews"
+    },
+    {
+        "id": "FBB4B2E3-3FF0-4CE4-92D4-264CA677C3D8",
+        "baseIconId": "965CDBD7-9E52-4169-B363-E0428C75C19D",
+        "name": "mouse-outline",
+        "codepoint": "F1D09",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "19E17A2B-77B3-4CD3-A608-33DDE11B9223",
+        "baseIconId": "965CDBD7-9E52-4169-B363-E0428C75C19D",
+        "name": "mouse-right-click",
+        "codepoint": "F1D0A",
+        "aliases": [],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "CCA2AA13-89C6-40A8-B250-DE5A91291F78",
+        "baseIconId": "965CDBD7-9E52-4169-B363-E0428C75C19D",
+        "name": "mouse-right-click-outline",
+        "codepoint": "F1D0B",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "64DC1183-E0CA-48D3-8937-D13478681BB3",
+        "baseIconId": "965CDBD7-9E52-4169-B363-E0428C75C19D",
+        "name": "mouse-scroll-wheel",
+        "codepoint": "F1D0C",
+        "aliases": [],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
     },
     {
         "id": "2E7ADC17-384C-4763-9D52-31AFF16BC864",
@@ -87822,6 +88996,18 @@
         "author": "Jeff Anders"
     },
     {
+        "id": "F4D4D0AF-A57E-475A-8596-D30A27DE8EE3",
+        "baseIconId": "F4D4D0AF-A57E-475A-8596-D30A27DE8EE3",
+        "name": "progress-tag",
+        "codepoint": "F1D0D",
+        "aliases": [],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "699B5A10-1C4C-448C-A3F4-36A3CACD82EA",
         "baseIconId": "699B5A10-1C4C-448C-A3F4-36A3CACD82EA",
         "name": "progress-upload",
@@ -96987,7 +98173,8 @@
             "local-dining",
             "restaurant-menu",
             "local-restaurant",
-            "cutlery"
+            "cutlery",
+            "utensils"
         ],
         "styles": [],
         "version": "1.5.54",
@@ -103245,6 +104432,20 @@
             "Arrow"
         ],
         "author": "Michael Irigoyen"
+    },
+    {
+        "id": "48B50BA6-7F60-49CC-A181-3E07607E9F4B",
+        "baseIconId": "D1E543C5-6ECA-43AA-B04D-438319BC5562",
+        "name": "swap-horizontal-hidden",
+        "codepoint": "F1D0E",
+        "aliases": [],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Arrow"
+        ],
+        "author": "Jeff Anders"
     },
     {
         "id": "23A48C18-9950-436D-9948-29EE7EE13054",
@@ -111569,6 +112770,24 @@
         "author": "Simran"
     },
     {
+        "id": "8A71EDC4-CA3C-450D-BD59-5915ADCDF9D4",
+        "baseIconId": "8A71EDC4-CA3C-450D-BD59-5915ADCDF9D4",
+        "name": "underwear-outline",
+        "codepoint": "F1D0F",
+        "aliases": [
+            "briefs-outline"
+        ],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Clothing"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "C9D6F6DE-E9F7-4AC9-B9F1-41160A4C2B0E",
         "baseIconId": "C9D6F6DE-E9F7-4AC9-B9F1-41160A4C2B0E",
         "name": "undo",
@@ -111798,6 +113017,65 @@
         "author": "Google"
     },
     {
+        "id": "CB709FD4-AB36-4A2E-BBBF-1EF20284F723",
+        "baseIconId": "08F8FCE9-67A0-4696-9B83-0B1F11EA959E",
+        "name": "upload-box",
+        "codepoint": "F1D10",
+        "aliases": [],
+        "styles": [
+            "box"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "D10BDD69-ACE3-4540-B224-EF52A45B1E99",
+        "baseIconId": "08F8FCE9-67A0-4696-9B83-0B1F11EA959E",
+        "name": "upload-box-outline",
+        "codepoint": "F1D11",
+        "aliases": [],
+        "styles": [
+            "box",
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "43E0329D-4E25-4E9B-AFCD-22EC47EEC2C5",
+        "baseIconId": "08F8FCE9-67A0-4696-9B83-0B1F11EA959E",
+        "name": "upload-circle",
+        "codepoint": "F1D12",
+        "aliases": [],
+        "styles": [
+            "circle"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "C06FD974-BAA7-4B63-9805-20AF826D94CD",
+        "baseIconId": "08F8FCE9-67A0-4696-9B83-0B1F11EA959E",
+        "name": "upload-circle-outline",
+        "codepoint": "F1D13",
+        "aliases": [],
+        "styles": [
+            "outline"
+        ],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Files \/ Folders"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
         "id": "961ECD2E-2849-42C0-909A-5431B0273DA0",
         "baseIconId": "08F8FCE9-67A0-4696-9B83-0B1F11EA959E",
         "name": "upload-lock",
@@ -111845,6 +113123,18 @@
         "deprecated": false,
         "tags": [],
         "author": "Michael Richins"
+    },
+    {
+        "id": "210F5799-334B-49ED-A906-F9C9C2239C62",
+        "baseIconId": "08F8FCE9-67A0-4696-9B83-0B1F11EA959E",
+        "name": "upload-multiple-outline",
+        "codepoint": "F1D14",
+        "aliases": [],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [],
+        "author": "Jeff Anders"
     },
     {
         "id": "B473675B-DF1E-4450-B85E-786B483C9FA4",
@@ -116081,6 +117371,50 @@
             "Weather"
         ],
         "author": "Austin Andrews"
+    },
+    {
+        "id": "CDF0000C-8FE4-427A-843A-0833A9F2B099",
+        "baseIconId": "5EF29669-A342-46D1-AE1B-47917E44311D",
+        "name": "weather-moonset",
+        "codepoint": "F1D15",
+        "aliases": [],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Weather"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "1C42039C-3DC0-4D35-8E2B-C82F736F87CE",
+        "baseIconId": "5EF29669-A342-46D1-AE1B-47917E44311D",
+        "name": "weather-moonset-down",
+        "codepoint": "F1D16",
+        "aliases": [],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Weather"
+        ],
+        "author": "Jeff Anders"
+    },
+    {
+        "id": "EC4BEC65-5A80-4123-BC47-A4E95524DCDD",
+        "baseIconId": "5EF29669-A342-46D1-AE1B-47917E44311D",
+        "name": "weather-moonset-up",
+        "codepoint": "F1D17",
+        "aliases": [
+            "moonrise"
+        ],
+        "styles": [],
+        "version": "7.4.47",
+        "deprecated": false,
+        "tags": [
+            "Weather"
+        ],
+        "author": "Jeff Anders"
     },
     {
         "id": "1C3BA3AB-E86E-481B-A3C2-867B37A6E55A",
