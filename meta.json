@@ -119384,7 +119384,9 @@
         ],
         "version": "7.0.96",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Hardware \/ Tools"
+        ],
         "author": "Andrej Sharapov"
     },
     {
