@@ -119438,7 +119438,8 @@
         "version": "7.0.96",
         "deprecated": false,
         "tags": [
-            "Date \/ Time"
+            "Date \/ Time",
+            "Hardware \/ Tools"
         ],
         "author": "Michael Irigoyen"
     },
