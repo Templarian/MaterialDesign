@@ -119457,7 +119457,8 @@
         "version": "7.0.96",
         "deprecated": false,
         "tags": [
-            "Settings"
+            "Settings",
+            "Hardware \/ Tools"
         ],
         "author": "Andrej Sharapov"
     },
