@@ -31622,7 +31622,8 @@
             "multiply-circle-outline",
             "remove-circle-outline",
             "clear-circle-outline",
-            "cancel-circle-outline"
+            "cancel-circle-outline",
+            "cross-circle-outline"
         ],
         "styles": [],
         "version": "1.5.54",
