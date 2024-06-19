@@ -31441,7 +31441,8 @@
             "multiply",
             "remove",
             "cancel",
-            "times"
+            "times",
+            "cross"
         ],
         "styles": [],
         "version": "1.5.54",
