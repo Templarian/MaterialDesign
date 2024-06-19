@@ -31553,7 +31553,8 @@
             "remove-circle",
             "cancel-circle",
             "multiply-circle",
-            "clear-circle"
+            "clear-circle",
+            "cross-circle"
         ],
         "styles": [],
         "version": "1.5.54",
