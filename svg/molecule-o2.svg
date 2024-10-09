@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="mdi-molecule-co2"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="molecule-o2.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="22.627417"
+     inkscape:cx="13.346641"
+     inkscape:cy="3.6460194"
+     inkscape:window-width="1920"
+     inkscape:window-height="1147"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="mdi-molecule-co2"
+     showguides="true">
+    <sodipodi:guide
+       position="0,24"
+       orientation="0,24"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="24,24"
+       orientation="24,0"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="24,0"
+       orientation="0,-24"
+       id="guide4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-24,0"
+       id="guide5"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11.991817,27.461923"
+       orientation="1,0"
+       id="guide6"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0.28125,12"
+       orientation="0,-1"
+       id="guide7"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     transform="translate(-2.9979543,0.34170324)">
+    <path
+       d="M 11,7 C 9.8954305,7 9,7.8954305 9,9 v 6 c 0,1.104569 0.8954305,2 2,2 h 2 c 1.104569,0 2,-0.895431 2,-2 V 9 C 15,7.8954305 14.104569,7 13,7 h -2 m 0,2 h 2 v 6 H 11 V 9 m 5,1.5 V 12 h 3 v 1.5 H 17.5 C 16.671573,13.5 16,14.171573 16,15 v 3 h 4.5 v -1.5 h -3 V 15 H 19 c 0.828427,0 1.5,-0.671573 1.5,-1.5 V 12 c 0,-0.828427 -0.671573,-1.5 -1.5,-1.5 z"
+       id="path1"
+       sodipodi:nodetypes="csssssssccccccccccsscccccssssc" />
+  </g>
+</svg>
