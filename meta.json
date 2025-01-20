@@ -26822,7 +26822,8 @@
         "name": "charity",
         "codepoint": "F0C4F",
         "aliases": [
-            "super-chat-for-good"
+            "super-chat-for-good",
+            "non-profit"
         ],
         "styles": [],
         "version": "3.2.89",
