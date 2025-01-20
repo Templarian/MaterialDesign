@@ -2947,7 +2947,6 @@
         "name": "airplane-check",
         "codepoint": "F187B",
         "aliases": [
-            "airplace-success",
             "airplane-tick"
         ],
         "styles": [
